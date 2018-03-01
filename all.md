@@ -10,7 +10,7 @@ The table below lists all polls registered and analyzed so far.
 | [15–24 January 2018](2018-01-24-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 28–33% <br> 7–9 | 3–5% <br> 0–1 | 2–4% <br> 0 | 11–15% <br> 2–4 | 6–10% <br> 1–2 | 4–6% <br> 0–1 | 10–14% <br> 2–3 | 1–2% <br> 0 | 11–15% <br> 2–4 | 1–2% <br> 0 | 6–9% <br> 1–2 |
 | [2–17 December 2017](2017-12-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 32–39% <br> 8–10 | 3–6% <br> 0–1 | 3–6% <br> 0–1 | 8–12% <br> 2–3 | 6–10% <br> 1–2 | 5–8% <br> 0–2 | 9–14% <br> 2–3 | N/A <br> N/A | 9–14% <br> 2–3 | N/A <br> N/A | 5–8% <br> 0–2 |
 | [1–11 December 2017](2017-12-11-STEM.html) | STEM | 30–36% <br> 8–10 | 3–6% <br> 0–1 | 4–7% <br> 0–1 | 6–10% <br> 1–2 | 7–11% <br> 2 | 4–7% <br> 0–1 | 8–12% <br> 2–3 | N/A <br> N/A | 10–14% <br> 2–4 | 0–2% <br> 0 | 7–11% <br> 2–3 |
-| [4–24 November 2017](2017-11-24-TNSKantar.html) | TNS Kantar <br> Česká televize | 27–33% <br> 7–9 | 4–6% <br> 0–1 | 4–7% <br> 0–2 | 4–7% <br> 0–1 | 6–9% <br> 1–2 | 3–6% <br> 0–1 | 10–14% <br> 3–4 | N/A <br> N/A | 12–16% <br> 3–4 | 2–4% <br> 0 | 8–11% <br> 2–3 |
+| [4–24 November 2017](2017-11-24-TNSKantar.html) | TNS Kantar <br> Česká televize | 27–33% <br> 7–9 | 4–6% <br> 0–1 | 4–7% <br> 0–1 | 4–7% <br> 0–1 | 6–9% <br> 1–2 | 3–6% <br> 0–1 | 10–14% <br> 2–4 | N/A <br> N/A | 12–16% <br> 3–4 | 2–4% <br> 0 | 8–11% <br> 2–3 |
 | 24–25 May 2014 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
