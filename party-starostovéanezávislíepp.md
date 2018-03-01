@@ -55,8 +55,8 @@ Last result: **1** seats (General Election of 24–25 May 2014)
 | [1–8 February 2018](2018-02-08-STEM.html) | STEM | 0 | 0 | 0 | 0–1 | 0–1 |
 | [15–24 January 2018](2018-01-24-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0 | 0 | 0 | 0 |
 | [2–17 December 2017](2017-12-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–11 December 2017](2017-12-11-STEM.html) | STEM | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [4–24 November 2017](2017-11-24-TNSKantar.html) | TNS Kantar <br> Česká televize | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [1–11 December 2017](2017-12-11-STEM.html) | STEM | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–24 November 2017](2017-11-24-TNSKantar.html) | TNS Kantar <br> Česká televize | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Probability Mass Function
 
@@ -66,9 +66,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Median |
-| 1 | 29% | 29% | Last Result |
-| 2 | 0.9% | 0.9% |  |
+| 0 | 70% | 100% | Median |
+| 1 | 29% | 30% | Last Result |
+| 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
 

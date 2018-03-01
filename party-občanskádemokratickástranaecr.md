@@ -50,7 +50,7 @@ Last result: **2** seats (General Election of 24–25 May 2014)
 | [15–24 January 2018](2018-01-24-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [2–17 December 2017](2017-12-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [1–11 December 2017](2017-12-11-STEM.html) | STEM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [4–24 November 2017](2017-11-24-TNSKantar.html) | TNS Kantar <br> Česká televize | 3 | 3 | 3 | 3–4 | 2–4 |
+| [4–24 November 2017](2017-11-24-TNSKantar.html) | TNS Kantar <br> Česká televize | 3 | 3 | 3 | 2–4 | 2–4 |
 
 ### Probability Mass Function
 
