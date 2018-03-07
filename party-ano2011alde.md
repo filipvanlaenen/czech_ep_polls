@@ -60,9 +60,9 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 8–9 | 8–9 | 8–10 | 7–10 |
-| [3–23 February 2018](2018-02-23-TNSKantar.html) | TNS Kantar <br> Česká televize | 8 | 8 | 8 | 8 | 7–9 |
-| [15–21 February 2018](2018-02-21-SANEP.html) | SANEP | 8 | 8 | 8 | 8 | 8–9 |
+| N/A | [Poll Average](average.html) | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
+| [3–23 February 2018](2018-02-23-TNSKantar.html) | TNS Kantar <br> Česká televize | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
+| [15–21 February 2018](2018-02-21-SANEP.html) | SANEP | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [3–15 February 2018](2018-02-15-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [1–8 February 2018](2018-02-08-STEM.html) | STEM | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [15–24 January 2018](2018-01-24-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
@@ -81,10 +81,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.5% | 100% |  |
-| 8 | 68% | 99.5% | Median |
-| 9 | 27% | 32% |  |
-| 10 | 5% | 5% |  |
+| 7 | 0.8% | 100% |  |
+| 8 | 43% | 99.2% |  |
+| 9 | 48% | 56% | Median |
+| 10 | 8% | 8% |  |
 | 11 | 0% | 0% | Majority |
 
 
