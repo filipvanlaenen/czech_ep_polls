@@ -305,9 +305,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.8% | 100% |  |
-| 8 | 43% | 99.2% |  |
-| 9 | 48% | 56% | Median |
+| 7 | 0.9% | 100% |  |
+| 8 | 43% | 99.1% |  |
+| 9 | 49% | 56% | Median |
 | 10 | 8% | 8% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -319,8 +319,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 84% | 100% | Median |
-| 1 | 16% | 16% |  |
+| 0 | 85% | 100% | Median |
+| 1 | 15% | 15% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -332,8 +332,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 65% | 100% | Median |
-| 1 | 35% | 35% | Last Result |
+| 0 | 66% | 100% | Median |
+| 1 | 34% | 34% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Česká strana sociálně demokratická (S&D)
@@ -344,8 +344,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 27% | 100% |  |
-| 2 | 53% | 73% | Median |
+| 1 | 28% | 100% |  |
+| 2 | 52% | 72% | Median |
 | 3 | 19% | 20% |  |
 | 4 | 0.8% | 0.8% | Last Result |
 | 5 | 0% | 0% |  |
@@ -359,8 +359,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 40% | 99.9% |  |
-| 2 | 53% | 60% | Median |
+| 1 | 41% | 99.9% |  |
+| 2 | 52% | 59% | Median |
 | 3 | 7% | 7% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -372,8 +372,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 44% | 100% |  |
-| 1 | 56% | 56% | Median |
+| 0 | 43% | 100% |  |
+| 1 | 56% | 57% | Median |
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -385,8 +385,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 34% | 100% | Last Result |
-| 3 | 65% | 66% | Median |
+| 2 | 36% | 100% | Last Result |
+| 3 | 63% | 64% | Median |
 | 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 
@@ -411,8 +411,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 5% | 100% |  |
-| 3 | 84% | 95% | Median |
+| 2 | 3% | 100% |  |
+| 3 | 86% | 97% | Median |
 | 4 | 11% | 11% |  |
 | 5 | 0% | 0% |  |
 
@@ -436,8 +436,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.5% | 100% | Last Result |
 | 1 | 19% | 99.5% |  |
-| 2 | 66% | 81% | Median |
-| 3 | 15% | 15% |  |
+| 2 | 63% | 81% | Median |
+| 3 | 17% | 17% |  |
 | 4 | 0% | 0% |  |
 
 
@@ -465,9 +465,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.8% | 100% |  |
-| 8 | 43% | 99.2% |  |
-| 9 | 48% | 56% | Median |
+| 7 | 0.9% | 100% |  |
+| 8 | 43% | 99.1% |  |
+| 9 | 49% | 56% | Median |
 | 10 | 8% | 8% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -477,8 +477,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 5% | 100% |  |
-| 3 | 84% | 95% | Median |
+| 2 | 3% | 100% |  |
+| 3 | 86% | 97% | Median |
 | 4 | 11% | 11% |  |
 | 5 | 0% | 0% |  |
 
@@ -486,8 +486,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 34% | 100% | Last Result |
-| 3 | 65% | 66% | Median |
+| 2 | 36% | 100% | Last Result |
+| 3 | 63% | 64% | Median |
 | 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 
@@ -496,8 +496,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 40% | 99.9% |  |
-| 2 | 53% | 60% | Median |
+| 1 | 41% | 99.9% |  |
+| 2 | 52% | 59% | Median |
 | 3 | 7% | 7% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -507,16 +507,16 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.5% | 100% | Last Result |
 | 1 | 19% | 99.5% |  |
-| 2 | 66% | 81% | Median |
-| 3 | 15% | 15% |  |
+| 2 | 63% | 81% | Median |
+| 3 | 17% | 17% |  |
 | 4 | 0% | 0% |  |
 
 ### Česká strana sociálně demokratická (S&D)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 27% | 100% |  |
-| 2 | 53% | 73% | Median |
+| 1 | 28% | 100% |  |
+| 2 | 52% | 72% | Median |
 | 3 | 19% | 20% |  |
 | 4 | 0.8% | 0.8% | Last Result |
 | 5 | 0% | 0% |  |
@@ -527,8 +527,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 33% | 100% |  |
 | 1 | 32% | 67% | Median |
-| 2 | 31% | 35% |  |
-| 3 | 4% | 4% |  |
+| 2 | 32% | 35% |  |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
