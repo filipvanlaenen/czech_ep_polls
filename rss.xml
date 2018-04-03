@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 02 Apr 2018 17:19:16 +0200</pubDate>
+    <pubDate>Tue, 03 Apr 2018 12:26:06 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 3–15 March 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-03-15-Centrumprovýzkumveřejnéhomínění.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (ALDE): 7–9 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 3 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ENF): 1–2 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana svobodných občanů (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-03-15-Centrumprovýzkumveřejnéhomínění-seats.png"
+        length="223157"
+        type="image/png"/>
+      <pubDate>Tue, 03 Apr 2018 12:26:06 +0200</pubDate>
+      <dc:date>2018-04-03T12:26:06.582708+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 3–15 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-03-15-Centrumprovýzkumveřejnéhomínění.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-03-15-Centrumprovýzkumveřejnéhomínění-coalitions-seats.png"
+        length="161020"
+        type="image/png"/>
+      <pubDate>Tue, 03 Apr 2018 12:26:06 +0200</pubDate>
+      <dc:date>2018-04-03T12:26:06.582708+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 3–15 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-03-15-Centrumprovýzkumveřejnéhomínění.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-03-15-Centrumprovýzkumveřejnéhomínění.png"
         length="306407"
         type="image/png"/>
-      <pubDate>Mon, 02 Apr 2018 17:19:16 +0200</pubDate>
-      <dc:date>2018-04-02T17:19:16.142115+02:00</dc:date>
+      <pubDate>Tue, 03 Apr 2018 12:26:06 +0200</pubDate>
+      <dc:date>2018-04-03T12:26:06.582708+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS Kantar for Česká televize, 3–23 February 2018 – Seat Projections</title>
@@ -259,6 +279,6 @@
       <pubDate>Wed, 28 Feb 2018 21:28:02 +0100</pubDate>
       <dc:date>2018-02-28T21:28:02.104737+01:00</dc:date>
     </item>
-    <dc:date>2018-04-02T17:19:16.142115+02:00</dc:date>
+    <dc:date>2018-04-03T12:26:06.582708+02:00</dc:date>
   </channel>
 </rss>
