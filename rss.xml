@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 11 Apr 2018 19:47:02 +0200</pubDate>
+    <pubDate>Wed, 02 May 2018 08:29:52 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 7–19 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-04-19-Centrumprovýzkumveřejnéhomínění.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (ALDE): 26.4–31.7%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 11.7–15.7%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 10.7–14.5%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ENF): 6.1–9.2%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 8.4–12.0%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 9.7–13.5%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 5.2–8.1%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 3.4–5.9%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 2.1–4.1%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-04-19-Centrumprovýzkumveřejnéhomínění.png"
+        length="298824"
+        type="image/png"/>
+      <pubDate>Wed, 02 May 2018 08:29:52 +0200</pubDate>
+      <dc:date>2018-05-02T08:29:52.449367+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by TNS Kantar for Česká televize, 10–29 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-03-29-TNSKantar.html#seats</link>
@@ -339,6 +349,6 @@
       <pubDate>Wed, 28 Feb 2018 21:28:02 +0100</pubDate>
       <dc:date>2018-02-28T21:28:02.104737+01:00</dc:date>
     </item>
-    <dc:date>2018-04-11T19:47:02.699542+02:00</dc:date>
+    <dc:date>2018-05-02T08:29:52.449367+02:00</dc:date>
   </channel>
 </rss>
