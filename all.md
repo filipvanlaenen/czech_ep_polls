@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ANO | TOP 09 | STAN | ČSSD | KSČM | KDU–ČSL | ODS | SVOBODNÍ | Piráti | ZELENÍ | SPD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24–25 May 2014 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 |
+| [7–27 April 2018](2018-04-27-TNSKantar.html) | TNS Kantar <br> Česká televize | 28–34% <br> 7–9 | 3–5% <br> 0 | 4–7% <br> 0–1 | 5–8% <br> 1–2 | 6–10% <br> 1–2 | 4–7% <br> 0–1 | 12–17% <br> 3–4 | N/A <br> N/A | 12–17% <br> 3–4 | N/A <br> N/A | 6–10% <br> 1–2 |
 | [7–19 April 2018](2018-04-19-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 26–32% <br> 7–8 | 3–6% <br> 0–1 | 2–4% <br> 0 | 10–13% <br> 2–3 | 8–12% <br> 2–3 | 5–8% <br> 1–2 | 12–16% <br> 3–4 | N/A <br> N/A | 11–15% <br> 2–3 | 1–2% <br> 0 | 6–9% <br> 1–2 |
 | [10–29 March 2018](2018-03-29-TNSKantar.html) | TNS Kantar <br> Česká televize | 27–33% <br> 7–9 | 3–6% <br> 0–1 | 5–8% <br> 0–2 | 7–11% <br> 1–2 | 5–8% <br> 1–2 | 4–7% <br> 0–1 | 12–17% <br> 3–4 | N/A <br> N/A | 11–16% <br> 3–4 | 1–3% <br> 0 | 6–10% <br> 1–2 |
 | [22–28 March 2018](2018-03-28-SANEP.html) | SANEP | 29–33% <br> 7–9 | 3–5% <br> 0–1 | 4–6% <br> 0–1 | 6–8% <br> 1–2 | 6–8% <br> 1–2 | 5–6% <br> 0–1 | 11–14% <br> 2–3 | N/A <br> N/A | 12–14% <br> 3 | N/A <br> N/A | 10–13% <br> 2–3 |
