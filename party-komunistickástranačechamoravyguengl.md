@@ -58,7 +58,7 @@ Last result: **3** seats (General Election of 24–25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 0–3 |
 | [10 April–5 May 2018](2018-05-05-Median.html) | Median | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [15 November 2017–3 May 2018](2018-05-03-Median.html) | Median |  |  |  |  |  |
+| [15 November 2017–3 May 2018](2018-05-03-Median.html) | Median | 2 | 2 | 2 | 2 | 2 |
 | [19–29 April 2018](2018-04-29-STEM.html) | STEM | 2 | 2 | 2 | 2 | 2 |
 | [7–27 April 2018](2018-04-27-TNSKantar.html) | TNS Kantar <br> Česká televize | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–25 April 2018](2018-04-25-SANEP.html) | SANEP | 1 | 1 | 1 | 1 | 0–2 |
