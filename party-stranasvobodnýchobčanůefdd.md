@@ -10,8 +10,12 @@ Last result: **5.2%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.7–2.7% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.2% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
+| [10 April–5 May 2018](2018-05-05-Median.html) | Median | 1.0% | 0.7–1.4% | 0.6–1.6% | 0.6–1.7% | 0.4–2.0% |
+| [15 November 2017–3 May 2018](2018-05-03-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
+| [19–29 April 2018](2018-04-29-STEM.html) | STEM | 0.8% | 0.5–1.2% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [7–27 April 2018](2018-04-27-TNSKantar.html) | TNS Kantar <br> Česká televize | 0.0% | N/A | N/A | N/A | N/A |
+| [19–25 April 2018](2018-04-25-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
 | [7–19 April 2018](2018-04-19-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0.0% | N/A | N/A | N/A | N/A |
 | [10–29 March 2018](2018-03-29-TNSKantar.html) | TNS Kantar <br> Česká televize | 0.0% | N/A | N/A | N/A | N/A |
 | [22–28 March 2018](2018-03-28-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
@@ -31,10 +35,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 53% | 100% |  |
-| 1.5–2.5% | 45% | 47% | Median |
-| 2.5–3.5% | 1.2% | 1.2% |  |
+| 0.0–0.5% | 13% | 100% |  |
+| 0.5–1.5% | 85% | 87% | Median |
+| 1.5–2.5% | 2% | 2% |  |
+| 2.5–3.5% | 0% | 0% |  |
 | 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% | Last Result |
 
@@ -48,7 +52,11 @@ Last result: **1** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [10 April–5 May 2018](2018-05-05-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
+| [15 November 2017–3 May 2018](2018-05-03-Median.html) | Median |  |  |  |  |  |
+| [19–29 April 2018](2018-04-29-STEM.html) | STEM | 0 | 0 | 0 | 0 | 0 |
 | [7–27 April 2018](2018-04-27-TNSKantar.html) | TNS Kantar <br> Česká televize |  |  |  |  |  |
+| [19–25 April 2018](2018-04-25-SANEP.html) | SANEP |  |  |  |  |  |
 | [7–19 April 2018](2018-04-19-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění |  |  |  |  |  |
 | [10–29 March 2018](2018-03-29-TNSKantar.html) | TNS Kantar <br> Česká televize |  |  |  |  |  |
 | [22–28 March 2018](2018-03-28-SANEP.html) | SANEP |  |  |  |  |  |
