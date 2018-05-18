@@ -10,7 +10,7 @@ Last result: **16.0%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| N/A | [Poll Average](average.html) | 4.4% | 3.5–6.0% | 3.3–6.5% | 3.1–6.8% | 2.7–7.4% |
 | [10 April–5 May 2018](2018-05-05-Median.html) | Median | 6.0% | 5.2–6.9% | 5.0–7.2% | 4.8–7.4% | 4.4–7.9% |
 | [15 November 2017–3 May 2018](2018-05-03-Median.html) | Median | 5.4% | 5.1–5.9% | 5.0–6.0% | 4.9–6.1% | 4.7–6.3% |
 | [19–29 April 2018](2018-04-29-STEM.html) | STEM | 3.9% | 3.2–4.8% | 3.1–5.1% | 2.9–5.3% | 2.6–5.7% |
@@ -37,12 +37,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 14% | 99.8% |  |
-| 3.5–4.5% | 60% | 86% | Median |
-| 4.5–5.5% | 24% | 26% |  |
-| 5.5–6.5% | 2% | 2% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 2.5–3.5% | 11% | 99.8% |  |
+| 3.5–4.5% | 48% | 88% | Median |
+| 4.5–5.5% | 23% | 41% |  |
+| 5.5–6.5% | 13% | 17% |  |
+| 6.5–7.5% | 4% | 4% |  |
+| 7.5–8.5% | 0.3% | 0.4% |  |
 | 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
@@ -61,12 +61,12 @@ Last result: **3** seats (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10 April–5 May 2018](2018-05-05-Median.html) | Median | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [15 November 2017–3 May 2018](2018-05-03-Median.html) | Median | 1 | 1 | 1 | 1 | 0–1 |
-| [19–29 April 2018](2018-04-29-STEM.html) | STEM | 0 | 0 | 0 | 0 | 0 |
+| [19–29 April 2018](2018-04-29-STEM.html) | STEM | 0 | 0 | 0 | 0 | 0–1 |
 | [7–27 April 2018](2018-04-27-TNSKantar.html) | TNS Kantar <br> Česká televize | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [19–25 April 2018](2018-04-25-SANEP.html) | SANEP | 0 | 0 | 0 | 0–1 | 0–1 |
+| [19–25 April 2018](2018-04-25-SANEP.html) | SANEP | 0 | 0 | 0 | 0 | 0–1 |
 | [7–19 April 2018](2018-04-19-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–29 March 2018](2018-03-29-TNSKantar.html) | TNS Kantar <br> Česká televize | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–28 March 2018](2018-03-28-SANEP.html) | SANEP | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -88,9 +88,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Median |
-| 1 | 8% | 8% |  |
-| 2 | 0% | 0% |  |
+| 0 | 77% | 100% | Median |
+| 1 | 23% | 23% |  |
+| 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% | Last Result |
 
 
