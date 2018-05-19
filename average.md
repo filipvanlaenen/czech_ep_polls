@@ -305,8 +305,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 0.6% | 100% |  |
-| 7 | 42% | 99.4% |  |
-| 8 | 44% | 58% | Median |
+| 7 | 39% | 99.4% |  |
+| 8 | 46% | 60% | Median |
 | 9 | 13% | 14% |  |
 | 10 | 0.6% | 0.6% |  |
 | 11 | 0% | 0% | Majority |
@@ -332,8 +332,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 64% | 100% | Median |
-| 1 | 36% | 36% | Last Result |
+| 0 | 63% | 100% | Median |
+| 1 | 37% | 37% | Last Result |
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
@@ -347,7 +347,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% |  |
 | 1 | 47% | 99.6% |  |
-| 2 | 41% | 52% | Median |
+| 2 | 40% | 52% | Median |
 | 3 | 12% | 12% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -359,8 +359,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 23% | 100% |  |
-| 2 | 74% | 77% | Median |
+| 1 | 22% | 100% |  |
+| 2 | 75% | 78% | Median |
 | 3 | 3% | 3% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -372,8 +372,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 17% | 100% |  |
-| 1 | 79% | 83% | Median |
+| 0 | 19% | 100% |  |
+| 1 | 78% | 81% | Median |
 | 2 | 3% | 3% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -386,8 +386,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.4% | 100% | Last Result |
-| 3 | 69% | 99.6% | Median |
-| 4 | 31% | 31% |  |
+| 3 | 71% | 99.6% | Median |
+| 4 | 28% | 28% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -467,8 +467,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 0.6% | 100% |  |
-| 7 | 42% | 99.4% |  |
-| 8 | 44% | 58% | Median |
+| 7 | 39% | 99.4% |  |
+| 8 | 46% | 60% | Median |
 | 9 | 13% | 14% |  |
 | 10 | 0.6% | 0.6% |  |
 | 11 | 0% | 0% | Majority |
@@ -478,8 +478,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.4% | 100% | Last Result |
-| 3 | 69% | 99.6% | Median |
-| 4 | 31% | 31% |  |
+| 3 | 71% | 99.6% | Median |
+| 4 | 28% | 28% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -498,8 +498,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 23% | 100% |  |
-| 2 | 74% | 77% | Median |
+| 1 | 22% | 100% |  |
+| 2 | 75% | 78% | Median |
 | 3 | 3% | 3% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -520,7 +520,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% |  |
 | 1 | 47% | 99.6% |  |
-| 2 | 41% | 52% | Median |
+| 2 | 40% | 52% | Median |
 | 3 | 12% | 12% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -528,8 +528,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% |  |
-| 1 | 43% | 92% | Median |
+| 0 | 9% | 100% |  |
+| 1 | 43% | 91% | Median |
 | 2 | 44% | 49% |  |
 | 3 | 5% | 5% |  |
 | 4 | 0% | 0% |  |
