@@ -70,7 +70,7 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [10 April–5 May 2018](2018-05-05-Median.html) | Median | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
-| [15 November 2017–3 May 2018](2018-05-03-Median.html) | Median | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [15 November 2017–3 May 2018](2018-05-03-Median.html) | Median | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [19–29 April 2018](2018-04-29-STEM.html) | STEM | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [7–27 April 2018](2018-04-27-TNSKantar.html) | TNS Kantar <br> Česká televize | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [19–25 April 2018](2018-04-25-SANEP.html) | SANEP | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
@@ -98,8 +98,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 0.6% | 100% |  |
-| 7 | 42% | 99.4% |  |
-| 8 | 44% | 58% | Median |
+| 7 | 39% | 99.4% |  |
+| 8 | 46% | 60% | Median |
 | 9 | 13% | 14% |  |
 | 10 | 0.6% | 0.6% |  |
 | 11 | 0% | 0% | Majority |
