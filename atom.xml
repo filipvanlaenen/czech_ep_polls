@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/czech_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-06-09T15:22:22.466735+02:00</updated>
+  <updated>2018-06-09T19:07:43.315609+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>ANO 2011 (ALDE): 26.2–31.9%, 7–8 seats</li><li>Občanská demokratická strana (ECR): 11.1–15.2%, 3–4 seats</li><li>Česká pirátská strana (Greens/EFA): 9.2–13.1%, 2–3 seats</li><li>Svoboda a přímá demokracie (ENF): 6.1–9.3%, 1–2 seats</li><li>Komunistická strana Čech a Moravy (GUE/NGL): 8.8–12.6%, 2–3 seats</li><li>Česká strana sociálně demokratická (S&amp;D): 11.1–15.2%, 3–4 seats</li><li>Křesťanská a demokratická unie–Československá strana lidová (EPP): 4.2–7.0%, 0–1 seats</li><li>TOP 09 (EPP): 2.1–4.2%, 0 seats</li><li>Starostové a nezávislí (EPP): 3.4–5.9%, 0–1 seats</li><li>Strana svobodných občanů (EFDD): 0.5–1.8%, 0 seats</li><li>Strana zelených (Greens/EFA): 0.5–1.8%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/czech_ep_polls/2018-05-24-Centrumprovýzkumveřejnéhomínění.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 12–24 May 2018</title>
     <updated>2018-06-09T15:22:22.466735+02:00</updated>
     <dc:date>2018-06-09T15:22:22.466735+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>ANO 2011 (ALDE): 27.1–30.7%, 7–8 seats</li><li>Občanská demokratická strana (ECR): 12.5–15.2%, 3–4 seats</li><li>Česká pirátská strana (Greens/EFA): 12.6–15.3%, 3–4 seats</li><li>Svoboda a přímá demokracie (ENF): 11.0–13.6%, 3 seats</li><li>Komunistická strana Čech a Moravy (GUE/NGL): 5.9–7.8%, 1–2 seats</li><li>Česká strana sociálně demokratická (S&amp;D): 5.8–7.8%, 1–2 seats</li><li>Křesťanská a demokratická unie–Československá strana lidová (EPP): 4.7–6.5%, 0–1 seats</li><li>TOP 09 (EPP): 3.3–4.8%, 0 seats</li><li>Starostové a nezávislí (EPP): 4.3–6.0%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/czech_ep_polls/2018-05-23-SANEP.html</id>
+    <link href="https://filipvanlaenen.github.io/czech_ep_polls/2018-05-23-SANEP.html"/>
+    <title>Opinion Poll by SANEP, 17–23 May 2018</title>
+    <updated>2018-06-09T19:07:43.315609+02:00</updated>
+    <dc:date>2018-06-09T19:07:43.315609+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>ANO 2011 (ALDE): 28.0–33.1%, 7–9 seats</li><li>Občanská demokratická strana (ECR): 12.1–16.0%, 3–4 seats</li><li>Česká pirátská strana (Greens/EFA): 9.8–13.4%, 2–3 seats</li><li>Svoboda a přímá demokracie (ENF): 7.5–10.7%, 2 seats</li><li>Komunistická strana Čech a Moravy (GUE/NGL): 7.1–10.2%, 1–2 seats</li><li>Česká strana sociálně demokratická (S&amp;D): 6.6–9.7%, 1–2 seats</li><li>Křesťanská a demokratická unie–Československá strana lidová (EPP): 4.3–6.9%, 0–1 seats</li><li>TOP 09 (EPP): 4.8–7.4%, 0–1 seats</li><li>Starostové a nezávislí (EPP): 3.0–5.3%, 0–1 seats</li><li>Strana svobodných občanů (EFDD): 0.6–1.7%, 0 seats</li><li>Strana zelených (Greens/EFA): 0.9–2.3%, 0 seats</li></ul></div></content>
@@ -151,5 +159,5 @@
     <updated>2018-02-28T21:28:02.104737+01:00</updated>
     <dc:date>2018-02-28T21:28:02.104737+01:00</dc:date>
   </entry>
-  <dc:date>2018-06-09T15:22:22.466735+02:00</dc:date>
+  <dc:date>2018-06-09T19:07:43.315609+02:00</dc:date>
 </feed>
