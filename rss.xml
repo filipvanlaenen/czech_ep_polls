@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 09 Jun 2018 15:22:22 +0200</pubDate>
+    <pubDate>Sat, 09 Jun 2018 19:07:43 +0200</pubDate>
     <item>
       <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 12–24 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-05-24-Centrumprovýzkumveřejnéhomínění.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2018-06-09T15:22:22.466735+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by SANEP, 17–23 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-05-23-SANEP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (ALDE): 7–8 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ENF): 3 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-05-23-SANEP-seats.png"
+        length="205354"
+        type="image/png"/>
+      <pubDate>Sat, 09 Jun 2018 19:07:43 +0200</pubDate>
+      <dc:date>2018-06-09T19:07:43.315609+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SANEP, 17–23 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-05-23-SANEP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-05-23-SANEP-coalitions-seats.png"
+        length="163525"
+        type="image/png"/>
+      <pubDate>Sat, 09 Jun 2018 19:07:43 +0200</pubDate>
+      <dc:date>2018-06-09T19:07:43.315609+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SANEP, 17–23 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-05-23-SANEP.html</link>
       <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (ALDE): 27.1–30.7%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 12.5–15.2%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 12.6–15.3%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ENF): 11.0–13.6%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 5.9–7.8%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 5.8–7.8%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 4.7–6.5%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 3.3–4.8%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 4.3–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-05-23-SANEP.png"
         length="260273"
         type="image/png"/>
-      <pubDate>Thu, 07 Jun 2018 18:00:09 +0200</pubDate>
-      <dc:date>2018-06-07T18:00:09.579423+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 19:07:43 +0200</pubDate>
+      <dc:date>2018-06-09T19:07:43.315609+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Median, 10 April–5 May 2018 – Seat Projections for the Parties</title>
@@ -559,6 +579,6 @@
       <pubDate>Wed, 28 Feb 2018 21:28:02 +0100</pubDate>
       <dc:date>2018-02-28T21:28:02.104737+01:00</dc:date>
     </item>
-    <dc:date>2018-06-09T15:22:22.466735+02:00</dc:date>
+    <dc:date>2018-06-09T19:07:43.315609+02:00</dc:date>
   </channel>
 </rss>
