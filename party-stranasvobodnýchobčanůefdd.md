@@ -10,7 +10,10 @@ Last result: **5.2%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.7–2.6% | 0.6–2.9% | 0.5–3.1% | 0.4–3.5% |
+| [18–24 June 2018](2018-06-24-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 2.4% | 1.8–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
+| [7–13 June 2018](2018-06-13-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
+| [12 May–1 June 2018](2018-06-01-TNSKantar.html) | TNS Kantar <br> Česká televize | 0.0% | N/A | N/A | N/A | N/A |
 | [12–24 May 2018](2018-05-24-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [17–23 May 2018](2018-05-23-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
 | [10 April–5 May 2018](2018-05-05-Median.html) | Median | 1.0% | 0.7–1.4% | 0.6–1.6% | 0.6–1.7% | 0.4–2.0% |
@@ -37,11 +40,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 6% | 100% |  |
-| 0.5–1.5% | 89% | 94% | Median |
-| 1.5–2.5% | 5% | 5% |  |
-| 2.5–3.5% | 0% | 0% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 4% | 100% |  |
+| 0.5–1.5% | 67% | 96% | Median |
+| 1.5–2.5% | 19% | 29% |  |
+| 2.5–3.5% | 10% | 10% |  |
+| 3.5–4.5% | 0.5% | 0.5% |  |
 | 4.5–5.5% | 0% | 0% | Last Result |
 
 
@@ -54,6 +57,9 @@ Last result: **1** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18–24 June 2018](2018-06-24-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 0 | 0 | 0 | 0 | 0 |
+| [7–13 June 2018](2018-06-13-SANEP.html) | SANEP |  |  |  |  |  |
+| [12 May–1 June 2018](2018-06-01-TNSKantar.html) | TNS Kantar <br> Česká televize |  |  |  |  |  |
 | [12–24 May 2018](2018-05-24-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0 | 0 | 0 | 0 |
 | [17–23 May 2018](2018-05-23-SANEP.html) | SANEP |  |  |  |  |  |
 | [10 April–5 May 2018](2018-05-05-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |

@@ -10,7 +10,10 @@ Last result: **14.2%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.3% | 6.1–13.0% | 5.8–13.8% | 5.6–14.3% | 5.1–15.2% |
+| N/A | [Poll Average](average.html) | 7.2% | 5.9–12.8% | 5.6–13.6% | 5.3–14.2% | 4.7–15.1% |
+| [18–24 June 2018](2018-06-24-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
+| [7–13 June 2018](2018-06-13-SANEP.html) | SANEP | 6.8% | 6.2–7.5% | 6.0–7.7% | 5.9–7.9% | 5.6–8.2% |
+| [12 May–1 June 2018](2018-06-01-TNSKantar.html) | TNS Kantar <br> Česká televize | 7.0% | 6.1–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
 | [12–24 May 2018](2018-05-24-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 13.0% | 11.7–14.4% | 11.4–14.9% | 11.1–15.2% | 10.5–15.9% |
 | [17–23 May 2018](2018-05-23-SANEP.html) | SANEP | 6.7% | 6.1–7.4% | 5.9–7.6% | 5.8–7.8% | 5.5–8.1% |
 | [10 April–5 May 2018](2018-05-05-Median.html) | Median | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.7% | 6.2–10.2% |
@@ -37,18 +40,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 2% | 99.9% |  |
-| 5.5–6.5% | 20% | 98% |  |
-| 6.5–7.5% | 33% | 77% | Median |
-| 7.5–8.5% | 18% | 44% |  |
-| 8.5–9.5% | 6% | 26% |  |
-| 9.5–10.5% | 0.8% | 21% |  |
-| 10.5–11.5% | 1.4% | 20% |  |
-| 11.5–12.5% | 5% | 19% |  |
-| 12.5–13.5% | 7% | 14% |  |
-| 13.5–14.5% | 5% | 6% | Last Result |
-| 14.5–15.5% | 1.4% | 2% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.2% | 100% |  |
+| 4.5–5.5% | 4% | 99.8% |  |
+| 5.5–6.5% | 21% | 95% |  |
+| 6.5–7.5% | 34% | 74% | Median |
+| 7.5–8.5% | 18% | 40% |  |
+| 8.5–9.5% | 5% | 22% |  |
+| 9.5–10.5% | 0.7% | 17% |  |
+| 10.5–11.5% | 1.1% | 17% |  |
+| 11.5–12.5% | 4% | 15% |  |
+| 12.5–13.5% | 6% | 11% |  |
+| 13.5–14.5% | 4% | 5% | Last Result |
+| 14.5–15.5% | 1.2% | 1.4% |  |
 | 15.5–16.5% | 0.2% | 0.2% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
@@ -61,7 +65,10 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–3 | 1–3 | 1–3 | 1–4 |
+| N/A | [Poll Average](average.html) | 1 | 1–3 | 1–3 | 1–3 | 0–4 |
+| [18–24 June 2018](2018-06-24-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| [7–13 June 2018](2018-06-13-SANEP.html) | SANEP | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [12 May–1 June 2018](2018-06-01-TNSKantar.html) | TNS Kantar <br> Česká televize | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–24 May 2018](2018-05-24-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 3 | 3 | 3–4 | 2–4 |
 | [17–23 May 2018](2018-05-23-SANEP.html) | SANEP | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10 April–5 May 2018](2018-05-05-Median.html) | Median | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -90,11 +97,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% |  |
-| 1 | 54% | 99.6% | Median |
-| 2 | 26% | 46% |  |
-| 3 | 19% | 20% |  |
-| 4 | 0.6% | 0.6% | Last Result |
+| 0 | 1.0% | 100% |  |
+| 1 | 53% | 99.0% | Median |
+| 2 | 29% | 46% |  |
+| 3 | 16% | 17% |  |
+| 4 | 0.5% | 0.5% | Last Result |
 | 5 | 0% | 0% |  |
 
 
