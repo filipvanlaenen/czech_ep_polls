@@ -68,7 +68,7 @@ Last result: **3** seats (General Election of 24–25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–24 June 2018](2018-06-24-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 0 | 0 | 0 | 0 | 0–1 |
-| [7–13 June 2018](2018-06-13-SANEP.html) | SANEP | 0 | 0 | 0 | 0 | 0 |
+| [7–13 June 2018](2018-06-13-SANEP.html) | SANEP | 0 | 0 | 0 | 0 | 0–1 |
 | [12 May–1 June 2018](2018-06-01-TNSKantar.html) | TNS Kantar <br> Česká televize | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–24 May 2018](2018-05-24-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0 | 0 | 0 | 0 |
 | [17–23 May 2018](2018-05-23-SANEP.html) | SANEP | 0 | 0 | 0 | 0 | 0–1 |
