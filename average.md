@@ -311,8 +311,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 2% | 100% |  |
-| 7 | 41% | 98% |  |
-| 8 | 46% | 57% | Median |
+| 7 | 43% | 98% |  |
+| 8 | 44% | 55% | Median |
 | 9 | 11% | 11% |  |
 | 10 | 0.5% | 0.5% |  |
 | 11 | 0% | 0% | Majority |
@@ -366,8 +366,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 24% | 100% |  |
-| 2 | 63% | 76% | Median |
+| 1 | 20% | 100% |  |
+| 2 | 68% | 80% | Median |
 | 3 | 13% | 13% | Last Result |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
@@ -380,8 +380,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 43% | 100% |  |
-| 1 | 56% | 57% | Median |
+| 0 | 42% | 100% |  |
+| 1 | 58% | 58% | Median |
 | 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -394,8 +394,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.8% | 100% | Last Result |
-| 3 | 69% | 99.2% | Median |
-| 4 | 29% | 31% |  |
+| 3 | 66% | 99.2% | Median |
+| 4 | 31% | 33% |  |
 | 5 | 1.2% | 1.2% |  |
 | 6 | 0% | 0% |  |
 
@@ -421,8 +421,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 11% | 100% |  |
-| 3 | 57% | 89% | Median |
-| 4 | 32% | 32% |  |
+| 3 | 64% | 89% | Median |
+| 4 | 25% | 25% |  |
 | 5 | 0% | 0% |  |
 
 ### Strana zelených (Greens/EFA)
@@ -475,8 +475,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 2% | 100% |  |
-| 7 | 41% | 98% |  |
-| 8 | 46% | 57% | Median |
+| 7 | 43% | 98% |  |
+| 8 | 44% | 55% | Median |
 | 9 | 11% | 11% |  |
 | 10 | 0.5% | 0.5% |  |
 | 11 | 0% | 0% | Majority |
@@ -486,8 +486,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.8% | 100% | Last Result |
-| 3 | 69% | 99.2% | Median |
-| 4 | 29% | 31% |  |
+| 3 | 66% | 99.2% | Median |
+| 4 | 31% | 33% |  |
 | 5 | 1.2% | 1.2% |  |
 | 6 | 0% | 0% |  |
 
@@ -498,16 +498,16 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 11% | 100% |  |
-| 3 | 57% | 89% | Median |
-| 4 | 32% | 32% |  |
+| 3 | 64% | 89% | Median |
+| 4 | 25% | 25% |  |
 | 5 | 0% | 0% |  |
 
 ### Komunistická strana Čech a Moravy (GUE/NGL)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 24% | 100% |  |
-| 2 | 63% | 76% | Median |
+| 1 | 20% | 100% |  |
+| 2 | 68% | 80% | Median |
 | 3 | 13% | 13% | Last Result |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
@@ -538,9 +538,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 24% | 100% |  |
-| 1 | 42% | 76% | Median |
-| 2 | 31% | 34% |  |
+| 0 | 23% | 100% |  |
+| 1 | 41% | 77% | Median |
+| 2 | 32% | 35% |  |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% |  |
