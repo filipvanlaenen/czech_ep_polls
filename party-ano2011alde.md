@@ -73,10 +73,10 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [18–24 June 2018](2018-06-24-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [7–13 June 2018](2018-06-13-SANEP.html) | SANEP | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
-| [12 May–1 June 2018](2018-06-01-TNSKantar.html) | TNS Kantar <br> Česká televize | 7 | 7 | 6–8 | 6–8 | 6–8 |
+| [12 May–1 June 2018](2018-06-01-TNSKantar.html) | TNS Kantar <br> Česká televize | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [12–24 May 2018](2018-05-24-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 8 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [17–23 May 2018](2018-05-23-SANEP.html) | SANEP | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [10 April–5 May 2018](2018-05-05-Median.html) | Median | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
@@ -107,8 +107,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
-| 6 | 2% | 100% |  |
-| 7 | 43% | 98% |  |
+| 6 | 3% | 100% |  |
+| 7 | 42% | 97% |  |
 | 8 | 44% | 55% | Median |
 | 9 | 11% | 11% |  |
 | 10 | 0.5% | 0.5% |  |
