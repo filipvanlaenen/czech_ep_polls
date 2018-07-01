@@ -10,7 +10,8 @@ Last result: **16.1%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.0% | 26.7–32.7% | 26.1–33.7% | 25.6–34.4% | 24.6–35.7% |
+| N/A | [Poll Average](average.html) | 29.1% | 26.7–33.0% | 26.1–33.9% | 25.6–34.5% | 24.6–35.7% |
+| [25 May–26 June 2018](2018-06-26-Median.html) | Median | 31.5% | 29.7–33.3% | 29.2–33.8% | 28.8–34.2% | 28.0–35.1% |
 | [18–24 June 2018](2018-06-24-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 28.3% | 26.6–30.2% | 26.1–30.7% | 25.7–31.2% | 24.8–32.1% |
 | [7–13 June 2018](2018-06-13-SANEP.html) | SANEP | 28.2% | 27.0–29.4% | 26.7–29.8% | 26.4–30.1% | 25.9–30.6% |
 | [12 May–1 June 2018](2018-06-01-TNSKantar.html) | TNS Kantar <br> Česká televize | 27.0% | 25.4–28.7% | 25.0–29.2% | 24.6–29.6% | 23.8–30.4% |
@@ -51,14 +52,14 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 0.4% | 100% |  |
 | 24.5–25.5% | 2% | 99.5% |  |
 | 25.5–26.5% | 6% | 98% |  |
-| 26.5–27.5% | 14% | 91% |  |
-| 27.5–28.5% | 20% | 78% |  |
-| 28.5–29.5% | 18% | 58% | Median |
-| 29.5–30.5% | 13% | 40% |  |
-| 30.5–31.5% | 9% | 28% |  |
-| 31.5–32.5% | 7% | 18% |  |
-| 32.5–33.5% | 5% | 11% |  |
-| 33.5–34.5% | 4% | 6% |  |
+| 26.5–27.5% | 13% | 91% |  |
+| 27.5–28.5% | 19% | 78% |  |
+| 28.5–29.5% | 16% | 59% | Median |
+| 29.5–30.5% | 11% | 43% |  |
+| 30.5–31.5% | 9% | 32% |  |
+| 31.5–32.5% | 9% | 23% |  |
+| 32.5–33.5% | 7% | 14% |  |
+| 33.5–34.5% | 4% | 7% |  |
 | 34.5–35.5% | 2% | 2% |  |
 | 35.5–36.5% | 0.5% | 0.6% |  |
 | 36.5–37.5% | 0.1% | 0.1% |  |
@@ -74,6 +75,7 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
+| [25 May–26 June 2018](2018-06-26-Median.html) | Median | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
 | [18–24 June 2018](2018-06-24-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [7–13 June 2018](2018-06-13-SANEP.html) | SANEP | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [12 May–1 June 2018](2018-06-01-TNSKantar.html) | TNS Kantar <br> Česká televize | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
@@ -108,10 +110,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 3% | 100% |  |
-| 7 | 42% | 97% |  |
-| 8 | 44% | 55% | Median |
-| 9 | 11% | 11% |  |
-| 10 | 0.5% | 0.5% |  |
+| 7 | 34% | 97% |  |
+| 8 | 48% | 63% | Median |
+| 9 | 14% | 14% |  |
+| 10 | 0.6% | 0.6% |  |
 | 11 | 0% | 0% | Majority |
 
 
