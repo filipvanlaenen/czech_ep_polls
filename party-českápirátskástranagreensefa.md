@@ -10,9 +10,13 @@ Last result: **4.8%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.3% | 10.8–15.1% | 10.3–15.5% | 9.9–15.9% | 9.2–16.6% |
+| N/A | [Poll Average](average.html) | 12.0% | 9.7–14.5% | 9.2–14.9% | 8.9–15.2% | 8.3–15.9% |
+| [27 June–23 July 2018](2018-07-23-Median.html) | Median | 11.5% | 10.4–12.7% | 10.1–13.1% | 9.8–13.4% | 9.3–14.0% |
+| [16–29 June 2018](2018-06-29-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.4–12.0% | 7.8–12.7% |
+| [13–27 June 2018](2018-06-27-STEM.html) | STEM | 10.2% | 9.1–11.6% | 8.8–11.9% | 8.5–12.3% | 8.0–12.9% |
 | [25 May–26 June 2018](2018-06-26-Median.html) | Median | 11.5% | 10.3–12.8% | 10.0–13.2% | 9.8–13.5% | 9.2–14.1% |
 | [18–24 June 2018](2018-06-24-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.7% | 10.9–16.5% |
+| [2–22 June 2018](2018-06-22-TNSKantar.html) | TNS Kantar <br> Česká televize | 12.4% | 11.3–13.7% | 10.9–14.1% | 10.7–14.4% | 10.1–15.1% |
 | [7–13 June 2018](2018-06-13-SANEP.html) | SANEP | 14.2% | 13.3–15.2% | 13.1–15.4% | 12.9–15.7% | 12.4–16.1% |
 | [12 May–1 June 2018](2018-06-01-TNSKantar.html) | TNS Kantar <br> Česká televize | 14.5% | 13.3–15.9% | 12.9–16.3% | 12.6–16.6% | 12.0–17.3% |
 | [12–24 May 2018](2018-05-24-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
@@ -44,18 +48,17 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% | Last Result |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 1.1% | 99.9% |  |
-| 9.5–10.5% | 6% | 98.8% |  |
-| 10.5–11.5% | 13% | 93% |  |
-| 11.5–12.5% | 15% | 79% |  |
-| 12.5–13.5% | 19% | 64% | Median |
-| 13.5–14.5% | 25% | 45% |  |
-| 14.5–15.5% | 15% | 19% |  |
-| 15.5–16.5% | 4% | 4% |  |
-| 16.5–17.5% | 0.6% | 0.6% |  |
+| 7.5–8.5% | 1.1% | 100% |  |
+| 8.5–9.5% | 7% | 98.8% |  |
+| 9.5–10.5% | 16% | 91% |  |
+| 10.5–11.5% | 18% | 76% |  |
+| 11.5–12.5% | 17% | 58% | Median |
+| 12.5–13.5% | 16% | 41% |  |
+| 13.5–14.5% | 16% | 25% |  |
+| 14.5–15.5% | 7% | 9% |  |
+| 15.5–16.5% | 1.1% | 1.2% |  |
+| 16.5–17.5% | 0.1% | 0.1% |  |
 | 17.5–18.5% | 0% | 0% |  |
-| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -66,9 +69,13 @@ Last result: **0** seats (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [27 June–23 July 2018](2018-07-23-Median.html) | Median | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [16–29 June 2018](2018-06-29-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 2 | 2 | 2 | 2–3 | 2–3 |
+| [13–27 June 2018](2018-06-27-STEM.html) | STEM | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [25 May–26 June 2018](2018-06-26-Median.html) | Median | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [18–24 June 2018](2018-06-24-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [2–22 June 2018](2018-06-22-TNSKantar.html) | TNS Kantar <br> Česká televize | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [7–13 June 2018](2018-06-13-SANEP.html) | SANEP | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12 May–1 June 2018](2018-06-01-TNSKantar.html) | TNS Kantar <br> Česká televize | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12–24 May 2018](2018-05-24-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -101,9 +108,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 9% | 100% |  |
-| 3 | 68% | 91% | Median |
-| 4 | 23% | 23% |  |
+| 2 | 40% | 100% |  |
+| 3 | 46% | 60% | Median |
+| 4 | 14% | 14% |  |
 | 5 | 0% | 0% |  |
 
 
