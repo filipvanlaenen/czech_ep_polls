@@ -74,10 +74,10 @@ Last result: **0** seats (General Election of 24–25 May 2014)
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [27 June–23 July 2018](2018-07-23-Median.html) | Median | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [16–29 June 2018](2018-06-29-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [13–27 June 2018](2018-06-27-STEM.html) | STEM | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [13–27 June 2018](2018-06-27-STEM.html) | STEM | 2 | 2 | 2 | 1–2 | 1–2 |
 | [25 May–26 June 2018](2018-06-26-Median.html) | Median | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [18–24 June 2018](2018-06-24-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [2–22 June 2018](2018-06-22-TNSKantar.html) | TNS Kantar <br> Česká televize | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [2–22 June 2018](2018-06-22-TNSKantar.html) | TNS Kantar <br> Česká televize | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–13 June 2018](2018-06-13-SANEP.html) | SANEP | 3 | 3 | 3 | 3 | 2–4 |
 | [12 May–1 June 2018](2018-06-01-TNSKantar.html) | TNS Kantar <br> Česká televize | 2 | 2 | 2 | 2–3 | 1–3 |
 | [12–24 May 2018](2018-05-24-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -108,10 +108,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 16% | 99.9% |  |
-| 2 | 61% | 84% | Median |
-| 3 | 23% | 23% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 16% | 99.8% |  |
+| 2 | 60% | 84% | Median |
+| 3 | 24% | 24% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 

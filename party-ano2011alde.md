@@ -77,10 +77,10 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
+| N/A | [Poll Average](average.html) | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [27 June–23 July 2018](2018-07-23-Median.html) | Median | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
-| [16–29 June 2018](2018-06-29-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
-| [13–27 June 2018](2018-06-27-STEM.html) | STEM | 9 | 8–9 | 7–9 | 7–9 | 7–9 |
+| [16–29 June 2018](2018-06-29-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [13–27 June 2018](2018-06-27-STEM.html) | STEM | 8 | 8 | 8–9 | 7–9 | 7–9 |
 | [25 May–26 June 2018](2018-06-26-Median.html) | Median | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
 | [18–24 June 2018](2018-06-24-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [2–22 June 2018](2018-06-22-TNSKantar.html) | TNS Kantar <br> Česká televize | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
@@ -117,9 +117,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 0.5% | 100% |  |
-| 7 | 30% | 99.5% |  |
-| 8 | 52% | 69% | Median |
-| 9 | 17% | 17% |  |
+| 7 | 31% | 99.5% |  |
+| 8 | 63% | 68% | Median |
+| 9 | 5% | 5% |  |
 | 10 | 0% | 0% |  |
 
 

@@ -68,13 +68,13 @@ Last result: **2** seats (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [27 June–23 July 2018](2018-07-23-Median.html) | Median | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [16–29 June 2018](2018-06-29-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [13–27 June 2018](2018-06-27-STEM.html) | STEM | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [13–27 June 2018](2018-06-27-STEM.html) | STEM | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [25 May–26 June 2018](2018-06-26-Median.html) | Median | 3 | 3 | 3 | 2–4 | 2–4 |
 | [18–24 June 2018](2018-06-24-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
-| [2–22 June 2018](2018-06-22-TNSKantar.html) | TNS Kantar <br> Česká televize | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| [2–22 June 2018](2018-06-22-TNSKantar.html) | TNS Kantar <br> Česká televize | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [7–13 June 2018](2018-06-13-SANEP.html) | SANEP | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12 May–1 June 2018](2018-06-01-TNSKantar.html) | TNS Kantar <br> Česká televize | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [12–24 May 2018](2018-05-24-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 3 | 3–4 | 3–4 | 2–4 |
@@ -106,9 +106,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 1.0% | 100% | Last Result |
-| 3 | 64% | 99.0% | Median |
-| 4 | 34% | 35% |  |
-| 5 | 1.1% | 1.1% |  |
+| 3 | 65% | 99.0% | Median |
+| 4 | 34% | 34% |  |
+| 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
 

@@ -68,7 +68,7 @@ Last result: **3** seats (General Election of 24–25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [27 June–23 July 2018](2018-07-23-Median.html) | Median | 2 | 2 | 2 | 2 | 1–2 |
-| [16–29 June 2018](2018-06-29-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [16–29 June 2018](2018-06-29-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [13–27 June 2018](2018-06-27-STEM.html) | STEM | 2 | 2 | 2 | 2 | 1–3 |
 | [25 May–26 June 2018](2018-06-26-Median.html) | Median | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–24 June 2018](2018-06-24-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -103,9 +103,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 13% | 100% |  |
-| 2 | 65% | 87% | Median |
-| 3 | 22% | 22% | Last Result |
+| 1 | 11% | 100% |  |
+| 2 | 71% | 89% | Median |
+| 3 | 18% | 18% | Last Result |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
