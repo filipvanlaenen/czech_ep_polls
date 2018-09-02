@@ -11,6 +11,7 @@ Last result: **3.8%** (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.6% | 0.6–2.7% | 0.5–2.9% | 0.4–3.1% | 0.3–3.6% |
+| [9–15 August 2018](2018-08-15-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
 | [27 June–23 July 2018](2018-07-23-Median.html) | Median | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.8–3.6% | 1.6–3.9% |
 | [16–29 June 2018](2018-06-29-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.0% |
 | [13–27 June 2018](2018-06-27-STEM.html) | STEM | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
@@ -62,6 +63,7 @@ Last result: **0** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9–15 August 2018](2018-08-15-SANEP.html) | SANEP |  |  |  |  |  |
 | [27 June–23 July 2018](2018-07-23-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [16–29 June 2018](2018-06-29-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0 | 0 | 0 | 0 |
 | [13–27 June 2018](2018-06-27-STEM.html) | STEM | 0 | 0 | 0 | 0 | 0 |
