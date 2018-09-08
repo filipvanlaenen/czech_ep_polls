@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 02 Sep 2018 09:45:00 +0200</pubDate>
+    <pubDate>Sat, 08 Sep 2018 15:33:48 +0200</pubDate>
     <item>
       <title>Opinion Poll by SANEP, 9–15 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-08-15-SANEP.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-08-15-SANEP.png"
         length="267031"
         type="image/png"/>
-      <pubDate>Sun, 02 Sep 2018 09:45:00 +0200</pubDate>
-      <dc:date>2018-09-02T09:45:00.844614+02:00</dc:date>
+      <pubDate>Sat, 08 Sep 2018 15:33:48 +0200</pubDate>
+      <dc:date>2018-09-08T15:33:48.498688+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Median, 27 June–23 July 2018 – Seat Projections for the Parties</title>
@@ -829,6 +829,6 @@
       <pubDate>Wed, 28 Feb 2018 21:28:02 +0100</pubDate>
       <dc:date>2018-02-28T21:28:02.104737+01:00</dc:date>
     </item>
-    <dc:date>2018-09-02T09:45:00.844614+02:00</dc:date>
+    <dc:date>2018-09-08T15:33:48.498688+02:00</dc:date>
   </channel>
 </rss>
