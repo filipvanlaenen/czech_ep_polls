@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ANO | TOP 09 | STAN | ČSSD | KSČM | KDU–ČSL | ODS | SVOBODNÍ | Piráti | ZELENÍ | SPD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24–25 May 2014 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 26–34% <br> 7–9 | 3–6% <br> 0–1 | 2–6% <br> 0–1 | 5–12% <br> 1–3 | 6–12% <br> 1–3 | 4–7% <br> 0–2 | 11–17% <br> 3–4 | 1–3% <br> 0 | 9–15% <br> 2–4 | 0–3% <br> 0 | 6–14% <br> 1–4 |
-| [9–15 August 2018](2018-08-15-SANEP.html) | SANEP | 27–31% <br> 7–8 | 3–4% <br> 0 | 4–6% <br> 0–1 | 6–9% <br> 1–2 | 6–8% <br> 1–2 | 4–6% <br> 0–1 | 12–15% <br> 3–4 | N/A <br> N/A | 12–15% <br> 3–4 | N/A <br> N/A | 11–14% <br> 2–4 |
+| N/A | [Poll Average](average.html) | 26–34% <br> 7–9 | 3–6% <br> 0–1 | 2–6% <br> 0–1 | 5–12% <br> 1–3 | 6–12% <br> 1–3 | 4–7% <br> 0–1 | 11–17% <br> 3–4 | 1–3% <br> 0 | 9–15% <br> 2–4 | 0–3% <br> 0 | 6–14% <br> 1–3 |
+| [9–15 August 2018](2018-08-15-SANEP.html) | SANEP | 27–31% <br> 7–8 | 3–4% <br> 0 | 4–6% <br> 0–1 | 6–9% <br> 1–2 | 6–8% <br> 1–2 | 4–6% <br> 0–1 | 12–15% <br> 3–4 | N/A <br> N/A | 12–15% <br> 3–4 | N/A <br> N/A | 11–14% <br> 3–4 |
 | [27 June–23 July 2018](2018-07-23-Median.html) | Median | 28–33% <br> 7–9 | 4–6% <br> 0–1 | 3–5% <br> 0–1 | 7–10% <br> 1–2 | 7–10% <br> 2 | 4–7% <br> 0–1 | 12–16% <br> 2–4 | 1–2% <br> 0 | 10–13% <br> 2–3 | 2–4% <br> 0 | 7–10% <br> 1–2 |
 | [16–29 June 2018](2018-06-29-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 28–34% <br> 7–9 | 3–6% <br> 0–1 | 3–6% <br> 0–1 | 9–13% <br> 2–3 | 9–13% <br> 2–3 | 5–8% <br> 0–2 | 12–16% <br> 3–4 | N/A <br> N/A | 8–12% <br> 2–3 | 1–2% <br> 0 | 5–8% <br> 1–2 |
 | [13–27 June 2018](2018-06-27-STEM.html) | STEM | 29–35% <br> 7–9 | 4–6% <br> 0–1 | 2–4% <br> 0 | 6–10% <br> 1–2 | 7–11% <br> 2 | 5–8% <br> 1–2 | 13–18% <br> 3–4 | 1–3% <br> 0 | 9–12% <br> 2–3 | 0–1% <br> 0 | 7–11% <br> 1–2 |
