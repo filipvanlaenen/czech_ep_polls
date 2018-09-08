@@ -204,6 +204,8 @@
 
 ### ANO 2011 (ALDE)
 
+![Graph with seats probability mass function not yet produced](2018-05-24-Centrumprovýzkumveřejnéhomínění-coalitions-seats-pmf-ano.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
@@ -216,6 +218,8 @@
 
 ### Občanská demokratická strana (ECR)
 
+![Graph with seats probability mass function not yet produced](2018-05-24-Centrumprovýzkumveřejnéhomínění-coalitions-seats-pmf-ods.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 1.0% | 100% | Last Result |
@@ -224,6 +228,8 @@
 | 5 | 0% | 0% |  |
 
 ### Česká strana sociálně demokratická (S&D)
+
+![Graph with seats probability mass function not yet produced](2018-05-24-Centrumprovýzkumveřejnéhomínění-coalitions-seats-pmf-čssd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -234,6 +240,8 @@
 
 ### Komunistická strana Čech a Moravy (GUE/NGL)
 
+![Graph with seats probability mass function not yet produced](2018-05-24-Centrumprovýzkumveřejnéhomínění-coalitions-seats-pmf-ksčm.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 87% | 100% | Median |
@@ -241,6 +249,8 @@
 | 4 | 0% | 0% |  |
 
 ### Česká pirátská strana (Greens/EFA) – Strana zelených (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](2018-05-24-Centrumprovýzkumveřejnéhomínění-coalitions-seats-pmf-piráti–zelení.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -252,6 +262,8 @@
 
 ### Svoboda a přímá demokracie (ENF)
 
+![Graph with seats probability mass function not yet produced](2018-05-24-Centrumprovýzkumveřejnéhomínění-coalitions-seats-pmf-spd.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -260,6 +272,8 @@
 | 3 | 0% | 0% |  |
 
 ### Křesťanská a demokratická unie–Československá strana lidová (EPP) – Starostové a nezávislí (EPP) – TOP 09 (EPP)
+
+![Graph with seats probability mass function not yet produced](2018-05-24-Centrumprovýzkumveřejnéhomínění-coalitions-seats-pmf-kdu–čsl–stan–top09.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -273,6 +287,8 @@
 | 7 | 0% | 0% | Last Result |
 
 ### Strana svobodných občanů (EFDD)
+
+![Graph with seats probability mass function not yet produced](2018-05-24-Centrumprovýzkumveřejnéhomínění-coalitions-seats-pmf-svobodní.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

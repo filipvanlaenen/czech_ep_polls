@@ -197,6 +197,8 @@
 
 ### ANO 2011 (ALDE)
 
+![Graph with seats probability mass function not yet produced](2018-03-29-TNSKantar-coalitions-seats-pmf-ano.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
@@ -210,6 +212,8 @@
 
 ### Občanská demokratická strana (ECR)
 
+![Graph with seats probability mass function not yet produced](2018-03-29-TNSKantar-coalitions-seats-pmf-ods.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.2% | 100% | Last Result |
@@ -219,6 +223,8 @@
 | 6 | 0% | 0% |  |
 
 ### Česká pirátská strana (Greens/EFA) – Strana zelených (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](2018-03-29-TNSKantar-coalitions-seats-pmf-piráti–zelení.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -231,6 +237,8 @@
 | 6 | 0% | 0% |  |
 
 ### Starostové a nezávislí (EPP) – Křesťanská a demokratická unie–Československá strana lidová (EPP) – TOP 09 (EPP)
+
+![Graph with seats probability mass function not yet produced](2018-03-29-TNSKantar-coalitions-seats-pmf-stan–kdu–čsl–top09.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -245,6 +253,8 @@
 
 ### Komunistická strana Čech a Moravy (GUE/NGL)
 
+![Graph with seats probability mass function not yet produced](2018-03-29-TNSKantar-coalitions-seats-pmf-ksčm.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% |  |
@@ -253,6 +263,8 @@
 | 3 | 0% | 0% | Last Result |
 
 ### Svoboda a přímá demokracie (ENF)
+
+![Graph with seats probability mass function not yet produced](2018-03-29-TNSKantar-coalitions-seats-pmf-spd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -263,6 +275,8 @@
 | 4 | 0% | 0% |  |
 
 ### Česká strana sociálně demokratická (S&D)
+
+![Graph with seats probability mass function not yet produced](2018-03-29-TNSKantar-coalitions-seats-pmf-čssd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
