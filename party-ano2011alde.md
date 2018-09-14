@@ -83,7 +83,7 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 | N/A | [Poll Average](average.html) | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [25 July–28 August 2018](2018-08-28-Median.html) | Median | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [4–26 August 2018](2018-08-26-TNSKantar.html) | TNS Kantar | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [9–15 August 2018](2018-08-15-SANEP.html) | SANEP | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
+| [9–15 August 2018](2018-08-15-SANEP.html) | SANEP | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [27 June–23 July 2018](2018-07-23-Median.html) | Median | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [16–29 June 2018](2018-06-29-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [13–27 June 2018](2018-06-27-STEM.html) | STEM | 8 | 8 | 8–9 | 7–9 | 7–9 |
@@ -123,8 +123,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 3% | 100% |  |
-| 7 | 31% | 97% |  |
-| 8 | 59% | 66% | Median |
+| 7 | 29% | 97% |  |
+| 8 | 62% | 68% | Median |
 | 9 | 6% | 6% |  |
 | 10 | 0% | 0% |  |
 
