@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 14 Sep 2018 12:02:08 +0200</pubDate>
+    <pubDate>Sat, 15 Sep 2018 20:46:38 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Median, 25 July–28 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-08-28-Median.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (ALDE): 7–9 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ENF): 1–2 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Strana svobodných občanů (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-08-28-Median-seats.png"
+        length="282577"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 20:46:38 +0200</pubDate>
+      <dc:date>2018-09-15T20:46:38.764874+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median, 25 July–28 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-08-28-Median.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-08-28-Median-coalitions-seats.png"
+        length="214820"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 20:46:38 +0200</pubDate>
+      <dc:date>2018-09-15T20:46:38.764874+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Median, 25 July–28 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-08-28-Median.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-08-28-Median.png"
         length="314342"
         type="image/png"/>
-      <pubDate>Thu, 13 Sep 2018 22:40:30 +0200</pubDate>
-      <dc:date>2018-09-13T22:40:30.924228+02:00</dc:date>
+      <pubDate>Sat, 15 Sep 2018 20:46:38 +0200</pubDate>
+      <dc:date>2018-09-15T20:46:38.764874+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS Kantar, 4–26 August 2018 – Seat Projections for the Parties</title>
@@ -889,6 +909,6 @@
       <pubDate>Wed, 28 Feb 2018 21:28:02 +0100</pubDate>
       <dc:date>2018-02-28T21:28:02.104737+01:00</dc:date>
     </item>
-    <dc:date>2018-09-14T12:02:08.212891+02:00</dc:date>
+    <dc:date>2018-09-15T20:46:38.764874+02:00</dc:date>
   </channel>
 </rss>
