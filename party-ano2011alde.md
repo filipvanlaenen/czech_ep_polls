@@ -11,6 +11,8 @@ Last result: **16.1%** (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29.8% | 27.4–32.6% | 26.8–33.3% | 26.3–33.9% | 25.3–34.9% |
+| [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 30.0% | 28.2–31.9% | 27.7–32.4% | 27.3–32.9% | 26.4–33.8% |
+| [6–12 September 2018](2018-09-12-SANEP.html) | SANEP | 28.6% | 27.3–30.0% | 26.9–30.4% | 26.6–30.7% | 25.9–31.4% |
 | [25 July–28 August 2018](2018-08-28-Median.html) | Median | 30.9% | 29.1–32.7% | 28.6–33.3% | 28.1–33.7% | 27.3–34.6% |
 | [4–26 August 2018](2018-08-26-TNSKantar.html) | TNS Kantar | 28.0% | 26.4–29.7% | 25.9–30.2% | 25.5–30.6% | 24.8–31.4% |
 | [9–15 August 2018](2018-08-15-SANEP.html) | SANEP | 29.1% | 27.7–30.5% | 27.3–31.0% | 27.0–31.3% | 26.3–32.0% |
@@ -81,6 +83,8 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
+| [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
+| [6–12 September 2018](2018-09-12-SANEP.html) | SANEP | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [25 July–28 August 2018](2018-08-28-Median.html) | Median | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [4–26 August 2018](2018-08-26-TNSKantar.html) | TNS Kantar | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [9–15 August 2018](2018-08-15-SANEP.html) | SANEP | 8 | 7–8 | 7–8 | 7–8 | 6–9 |

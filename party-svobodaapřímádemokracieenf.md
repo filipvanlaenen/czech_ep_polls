@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.5% | 6.6–12.5% | 6.1–13.2% | 5.8–13.6% | 5.2–14.3% |
+| [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
+| [6–12 September 2018](2018-09-12-SANEP.html) | SANEP | 12.9% | 11.9–14.0% | 11.7–14.3% | 11.4–14.5% | 11.0–15.0% |
 | [25 July–28 August 2018](2018-08-28-Median.html) | Median | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.1–10.4% |
 | [4–26 August 2018](2018-08-26-TNSKantar.html) | TNS Kantar | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.7% | 6.2–10.2% |
 | [9–15 August 2018](2018-08-15-SANEP.html) | SANEP | 12.7% | 11.7–13.8% | 11.4–14.1% | 11.2–14.4% | 10.7–14.9% |
@@ -76,6 +78,8 @@ Last result: **0** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [6–12 September 2018](2018-09-12-SANEP.html) | SANEP | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [25 July–28 August 2018](2018-08-28-Median.html) | Median | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–26 August 2018](2018-08-26-TNSKantar.html) | TNS Kantar | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–15 August 2018](2018-08-15-SANEP.html) | SANEP | 3 | 3 | 3 | 3–4 | 2–4 |

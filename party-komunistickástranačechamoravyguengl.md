@@ -11,6 +11,8 @@ Last result: **11.0%** (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.1% | 7.0–11.2% | 6.7–11.7% | 6.4–12.1% | 5.9–12.8% |
+| [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 10.5% | 9.4–11.8% | 9.1–12.2% | 8.8–12.5% | 8.3–13.2% |
+| [6–12 September 2018](2018-09-12-SANEP.html) | SANEP | 7.4% | 6.6–8.2% | 6.4–8.4% | 6.2–8.6% | 5.9–9.1% |
 | [25 July–28 August 2018](2018-08-28-Median.html) | Median | 8.9% | 7.9–10.2% | 7.6–10.5% | 7.3–10.8% | 6.9–11.4% |
 | [4–26 August 2018](2018-08-26-TNSKantar.html) | TNS Kantar | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.7% | 6.2–10.2% |
 | [9–15 August 2018](2018-08-15-SANEP.html) | SANEP | 7.0% | 6.3–7.9% | 6.1–8.1% | 5.9–8.3% | 5.6–8.8% |
@@ -70,6 +72,8 @@ Last result: **3** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [6–12 September 2018](2018-09-12-SANEP.html) | SANEP | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25 July–28 August 2018](2018-08-28-Median.html) | Median | 2 | 2 | 2 | 1–2 | 1–3 |
 | [4–26 August 2018](2018-08-26-TNSKantar.html) | TNS Kantar | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–15 August 2018](2018-08-15-SANEP.html) | SANEP | 1 | 1–2 | 1–2 | 1–2 | 1–2 |

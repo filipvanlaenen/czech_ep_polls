@@ -11,6 +11,8 @@ Last result: **14.2%** (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.8% | 6.1–10.8% | 5.6–11.6% | 5.3–12.1% | 4.7–12.9% |
+| [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 12.0% | 10.7–13.4% | 10.4–13.7% | 10.1–14.1% | 9.6–14.8% |
+| [6–12 September 2018](2018-09-12-SANEP.html) | SANEP | 6.5% | 5.9–7.3% | 5.7–7.6% | 5.5–7.8% | 5.2–8.2% |
 | [25 July–28 August 2018](2018-08-28-Median.html) | Median | 8.5% | 7.4–9.6% | 7.1–10.0% | 6.9–10.3% | 6.5–10.9% |
 | [4–26 August 2018](2018-08-26-TNSKantar.html) | TNS Kantar | 7.0% | 6.1–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
 | [9–15 August 2018](2018-08-15-SANEP.html) | SANEP | 7.5% | 6.7–8.4% | 6.5–8.6% | 6.3–8.9% | 6.0–9.3% |
@@ -72,6 +74,8 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
+| [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [6–12 September 2018](2018-09-12-SANEP.html) | SANEP | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [25 July–28 August 2018](2018-08-28-Median.html) | Median | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [4–26 August 2018](2018-08-26-TNSKantar.html) | TNS Kantar | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–15 August 2018](2018-08-15-SANEP.html) | SANEP | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
