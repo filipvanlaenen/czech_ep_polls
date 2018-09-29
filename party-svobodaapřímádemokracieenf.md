@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.5% | 6.6–12.5% | 6.1–13.2% | 5.8–13.6% | 5.2–14.3% |
+| N/A | [Poll Average](average.html) | 8.5% | 5.3–12.7% | 4.7–13.3% | 4.4–13.8% | 3.9–14.5% |
 | [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
 | [6–12 September 2018](2018-09-12-SANEP.html) | SANEP | 12.9% | 11.9–14.0% | 11.7–14.3% | 11.4–14.5% | 11.0–15.0% |
 | [25 July–28 August 2018](2018-08-28-Median.html) | Median | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.1–10.4% |
@@ -53,19 +53,19 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 1.4% | 100% |  |
-| 5.5–6.5% | 8% | 98.6% |  |
-| 6.5–7.5% | 16% | 91% |  |
-| 7.5–8.5% | 25% | 75% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 4% | 99.9% |  |
+| 4.5–5.5% | 9% | 96% |  |
+| 5.5–6.5% | 5% | 87% |  |
+| 6.5–7.5% | 10% | 83% |  |
+| 7.5–8.5% | 23% | 73% |  |
 | 8.5–9.5% | 20% | 50% | Median |
 | 9.5–10.5% | 10% | 29% |  |
-| 10.5–11.5% | 4% | 20% |  |
-| 11.5–12.5% | 6% | 16% |  |
-| 12.5–13.5% | 7% | 10% |  |
-| 13.5–14.5% | 2% | 3% |  |
-| 14.5–15.5% | 0.2% | 0.2% |  |
+| 10.5–11.5% | 3% | 20% |  |
+| 11.5–12.5% | 5% | 17% |  |
+| 12.5–13.5% | 8% | 12% |  |
+| 13.5–14.5% | 3% | 4% |  |
+| 14.5–15.5% | 0.4% | 0.4% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -77,7 +77,7 @@ Last result: **0** seats (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 0–3 | 0–3 | 0–4 |
 | [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [6–12 September 2018](2018-09-12-SANEP.html) | SANEP | 3 | 3 | 3 | 3–4 | 2–4 |
 | [25 July–28 August 2018](2018-08-28-Median.html) | Median | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -119,11 +119,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 21% | 99.8% |  |
-| 2 | 57% | 79% | Median |
+| 0 | 7% | 100% | Last Result |
+| 1 | 16% | 93% |  |
+| 2 | 55% | 77% | Median |
 | 3 | 21% | 22% |  |
-| 4 | 0.5% | 0.5% |  |
+| 4 | 0.7% | 0.7% |  |
 | 5 | 0% | 0% |  |
 
 
