@@ -10,7 +10,8 @@ Last result: **3.8%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.6–2.3% | 0.5–2.5% | 0.4–2.7% | 0.3–3.1% |
+| N/A | [Poll Average](average.html) | 1.5% | 0.6–2.4% | 0.5–2.6% | 0.4–2.8% | 0.3–3.2% |
+| [1–21 September 2018](2018-09-21-TNSKantar.html) | TNS Kantar | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
 | [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.1% |
 | [6–12 September 2018](2018-09-12-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
 | [25 July–28 August 2018](2018-08-28-Median.html) | Median | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
@@ -50,10 +51,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 9% | 100% |  |
-| 0.5–1.5% | 52% | 91% | Median |
-| 1.5–2.5% | 35% | 39% |  |
-| 2.5–3.5% | 4% | 4% |  |
+| 0.0–0.5% | 7% | 100% |  |
+| 0.5–1.5% | 44% | 93% |  |
+| 1.5–2.5% | 43% | 49% | Median |
+| 2.5–3.5% | 6% | 6% |  |
 | 3.5–4.5% | 0.1% | 0.1% | Last Result |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -67,6 +68,7 @@ Last result: **0** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–21 September 2018](2018-09-21-TNSKantar.html) | TNS Kantar | 0 | 0 | 0 | 0 | 0 |
 | [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0 | 0 | 0 | 0 |
 | [6–12 September 2018](2018-09-12-SANEP.html) | SANEP |  |  |  |  |  |
 | [25 July–28 August 2018](2018-08-28-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |

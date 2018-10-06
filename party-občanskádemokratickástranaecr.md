@@ -11,6 +11,7 @@ Last result: **7.7%** (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.6% | 12.0–15.7% | 11.6–16.3% | 11.2–16.8% | 10.5–17.8% |
+| [1–21 September 2018](2018-09-21-TNSKantar.html) | TNS Kantar | 13.0% | 11.8–14.3% | 11.5–14.7% | 11.2–15.0% | 10.7–15.7% |
 | [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.2% | 11.4–17.0% |
 | [6–12 September 2018](2018-09-12-SANEP.html) | SANEP | 13.3% | 12.4–14.4% | 12.1–14.7% | 11.9–15.0% | 11.4–15.5% |
 | [25 July–28 August 2018](2018-08-28-Median.html) | Median | 14.0% | 12.7–15.4% | 12.3–15.8% | 12.0–16.2% | 11.4–16.9% |
@@ -74,6 +75,7 @@ Last result: **2** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [1–21 September 2018](2018-09-21-TNSKantar.html) | TNS Kantar | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [6–12 September 2018](2018-09-12-SANEP.html) | SANEP | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [25 July–28 August 2018](2018-08-28-Median.html) | Median | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -115,9 +117,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 1.5% | 100% | Last Result |
-| 3 | 76% | 98.5% | Median |
-| 4 | 22% | 22% |  |
+| 2 | 2% | 100% | Last Result |
+| 3 | 74% | 98% | Median |
+| 4 | 24% | 24% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
