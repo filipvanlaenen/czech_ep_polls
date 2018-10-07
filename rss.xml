@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 06 Oct 2018 12:56:17 +0200</pubDate>
+    <pubDate>Sun, 07 Oct 2018 17:13:18 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by TNS Kantar, 1–21 September 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-09-21-TNSKantar.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (ALDE): 7–9 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 3–5 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ENF): 2–3 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-09-21-TNSKantar-seats.png"
+        length="259784"
+        type="image/png"/>
+      <pubDate>Sun, 07 Oct 2018 17:13:18 +0200</pubDate>
+      <dc:date>2018-10-07T17:13:18.489544+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS Kantar, 1–21 September 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-09-21-TNSKantar.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-09-21-TNSKantar-coalitions-seats.png"
+        length="204597"
+        type="image/png"/>
+      <pubDate>Sun, 07 Oct 2018 17:13:18 +0200</pubDate>
+      <dc:date>2018-10-07T17:13:18.489544+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by TNS Kantar, 1–21 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-09-21-TNSKantar.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-09-21-TNSKantar.png"
         length="290911"
         type="image/png"/>
-      <pubDate>Sat, 06 Oct 2018 12:56:17 +0200</pubDate>
-      <dc:date>2018-10-06T12:56:17.421024+02:00</dc:date>
+      <pubDate>Sun, 07 Oct 2018 17:13:18 +0200</pubDate>
+      <dc:date>2018-10-07T17:13:18.489544+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 8–20 September 2018 – Seat Projections for the Parties</title>
@@ -979,6 +999,6 @@
       <pubDate>Wed, 28 Feb 2018 21:28:02 +0100</pubDate>
       <dc:date>2018-02-28T21:28:02.104737+01:00</dc:date>
     </item>
-    <dc:date>2018-10-06T12:56:17.421024+02:00</dc:date>
+    <dc:date>2018-10-07T17:13:18.489544+02:00</dc:date>
   </channel>
 </rss>
