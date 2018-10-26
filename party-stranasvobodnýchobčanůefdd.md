@@ -10,7 +10,10 @@ Last result: **5.2%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 0.9–2.7% | 0.8–2.9% | 0.7–3.1% | 0.5–3.6% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.5–1.7% | 0.4–2.0% | 0.3–2.1% | 0.2–2.5% |
+| [9–24 October 2018](2018-10-24-STEM.html) | STEM | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.2% | 0.2–1.4% |
+| [22 October 2018](2018-10-22-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
+| [1–10 October 2018](2018-10-10-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.6–1.8% | 0.5–2.1% |
 | [1–21 September 2018](2018-09-21-TNSKantar.html) | TNS Kantar | 0.0% | N/A | N/A | N/A | N/A |
 | [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.1% |
 | [6–12 September 2018](2018-09-12-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
@@ -51,11 +54,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.8% | 100% |  |
-| 0.5–1.5% | 39% | 99.2% |  |
-| 1.5–2.5% | 47% | 60% | Median |
-| 2.5–3.5% | 13% | 13% |  |
-| 3.5–4.5% | 0.5% | 0.5% |  |
+| 0.0–0.5% | 13% | 100% |  |
+| 0.5–1.5% | 69% | 87% | Median |
+| 1.5–2.5% | 17% | 18% |  |
+| 2.5–3.5% | 0.4% | 0.4% |  |
+| 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% | Last Result |
 
 
@@ -68,6 +71,9 @@ Last result: **1** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9–24 October 2018](2018-10-24-STEM.html) | STEM | 0 | 0 | 0 | 0 | 0 |
+| [22 October 2018](2018-10-22-SANEP.html) | SANEP |  |  |  |  |  |
+| [1–10 October 2018](2018-10-10-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 0 | 0 | 0 | 0 | 0 |
 | [1–21 September 2018](2018-09-21-TNSKantar.html) | TNS Kantar |  |  |  |  |  |
 | [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0 | 0 | 0 | 0 |
 | [6–12 September 2018](2018-09-12-SANEP.html) | SANEP |  |  |  |  |  |
