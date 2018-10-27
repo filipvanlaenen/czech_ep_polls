@@ -88,10 +88,10 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| [9–24 October 2018](2018-10-24-STEM.html) | STEM | 9 | 8–9 | 8–9 | 7–9 | 7–10 |
-| [22 October 2018](2018-10-22-SANEP.html) | SANEP | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
-| [1–10 October 2018](2018-10-10-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 7 | 7 | 6–7 | 6–7 | 6–7 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
+| [9–24 October 2018](2018-10-24-STEM.html) | STEM | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
+| [22 October 2018](2018-10-22-SANEP.html) | SANEP | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [1–10 October 2018](2018-10-10-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [1–21 September 2018](2018-09-21-TNSKantar.html) | TNS Kantar | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [6–12 September 2018](2018-09-12-SANEP.html) | SANEP | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
@@ -135,12 +135,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 0% | 100% |  |
-| 6 | 1.5% | 100% |  |
-| 7 | 38% | 98% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 6% | 99.9% |  |
+| 7 | 32% | 94% |  |
 | 8 | 45% | 61% | Median |
-| 9 | 15% | 16% |  |
-| 10 | 0.2% | 0.2% |  |
+| 9 | 16% | 17% |  |
+| 10 | 0.3% | 0.3% |  |
 | 11 | 0% | 0% | Majority |
 
 

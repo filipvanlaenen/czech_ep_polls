@@ -80,10 +80,10 @@ Last result: **0** seats (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
-| [9–24 October 2018](2018-10-24-STEM.html) | STEM | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| [9–24 October 2018](2018-10-24-STEM.html) | STEM | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [22 October 2018](2018-10-22-SANEP.html) | SANEP | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [1–10 October 2018](2018-10-10-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 3 | 3 | 3 | 3–4 | 3–4 |
+| [1–10 October 2018](2018-10-10-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–21 September 2018](2018-09-21-TNSKantar.html) | TNS Kantar | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [6–12 September 2018](2018-09-12-SANEP.html) | SANEP | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -128,10 +128,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 11% | 100% |  |
-| 3 | 60% | 89% | Median |
-| 4 | 27% | 29% |  |
-| 5 | 3% | 3% |  |
+| 2 | 9% | 100% |  |
+| 3 | 59% | 91% | Median |
+| 4 | 29% | 32% |  |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 

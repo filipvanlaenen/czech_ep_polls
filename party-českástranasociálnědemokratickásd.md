@@ -80,9 +80,9 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [9–24 October 2018](2018-10-24-STEM.html) | STEM | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [9–24 October 2018](2018-10-24-STEM.html) | STEM | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22 October 2018](2018-10-22-SANEP.html) | SANEP | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–10 October 2018](2018-10-10-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [1–10 October 2018](2018-10-10-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [1–21 September 2018](2018-09-21-TNSKantar.html) | TNS Kantar | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [6–12 September 2018](2018-09-12-SANEP.html) | SANEP | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -125,9 +125,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% |  |
-| 1 | 32% | 74% | Median |
-| 2 | 28% | 43% |  |
+| 0 | 16% | 100% |  |
+| 1 | 40% | 84% | Median |
+| 2 | 30% | 44% |  |
 | 3 | 14% | 15% |  |
 | 4 | 0.8% | 0.8% | Last Result |
 | 5 | 0% | 0% |  |
