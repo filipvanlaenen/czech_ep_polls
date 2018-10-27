@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 26 Oct 2018 19:13:54 +0200</pubDate>
+    <pubDate>Sat, 27 Oct 2018 10:06:27 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by STEM, 9–24 October 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-10-24-STEM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (ALDE): 8–9 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 2–4 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 2–4 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ENF): 2–3 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana svobodných občanů (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-10-24-STEM-seats.png"
+        length="269962"
+        type="image/png"/>
+      <pubDate>Fri, 26 Oct 2018 20:01:09 +0200</pubDate>
+      <dc:date>2018-10-26T20:01:09.615837+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by STEM, 9–24 October 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-10-24-STEM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-10-24-STEM-coalitions-seats.png"
+        length="201699"
+        type="image/png"/>
+      <pubDate>Fri, 26 Oct 2018 20:01:09 +0200</pubDate>
+      <dc:date>2018-10-26T20:01:09.615837+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by STEM, 9–24 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-10-24-STEM.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-10-24-STEM.png"
         length="308213"
         type="image/png"/>
-      <pubDate>Fri, 26 Oct 2018 19:13:54 +0200</pubDate>
-      <dc:date>2018-10-26T19:13:54.769859+02:00</dc:date>
+      <pubDate>Fri, 26 Oct 2018 20:01:09 +0200</pubDate>
+      <dc:date>2018-10-26T20:01:09.615837+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SANEP, 22 October 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-10-22-SANEP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (ALDE): 6–8 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 3–5 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ENF): 2–3 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-10-22-SANEP-seats.png"
+        length="257624"
+        type="image/png"/>
+      <pubDate>Fri, 26 Oct 2018 20:53:12 +0200</pubDate>
+      <dc:date>2018-10-26T20:53:12.292174+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SANEP, 22 October 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-10-22-SANEP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-10-22-SANEP-coalitions-seats.png"
+        length="203770"
+        type="image/png"/>
+      <pubDate>Fri, 26 Oct 2018 20:53:12 +0200</pubDate>
+      <dc:date>2018-10-26T20:53:12.292174+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SANEP, 22 October 2018 – Voting Intentions</title>
@@ -26,8 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-10-22-SANEP.png"
         length="278244"
         type="image/png"/>
-      <pubDate>Fri, 26 Oct 2018 19:05:16 +0200</pubDate>
-      <dc:date>2018-10-26T19:05:16.850415+02:00</dc:date>
+      <pubDate>Fri, 26 Oct 2018 20:53:12 +0200</pubDate>
+      <dc:date>2018-10-26T20:53:12.292174+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Phoenix Research for Blesk Zprávy, 1–10 October 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-10-10-PhoenixResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (ALDE): 6–7 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ENF): 1–2 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana svobodných občanů (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-10-10-PhoenixResearch-seats.png"
+        length="270320"
+        type="image/png"/>
+      <pubDate>Sat, 27 Oct 2018 10:06:27 +0200</pubDate>
+      <dc:date>2018-10-27T10:06:27.290259+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Phoenix Research for Blesk Zprávy, 1–10 October 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-10-10-PhoenixResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-10-10-PhoenixResearch-coalitions-seats.png"
+        length="217747"
+        type="image/png"/>
+      <pubDate>Sat, 27 Oct 2018 10:06:27 +0200</pubDate>
+      <dc:date>2018-10-27T10:06:27.290259+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Phoenix Research for Blesk Zprávy, 1–10 October 2018 – Voting Intentions</title>
@@ -36,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-10-10-PhoenixResearch.png"
         length="320521"
         type="image/png"/>
-      <pubDate>Fri, 26 Oct 2018 19:09:06 +0200</pubDate>
-      <dc:date>2018-10-26T19:09:06.301434+02:00</dc:date>
+      <pubDate>Sat, 27 Oct 2018 10:06:27 +0200</pubDate>
+      <dc:date>2018-10-27T10:06:27.290259+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS Kantar, 1–21 September 2018 – Seat Projections for the Parties</title>
@@ -1029,6 +1089,6 @@
       <pubDate>Wed, 28 Feb 2018 21:28:02 +0100</pubDate>
       <dc:date>2018-02-28T21:28:02.104737+01:00</dc:date>
     </item>
-    <dc:date>2018-10-26T19:13:54.769859+02:00</dc:date>
+    <dc:date>2018-10-27T10:06:27.290259+02:00</dc:date>
   </channel>
 </rss>
