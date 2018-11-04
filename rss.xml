@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 04 Nov 2018 11:18:52 +0100</pubDate>
+    <pubDate>Sun, 04 Nov 2018 12:39:53 +0100</pubDate>
     <item>
       <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 13–26 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-10-26-Centrumprovýzkumveřejnéhomínění.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-10-26-Centrumprovýzkumveřejnéhomínění.png"
         length="279404"
         type="image/png"/>
-      <pubDate>Sun, 04 Nov 2018 08:27:52 +0100</pubDate>
-      <dc:date>2018-11-04T08:27:52.629065+01:00</dc:date>
+      <pubDate>Sun, 04 Nov 2018 12:39:53 +0100</pubDate>
+      <dc:date>2018-11-04T12:39:53.512472+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Median, 25 September–25 October 2018 – Voting Intentions</title>
@@ -1109,6 +1109,6 @@
       <pubDate>Wed, 28 Feb 2018 21:28:02 +0100</pubDate>
       <dc:date>2018-02-28T21:28:02.104737+01:00</dc:date>
     </item>
-    <dc:date>2018-11-04T11:18:52.648075+01:00</dc:date>
+    <dc:date>2018-11-04T12:39:53.512472+01:00</dc:date>
   </channel>
 </rss>
