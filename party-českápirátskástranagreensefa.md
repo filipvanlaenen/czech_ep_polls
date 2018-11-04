@@ -10,7 +10,9 @@ Last result: **4.8%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.6% | 10.7–15.8% | 10.0–16.3% | 9.5–16.8% | 8.8–17.6% |
+| N/A | [Poll Average](average.html) | 13.3% | 11.0–15.8% | 10.5–16.3% | 10.1–16.8% | 9.3–17.6% |
+| [13–26 October 2018](2018-10-26-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 11.1% | 9.9–12.5% | 9.6–12.8% | 9.3–13.2% | 8.7–13.9% |
+| [25 September–25 October 2018](2018-10-25-Median.html) | Median | 12.0% | 10.9–13.4% | 10.5–13.8% | 10.2–14.1% | 9.7–14.8% |
 | [9–24 October 2018](2018-10-24-STEM.html) | STEM | 12.7% | 11.4–14.1% | 11.1–14.5% | 10.7–14.9% | 10.2–15.6% |
 | [22 October 2018](2018-10-22-SANEP.html) | SANEP | 14.7% | 13.4–16.0% | 13.1–16.4% | 12.8–16.8% | 12.2–17.5% |
 | [1–10 October 2018](2018-10-10-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 13.8% | 12.6–15.3% | 12.2–15.7% | 11.9–16.1% | 11.3–16.8% |
@@ -57,14 +59,14 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% | Last Result |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.2% | 100% |  |
-| 8.5–9.5% | 2% | 99.8% |  |
-| 9.5–10.5% | 6% | 97% |  |
-| 10.5–11.5% | 9% | 91% |  |
-| 11.5–12.5% | 13% | 82% |  |
-| 12.5–13.5% | 19% | 69% |  |
-| 13.5–14.5% | 21% | 50% | Median |
-| 14.5–15.5% | 17% | 30% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0.8% | 100% |  |
+| 9.5–10.5% | 5% | 99.1% |  |
+| 10.5–11.5% | 13% | 94% |  |
+| 11.5–12.5% | 17% | 82% |  |
+| 12.5–13.5% | 18% | 64% | Median |
+| 13.5–14.5% | 18% | 46% |  |
+| 14.5–15.5% | 16% | 29% |  |
 | 15.5–16.5% | 9% | 13% |  |
 | 16.5–17.5% | 3% | 4% |  |
 | 17.5–18.5% | 0.6% | 0.6% |  |
@@ -80,7 +82,9 @@ Last result: **0** seats (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| [13–26 October 2018](2018-10-26-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [25 September–25 October 2018](2018-10-25-Median.html) | Median | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–24 October 2018](2018-10-24-STEM.html) | STEM | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [22 October 2018](2018-10-22-SANEP.html) | SANEP | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [1–10 October 2018](2018-10-10-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -128,9 +132,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 9% | 100% |  |
-| 3 | 59% | 91% | Median |
-| 4 | 29% | 32% |  |
+| 2 | 15% | 100% |  |
+| 3 | 56% | 85% | Median |
+| 4 | 27% | 29% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
