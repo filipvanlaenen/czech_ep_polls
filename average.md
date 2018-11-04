@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24–25 May 2014 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 23–35% <br> 6–9 | 2–7% <br> 0–1 | 3–7% <br> 0–1 | 4–11% <br> 0–2 | 4–10% <br> 0–2 | 4–8% <br> 0–2 | 11–20% <br> 3–5 | 0–2% <br> 0 | 10–17% <br> 2–4 | 1–3% <br> 0 | 4–11% <br> 0–3 |
-| [13–26 October 2018](2018-10-26-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 27–33% <br> 7–9 | 2–4% <br> 0 | 3–5% <br> 0–1 | 7–11% <br> 2 | 7–11% <br> 1–2 | 6–9% <br> 1–2 | 17–22% <br> 4–5 | N/A <br> N/A | 9–13% <br> 2–3 | N/A <br> N/A | 4–7% <br> 0–1 |
+| [13–26 October 2018](2018-10-26-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 27–33% <br> 7–9 | 2–4% <br> 0 | 3–5% <br> 0–1 | 7–11% <br> 2–3 | 7–11% <br> 1–2 | 6–9% <br> 1–2 | 17–22% <br> 4–5 | N/A <br> N/A | 9–13% <br> 2–3 | N/A <br> N/A | 4–7% <br> 0–1 |
 | [25 September–25 October 2018](2018-10-25-Median.html) | Median | 26–31% <br> 6–8 | 4–7% <br> 0–1 | 4–7% <br> 0–2 | 8–11% <br> 2–3 | 7–10% <br> 1–2 | 4–6% <br> 0–1 | 10–14% <br> 2–3 | 1–2% <br> 0 | 10–14% <br> 2–3 | 1–2% <br> 0 | 7–11% <br> 2 |
 | [9–24 October 2018](2018-10-24-STEM.html) | STEM | 31–37% <br> 8–9 | 1–3% <br> 0 | 4–7% <br> 0–1 | 5–8% <br> 1–2 | 6–9% <br> 1–2 | 5–8% <br> 0–2 | 11–15% <br> 2–4 | 0–1% <br> 0 | 11–15% <br> 2–4 | 1–2% <br> 0 | 8–12% <br> 2–3 |
 | [22 October 2018](2018-10-22-SANEP.html) | SANEP | 25–30% <br> 6–8 | 5–7% <br> 0–2 | 4–7% <br> 0–1 | 4–6% <br> 0–1 | 5–8% <br> 1–2 | 4–7% <br> 0–1 | 14–18% <br> 3–5 | N/A <br> N/A | 13–17% <br> 3–4 | N/A <br> N/A | 8–11% <br> 2–3 |
@@ -314,8 +314,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% | Last Result |
 | 5 | 0.1% | 100% |  |
 | 6 | 9% | 99.9% |  |
-| 7 | 46% | 91% | Median |
-| 8 | 31% | 45% |  |
+| 7 | 45% | 91% | Median |
+| 8 | 32% | 45% |  |
 | 9 | 13% | 13% |  |
 | 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% | Majority |
@@ -341,8 +341,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 47% | 100% |  |
-| 1 | 51% | 53% | Last Result, Median |
+| 0 | 48% | 100% |  |
+| 1 | 51% | 52% | Last Result, Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
@@ -357,7 +357,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 16% | 100% |  |
 | 1 | 39% | 84% | Median |
 | 2 | 44% | 45% |  |
-| 3 | 1.1% | 1.1% |  |
+| 3 | 1.4% | 1.4% |  |
 | 4 | 0% | 0% | Last Result |
 
 ### Komunistická strana Čech a Moravy (GUE/NGL)
@@ -397,9 +397,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 2% | 100% | Last Result |
 | 3 | 47% | 98% |  |
-| 4 | 37% | 51% | Median |
+| 4 | 38% | 51% | Median |
 | 5 | 13% | 13% |  |
-| 6 | 0.3% | 0.3% |  |
+| 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
 ### Strana svobodných občanů (EFDD)
@@ -424,7 +424,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 13% | 100% |  |
-| 3 | 57% | 87% | Median |
+| 3 | 58% | 87% | Median |
 | 4 | 27% | 29% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
@@ -447,8 +447,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% | Last Result |
-| 1 | 16% | 94% |  |
+| 0 | 7% | 100% | Last Result |
+| 1 | 15% | 93% |  |
 | 2 | 73% | 78% | Median |
 | 3 | 5% | 5% |  |
 | 4 | 0% | 0% |  |
@@ -480,8 +480,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% | Last Result |
 | 5 | 0.1% | 100% |  |
 | 6 | 9% | 99.9% |  |
-| 7 | 46% | 91% | Median |
-| 8 | 31% | 45% |  |
+| 7 | 45% | 91% | Median |
+| 8 | 32% | 45% |  |
 | 9 | 13% | 13% |  |
 | 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% | Majority |
@@ -494,9 +494,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 2% | 100% | Last Result |
 | 3 | 47% | 98% |  |
-| 4 | 37% | 51% | Median |
+| 4 | 38% | 51% | Median |
 | 5 | 13% | 13% |  |
-| 6 | 0.3% | 0.3% |  |
+| 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
 ### Česká pirátská strana (Greens/EFA) – Strana zelených (Greens/EFA)
@@ -508,7 +508,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 13% | 100% |  |
-| 3 | 57% | 87% | Median |
+| 3 | 58% | 87% | Median |
 | 4 | 27% | 29% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
@@ -522,7 +522,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 4% | 100% |  |
 | 1 | 39% | 96% |  |
 | 2 | 35% | 57% | Median |
-| 3 | 21% | 22% |  |
+| 3 | 21% | 21% |  |
 | 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
@@ -534,8 +534,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% | Last Result |
-| 1 | 16% | 94% |  |
+| 0 | 7% | 100% | Last Result |
+| 1 | 15% | 93% |  |
 | 2 | 73% | 78% | Median |
 | 3 | 5% | 5% |  |
 | 4 | 0% | 0% |  |
@@ -561,7 +561,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 16% | 100% |  |
 | 1 | 39% | 84% | Median |
 | 2 | 44% | 45% |  |
-| 3 | 1.1% | 1.1% |  |
+| 3 | 1.4% | 1.4% |  |
 | 4 | 0% | 0% | Last Result |
 
 ### Strana svobodných občanů (EFDD)
@@ -578,5 +578,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 6
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,849,664
++ **Total number of simulations done in the polls included in this average:** 5,373,952
 + **Error estimate:** 2.62%
