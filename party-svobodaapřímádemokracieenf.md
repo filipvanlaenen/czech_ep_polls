@@ -83,7 +83,7 @@ Last result: **0** seats (General Election of 24–25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 0–3 | 0–3 | 0–3 |
 | [13–26 October 2018](2018-10-26-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [25 September–25 October 2018](2018-10-25-Median.html) | Median | 2 | 2 | 2 | 2 | 1–3 |
+| [25 September–25 October 2018](2018-10-25-Median.html) | Median | 2 | 2 | 2 | 2–3 | 1–3 |
 | [9–24 October 2018](2018-10-24-STEM.html) | STEM | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [22 October 2018](2018-10-22-SANEP.html) | SANEP | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [1–10 October 2018](2018-10-10-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
