@@ -78,7 +78,7 @@ Last result: **3** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [6–26 October 2018](2018-10-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [6–26 October 2018](2018-10-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [13–26 October 2018](2018-10-26-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [25 September–25 October 2018](2018-10-25-Median.html) | Median | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [9–24 October 2018](2018-10-24-STEM.html) | STEM | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -126,9 +126,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% |  |
-| 1 | 43% | 89% | Median |
-| 2 | 46% | 46% |  |
+| 0 | 10% | 100% |  |
+| 1 | 43% | 90% | Median |
+| 2 | 46% | 47% |  |
 | 3 | 0.3% | 0.3% | Last Result |
 | 4 | 0% | 0% |  |
 
