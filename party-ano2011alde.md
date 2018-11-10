@@ -10,7 +10,8 @@ Last result: **16.1%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.0% | 24.8–33.3% | 23.8–34.3% | 23.2–35.1% | 22.1–36.4% |
+| N/A | [Poll Average](average.html) | 28.2% | 24.7–33.2% | 23.8–34.3% | 23.2–35.1% | 22.1–36.4% |
+| [6–26 October 2018](2018-10-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 27.0% | 25.4–28.7% | 25.0–29.2% | 24.6–29.6% | 23.8–30.4% |
 | [13–26 October 2018](2018-10-26-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 30.2% | 28.3–32.1% | 27.8–32.6% | 27.4–33.1% | 26.6–34.0% |
 | [25 September–25 October 2018](2018-10-25-Median.html) | Median | 28.5% | 26.8–30.3% | 26.4–30.8% | 25.9–31.3% | 25.1–32.2% |
 | [9–24 October 2018](2018-10-24-STEM.html) | STEM | 33.5% | 31.7–35.5% | 31.1–36.0% | 30.7–36.5% | 29.8–37.4% |
@@ -65,15 +66,15 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0.9% | 99.8% |  |
 | 22.5–23.5% | 3% | 98.9% |  |
 | 23.5–24.5% | 5% | 96% |  |
-| 24.5–25.5% | 5% | 91% |  |
-| 25.5–26.5% | 6% | 86% |  |
-| 26.5–27.5% | 10% | 80% |  |
-| 27.5–28.5% | 14% | 70% |  |
-| 28.5–29.5% | 15% | 56% | Median |
-| 29.5–30.5% | 13% | 41% |  |
-| 30.5–31.5% | 9% | 28% |  |
-| 31.5–32.5% | 6% | 20% |  |
-| 32.5–33.5% | 5% | 14% |  |
+| 24.5–25.5% | 7% | 91% |  |
+| 25.5–26.5% | 10% | 84% |  |
+| 26.5–27.5% | 14% | 74% |  |
+| 27.5–28.5% | 15% | 60% | Median |
+| 28.5–29.5% | 12% | 46% |  |
+| 29.5–30.5% | 9% | 33% |  |
+| 30.5–31.5% | 6% | 25% |  |
+| 31.5–32.5% | 5% | 18% |  |
+| 32.5–33.5% | 5% | 13% |  |
 | 33.5–34.5% | 4% | 9% |  |
 | 34.5–35.5% | 3% | 4% |  |
 | 35.5–36.5% | 1.1% | 2% |  |
@@ -91,6 +92,7 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 7–9 | 6–9 | 6–9 | 6–9 |
+| [6–26 October 2018](2018-10-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [13–26 October 2018](2018-10-26-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [25 September–25 October 2018](2018-10-25-Median.html) | Median | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [9–24 October 2018](2018-10-24-STEM.html) | STEM | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
@@ -140,10 +142,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
 | 5 | 0.1% | 100% |  |
-| 6 | 7% | 99.9% |  |
-| 7 | 46% | 93% | Median |
-| 8 | 34% | 47% |  |
-| 9 | 13% | 13% |  |
+| 6 | 9% | 99.9% |  |
+| 7 | 56% | 91% | Median |
+| 8 | 25% | 35% |  |
+| 9 | 10% | 11% |  |
 | 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% | Majority |
 
