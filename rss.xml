@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 10 Nov 2018 12:53:28 +0100</pubDate>
+    <pubDate>Fri, 30 Nov 2018 19:51:55 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 3–15 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-11-15-Centrumprovýzkumveřejnéhomínění.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (ALDE): 26.9–32.3%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 12.5–16.7%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 12.1–16.2%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ENF): 6.1–9.2%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 8.3–11.9%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 7.4–10.8%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 3.8–6.4%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 3.0–5.3%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-11-15-Centrumprovýzkumveřejnéhomínění.png"
+        length="296412"
+        type="image/png"/>
+      <pubDate>Fri, 30 Nov 2018 18:56:24 +0100</pubDate>
+      <dc:date>2018-11-30T18:56:24.515021+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Phoenix Research, 20 October–7 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-11-07-PhoenixResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (ALDE): 22.3–27.6%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 12.7–17.1%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 11.2–15.4%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ENF): 6.3–9.6%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 4.3–7.1%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 3.9–6.6%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 2.2–4.4%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Strana svobodných občanů (EFDD): 0.2–1.1%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0.2–1.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-11-07-PhoenixResearch.png"
+        length="320848"
+        type="image/png"/>
+      <pubDate>Fri, 30 Nov 2018 19:51:55 +0100</pubDate>
+      <dc:date>2018-11-30T19:51:55.336713+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by TNS Kantar for Česká televize, 6–26 October 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-10-26-TNSKantar.html#seats</link>
@@ -1179,6 +1199,6 @@
       <pubDate>Wed, 28 Feb 2018 21:28:02 +0100</pubDate>
       <dc:date>2018-02-28T21:28:02.104737+01:00</dc:date>
     </item>
-    <dc:date>2018-11-10T12:53:28.126922+01:00</dc:date>
+    <dc:date>2018-11-30T19:51:55.336713+01:00</dc:date>
   </channel>
 </rss>
