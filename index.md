@@ -5,13 +5,13 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ANO | TOP 09 | STAN | ČSSD | KSČM | KDU–ČSL | ODS | SVOBODNÍ | Piráti | ZELENÍ | SPD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24–25 May 2014 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 23–35% <br> 6–9 | 2–7% <br> 0–1 | 3–8% <br> 0–2 | 4–11% <br> 0–2 | 4–10% <br> 0–2 | 4–8% <br> 0–2 | 11–20% <br> 2–5 | 0–2% <br> 0 | 10–17% <br> 2–4 | 1–3% <br> 0 | 4–11% <br> 0–3 |
+| N/A | [Poll Average](average.html) | 24–35% <br> 6–9 | 2–7% <br> 0–1 | 3–8% <br> 0–2 | 4–11% <br> 0–2 | 5–11% <br> 1–2 | 4–8% <br> 0–2 | 11–17% <br> 2–4 | 0–2% <br> 0 | 11–17% <br> 2–4 | 0–3% <br> 0 | 6–11% <br> 1–3 |
+| [3–15 November 2018](2018-11-15-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 27–32% <br> 7–9 | 2–4% <br> 0 | 3–5% <br> 0–1 | 7–11% <br> 2 | 8–12% <br> 2–3 | 4–6% <br> 0–1 | 13–17% <br> 3–4 | N/A <br> N/A | 12–16% <br> 3–4 | 1–2% <br> 0 | 6–9% <br> 1–2 |
+| [20 October–7 November 2018](2018-11-07-PhoenixResearch.html) | Phoenix Research | 22–28% <br> 6–7 | 2–4% <br> 0 | 3–5% <br> 0 | 4–7% <br> 0–1 | 4–7% <br> 0–1 | 4–7% <br> 0–1 | 13–17% <br> 3–4 | 0–1% <br> 0 | 11–15% <br> 3 | 0–1% <br> 0 | 6–10% <br> 2 |
 | [6–26 October 2018](2018-10-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 25–30% <br> 6–8 | 4–6% <br> 0–1 | 6–9% <br> 1–2 | 4–7% <br> 0–1 | 5–8% <br> 1–2 | 5–7% <br> 0–2 | 12–16% <br> 3–4 | N/A <br> N/A | 14–18% <br> 3–5 | 1–3% <br> 0 | 6–9% <br> 1–2 |
-| [13–26 October 2018](2018-10-26-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 27–33% <br> 7–9 | 2–4% <br> 0 | 3–5% <br> 0–1 | 7–11% <br> 2–3 | 7–11% <br> 1–2 | 6–9% <br> 1–2 | 17–22% <br> 4–5 | N/A <br> N/A | 9–13% <br> 2–3 | N/A <br> N/A | 4–7% <br> 0–1 |
 | [25 September–25 October 2018](2018-10-25-Median.html) | Median | 26–31% <br> 6–8 | 4–7% <br> 0–1 | 4–7% <br> 0–1 | 8–11% <br> 2–3 | 7–10% <br> 1–2 | 4–6% <br> 0–1 | 10–14% <br> 2–3 | 1–2% <br> 0 | 10–14% <br> 2–3 | 1–2% <br> 0 | 7–11% <br> 2–3 |
 | [9–24 October 2018](2018-10-24-STEM.html) | STEM | 31–37% <br> 8–9 | 1–3% <br> 0 | 4–7% <br> 0–1 | 5–8% <br> 1–2 | 6–9% <br> 1–2 | 5–8% <br> 0–2 | 11–15% <br> 2–4 | 0–1% <br> 0 | 11–15% <br> 2–4 | 1–2% <br> 0 | 8–12% <br> 2–3 |
 | [22 October 2018](2018-10-22-SANEP.html) | SANEP | 25–30% <br> 6–8 | 5–7% <br> 0–2 | 4–7% <br> 0–1 | 4–6% <br> 0–1 | 5–8% <br> 1–2 | 4–7% <br> 0–1 | 14–18% <br> 3–5 | N/A <br> N/A | 13–17% <br> 3–4 | N/A <br> N/A | 8–11% <br> 2–3 |
-| [1–10 October 2018](2018-10-10-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 22–27% <br> 6–7 | 2–4% <br> 0 | 3–6% <br> 0–1 | 4–7% <br> 0–1 | 4–7% <br> 0–1 | 4–7% <br> 0–1 | 13–17% <br> 3–4 | 1–2% <br> 0 | 12–16% <br> 3–4 | 1–2% <br> 0 | 6–9% <br> 1–2 |
 | 24–25 May 2014 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
