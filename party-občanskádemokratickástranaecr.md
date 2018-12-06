@@ -82,14 +82,14 @@ Last result: **2** seats (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | [3–15 November 2018](2018-11-15-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [20 October–7 November 2018](2018-11-07-PhoenixResearch.html) | Phoenix Research | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [6–26 October 2018](2018-10-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [13–26 October 2018](2018-10-26-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [25 September–25 October 2018](2018-10-25-Median.html) | Median | 3 | 3 | 2–3 | 2–3 | 2–4 |
-| [9–24 October 2018](2018-10-24-STEM.html) | STEM | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
-| [22 October 2018](2018-10-22-SANEP.html) | SANEP | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [25 September–25 October 2018](2018-10-25-Median.html) | Median | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [9–24 October 2018](2018-10-24-STEM.html) | STEM | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| [22 October 2018](2018-10-22-SANEP.html) | SANEP | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [1–10 October 2018](2018-10-10-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [1–21 September 2018](2018-09-21-TNSKantar.html) | TNS Kantar | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [8–20 September 2018](2018-09-20-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -133,10 +133,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 2% | 100% | Last Result |
-| 3 | 68% | 98% | Median |
-| 4 | 29% | 30% |  |
-| 5 | 0.8% | 0.8% |  |
+| 2 | 6% | 100% | Last Result |
+| 3 | 59% | 94% | Median |
+| 4 | 34% | 35% |  |
+| 5 | 1.2% | 1.2% |  |
 | 6 | 0% | 0% |  |
 
 

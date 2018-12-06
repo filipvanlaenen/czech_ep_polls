@@ -83,12 +83,12 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
-| [3–15 November 2018](2018-11-15-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 2 | 2 | 2 | 2 | 2–3 |
-| [20 October–7 November 2018](2018-11-07-PhoenixResearch.html) | Phoenix Research | 0 | 0 | 0 | 0–1 | 0–1 |
+| [3–15 November 2018](2018-11-15-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 2 | 2 | 2 | 2–3 | 1–3 |
+| [20 October–7 November 2018](2018-11-07-PhoenixResearch.html) | Phoenix Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–26 October 2018](2018-10-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–26 October 2018](2018-10-26-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 2 | 2 | 2 | 2–3 | 1–3 |
-| [25 September–25 October 2018](2018-10-25-Median.html) | Median | 2 | 2 | 2 | 2–3 | 1–3 |
-| [9–24 October 2018](2018-10-24-STEM.html) | STEM | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [25 September–25 October 2018](2018-10-25-Median.html) | Median | 2 | 2 | 2 | 2–3 | 2–3 |
+| [9–24 October 2018](2018-10-24-STEM.html) | STEM | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22 October 2018](2018-10-22-SANEP.html) | SANEP | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–10 October 2018](2018-10-10-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [1–21 September 2018](2018-09-21-TNSKantar.html) | TNS Kantar | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -133,10 +133,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 28% | 100% |  |
-| 1 | 37% | 72% | Median |
-| 2 | 33% | 34% |  |
-| 3 | 1.0% | 1.0% |  |
+| 0 | 23% | 100% |  |
+| 1 | 41% | 77% | Median |
+| 2 | 35% | 36% |  |
+| 3 | 1.1% | 1.1% |  |
 | 4 | 0% | 0% | Last Result |
 
 
