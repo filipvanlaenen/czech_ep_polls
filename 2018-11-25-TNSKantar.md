@@ -30,13 +30,13 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#ano-2011-(alde)">ANO 2011 (ALDE)</a> | 4 | 8 | 8–10 |8–10 |8–10 |7–10 |
+| <a href="#ano-2011-(alde)">ANO 2011 (ALDE)</a> | 4 | 9 | 8–9 |8–10 |8–10 |7–10 |
 | <a href="#česká-pirátská-strana-(*)">Česká pirátská strana (*)</a> | 0 | 5 | 4–5 |4–5 |4–6 |4–6 |
-| <a href="#občanská-demokratická-strana-(ecr)">Občanská demokratická strana (ECR)</a> | 2 | 4 | 4 |4–5 |3–5 |3–5 |
-| <a href="#komunistická-strana-čech-a-moravy-(gue/ngl)">Komunistická strana Čech a Moravy (GUE/NGL)</a> | 3 | 1 | 0–2 |0–2 |0–2 |0–2 |
+| <a href="#občanská-demokratická-strana-(ecr)">Občanská demokratická strana (ECR)</a> | 2 | 4 | 4 |3–5 |3–5 |3–5 |
+| <a href="#komunistická-strana-čech-a-moravy-(gue/ngl)">Komunistická strana Čech a Moravy (GUE/NGL)</a> | 3 | 1 | 1 |0–2 |0–2 |0–2 |
 | <a href="#svoboda-a-přímá-demokracie-(enf)">Svoboda a přímá demokracie (ENF)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–2 |
 | <a href="#starostové-a-nezávislí-(epp)">Starostové a nezávislí (EPP)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–2 |
-| <a href="#česká-strana-sociálně-demokratická-(s&d)">Česká strana sociálně demokratická (S&D)</a> | 4 | 1 | 0–1 |0–1 |0–1 |0–2 |
+| <a href="#česká-strana-sociálně-demokratická-(s&d)">Česká strana sociálně demokratická (S&D)</a> | 4 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#křesťanská-a-demokratická-unie–československá-strana-lidová-(epp)">Křesťanská a demokratická unie–Československá strana lidová (EPP)</a> | 3 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#top-09-(epp)">TOP 09 (EPP)</a> | 3 | 0 | 0–1 |0–1 |0–1 |0–1 |
 
@@ -50,12 +50,13 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
-| 6 | 0.1% | 100% |  |
-| 7 | 2% | 99.9% |  |
-| 8 | 57% | 98% | Median |
-| 9 | 30% | 41% |  |
-| 10 | 11% | 11% |  |
-| 11 | 0% | 0% | Majority |
+| 6 | 0% | 100% |  |
+| 7 | 2% | 100% |  |
+| 8 | 38% | 98% |  |
+| 9 | 50% | 60% | Median |
+| 10 | 9% | 10% |  |
+| 11 | 0.1% | 0.1% | Majority |
+| 12 | 0% | 0% |  |
 
 ### Česká pirátská strana (*)
 
@@ -69,9 +70,9 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 12% | 100% |  |
-| 5 | 85% | 88% | Median |
-| 6 | 3% | 3% |  |
+| 4 | 20% | 100% |  |
+| 5 | 75% | 80% | Median |
+| 6 | 5% | 5% |  |
 | 7 | 0% | 0% |  |
 
 ### Občanská demokratická strana (ECR)
@@ -83,9 +84,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 4% | 100% |  |
-| 4 | 87% | 96% | Median |
-| 5 | 9% | 9% |  |
+| 3 | 9% | 100% |  |
+| 4 | 84% | 91% | Median |
+| 5 | 8% | 8% |  |
 | 6 | 0% | 0% |  |
 
 ### Komunistická strana Čech a Moravy (GUE/NGL)
@@ -96,9 +97,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% |  |
-| 1 | 71% | 82% | Median |
-| 2 | 10% | 10% |  |
+| 0 | 10% | 100% |  |
+| 1 | 83% | 90% | Median |
+| 2 | 7% | 7% |  |
 | 3 | 0% | 0% | Last Result |
 
 ### Svoboda a přímá demokracie (ENF)
@@ -110,8 +111,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 19% | 100% | Last Result |
-| 1 | 80% | 81% | Median |
-| 2 | 1.5% | 1.5% |  |
+| 1 | 79% | 81% | Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 ### Starostové a nezávislí (EPP)
@@ -122,9 +123,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% |  |
-| 1 | 83% | 84% | Last Result, Median |
-| 2 | 1.0% | 1.0% |  |
+| 0 | 19% | 100% |  |
+| 1 | 78% | 81% | Last Result, Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 ### Česká strana sociálně demokratická (S&D)
@@ -135,9 +136,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 42% | 100% |  |
-| 1 | 57% | 58% | Median |
-| 2 | 0.7% | 0.7% |  |
+| 0 | 46% | 100% |  |
+| 1 | 53% | 54% | Median |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -149,8 +150,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Median |
-| 1 | 11% | 11% |  |
+| 0 | 84% | 100% | Median |
+| 1 | 16% | 16% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -162,8 +163,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Median |
-| 1 | 24% | 24% |  |
+| 0 | 83% | 100% | Median |
+| 1 | 17% | 17% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -176,13 +177,13 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| ANO 2011 (ALDE) | 4 | 8 | 0% | 8–10 | 8–10 | 8–10 | 7–10 |
+| ANO 2011 (ALDE) | 4 | 9 | 0.1% | 8–9 | 8–10 | 8–10 | 7–10 |
 | Česká pirátská strana (*) | 0 | 5 | 0% | 4–5 | 4–5 | 4–6 | 4–6 |
-| Občanská demokratická strana (ECR) | 2 | 4 | 0% | 4 | 4–5 | 3–5 | 3–5 |
-| Komunistická strana Čech a Moravy (GUE/NGL) | 3 | 1 | 0% | 0–2 | 0–2 | 0–2 | 0–2 |
-| Starostové a nezávislí (EPP) – Křesťanská a demokratická unie–Československá strana lidová (EPP) – TOP 09 (EPP) | 7 | 1 | 0% | 0–2 | 0–2 | 0–2 | 0–3 |
+| Občanská demokratická strana (ECR) | 2 | 4 | 0% | 4 | 3–5 | 3–5 | 3–5 |
+| Starostové a nezávislí (EPP) – Křesťanská a demokratická unie–Československá strana lidová (EPP) – TOP 09 (EPP) | 7 | 1 | 0% | 0–2 | 0–2 | 0–3 | 0–3 |
+| Komunistická strana Čech a Moravy (GUE/NGL) | 3 | 1 | 0% | 1 | 0–2 | 0–2 | 0–2 |
 | Svoboda a přímá demokracie (ENF) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–2 |
-| Česká strana sociálně demokratická (S&D) | 4 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–2 |
+| Česká strana sociálně demokratická (S&D) | 4 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### ANO 2011 (ALDE)
 
@@ -192,12 +193,13 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
-| 6 | 0.1% | 100% |  |
-| 7 | 2% | 99.9% |  |
-| 8 | 57% | 98% | Median |
-| 9 | 30% | 41% |  |
-| 10 | 11% | 11% |  |
-| 11 | 0% | 0% | Majority |
+| 6 | 0% | 100% |  |
+| 7 | 2% | 100% |  |
+| 8 | 38% | 98% |  |
+| 9 | 50% | 60% | Median |
+| 10 | 9% | 10% |  |
+| 11 | 0.1% | 0.1% | Majority |
+| 12 | 0% | 0% |  |
 
 ### Česká pirátská strana (*)
 
@@ -209,9 +211,9 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 12% | 100% |  |
-| 5 | 85% | 88% | Median |
-| 6 | 3% | 3% |  |
+| 4 | 20% | 100% |  |
+| 5 | 75% | 80% | Median |
+| 6 | 5% | 5% |  |
 | 7 | 0% | 0% |  |
 
 ### Občanská demokratická strana (ECR)
@@ -221,21 +223,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 4% | 100% |  |
-| 4 | 87% | 96% | Median |
-| 5 | 9% | 9% |  |
+| 3 | 9% | 100% |  |
+| 4 | 84% | 91% | Median |
+| 5 | 8% | 8% |  |
 | 6 | 0% | 0% |  |
-
-### Komunistická strana Čech a Moravy (GUE/NGL)
-
-![Graph with seats probability mass function not yet produced](2018-11-25-TNSKantar-coalitions-seats-pmf-ksčm.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% |  |
-| 1 | 71% | 82% | Median |
-| 2 | 10% | 10% |  |
-| 3 | 0% | 0% | Last Result |
 
 ### Starostové a nezávislí (EPP) – Křesťanská a demokratická unie–Československá strana lidová (EPP) – TOP 09 (EPP)
 
@@ -243,14 +234,25 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% |  |
-| 1 | 61% | 89% | Median |
-| 2 | 26% | 28% |  |
-| 3 | 2% | 2% |  |
+| 0 | 13% | 100% |  |
+| 1 | 61% | 87% | Median |
+| 2 | 23% | 26% |  |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
 | 7 | 0% | 0% | Last Result |
+
+### Komunistická strana Čech a Moravy (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](2018-11-25-TNSKantar-coalitions-seats-pmf-ksčm.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 10% | 100% |  |
+| 1 | 83% | 90% | Median |
+| 2 | 7% | 7% |  |
+| 3 | 0% | 0% | Last Result |
 
 ### Svoboda a přímá demokracie (ENF)
 
@@ -259,8 +261,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 19% | 100% | Last Result |
-| 1 | 80% | 81% | Median |
-| 2 | 1.5% | 1.5% |  |
+| 1 | 79% | 81% | Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 ### Česká strana sociálně demokratická (S&D)
@@ -269,9 +271,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 42% | 100% |  |
-| 1 | 57% | 58% | Median |
-| 2 | 0.7% | 0.7% |  |
+| 0 | 46% | 100% |  |
+| 1 | 53% | 54% | Median |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -287,6 +289,6 @@
 ### Calculations
 
 + **Sample size:** 1200
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.62%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.49%
 
