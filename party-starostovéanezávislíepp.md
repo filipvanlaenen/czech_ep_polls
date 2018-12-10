@@ -90,7 +90,7 @@ Last result: **1** seats (General Election of 24–25 May 2014)
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–30 November 2018](2018-11-30-STEM.html) | STEM | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–28 November 2018](2018-11-28-SANEP.html) | SANEP | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3–25 November 2018](2018-11-25-TNSKantar.html) | TNS Kantar <br> Česká televize | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–25 November 2018](2018-11-25-TNSKantar.html) | TNS Kantar <br> Česká televize | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [3–15 November 2018](2018-11-15-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [20 October–7 November 2018](2018-11-07-PhoenixResearch.html) | Phoenix Research | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [6–26 October 2018](2018-10-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -141,9 +141,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 52% | 100% | Median |
-| 1 | 48% | 48% | Last Result |
-| 2 | 0.2% | 0.2% |  |
+| 0 | 51% | 100% | Median |
+| 1 | 48% | 49% | Last Result |
+| 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
 
