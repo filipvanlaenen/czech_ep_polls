@@ -92,7 +92,7 @@ Last result: **0** seats (General Election of 24–25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [1–13 December 2018](2018-12-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0 | 0 | 0 | 0–1 |
-| [10 November–9 December 2018](2018-12-09-Median.html) | Median | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [10 November–9 December 2018](2018-12-09-Median.html) | Median | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [20 November–8 December 2018](2018-12-08-PhoenixResearch.html) | Phoenix Research | 2 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [19–30 November 2018](2018-11-30-STEM.html) | STEM | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–28 November 2018](2018-11-28-SANEP.html) | SANEP | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -149,8 +149,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 21% | 100% | Last Result |
 | 1 | 39% | 79% | Median |
-| 2 | 39% | 40% |  |
-| 3 | 1.3% | 1.3% |  |
+| 2 | 38% | 40% |  |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
 
