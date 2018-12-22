@@ -102,8 +102,8 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
-| [1–13 December 2018](2018-12-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| [10 November–9 December 2018](2018-12-09-Median.html) | Median | 7 | 7–8 | 7–8 | 7–8 | 6–10 |
+| [1–13 December 2018](2018-12-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
+| [10 November–9 December 2018](2018-12-09-Median.html) | Median | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [20 November–8 December 2018](2018-12-08-PhoenixResearch.html) | Phoenix Research | 7 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [19–30 November 2018](2018-11-30-STEM.html) | STEM | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [22–28 November 2018](2018-11-28-SANEP.html) | SANEP | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
@@ -160,11 +160,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
-| 6 | 0.2% | 100% |  |
-| 7 | 30% | 99.8% |  |
-| 8 | 37% | 70% | Median |
-| 9 | 26% | 33% |  |
-| 10 | 7% | 7% |  |
+| 6 | 0.4% | 100% |  |
+| 7 | 21% | 99.6% |  |
+| 8 | 33% | 79% | Median |
+| 9 | 37% | 46% |  |
+| 10 | 9% | 9% |  |
 | 11 | 0.4% | 0.4% | Majority |
 | 12 | 0% | 0% |  |
 
