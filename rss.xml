@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 Dec 2018 11:08:41 +0100</pubDate>
+    <pubDate>Sat, 22 Dec 2018 16:00:09 +0100</pubDate>
     <item>
       <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 1–13 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-12-13-Centrumprovýzkumveřejnéhomínění.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-12-13-Centrumprovýzkumveřejnéhomínění.png"
         length="306550"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 10:08:46 +0100</pubDate>
-      <dc:date>2018-12-22T10:08:46.332914+01:00</dc:date>
+      <pubDate>Sat, 22 Dec 2018 16:00:09 +0100</pubDate>
+      <dc:date>2018-12-22T16:00:09.779607+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Median, 10 November–9 December 2018 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-12-09-Median.png"
         length="314542"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 10:33:38 +0100</pubDate>
-      <dc:date>2018-12-22T10:33:38.568003+01:00</dc:date>
+      <pubDate>Sat, 22 Dec 2018 15:23:05 +0100</pubDate>
+      <dc:date>2018-12-22T15:23:05.025738+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Phoenix Research, 20 November–8 December 2018 – Voting Intentions</title>
@@ -1359,6 +1359,6 @@
       <pubDate>Wed, 28 Feb 2018 21:28:02 +0100</pubDate>
       <dc:date>2018-02-28T21:28:02.104737+01:00</dc:date>
     </item>
-    <dc:date>2018-12-22T11:08:41.026131+01:00</dc:date>
+    <dc:date>2018-12-22T16:00:09.779607+01:00</dc:date>
   </channel>
 </rss>
