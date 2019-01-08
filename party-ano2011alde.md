@@ -10,7 +10,8 @@ Last result: **16.1%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.5% | 28.8–35.7% | 28.2–36.6% | 27.7–37.3% | 26.7–38.5% |
+| N/A | [Poll Average](average.html) | 31.9% | 29.0–35.7% | 28.3–36.6% | 27.7–37.3% | 26.8–38.5% |
+| [20–26 December 2018](2018-12-26-SANEP.html) | SANEP | 31.2% | 29.8–32.7% | 29.4–33.1% | 29.1–33.5% | 28.4–34.2% |
 | [1–13 December 2018](2018-12-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 33.5% | 31.7–35.4% | 31.2–36.0% | 30.7–36.4% | 29.9–37.4% |
 | [10 November–9 December 2018](2018-12-09-Median.html) | Median | 29.8% | 28.1–31.7% | 27.6–32.2% | 27.1–32.7% | 26.3–33.6% |
 | [20 November–8 December 2018](2018-12-08-PhoenixResearch.html) | Phoenix Research | 29.7% | 27.9–31.6% | 27.4–32.1% | 26.9–32.6% | 26.1–33.5% |
@@ -77,13 +78,13 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0.3% | 100% |  |
 | 26.5–27.5% | 2% | 99.7% |  |
-| 27.5–28.5% | 6% | 98% |  |
-| 28.5–29.5% | 12% | 92% |  |
-| 29.5–30.5% | 16% | 80% |  |
-| 30.5–31.5% | 14% | 64% |  |
-| 31.5–32.5% | 12% | 50% | Median |
-| 32.5–33.5% | 10% | 38% |  |
-| 33.5–34.5% | 9% | 28% |  |
+| 27.5–28.5% | 5% | 98% |  |
+| 28.5–29.5% | 9% | 93% |  |
+| 29.5–30.5% | 13% | 84% |  |
+| 30.5–31.5% | 16% | 71% |  |
+| 31.5–32.5% | 15% | 55% | Median |
+| 32.5–33.5% | 12% | 40% |  |
+| 33.5–34.5% | 10% | 28% |  |
 | 34.5–35.5% | 8% | 18% |  |
 | 35.5–36.5% | 6% | 11% |  |
 | 36.5–37.5% | 3% | 5% |  |
@@ -102,6 +103,7 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–10 | 7–10 | 7–10 | 7–10 |
+| [20–26 December 2018](2018-12-26-SANEP.html) | SANEP | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
 | [1–13 December 2018](2018-12-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [10 November–9 December 2018](2018-12-09-Median.html) | Median | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [20 November–8 December 2018](2018-12-08-PhoenixResearch.html) | Phoenix Research | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
@@ -161,9 +163,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
-| 7 | 15% | 99.9% |  |
-| 8 | 40% | 85% | Median |
-| 9 | 33% | 45% |  |
+| 7 | 14% | 99.9% |  |
+| 8 | 40% | 86% | Median |
+| 9 | 34% | 46% |  |
 | 10 | 11% | 12% |  |
 | 11 | 0.4% | 0.4% | Majority |
 | 12 | 0% | 0% |  |
