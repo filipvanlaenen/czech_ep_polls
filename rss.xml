@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 07 Jan 2019 22:12:24 +0100</pubDate>
+    <pubDate>Tue, 08 Jan 2019 14:32:43 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by SANEP, 20–26 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-12-26-SANEP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (ALDE): 7–10 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (*): 3–5 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ENF): 1–2 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-12-26-SANEP-seats.png"
+        length="238865"
+        type="image/png"/>
+      <pubDate>Tue, 08 Jan 2019 14:32:43 +0100</pubDate>
+      <dc:date>2019-01-08T14:32:43.849598+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SANEP, 20–26 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-12-26-SANEP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-12-26-SANEP-coalitions-seats.png"
+        length="203279"
+        type="image/png"/>
+      <pubDate>Tue, 08 Jan 2019 14:32:43 +0100</pubDate>
+      <dc:date>2019-01-08T14:32:43.849598+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SANEP, 20–26 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2018-12-26-SANEP.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2018-12-26-SANEP.png"
         length="259400"
         type="image/png"/>
-      <pubDate>Mon, 07 Jan 2019 22:12:24 +0100</pubDate>
-      <dc:date>2019-01-07T22:12:24.149651+01:00</dc:date>
+      <pubDate>Tue, 08 Jan 2019 14:32:43 +0100</pubDate>
+      <dc:date>2019-01-08T14:32:43.849598+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 1–13 December 2018 – Seat Projections for the Parties</title>
@@ -1429,6 +1449,6 @@
       <pubDate>Wed, 28 Feb 2018 21:28:02 +0100</pubDate>
       <dc:date>2018-02-28T21:28:02.104737+01:00</dc:date>
     </item>
-    <dc:date>2019-01-07T22:12:24.149651+01:00</dc:date>
+    <dc:date>2019-01-08T14:32:43.849598+01:00</dc:date>
   </channel>
 </rss>
