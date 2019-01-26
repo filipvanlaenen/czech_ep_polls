@@ -10,7 +10,8 @@ Last result: **5.2%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.4–2.0% | 0.3–2.1% | 0.2–2.3% | 0.1–2.7% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.4–1.9% | 0.3–2.1% | 0.2–2.3% | 0.1–2.6% |
+| [10 December 2018–24 January 2019](2019-01-24-Median.html) | Median | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.8–2.7% |
 | [20–26 December 2018](2018-12-26-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
 | [1–13 December 2018](2018-12-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 1.0% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% | 0.5–2.2% |
 | [10 November–9 December 2018](2018-12-09-Median.html) | Median | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.8–2.8% |
@@ -67,9 +68,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 17% | 100% |  |
-| 0.5–1.5% | 53% | 83% | Median |
-| 1.5–2.5% | 29% | 30% |  |
-| 2.5–3.5% | 0.9% | 0.9% |  |
+| 0.5–1.5% | 54% | 83% | Median |
+| 1.5–2.5% | 29% | 29% |  |
+| 2.5–3.5% | 0.8% | 0.8% |  |
 | 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% | Last Result |
 
@@ -83,6 +84,7 @@ Last result: **1** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [10 December 2018–24 January 2019](2019-01-24-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [20–26 December 2018](2018-12-26-SANEP.html) | SANEP |  |  |  |  |  |
 | [1–13 December 2018](2018-12-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0 | 0 | 0 | 0 |
 | [10 November–9 December 2018](2018-12-09-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |

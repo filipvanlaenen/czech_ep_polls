@@ -10,7 +10,8 @@ Last result: **16.0%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 3.0–5.8% | 2.8–6.2% | 2.5–6.4% | 2.2–7.0% |
+| N/A | [Poll Average](average.html) | 4.5% | 3.0–5.7% | 2.8–6.1% | 2.5–6.3% | 2.2–6.9% |
+| [10 December 2018–24 January 2019](2019-01-24-Median.html) | Median | 4.5% | 3.8–5.4% | 3.6–5.7% | 3.4–5.9% | 3.1–6.4% |
 | [20–26 December 2018](2018-12-26-SANEP.html) | SANEP | 5.0% | 4.4–5.7% | 4.2–5.9% | 4.1–6.1% | 3.8–6.5% |
 | [1–13 December 2018](2018-12-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3.0% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 1.9–4.7% |
 | [10 November–9 December 2018](2018-12-09-Median.html) | Median | 5.0% | 4.3–6.0% | 4.0–6.3% | 3.9–6.5% | 3.5–7.0% |
@@ -69,10 +70,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 3% | 100% |  |
 | 2.5–3.5% | 19% | 97% |  |
-| 3.5–4.5% | 25% | 78% |  |
-| 4.5–5.5% | 36% | 53% | Median |
-| 5.5–6.5% | 15% | 17% |  |
-| 6.5–7.5% | 2% | 2% |  |
+| 3.5–4.5% | 29% | 78% |  |
+| 4.5–5.5% | 35% | 49% | Median |
+| 5.5–6.5% | 13% | 14% |  |
+| 6.5–7.5% | 1.4% | 1.4% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -93,6 +94,7 @@ Last result: **1** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [10 December 2018–24 January 2019](2019-01-24-Median.html) | Median | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–26 December 2018](2018-12-26-SANEP.html) | SANEP | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–13 December 2018](2018-12-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0 | 0 | 0 | 0 |
 | [10 November–9 December 2018](2018-12-09-Median.html) | Median | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -150,8 +152,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 64% | 100% | Median |
-| 1 | 35% | 36% | Last Result |
+| 0 | 68% | 100% | Median |
+| 1 | 31% | 32% | Last Result |
 | 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
