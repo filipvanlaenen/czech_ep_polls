@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ANO | TOP 09 | STAN | ČSSD | KSČM | KDU–ČSL | ODS | SVOBODNÍ | Piráti | ZELENÍ | SPD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24–25 May 2014 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 |
-| [10 December 2018–24 January 2019](2019-01-24-Median.html) | Median | 27–33% <br> 7–9 | 3–6% <br> 0–1 | 3–6% <br> 0–1 | 7–11% <br> 2 | 6–9% <br> 1–2 | 3–6% <br> 0–1 | 13–18% <br> 3–4 | 1–2% <br> 0 | 12–16% <br> 3–4 | 1–2% <br> 0 | 7–10% <br> 1–2 |
+| [10 December 2018–24 January 2019](2019-01-24-Median.html) | Median | 27–33% <br> 7–9 | 3–6% <br> 0–1 | 3–6% <br> 0–1 | 7–11% <br> 2–3 | 6–9% <br> 1–2 | 3–6% <br> 0–1 | 13–18% <br> 3–5 | 1–2% <br> 0 | 12–16% <br> 3–4 | 1–2% <br> 0 | 7–10% <br> 1–2 |
 | [20–26 December 2018](2018-12-26-SANEP.html) | SANEP | 29–33% <br> 7–10 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 5–7% <br> 0–1 | 5–7% <br> 0–1 | 4–7% <br> 0–1 | 15–18% <br> 4–5 | N/A <br> N/A | 14–18% <br> 3–5 | N/A <br> N/A | 5–8% <br> 1–2 |
 | [1–13 December 2018](2018-12-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 31–36% <br> 8–10 | 3–6% <br> 0–1 | 2–4% <br> 0 | 8–11% <br> 2–3 | 8–12% <br> 2–3 | 3–5% <br> 0–1 | 12–17% <br> 3–4 | 1–2% <br> 0 | 12–16% <br> 3–4 | 1–2% <br> 0 | 3–5% <br> 0–1 |
 | [10 November–9 December 2018](2018-12-09-Median.html) | Median | 27–33% <br> 7–9 | 4–7% <br> 0–1 | 4–7% <br> 0–1 | 6–9% <br> 1–2 | 6–9% <br> 1–2 | 4–7% <br> 0–1 | 12–16% <br> 2–4 | 1–2% <br> 0 | 11–15% <br> 3–4 | 0–1% <br> 0 | 8–12% <br> 2–3 |
