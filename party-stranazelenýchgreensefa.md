@@ -11,7 +11,9 @@ Last result: **3.8%** (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.6–1.8% | 0.6–2.1% | 0.5–2.3% | 0.4–2.7% |
+| [12 January–2 February 2019](2019-02-02-TNSKantar.html) | TNS Kantar <br> Česká televize | 0.0% | N/A | N/A | N/A | N/A |
 | [10 December 2018–24 January 2019](2019-01-24-Median.html) | Median | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.7% | 0.4–2.0% |
+| [17–21 January 2019](2019-01-21-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
 | [5–19 January 2019](2019-01-19-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 1.4% | 1.0–2.2% | 0.9–2.4% | 0.8–2.6% | 0.6–3.0% |
 | [20–26 December 2018](2018-12-26-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
 | [1–13 December 2018](2018-12-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 1.0% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% | 0.5–2.2% |
@@ -84,7 +86,9 @@ Last result: **0** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [12 January–2 February 2019](2019-02-02-TNSKantar.html) | TNS Kantar <br> Česká televize |  |  |  |  |  |
 | [10 December 2018–24 January 2019](2019-01-24-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
+| [17–21 January 2019](2019-01-21-SANEP.html) | SANEP |  |  |  |  |  |
 | [5–19 January 2019](2019-01-19-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0 | 0 | 0 | 0 |
 | [20–26 December 2018](2018-12-26-SANEP.html) | SANEP |  |  |  |  |  |
 | [1–13 December 2018](2018-12-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0 | 0 | 0 | 0 |
