@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 19 Feb 2019 22:35:58 +0100</pubDate>
+    <pubDate>Sat, 23 Feb 2019 14:31:35 +0100</pubDate>
     <item>
       <title>Opinion Poll by TNS Kantar for Česká televize, 12 January–2 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-02-02-TNSKantar.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-02-02-TNSKantar.png"
         length="270548"
         type="image/png"/>
-      <pubDate>Tue, 19 Feb 2019 22:29:17 +0100</pubDate>
-      <dc:date>2019-02-19T22:29:17.261617+01:00</dc:date>
+      <pubDate>Sat, 23 Feb 2019 14:31:35 +0100</pubDate>
+      <dc:date>2019-02-23T14:31:35.71155+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Median, 10 December 2018–24 January 2019 – Seat Projections for the Parties</title>
@@ -1529,6 +1529,6 @@
       <pubDate>Wed, 28 Feb 2018 21:28:02 +0100</pubDate>
       <dc:date>2018-02-28T21:28:02.104737+01:00</dc:date>
     </item>
-    <dc:date>2019-02-19T22:35:58.921598+01:00</dc:date>
+    <dc:date>2019-02-23T14:31:35.71155+01:00</dc:date>
   </channel>
 </rss>
