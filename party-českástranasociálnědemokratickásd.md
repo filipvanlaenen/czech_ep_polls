@@ -10,8 +10,12 @@ Last result: **14.2%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.0–12.3% | 4.7–13.2% | 4.4–13.9% | 3.9–15.0% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.0–10.8% | 4.6–11.6% | 4.4–12.1% | 3.9–13.1% |
+| [24 January–24 February 2019](2019-02-24-Median.html) | Median | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
+| [14–20 February 2019](2019-02-20-SANEP.html) | SANEP | 5.6% | 4.9–6.4% | 4.7–6.6% | 4.6–6.8% | 4.3–7.2% |
+| [25 January–6 February 2019](2019-02-06-STEM.html) | STEM | 8.3% | 7.3–9.5% | 7.0–9.8% | 6.8–10.1% | 6.4–10.7% |
 | [12 January–2 February 2019](2019-02-02-TNSKantar.html) | TNS Kantar <br> Česká televize | 5.0% | 4.3–5.9% | 4.1–6.2% | 3.9–6.4% | 3.6–6.8% |
+| [12 January–1 February 2019](2019-02-01-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 10.9% | 9.7–12.4% | 9.4–12.8% | 9.1–13.2% | 8.5–13.9% |
 | [10 December 2018–24 January 2019](2019-01-24-Median.html) | Median | 8.9% | 7.9–10.1% | 7.7–10.5% | 7.4–10.8% | 7.0–11.4% |
 | [17–21 January 2019](2019-01-21-SANEP.html) | SANEP | 5.7% | 5.1–6.5% | 4.9–6.7% | 4.7–6.9% | 4.5–7.3% |
 | [5–19 January 2019](2019-01-19-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 12.5% | 11.1–14.2% | 10.7–14.7% | 10.3–15.1% | 9.7–15.9% |
@@ -73,18 +77,16 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0.1% | 100% |  |
 | 3.5–4.5% | 4% | 99.9% |  |
 | 4.5–5.5% | 20% | 96% |  |
-| 5.5–6.5% | 28% | 77% |  |
-| 6.5–7.5% | 13% | 49% | Median |
-| 7.5–8.5% | 7% | 36% |  |
-| 8.5–9.5% | 8% | 29% |  |
-| 9.5–10.5% | 4% | 21% |  |
-| 10.5–11.5% | 3% | 17% |  |
-| 11.5–12.5% | 5% | 14% |  |
-| 12.5–13.5% | 5% | 9% |  |
-| 13.5–14.5% | 3% | 4% | Last Result |
-| 14.5–15.5% | 0.8% | 1.0% |  |
-| 15.5–16.5% | 0.2% | 0.2% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 5.5–6.5% | 21% | 76% |  |
+| 6.5–7.5% | 12% | 55% | Median |
+| 7.5–8.5% | 15% | 43% |  |
+| 8.5–9.5% | 10% | 28% |  |
+| 9.5–10.5% | 6% | 18% |  |
+| 10.5–11.5% | 6% | 11% |  |
+| 11.5–12.5% | 4% | 5% |  |
+| 12.5–13.5% | 1.1% | 1.3% |  |
+| 13.5–14.5% | 0.2% | 0.2% | Last Result |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -95,8 +97,12 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–3 | 1–3 | 0–3 | 0–4 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| [24 January–24 February 2019](2019-02-24-Median.html) | Median | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [14–20 February 2019](2019-02-20-SANEP.html) | SANEP | 1 | 1 | 1 | 0–1 | 0–1 |
+| [25 January–6 February 2019](2019-02-06-STEM.html) | STEM | 2 | 2 | 2 | 2 | 2 |
 | [12 January–2 February 2019](2019-02-02-TNSKantar.html) | TNS Kantar <br> Česká televize | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [12 January–1 February 2019](2019-02-01-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10 December 2018–24 January 2019](2019-01-24-Median.html) | Median | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [17–21 January 2019](2019-01-21-SANEP.html) | SANEP | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [5–19 January 2019](2019-01-19-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 3 | 2–3 | 2–4 | 2–4 |
@@ -157,11 +163,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 58% | 96% | Median |
-| 2 | 22% | 39% |  |
-| 3 | 16% | 17% |  |
-| 4 | 0.8% | 0.8% | Last Result |
-| 5 | 0% | 0% |  |
+| 0 | 2% | 100% |  |
+| 1 | 52% | 98% | Median |
+| 2 | 44% | 46% |  |
+| 3 | 2% | 2% |  |
+| 4 | 0% | 0% | Last Result |
 
 
