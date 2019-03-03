@@ -96,12 +96,12 @@ Last result: **2** seats (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–5 | 2–5 | 2–5 |
-| [24 January–24 February 2019](2019-02-24-Median.html) | Median | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| [14–20 February 2019](2019-02-20-SANEP.html) | SANEP | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [25 January–6 February 2019](2019-02-06-STEM.html) | STEM | 3 | 3 | 3 | 3 | 3 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [24 January–24 February 2019](2019-02-24-Median.html) | Median | 3 | 3 | 3 | 3–4 | 2–4 |
+| [14–20 February 2019](2019-02-20-SANEP.html) | SANEP | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [25 January–6 February 2019](2019-02-06-STEM.html) | STEM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [12 January–2 February 2019](2019-02-02-TNSKantar.html) | TNS Kantar <br> Česká televize | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [12 January–1 February 2019](2019-02-01-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [12 January–1 February 2019](2019-02-01-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [10 December 2018–24 January 2019](2019-01-24-Median.html) | Median | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [17–21 January 2019](2019-01-21-SANEP.html) | SANEP | 4 | 4 | 4 | 4 | 3–5 |
 | [5–19 January 2019](2019-01-19-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -162,10 +162,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 4% | 100% | Last Result |
-| 3 | 62% | 96% | Median |
-| 4 | 28% | 33% |  |
-| 5 | 5% | 5% |  |
+| 2 | 15% | 100% | Last Result |
+| 3 | 49% | 85% | Median |
+| 4 | 35% | 36% |  |
+| 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
 
