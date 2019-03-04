@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ANO | TOP 09 | STAN | ČSSD | KSČM | KDU–ČSL | ODS | SVOBODNÍ | Piráti | ZELENÍ | SPD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24–25 May 2014 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 |
-| [24 January–24 February 2019](2019-02-24-Median.html) | Median | 31–36% <br> 8–9 | 3–5% <br> 0–1 | 4–7% <br> 0–1 | 6–10% <br> 1–2 | 6–9% <br> 1–2 | 5–8% <br> 1 | 11–15% <br> 3–4 | 1–2% <br> 0 | 11–15% <br> 3 | 1–2% <br> 0 | 6–9% <br> 1–2 |
+| [24 January–24 February 2019](2019-02-24-Median.html) | Median | 31–36% <br> 8–9 | 3–5% <br> 0–1 | 4–7% <br> 0–1 | 6–10% <br> 1–2 | 6–9% <br> 1–2 | 5–8% <br> 1 | 11–15% <br> 3–4 | 1–2% <br> 0 | 11–15% <br> 3–4 | 1–2% <br> 0 | 6–9% <br> 1–2 |
 | [14–20 February 2019](2019-02-20-SANEP.html) | SANEP | 30–34% <br> 7–10 | 3–5% <br> 0–1 | 3–5% <br> 0–1 | 5–7% <br> 0–1 | 5–7% <br> 1–2 | 4–6% <br> 0–1 | 14–17% <br> 3–4 | N/A <br> N/A | 15–18% <br> 4–5 | N/A <br> N/A | 6–9% <br> 1–2 |
 | [25 January–6 February 2019](2019-02-06-STEM.html) | STEM | 29–35% <br> 7–9 | 3–5% <br> 0 | 3–5% <br> 0–1 | 7–10% <br> 1–2 | 7–10% <br> 2 | 5–8% <br> 0–2 | 9–13% <br> 2–3 | 1–2% <br> 0 | 14–18% <br> 3–4 | 1–2% <br> 0 | 6–9% <br> 1–2 |
 | [12 January–2 February 2019](2019-02-02-TNSKantar.html) | TNS Kantar <br> Česká televize | 29–35% <br> 8–10 | 4–7% <br> 0–1 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 5–8% <br> 1–2 | 4–6% <br> 0–1 | 12–16% <br> 3–4 | N/A <br> N/A | 14–19% <br> 3–5 | N/A <br> N/A | 6–9% <br> 1–2 |
