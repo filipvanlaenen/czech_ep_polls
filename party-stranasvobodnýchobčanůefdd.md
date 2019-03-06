@@ -10,12 +10,12 @@ Last result: **5.2%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.4–1.5% | 0.3–1.6% | 0.2–1.8% | 0.1–2.1% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.4–1.4% | 0.3–1.6% | 0.2–1.7% | 0.1–2.0% |
 | [24 January–24 February 2019](2019-02-24-Median.html) | Median | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [14–20 February 2019](2019-02-20-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
+| [2–13 February 2019](2019-02-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0.0% | N/A | N/A | N/A | N/A |
 | [25 January–6 February 2019](2019-02-06-STEM.html) | STEM | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
 | [12 January–2 February 2019](2019-02-02-TNSKantar.html) | TNS Kantar <br> Česká televize | 0.0% | N/A | N/A | N/A | N/A |
-| [12 January–1 February 2019](2019-02-01-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–1.9% | 0.4–2.2% |
 | [10 December 2018–24 January 2019](2019-01-24-Median.html) | Median | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.8–2.7% |
 | [17–21 January 2019](2019-01-21-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
 | [5–19 January 2019](2019-01-19-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 1.1% | 0.7–1.7% | 0.6–1.9% | 0.5–2.1% | 0.4–2.4% |
@@ -74,9 +74,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 18% | 100% |  |
-| 0.5–1.5% | 75% | 82% | Median |
-| 1.5–2.5% | 7% | 7% |  |
+| 0.0–0.5% | 23% | 100% |  |
+| 0.5–1.5% | 71% | 77% | Median |
+| 1.5–2.5% | 6% | 6% |  |
 | 2.5–3.5% | 0% | 0% |  |
 | 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% | Last Result |
@@ -93,9 +93,9 @@ Last result: **1** seats (General Election of 24–25 May 2014)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [24 January–24 February 2019](2019-02-24-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [14–20 February 2019](2019-02-20-SANEP.html) | SANEP |  |  |  |  |  |
+| [2–13 February 2019](2019-02-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění |  |  |  |  |  |
 | [25 January–6 February 2019](2019-02-06-STEM.html) | STEM | 0 | 0 | 0 | 0 | 0 |
 | [12 January–2 February 2019](2019-02-02-TNSKantar.html) | TNS Kantar <br> Česká televize |  |  |  |  |  |
-| [12 January–1 February 2019](2019-02-01-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0 | 0 | 0 | 0 |
 | [10 December 2018–24 January 2019](2019-01-24-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [17–21 January 2019](2019-01-21-SANEP.html) | SANEP |  |  |  |  |  |
 | [5–19 January 2019](2019-01-19-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0 | 0 | 0 | 0 |
