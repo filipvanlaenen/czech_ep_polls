@@ -111,8 +111,8 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 | N/A | [Poll Average](average.html) | 8 | 6–8 | 6–9 | 6–9 | 5–9 |
 | [24 January–24 February 2019](2019-02-24-Median.html) | Median | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [14–20 February 2019](2019-02-20-SANEP.html) | SANEP | 8 | 8 | 7–9 | 7–9 | 7–9 |
-| [2–13 February 2019](2019-02-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
-| [25 January–6 February 2019](2019-02-06-STEM.html) | STEM | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
+| [2–13 February 2019](2019-02-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
+| [25 January–6 February 2019](2019-02-06-STEM.html) | STEM | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [12 January–2 February 2019](2019-02-02-TNSKantar.html) | TNS Kantar <br> Česká televize | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [10 December 2018–24 January 2019](2019-01-24-Median.html) | Median | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [17–21 January 2019](2019-01-21-SANEP.html) | SANEP | 9 | 9 | 8–9 | 8–10 | 8–10 |
@@ -175,10 +175,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 0.9% | 100% |  |
-| 6 | 10% | 99.1% |  |
+| 5 | 0.8% | 100% |  |
+| 6 | 10% | 99.2% |  |
 | 7 | 31% | 89% |  |
-| 8 | 50% | 59% | Median |
+| 8 | 49% | 58% | Median |
 | 9 | 9% | 9% |  |
 | 10 | 0% | 0% |  |
 
