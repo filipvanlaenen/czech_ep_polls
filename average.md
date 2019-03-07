@@ -271,10 +271,10 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 0.9% | 100% |  |
-| 6 | 10% | 99.1% |  |
+| 5 | 0.8% | 100% |  |
+| 6 | 10% | 99.2% |  |
 | 7 | 31% | 89% |  |
-| 8 | 50% | 59% | Median |
+| 8 | 49% | 58% | Median |
 | 9 | 9% | 9% |  |
 | 10 | 0% | 0% |  |
 
@@ -287,8 +287,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 11% | 100% |  |
-| 1 | 59% | 89% | Median |
-| 2 | 30% | 30% |  |
+| 1 | 63% | 89% | Median |
+| 2 | 27% | 27% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -303,7 +303,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 11% | 100% |  |
 | 1 | 54% | 89% | Median |
 | 2 | 35% | 35% |  |
-| 3 | 0% | 0% | Last Result |
+| 3 | 0.1% | 0.1% | Last Result |
+| 4 | 0% | 0% |  |
 
 ### Křesťanská a demokratická unie–Československá strana lidová (EPP)
 
@@ -326,9 +327,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 17% | 100% | Last Result |
-| 3 | 56% | 83% | Median |
-| 4 | 27% | 27% |  |
+| 2 | 16% | 100% | Last Result |
+| 3 | 55% | 84% | Median |
+| 4 | 28% | 28% |  |
 | 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
@@ -354,7 +355,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 9% | 100% |  |
-| 3 | 48% | 91% | Median |
+| 3 | 47% | 91% | Median |
 | 4 | 42% | 43% |  |
 | 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
@@ -368,8 +369,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.9% | 100% |  |
-| 1 | 30% | 99.1% |  |
-| 2 | 64% | 69% | Median |
+| 1 | 28% | 99.1% |  |
+| 2 | 66% | 71% | Median |
 | 3 | 5% | 5% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -381,8 +382,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 12% | 100% | Last Result |
-| 1 | 65% | 88% | Median |
+| 0 | 13% | 100% | Last Result |
+| 1 | 64% | 87% | Median |
 | 2 | 23% | 23% |  |
 | 3 | 0% | 0% |  |
 
@@ -411,10 +412,10 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 0.9% | 100% |  |
-| 6 | 10% | 99.1% |  |
+| 5 | 0.8% | 100% |  |
+| 6 | 10% | 99.2% |  |
 | 7 | 31% | 89% |  |
-| 8 | 50% | 59% | Median |
+| 8 | 49% | 58% | Median |
 | 9 | 9% | 9% |  |
 | 10 | 0% | 0% |  |
 
@@ -424,9 +425,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 17% | 100% | Last Result |
-| 3 | 56% | 83% | Median |
-| 4 | 27% | 27% |  |
+| 2 | 16% | 100% | Last Result |
+| 3 | 55% | 84% | Median |
+| 4 | 28% | 28% |  |
 | 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
@@ -439,7 +440,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 9% | 100% |  |
-| 3 | 48% | 91% | Median |
+| 3 | 47% | 91% | Median |
 | 4 | 42% | 43% |  |
 | 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
@@ -451,9 +452,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.2% | 100% |  |
-| 1 | 16% | 99.8% |  |
-| 2 | 36% | 83% |  |
-| 3 | 44% | 47% | Median |
+| 1 | 15% | 99.8% |  |
+| 2 | 37% | 85% |  |
+| 3 | 44% | 48% | Median |
 | 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
@@ -468,7 +469,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 11% | 100% |  |
 | 1 | 54% | 89% | Median |
 | 2 | 35% | 35% |  |
-| 3 | 0% | 0% | Last Result |
+| 3 | 0.1% | 0.1% | Last Result |
+| 4 | 0% | 0% |  |
 
 ### Svoboda a přímá demokracie (ENF)
 
@@ -476,8 +478,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 12% | 100% | Last Result |
-| 1 | 65% | 88% | Median |
+| 0 | 13% | 100% | Last Result |
+| 1 | 64% | 87% | Median |
 | 2 | 23% | 23% |  |
 | 3 | 0% | 0% |  |
 
@@ -488,8 +490,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 11% | 100% |  |
-| 1 | 59% | 89% | Median |
-| 2 | 30% | 30% |  |
+| 1 | 63% | 89% | Median |
+| 2 | 27% | 27% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -507,5 +509,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 6
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,097,152
-+ **Error estimate:** 2.16%
++ **Total number of simulations done in the polls included in this average:** 3,538,944
++ **Error estimate:** 3.08%
