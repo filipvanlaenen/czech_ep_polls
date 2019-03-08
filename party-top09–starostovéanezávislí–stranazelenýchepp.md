@@ -96,7 +96,7 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [24 January–24 February 2019](2019-02-24-Median.html) | Median | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14–20 February 2019](2019-02-20-SANEP.html) | SANEP | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–13 February 2019](2019-02-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -108,7 +108,7 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 | [20–26 December 2018](2018-12-26-SANEP.html) | SANEP |  |  |  |  |  |
 | [1–13 December 2018](2018-12-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění |  |  |  |  |  |
 | [10 November–9 December 2018](2018-12-09-Median.html) | Median |  |  |  |  |  |
-| [20 November–8 December 2018](2018-12-08-PhoenixResearch.html) | Phoenix Research | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| [20 November–8 December 2018](2018-12-08-PhoenixResearch.html) | Phoenix Research | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [19–30 November 2018](2018-11-30-STEM.html) | STEM |  |  |  |  |  |
 | [22–28 November 2018](2018-11-28-SANEP.html) | SANEP |  |  |  |  |  |
 | [3–25 November 2018](2018-11-25-TNSKantar.html) | TNS Kantar <br> Česká televize |  |  |  |  |  |
@@ -162,9 +162,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.9% | 100% |  |
-| 1 | 28% | 99.1% |  |
-| 2 | 64% | 71% | Median |
+| 0 | 0.3% | 100% |  |
+| 1 | 31% | 99.7% |  |
+| 2 | 62% | 69% | Median |
 | 3 | 7% | 7% |  |
 | 4 | 0% | 0% | Last Result |
 
