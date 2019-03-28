@@ -11,7 +11,9 @@ Last result: **16.1%** (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 31.5% | 26.5–33.9% | 25.2–34.6% | 24.4–35.2% | 23.0–36.4% |
-| [9 February–1 March 2019](2019-03-01-TNSKantar.html) | TNS Kantar <br> Česká televize | 31.0% | 29.1–33.1% | 28.5–33.6% | 28.1–34.1% | 27.1–35.1% |
+| [24 February–24 March 2019](2019-03-24-Median.html) | Median | 30.3% | 28.6–32.2% | 28.1–32.8% | 27.6–33.2% | 26.8–34.1% |
+| [12–13 March 2019](2019-03-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 32.0% | 30.3–33.9% | 29.8–34.4% | 29.3–34.9% | 28.5–35.7% |
+| [9 February–1 March 2019](2019-03-01-TNSKantar.html) | TNS Kantar <br> Česká televize | 31.0% | 29.3–32.8% | 28.9–33.3% | 28.4–33.7% | 27.6–34.5% |
 | [24 January–24 February 2019](2019-02-24-Median.html) | Median | 33.5% | 31.6–35.4% | 31.1–36.0% | 30.7–36.5% | 29.8–37.4% |
 | [14–20 February 2019](2019-02-20-SANEP.html) | SANEP | 32.1% | 30.7–33.5% | 30.3–34.0% | 29.9–34.3% | 29.2–35.0% |
 | [2–13 February 2019](2019-02-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 26.0% | 24.0–28.3% | 23.4–28.9% | 22.9–29.4% | 21.9–30.5% |
@@ -110,7 +112,9 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–8 | 6–9 | 6–9 | 5–9 |
-| [9 February–1 March 2019](2019-03-01-TNSKantar.html) | TNS Kantar <br> Česká televize | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
+| [24 February–24 March 2019](2019-03-24-Median.html) | Median | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
+| [12–13 March 2019](2019-03-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 8 | 8 | 8 | 8 | 7–8 |
+| [9 February–1 March 2019](2019-03-01-TNSKantar.html) | TNS Kantar <br> Česká televize | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [24 January–24 February 2019](2019-02-24-Median.html) | Median | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [14–20 February 2019](2019-02-20-SANEP.html) | SANEP | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [2–13 February 2019](2019-02-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
