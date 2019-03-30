@@ -10,7 +10,7 @@ Last result: **7.7%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.0% | 11.2–16.3% | 10.5–16.9% | 10.1–17.5% | 9.3–18.8% |
+| N/A | [Poll Average](average.html) | 13.5% | 10.9–15.6% | 10.4–16.0% | 10.0–16.4% | 9.3–17.1% |
 | [24 February–24 March 2019](2019-03-24-Median.html) | Median | 14.0% | 12.7–15.4% | 12.3–15.9% | 12.0–16.2% | 11.4–16.9% |
 | [12–13 March 2019](2019-03-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 14.0% | 12.7–15.4% | 12.3–15.8% | 12.0–16.1% | 11.4–16.9% |
 | [9 February–1 March 2019](2019-03-01-TNSKantar.html) | TNS Kantar <br> Česká televize | 12.5% | 11.3–13.8% | 11.0–14.2% | 10.7–14.5% | 10.2–15.2% |
@@ -77,20 +77,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 7.5–8.5% | 0% | 100% | Last Result |
-| 8.5–9.5% | 0.9% | 100% |  |
-| 9.5–10.5% | 4% | 99.1% |  |
-| 10.5–11.5% | 8% | 95% |  |
-| 11.5–12.5% | 11% | 87% |  |
-| 12.5–13.5% | 17% | 76% |  |
-| 13.5–14.5% | 20% | 58% | Median |
-| 14.5–15.5% | 19% | 38% |  |
-| 15.5–16.5% | 12% | 19% |  |
-| 16.5–17.5% | 5% | 7% |  |
-| 17.5–18.5% | 2% | 2% |  |
-| 18.5–19.5% | 0.5% | 0.7% |  |
-| 19.5–20.5% | 0.1% | 0.1% |  |
-| 20.5–21.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.1% | 100% | Last Result |
+| 8.5–9.5% | 1.0% | 99.9% |  |
+| 9.5–10.5% | 5% | 98.9% |  |
+| 10.5–11.5% | 11% | 94% |  |
+| 11.5–12.5% | 15% | 83% |  |
+| 12.5–13.5% | 19% | 68% |  |
+| 13.5–14.5% | 21% | 49% | Median |
+| 14.5–15.5% | 18% | 28% |  |
+| 15.5–16.5% | 9% | 11% |  |
+| 16.5–17.5% | 2% | 2% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -171,9 +169,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 16% | 100% | Last Result |
-| 3 | 56% | 84% | Median |
-| 4 | 28% | 28% |  |
-| 5 | 0.4% | 0.4% |  |
-| 6 | 0% | 0% |  |
+| 3 | 72% | 84% | Median |
+| 4 | 12% | 12% |  |
+| 5 | 0% | 0% |  |
 
 
