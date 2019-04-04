@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 04 Apr 2019 13:47:35 +0200</pubDate>
+    <pubDate>Thu, 04 Apr 2019 20:08:27 +0200</pubDate>
     <item>
       <title>Opinion Poll by Median, 24 February–24 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-03-24-Median.html#seats</link>
@@ -40,14 +40,54 @@
       <dc:date>2019-03-30T14:11:31.795548+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 12–13 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-03-13-Centrumprovýzkumveřejnéhomínění.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (ALDE): 7–9 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ENF): 0–1 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;TOP 09–Starostové a nezávislí–Strana zelených (EPP): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-03-13-Centrumprovýzkumveřejnéhomínění-seats.png"
+        length="242198"
+        type="image/png"/>
+      <pubDate>Thu, 04 Apr 2019 19:46:42 +0200</pubDate>
+      <dc:date>2019-04-04T19:46:42.794643+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 12–13 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-03-13-Centrumprovýzkumveřejnéhomínění.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-03-13-Centrumprovýzkumveřejnéhomínění-coalitions-seats.png"
+        length="173908"
+        type="image/png"/>
+      <pubDate>Thu, 04 Apr 2019 19:46:42 +0200</pubDate>
+      <dc:date>2019-04-04T19:46:42.794643+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 12–13 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-03-13-Centrumprovýzkumveřejnéhomínění.html</link>
       <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (ALDE): 29.3–34.9%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 12.0–16.1%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (*): 10.7–14.6%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ENF): 3.4–5.9%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 7.0–10.3%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 10.7–14.6%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 4.3–7.0%&lt;/li&gt;&lt;li&gt;TOP 09–Starostové a nezávislí–Strana zelených (EPP): 7.0–10.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-03-13-Centrumprovýzkumveřejnéhomínění.png"
         length="258271"
         type="image/png"/>
-      <pubDate>Wed, 03 Apr 2019 16:18:43 +0200</pubDate>
-      <dc:date>2019-04-03T16:18:43.818519+02:00</dc:date>
+      <pubDate>Thu, 04 Apr 2019 19:46:42 +0200</pubDate>
+      <dc:date>2019-04-04T19:46:42.794643+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS Kantar for Česká televize, 9 February–1 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-03-01-TNSKantar.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (ALDE): 7–9 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (*): 4–5 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ENF): 2–3 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;TOP 09–Starostové a nezávislí–Strana zelených (EPP): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-03-01-TNSKantar-seats.png"
+        length="217586"
+        type="image/png"/>
+      <pubDate>Thu, 04 Apr 2019 20:08:27 +0200</pubDate>
+      <dc:date>2019-04-04T20:08:27.178639+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS Kantar for Česká televize, 9 February–1 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-03-01-TNSKantar.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-03-01-TNSKantar-coalitions-seats.png"
+        length="151349"
+        type="image/png"/>
+      <pubDate>Thu, 04 Apr 2019 20:08:27 +0200</pubDate>
+      <dc:date>2019-04-04T20:08:27.178639+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS Kantar for Česká televize, 9 February–1 March 2019 – Voting Intentions</title>
@@ -56,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-03-01-TNSKantar.png"
         length="257775"
         type="image/png"/>
-      <pubDate>Thu, 04 Apr 2019 13:47:35 +0200</pubDate>
-      <dc:date>2019-04-04T13:47:35.901601+02:00</dc:date>
+      <pubDate>Thu, 04 Apr 2019 20:08:27 +0200</pubDate>
+      <dc:date>2019-04-04T20:08:27.178639+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Median, 24 January–24 February 2019 – Seat Projections for the Parties</title>
@@ -1739,6 +1779,6 @@
       <pubDate>Wed, 28 Feb 2018 21:28:02 +0100</pubDate>
       <dc:date>2018-02-28T21:28:02.104737+01:00</dc:date>
     </item>
-    <dc:date>2019-04-04T13:47:35.901601+02:00</dc:date>
+    <dc:date>2019-04-04T20:08:27.178639+02:00</dc:date>
   </channel>
 </rss>
