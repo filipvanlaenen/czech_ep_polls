@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/czech_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-04-04T20:08:27.178639+02:00</updated>
+  <updated>2019-04-14T18:10:05.063675+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>ANO 2011 (ALDE): 27.6–33.2%, 6–8 seats</li><li>Občanská demokratická strana (ECR): 12.0–16.2%, 3–4 seats</li><li>Česká pirátská strana (*): 12.0–16.2%, 3–4 seats</li><li>Svoboda a přímá demokracie (ENF): 6.9–10.3%, 1–2 seats</li><li>Komunistická strana Čech a Moravy (GUE/NGL): 6.5–9.8%, 1–2 seats</li><li>Česká strana sociálně demokratická (S&amp;D): 6.5–9.8%, 1–2 seats</li><li>Křesťanská a demokratická unie–Československá strana lidová (EPP): 3.8–6.5%, 0–1 seats</li><li>Strana svobodných občanů (EFDD): 0.5–1.8%, 0 seats</li><li>TOP 09–Starostové a nezávislí–Strana zelených (EPP): 8.7–12.4%, 2–3 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/czech_ep_polls/2019-03-24-Median.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Median, 24 February–24 March 2019</title>
     <updated>2019-03-30T14:11:31.795548+01:00</updated>
     <dc:date>2019-03-30T14:11:31.795548+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>ANO 2011 (ALDE): 29.4–33.6%, 7–9 seats</li><li>Občanská demokratická strana (ECR): 10.7–13.7%, 2–3 seats</li><li>Česká pirátská strana (*): 15.7–19.1%, 4–5 seats</li><li>Svoboda a přímá demokracie (ENF): 8.5–11.2%, 2 seats</li><li>Komunistická strana Čech a Moravy (GUE/NGL): 5.4–7.6%, 1–2 seats</li><li>Česká strana sociálně demokratická (S&amp;D): 5.3–7.5%, 1 seats</li><li>Křesťanská a demokratická unie–Československá strana lidová (EPP): 4.2–6.2%, 0–1 seats</li><li>TOP 09–Starostové a nezávislí–Strana zelených (EPP): 6.4–8.8%, 1–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/czech_ep_polls/2019-03-20-SANEP.html</id>
+    <link href="https://filipvanlaenen.github.io/czech_ep_polls/2019-03-20-SANEP.html"/>
+    <title>Opinion Poll by SANEP, 14–20 March 2019</title>
+    <updated>2019-04-14T18:10:05.063675+02:00</updated>
+    <dc:date>2019-04-14T18:10:05.063675+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>ANO 2011 (ALDE): 29.3–34.9%, 7–9 seats</li><li>Občanská demokratická strana (ECR): 12.0–16.1%, 3–4 seats</li><li>Česká pirátská strana (*): 10.7–14.6%, 2–3 seats</li><li>Svoboda a přímá demokracie (ENF): 3.4–5.9%, 0–1 seats</li><li>Komunistická strana Čech a Moravy (GUE/NGL): 7.0–10.3%, 1–2 seats</li><li>Česká strana sociálně demokratická (S&amp;D): 10.7–14.6%, 2–3 seats</li><li>Křesťanská a demokratická unie–Československá strana lidová (EPP): 4.3–7.0%, 0–1 seats</li><li>TOP 09–Starostové a nezávislí–Strana zelených (EPP): 7.0–10.3%, 1–2 seats</li></ul></div></content>
@@ -479,5 +487,5 @@
     <updated>2018-02-28T21:28:02.104737+01:00</updated>
     <dc:date>2018-02-28T21:28:02.104737+01:00</dc:date>
   </entry>
-  <dc:date>2019-04-04T20:08:27.178639+02:00</dc:date>
+  <dc:date>2019-04-14T18:10:05.063675+02:00</dc:date>
 </feed>
