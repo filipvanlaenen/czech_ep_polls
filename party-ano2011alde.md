@@ -10,10 +10,10 @@ Last result: **16.1%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.4% | 29.4–33.4% | 28.8–33.9% | 28.3–34.4% | 27.4–35.4% |
+| N/A | [Poll Average](average.html) | 31.4% | 29.5–33.2% | 29.0–33.8% | 28.5–34.3% | 27.5–35.2% |
 | [21 March–4 April 2019](2019-04-04-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 20.8% | N/A | N/A | N/A | N/A |
 | [24 February–24 March 2019](2019-03-24-Median.html) | Median | 30.3% | 28.6–32.2% | 28.1–32.8% | 27.6–33.2% | 26.8–34.1% |
-| [14–20 March 2019](2019-03-20-SANEP.html) | SANEP | 31.5% | N/A | N/A | N/A | N/A |
+| [14–20 March 2019](2019-03-20-SANEP.html) | SANEP | 31.5% | 30.1–32.9% | 29.7–33.3% | 29.4–33.6% | 28.8–34.3% |
 | [12–13 March 2019](2019-03-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 32.0% | 30.3–33.9% | 29.8–34.4% | 29.3–34.9% | 28.5–35.7% |
 | [9 February–1 March 2019](2019-03-01-TNSKantar.html) | TNS Kantar <br> Česká televize | 31.0% | 29.3–32.8% | 28.9–33.3% | 28.4–33.7% | 27.6–34.5% |
 | [24 January–24 February 2019](2019-02-24-Median.html) | Median | 33.5% | 31.6–35.4% | 31.1–36.0% | 30.7–36.5% | 29.8–37.4% |
@@ -90,16 +90,16 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 0% | 100% |  |
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0.1% | 100% |  |
-| 26.5–27.5% | 0.6% | 99.9% |  |
-| 27.5–28.5% | 3% | 99.3% |  |
-| 28.5–29.5% | 9% | 96% |  |
-| 29.5–30.5% | 18% | 88% |  |
-| 30.5–31.5% | 25% | 70% | Median |
-| 31.5–32.5% | 23% | 45% |  |
-| 32.5–33.5% | 14% | 22% |  |
-| 33.5–34.5% | 6% | 8% |  |
-| 34.5–35.5% | 2% | 2% |  |
-| 35.5–36.5% | 0.3% | 0.4% |  |
+| 26.5–27.5% | 0.5% | 99.9% |  |
+| 27.5–28.5% | 2% | 99.5% |  |
+| 28.5–29.5% | 8% | 97% |  |
+| 29.5–30.5% | 17% | 89% |  |
+| 30.5–31.5% | 26% | 72% | Median |
+| 31.5–32.5% | 25% | 46% |  |
+| 32.5–33.5% | 14% | 21% |  |
+| 33.5–34.5% | 5% | 7% |  |
+| 34.5–35.5% | 1.4% | 2% |  |
+| 35.5–36.5% | 0.3% | 0.3% |  |
 | 36.5–37.5% | 0% | 0% |  |
 
 
@@ -111,10 +111,10 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–8 | 7–8 | 6–8 | 6–9 |
+| N/A | [Poll Average](average.html) | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [21 March–4 April 2019](2019-04-04-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy |  |  |  |  |  |
 | [24 February–24 March 2019](2019-03-24-Median.html) | Median | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [14–20 March 2019](2019-03-20-SANEP.html) | SANEP |  |  |  |  |  |
+| [14–20 March 2019](2019-03-20-SANEP.html) | SANEP | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [12–13 March 2019](2019-03-13-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | [9 February–1 March 2019](2019-03-01-TNSKantar.html) | TNS Kantar <br> Česká televize | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | [24 January–24 February 2019](2019-02-24-Median.html) | Median | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
@@ -184,10 +184,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
-| 6 | 3% | 100% |  |
-| 7 | 39% | 97% |  |
-| 8 | 56% | 58% | Median |
-| 9 | 2% | 2% |  |
+| 6 | 2% | 100% |  |
+| 7 | 34% | 98% |  |
+| 8 | 61% | 64% | Median |
+| 9 | 3% | 3% |  |
 | 10 | 0% | 0% |  |
 
 
