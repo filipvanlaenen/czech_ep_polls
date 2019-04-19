@@ -83,7 +83,7 @@ Only polls for which at least the sample size has been published are included in
 + **SVOBODNÍ:** Strana svobodných občanů (EFDD)
 + **Piráti:** Česká pirátská strana (*)
 + **ZELENÍ:** Strana zelených (Greens/EFA)
-+ **SPD:** Svoboda a přímá demokracie (ENF)
++ **SPD:** Svoboda a přímá demokracie (EAPN)
 + **TOP 09–STAN–ZELENÍ:** TOP 09–Starostové a nezávislí–Strana zelených (EPP)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
