@@ -17,7 +17,7 @@
 | Komunistická strana Čech a Moravy (GUE/NGL) | 11.0% | 8.5% | 7.5–9.7% |7.2–10.0% |7.0–10.3% |6.5–10.9% |
 | TOP 09–Starostové a nezávislí–Strana zelených (EPP) | 3.8% | 8.5% | 7.5–9.7% |7.2–10.0% |7.0–10.3% |6.5–10.9% |
 | Křesťanská a demokratická unie–Československá strana lidová (EPP) | 10.0% | 5.5% | 4.7–6.5% |4.5–6.7% |4.3–7.0% |3.9–7.5% |
-| Svoboda a přímá demokracie (ENF) | 0.0% | 4.5% | 3.8–5.4% |3.6–5.6% |3.4–5.9% |3.1–6.3% |
+| Svoboda a přímá demokracie (EAPN) | 0.0% | 4.5% | 3.8–5.4% |3.6–5.6% |3.4–5.9% |3.1–6.3% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -36,7 +36,7 @@
 | <a href="#komunistická-strana-čech-a-moravy-(gue/ngl)">Komunistická strana Čech a Moravy (GUE/NGL)</a> | 3 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#top-09–starostové-a-nezávislí–strana-zelených-(epp)">TOP 09–Starostové a nezávislí–Strana zelených (EPP)</a> | 4 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#křesťanská-a-demokratická-unie–československá-strana-lidová-(epp)">Křesťanská a demokratická unie–Československá strana lidová (EPP)</a> | 3 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#svoboda-a-přímá-demokracie-(enf)">Svoboda a přímá demokracie (ENF)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#svoboda-a-přímá-demokracie-(eapn)">Svoboda a přímá demokracie (EAPN)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 
 ### ANO 2011 (ALDE)
 
@@ -134,11 +134,11 @@
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% | Last Result |
 
-### Svoboda a přímá demokracie (ENF)
+### Svoboda a přímá demokracie (EAPN)
 
-*For a full overview of the results for this party, see the [Svoboda a přímá demokracie (ENF)](party-svobodaapřímádemokracieenf.html) page.*
+*For a full overview of the results for this party, see the [Svoboda a přímá demokracie (EAPN)](party-svobodaapřímádemokracieeapn.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-03-13-Centrumprovýzkumveřejnéhomínění-seats-pmf-svobodaapřímádemokracieenf.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-03-13-Centrumprovýzkumveřejnéhomínění-seats-pmf-svobodaapřímádemokracieeapn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -161,7 +161,7 @@
 | Česká pirátská strana (*) | 0 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–4 |
 | Česká strana sociálně demokratická (S&D) | 4 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–4 |
 | Komunistická strana Čech a Moravy (GUE/NGL) | 3 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
-| Svoboda a přímá demokracie (ENF) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Svoboda a přímá demokracie (EAPN) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### ANO 2011 (ALDE)
 
@@ -237,7 +237,7 @@
 | 3 | 0.1% | 0.1% | Last Result |
 | 4 | 0% | 0% |  |
 
-### Svoboda a přímá demokracie (ENF)
+### Svoboda a přímá demokracie (EAPN)
 
 ![Graph with seats probability mass function not yet produced](2019-03-13-Centrumprovýzkumveřejnéhomínění-coalitions-seats-pmf-spd.png "Seats Probability Mass Function")
 

@@ -11,14 +11,13 @@
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | ANO 2011 (ALDE) | 16.1% | 28.0% | 26.4–29.7% |25.9–30.2% |25.5–30.6% |24.8–31.4% |
-| Česká pirátská strana (Greens/EFA) | 4.8% | 15.0% | 13.7–16.4% |13.4–16.8% |13.1–17.1% |12.5–17.8% |
+| Česká pirátská strana (*) | 4.8% | 15.0% | 13.7–16.4% |13.4–16.8% |13.1–17.1% |12.5–17.8% |
 | Občanská demokratická strana (ECR) | 7.7% | 13.0% | 11.8–14.3% |11.5–14.7% |11.2–15.0% |10.7–15.7% |
-| Svoboda a přímá demokracie (ENF) | 0.0% | 8.0% | 7.1–9.1% |6.8–9.4% |6.6–9.7% |6.2–10.2% |
+| TOP 09–Starostové a nezávislí–Strana zelených (EPP) | 3.8% | 12.0% | N/A |N/A |N/A |N/A |
+| Svoboda a přímá demokracie (EAPN) | 0.0% | 8.0% | 7.1–9.1% |6.8–9.4% |6.6–9.7% |6.2–10.2% |
 | Komunistická strana Čech a Moravy (GUE/NGL) | 11.0% | 8.0% | 7.1–9.1% |6.8–9.4% |6.6–9.7% |6.2–10.2% |
 | Česká strana sociálně demokratická (S&D) | 14.2% | 7.0% | 6.1–8.0% |5.9–8.3% |5.7–8.6% |5.3–9.1% |
-| Starostové a nezávislí (EPP) | 16.0% | 7.0% | 6.1–8.0% |5.9–8.3% |5.7–8.6% |5.3–9.1% |
 | Křesťanská a demokratická unie–Československá strana lidová (EPP) | 10.0% | 6.0% | 5.2–7.0% |5.0–7.3% |4.8–7.5% |4.4–8.0% |
-| TOP 09 (EPP) | 16.0% | 5.0% | 4.3–5.9% |4.1–6.2% |3.9–6.4% |3.6–6.8% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -31,238 +30,11 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#ano-2011-(alde)">ANO 2011 (ALDE)</a> | 4 | 7 | 6–8 |6–8 |6–8 |6–8 |
-| <a href="#česká-pirátská-strana-(greens/efa)">Česká pirátská strana (Greens/EFA)</a> | 0 | 3 | 3–4 |3–4 |3–4 |3–4 |
+| <a href="#česká-pirátská-strana-(*)">Česká pirátská strana (*)</a> | 0 | 3 | 3–4 |3–4 |3–4 |3–4 |
 | <a href="#občanská-demokratická-strana-(ecr)">Občanská demokratická strana (ECR)</a> | 2 | 3 | 3 |2–4 |2–4 |2–4 |
-| <a href="#svoboda-a-přímá-demokracie-(enf)">Svoboda a přímá demokracie (ENF)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#top-09–starostové-a-nezávislí–strana-zelených-(epp)">TOP 09–Starostové a nezávislí–Strana zelených (EPP)</a> | 4 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#svoboda-a-přímá-demokracie-(eapn)">Svoboda a přímá demokracie (EAPN)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#komunistická-strana-čech-a-moravy-(gue/ngl)">Komunistická strana Čech a Moravy (GUE/NGL)</a> | 3 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#česká-strana-sociálně-demokratická-(s&d)">Česká strana sociálně demokratická (S&D)</a> | 4 | 1 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#starostové-a-nezávislí-(epp)">Starostové a nezávislí (EPP)</a> | 1 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#křesťanská-a-demokratická-unie–československá-strana-lidová-(epp)">Křesťanská a demokratická unie–Československá strana lidová (EPP)</a> | 3 | 1 | 1 |0–1 |0–2 |0–2 |
-| <a href="#top-09-(epp)">TOP 09 (EPP)</a> | 3 | 1 | 0–1 |0–1 |0–1 |0–1 |
-
-### ANO 2011 (ALDE)
-
-*For a full overview of the results for this party, see the [ANO 2011 (ALDE)](party-ano2011alde.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-08-26-TNSKantar-seats-pmf-ano2011alde.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0% | 100% | Last Result |
-| 5 | 0% | 100% |  |
-| 6 | 15% | 100% |  |
-| 7 | 73% | 85% | Median |
-| 8 | 12% | 12% |  |
-| 9 | 0.1% | 0.1% |  |
-| 10 | 0% | 0% |  |
-
-### Česká pirátská strana (Greens/EFA)
-
-*For a full overview of the results for this party, see the [Česká pirátská strana (Greens/EFA)](party-českápirátskástranagreensefa.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-08-26-TNSKantar-seats-pmf-českápirátskástranagreensefa.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 52% | 100% | Median |
-| 4 | 47% | 48% |  |
-| 5 | 0.2% | 0.2% |  |
-| 6 | 0% | 0% |  |
-
-### Občanská demokratická strana (ECR)
-
-*For a full overview of the results for this party, see the [Občanská demokratická strana (ECR)](party-občanskádemokratickástranaecr.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-08-26-TNSKantar-seats-pmf-občanskádemokratickástranaecr.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 5% | 100% | Last Result |
-| 3 | 89% | 95% | Median |
-| 4 | 6% | 6% |  |
-| 5 | 0% | 0% |  |
-
-### Svoboda a přímá demokracie (ENF)
-
-*For a full overview of the results for this party, see the [Svoboda a přímá demokracie (ENF)](party-svobodaapřímádemokracieenf.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-08-26-TNSKantar-seats-pmf-svobodaapřímádemokracieenf.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 22% | 100% |  |
-| 2 | 77% | 78% | Median |
-| 3 | 0% | 0% |  |
-
-### Komunistická strana Čech a Moravy (GUE/NGL)
-
-*For a full overview of the results for this party, see the [Komunistická strana Čech a Moravy (GUE/NGL)](party-komunistickástranačechamoravyguengl.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-08-26-TNSKantar-seats-pmf-komunistickástranačechamoravyguengl.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 27% | 100% |  |
-| 2 | 73% | 73% | Median |
-| 3 | 0% | 0% | Last Result |
-
-### Česká strana sociálně demokratická (S&D)
-
-*For a full overview of the results for this party, see the [Česká strana sociálně demokratická (S&D)](party-českástranasociálnědemokratickásd.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-08-26-TNSKantar-seats-pmf-českástranasociálnědemokratickásd.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 73% | 99.9% | Median |
-| 2 | 27% | 27% |  |
-| 3 | 0% | 0% |  |
-| 4 | 0% | 0% | Last Result |
-
-### Starostové a nezávislí (EPP)
-
-*For a full overview of the results for this party, see the [Starostové a nezávislí (EPP)](party-starostovéanezávislíepp.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-08-26-TNSKantar-seats-pmf-starostovéanezávislíepp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% |  |
-| 1 | 72% | 99.8% | Last Result, Median |
-| 2 | 28% | 28% |  |
-| 3 | 0% | 0% |  |
-
-### Křesťanská a demokratická unie–Československá strana lidová (EPP)
-
-*For a full overview of the results for this party, see the [Křesťanská a demokratická unie–Československá strana lidová (EPP)](party-křesťanskáademokratickáunie–československástranalidováepp.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-08-26-TNSKantar-seats-pmf-křesťanskáademokratickáunie–československástranalidováepp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% |  |
-| 1 | 88% | 92% | Median |
-| 2 | 4% | 4% |  |
-| 3 | 0% | 0% | Last Result |
-
-### TOP 09 (EPP)
-
-*For a full overview of the results for this party, see the [TOP 09 (EPP)](party-top09epp.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-08-26-TNSKantar-seats-pmf-top09epp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 47% | 100% |  |
-| 1 | 53% | 53% | Median |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% | Last Result |
-
-
-## Coalitions
-
-![Graph with coalitions seats not yet produced](2018-08-26-TNSKantar-coalitions-seats.png "Coalitions Seats")
-
-### Confidence Intervals
-
-| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
-|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| ANO 2011 (ALDE) | 4 | 7 | 0% | 6–8 | 6–8 | 6–8 | 6–8 |
-| Starostové a nezávislí (EPP) – Křesťanská a demokratická unie–Československá strana lidová (EPP) – TOP 09 (EPP) | 7 | 3 | 0% | 2–4 | 2–4 | 2–4 | 1–4 |
-| Občanská demokratická strana (ECR) | 2 | 3 | 0% | 3 | 2–4 | 2–4 | 2–4 |
-| Komunistická strana Čech a Moravy (GUE/NGL) | 3 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
-| Svoboda a přímá demokracie (ENF) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
-| Česká strana sociálně demokratická (S&D) | 4 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
-
-### ANO 2011 (ALDE)
-
-![Graph with seats probability mass function not yet produced](2018-08-26-TNSKantar-coalitions-seats-pmf-ano.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0% | 100% | Last Result |
-| 5 | 0% | 100% |  |
-| 6 | 15% | 100% |  |
-| 7 | 73% | 85% | Median |
-| 8 | 12% | 12% |  |
-| 9 | 0.1% | 0.1% |  |
-| 10 | 0% | 0% |  |
-
-### Starostové a nezávislí (EPP) – Křesťanská a demokratická unie–Československá strana lidová (EPP) – TOP 09 (EPP)
-
-![Graph with seats probability mass function not yet produced](2018-08-26-TNSKantar-coalitions-seats-pmf-stan–kdu–čsl–top09.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.4% | 100% |  |
-| 2 | 32% | 98.6% |  |
-| 3 | 56% | 67% | Median |
-| 4 | 11% | 11% |  |
-| 5 | 0.2% | 0.2% |  |
-| 6 | 0% | 0% |  |
-| 7 | 0% | 0% | Last Result |
-
-### Občanská demokratická strana (ECR)
-
-![Graph with seats probability mass function not yet produced](2018-08-26-TNSKantar-coalitions-seats-pmf-ods.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 5% | 100% | Last Result |
-| 3 | 89% | 95% | Median |
-| 4 | 6% | 6% |  |
-| 5 | 0% | 0% |  |
-
-### Komunistická strana Čech a Moravy (GUE/NGL)
-
-![Graph with seats probability mass function not yet produced](2018-08-26-TNSKantar-coalitions-seats-pmf-ksčm.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 27% | 100% |  |
-| 2 | 73% | 73% | Median |
-| 3 | 0% | 0% | Last Result |
-
-### Svoboda a přímá demokracie (ENF)
-
-![Graph with seats probability mass function not yet produced](2018-08-26-TNSKantar-coalitions-seats-pmf-spd.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 22% | 100% |  |
-| 2 | 77% | 78% | Median |
-| 3 | 0% | 0% |  |
-
-### Česká strana sociálně demokratická (S&D)
-
-![Graph with seats probability mass function not yet produced](2018-08-26-TNSKantar-coalitions-seats-pmf-čssd.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 73% | 99.9% | Median |
-| 2 | 27% | 27% |  |
-| 3 | 0% | 0% |  |
-| 4 | 0% | 0% | Last Result |
-
-
-## Technical Information
-
-### Opinion Poll
-
-+ **Polling firm:** TNS Kantar
-+ **Commissioner(s):** —
-+ **Fieldwork period:** 4–26 August 2018
-
-### Calculations
-
-+ **Sample size:** 1200
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.45%
 
