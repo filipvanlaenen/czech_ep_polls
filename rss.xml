@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 17 Apr 2019 17:28:31 +0200</pubDate>
+    <pubDate>Sat, 27 Apr 2019 21:29:13 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 30 March–10 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-04-10-Centrumprovýzkumveřejnéhomínění.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (ALDE): 28.7–35.5%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 11.7–16.8%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (*): 10.7–15.6%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (EAPN): 4.5–8.0%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 8.9–13.5%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 10.7–15.6%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 2.8–5.7%&lt;/li&gt;&lt;li&gt;TOP 09–Starostové a nezávislí–Strana zelených (EPP): 6.3–10.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-04-10-Centrumprovýzkumveřejnéhomínění.png"
+        length="273192"
+        type="image/png"/>
+      <pubDate>Sat, 27 Apr 2019 21:29:13 +0200</pubDate>
+      <dc:date>2019-04-27T21:29:13.845262+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Phoenix Research for Blesk Zprávy, 21 March–4 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-04-04-PhoenixResearch.html#seats</link>
@@ -1839,6 +1849,6 @@
       <pubDate>Wed, 28 Feb 2018 21:28:02 +0100</pubDate>
       <dc:date>2018-02-28T21:28:02.104737+01:00</dc:date>
     </item>
-    <dc:date>2019-04-17T17:28:31.116617+02:00</dc:date>
+    <dc:date>2019-04-27T21:29:13.845262+02:00</dc:date>
   </channel>
 </rss>
