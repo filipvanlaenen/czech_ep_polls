@@ -10,8 +10,8 @@ Last result: **16.1%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.8% | 20.9–32.9% | 19.9–33.4% | 19.2–33.9% | 18.0–34.9% |
-| [30 March–10 April 2019](2019-04-10-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 32.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 31.0% | 21.3–33.2% | 20.1–33.8% | 19.3–34.4% | 18.1–35.6% |
+| [30 March–10 April 2019](2019-04-10-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 32.0% | 29.8–34.3% | 29.2–34.9% | 28.7–35.5% | 27.7–36.6% |
 | [21 March–4 April 2019](2019-04-04-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 20.8% | 19.0–22.9% | 18.4–23.4% | 18.0–23.9% | 17.1–25.0% |
 | [24 February–24 March 2019](2019-03-24-Median.html) | Median | 30.3% | 28.6–32.2% | 28.1–32.8% | 27.6–33.2% | 26.8–34.1% |
 | [14–20 March 2019](2019-03-20-SANEP.html) | SANEP | 31.5% | 30.1–32.9% | 29.7–33.3% | 29.4–33.6% | 28.8–34.3% |
@@ -82,26 +82,27 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% | Last Result |
 | 16.5–17.5% | 0.2% | 100% |  |
-| 17.5–18.5% | 0.9% | 99.8% |  |
-| 18.5–19.5% | 3% | 98.8% |  |
-| 19.5–20.5% | 5% | 96% |  |
-| 20.5–21.5% | 5% | 92% |  |
-| 21.5–22.5% | 4% | 87% |  |
-| 22.5–23.5% | 2% | 83% |  |
-| 23.5–24.5% | 0.7% | 81% |  |
-| 24.5–25.5% | 0.2% | 80% |  |
-| 25.5–26.5% | 0.1% | 80% |  |
-| 26.5–27.5% | 0.5% | 80% |  |
-| 27.5–28.5% | 2% | 79% |  |
-| 28.5–29.5% | 7% | 77% |  |
-| 29.5–30.5% | 15% | 70% |  |
-| 30.5–31.5% | 22% | 55% | Median |
-| 31.5–32.5% | 19% | 33% |  |
-| 32.5–33.5% | 10% | 14% |  |
-| 33.5–34.5% | 3% | 4% |  |
-| 34.5–35.5% | 0.7% | 0.9% |  |
-| 35.5–36.5% | 0.1% | 0.1% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 17.5–18.5% | 0.8% | 99.8% |  |
+| 18.5–19.5% | 2% | 99.0% |  |
+| 19.5–20.5% | 4% | 97% |  |
+| 20.5–21.5% | 4% | 93% |  |
+| 21.5–22.5% | 3% | 89% |  |
+| 22.5–23.5% | 2% | 86% |  |
+| 23.5–24.5% | 0.6% | 84% |  |
+| 24.5–25.5% | 0.1% | 83% |  |
+| 25.5–26.5% | 0.1% | 83% |  |
+| 26.5–27.5% | 0.5% | 83% |  |
+| 27.5–28.5% | 2% | 83% |  |
+| 28.5–29.5% | 7% | 81% |  |
+| 29.5–30.5% | 15% | 74% |  |
+| 30.5–31.5% | 22% | 59% | Median |
+| 31.5–32.5% | 20% | 38% |  |
+| 32.5–33.5% | 11% | 18% |  |
+| 33.5–34.5% | 5% | 7% |  |
+| 34.5–35.5% | 1.5% | 2% |  |
+| 35.5–36.5% | 0.4% | 0.5% |  |
+| 36.5–37.5% | 0.1% | 0.1% |  |
+| 37.5–38.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -113,7 +114,7 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 4–8 | 4–9 |
-| [30 March–10 April 2019](2019-04-10-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění |  |  |  |  |  |
+| [30 March–10 April 2019](2019-04-10-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 7 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [21 March–4 April 2019](2019-04-04-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [24 February–24 March 2019](2019-03-24-Median.html) | Median | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [14–20 March 2019](2019-03-20-SANEP.html) | SANEP | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
@@ -184,10 +185,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 4% | 100% | Last Result |
-| 5 | 15% | 96% |  |
-| 6 | 4% | 82% |  |
-| 7 | 28% | 78% | Median |
+| 4 | 3% | 100% | Last Result |
+| 5 | 12% | 97% |  |
+| 6 | 3% | 85% |  |
+| 7 | 32% | 81% | Median |
 | 8 | 47% | 49% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
