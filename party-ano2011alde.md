@@ -114,7 +114,7 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 4–8 | 4–9 |
-| [30 March–10 April 2019](2019-04-10-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 7 | 7–8 | 7–8 | 7–9 | 6–9 |
+| [30 March–10 April 2019](2019-04-10-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [21 March–4 April 2019](2019-04-04-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [24 February–24 March 2019](2019-03-24-Median.html) | Median | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [14–20 March 2019](2019-03-20-SANEP.html) | SANEP | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
@@ -187,9 +187,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 3% | 100% | Last Result |
 | 5 | 12% | 97% |  |
-| 6 | 3% | 85% |  |
-| 7 | 32% | 81% | Median |
-| 8 | 47% | 49% |  |
+| 6 | 4% | 85% |  |
+| 7 | 34% | 81% | Median |
+| 8 | 45% | 47% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
