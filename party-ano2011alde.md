@@ -115,7 +115,7 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 4–8 | 4–9 |
-| [5–17 April 2019](2019-04-17-STEM.html) | STEM | 8 | 8 | 8 | 7–9 | 7–9 |
+| [5–17 April 2019](2019-04-17-STEM.html) | STEM | 8 | 8 | 7–9 | 7–9 | 7–9 |
 | [30 March–10 April 2019](2019-04-10-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [21 March–4 April 2019](2019-04-04-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [24 February–24 March 2019](2019-03-24-Median.html) | Median | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
