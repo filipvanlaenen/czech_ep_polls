@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 05 May 2019 09:33:43 +0200</pubDate>
+    <pubDate>Mon, 06 May 2019 18:33:09 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by STEM, 5–17 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-04-17-STEM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (ALDE): 7–9 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (EAPN): 2 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana svobodných občanů (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;TOP 09–Starostové a nezávislí–Strana zelených (EPP): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-04-17-STEM-seats.png"
+        length="233156"
+        type="image/png"/>
+      <pubDate>Mon, 06 May 2019 18:33:09 +0200</pubDate>
+      <dc:date>2019-05-06T18:33:09.754337+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by STEM, 5–17 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-04-17-STEM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-04-17-STEM-coalitions-seats.png"
+        length="144904"
+        type="image/png"/>
+      <pubDate>Mon, 06 May 2019 18:33:09 +0200</pubDate>
+      <dc:date>2019-05-06T18:33:09.754337+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by STEM, 5–17 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-04-17-STEM.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-04-17-STEM.png"
         length="271025"
         type="image/png"/>
-      <pubDate>Sun, 05 May 2019 09:33:43 +0200</pubDate>
-      <dc:date>2019-05-05T09:33:43.234146+02:00</dc:date>
+      <pubDate>Mon, 06 May 2019 18:33:09 +0200</pubDate>
+      <dc:date>2019-05-06T18:33:09.754337+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 30 March–10 April 2019 – Seat Projections for the Parties</title>
@@ -1879,6 +1899,6 @@
       <pubDate>Wed, 28 Feb 2018 21:28:02 +0100</pubDate>
       <dc:date>2018-02-28T21:28:02.104737+01:00</dc:date>
     </item>
-    <dc:date>2019-05-05T09:33:43.234146+02:00</dc:date>
+    <dc:date>2019-05-06T18:33:09.754337+02:00</dc:date>
   </channel>
 </rss>
