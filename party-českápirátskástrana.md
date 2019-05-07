@@ -10,7 +10,7 @@ Last result: **4.8%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.4% | 12.9–23.8% | 12.2–25.0% | 11.7–25.9% | 10.8–27.3% |
+| N/A | [Poll Average](average.html) | 15.8% | 11.1–23.8% | 10.5–25.0% | 10.1–25.9% | 9.3–27.3% |
 | [5–17 April 2019](2019-04-17-STEM.html) | STEM | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.3–13.0% | 8.7–13.7% |
 | [30 March–10 April 2019](2019-04-10-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 12.9% | 11.4–14.7% | 11.0–15.2% | 10.7–15.6% | 10.0–16.5% |
 | [21 March–4 April 2019](2019-04-04-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 24.2% | 22.2–26.3% | 21.6–26.9% | 21.2–27.4% | 20.3–28.5% |
@@ -85,16 +85,16 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.3% | 100% |  |
-| 10.5–11.5% | 2% | 99.7% |  |
-| 11.5–12.5% | 5% | 98% |  |
-| 12.5–13.5% | 10% | 93% |  |
-| 13.5–14.5% | 12% | 83% |  |
-| 14.5–15.5% | 11% | 71% |  |
-| 15.5–16.5% | 12% | 60% | Median |
-| 16.5–17.5% | 15% | 48% |  |
-| 17.5–18.5% | 11% | 33% |  |
+| 8.5–9.5% | 0.9% | 100% |  |
+| 9.5–10.5% | 4% | 99.1% |  |
+| 10.5–11.5% | 8% | 95% |  |
+| 11.5–12.5% | 9% | 86% |  |
+| 12.5–13.5% | 10% | 77% |  |
+| 13.5–14.5% | 10% | 67% |  |
+| 14.5–15.5% | 6% | 57% |  |
+| 15.5–16.5% | 7% | 51% | Median |
+| 16.5–17.5% | 12% | 44% |  |
+| 17.5–18.5% | 11% | 32% |  |
 | 18.5–19.5% | 4% | 21% |  |
 | 19.5–20.5% | 0.8% | 17% |  |
 | 20.5–21.5% | 0.7% | 17% |  |
@@ -117,7 +117,7 @@ Last result: **0** seats (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 2–6 | 2–7 |
+| N/A | [Poll Average](average.html) | 4 | 2–6 | 2–6 | 2–6 | 2–7 |
 | [5–17 April 2019](2019-04-17-STEM.html) | STEM | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [30 March–10 April 2019](2019-04-10-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [21 March–4 April 2019](2019-04-04-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
@@ -192,9 +192,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 3% | 100% |  |
-| 3 | 38% | 97% |  |
-| 4 | 39% | 59% | Median |
+| 2 | 19% | 100% |  |
+| 3 | 30% | 81% |  |
+| 4 | 31% | 52% | Median |
 | 5 | 9% | 20% |  |
 | 6 | 10% | 11% |  |
 | 7 | 0.9% | 0.9% |  |
