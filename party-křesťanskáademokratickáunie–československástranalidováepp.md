@@ -11,6 +11,8 @@ Last result: **10.0%** (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.0% | 3.9–6.2% | 3.6–6.7% | 3.3–7.1% | 2.9–7.9% |
+| [12 April–3 May 2019](2019-05-03-TNSKantar.html) | TNS Kantar <br> Česká televize | 5.9% | N/A | N/A | N/A | N/A |
+| [29 April–3 May 2019](2019-05-03-STEM.html) | STEM | 6.3% | N/A | N/A | N/A | N/A |
 | [5–17 April 2019](2019-04-17-STEM.html) | STEM | 5.0% | 4.3–6.0% | 4.1–6.3% | 3.9–6.5% | 3.5–7.0% |
 | [30 March–10 April 2019](2019-04-10-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 4.0% | 3.2–5.2% | 3.0–5.5% | 2.8–5.7% | 2.5–6.3% |
 | [21 March–4 April 2019](2019-04-04-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 6.0% | 5.0–7.3% | 4.7–7.7% | 4.5–8.0% | 4.1–8.7% |
@@ -102,6 +104,8 @@ Last result: **3** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [12 April–3 May 2019](2019-05-03-TNSKantar.html) | TNS Kantar <br> Česká televize |  |  |  |  |  |
+| [29 April–3 May 2019](2019-05-03-STEM.html) | STEM |  |  |  |  |  |
 | [5–17 April 2019](2019-04-17-STEM.html) | STEM | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 March–10 April 2019](2019-04-10-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [21 March–4 April 2019](2019-04-04-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
