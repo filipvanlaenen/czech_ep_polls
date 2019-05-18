@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.8% | 4.7–10.5% | 4.1–10.9% | 3.8–11.2% | 3.2–11.9% |
+| N/A | [Poll Average](average.html) | 7.4% | 4.3–10.3% | 3.9–10.8% | 3.6–11.2% | 3.1–12.0% |
 | [12 April–3 May 2019](2019-05-03-TNSKantar.html) | TNS Kantar <br> Česká televize | 8.9% | N/A | N/A | N/A | N/A |
 | [29 April–3 May 2019](2019-05-03-STEM.html) | STEM | 14.6% | N/A | N/A | N/A | N/A |
 | [5–17 April 2019](2019-04-17-STEM.html) | STEM | 10.0% | 8.9–11.2% | 8.6–11.6% | 8.3–11.9% | 7.8–12.5% |
@@ -86,16 +86,16 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.4% | 100% |  |
-| 3.5–4.5% | 8% | 98.6% |  |
-| 4.5–5.5% | 10% | 91% |  |
-| 5.5–6.5% | 9% | 81% |  |
-| 6.5–7.5% | 6% | 72% |  |
-| 7.5–8.5% | 11% | 66% |  |
-| 8.5–9.5% | 23% | 55% | Median |
-| 9.5–10.5% | 23% | 32% |  |
-| 10.5–11.5% | 8% | 9% |  |
-| 11.5–12.5% | 1.1% | 1.2% |  |
+| 2.5–3.5% | 2% | 100% |  |
+| 3.5–4.5% | 11% | 98% |  |
+| 4.5–5.5% | 16% | 87% |  |
+| 5.5–6.5% | 14% | 71% |  |
+| 6.5–7.5% | 9% | 57% | Median |
+| 7.5–8.5% | 12% | 48% |  |
+| 8.5–9.5% | 16% | 36% |  |
+| 9.5–10.5% | 13% | 20% |  |
+| 10.5–11.5% | 6% | 7% |  |
+| 11.5–12.5% | 1.2% | 1.3% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
@@ -108,7 +108,7 @@ Last result: **0** seats (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
+| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [12 April–3 May 2019](2019-05-03-TNSKantar.html) | TNS Kantar <br> Česká televize |  |  |  |  |  |
 | [29 April–3 May 2019](2019-05-03-STEM.html) | STEM |  |  |  |  |  |
 | [5–17 April 2019](2019-04-17-STEM.html) | STEM | 2 | 2 | 2 | 2 | 2–3 |
@@ -183,10 +183,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% | Last Result |
-| 1 | 22% | 87% |  |
-| 2 | 64% | 65% | Median |
-| 3 | 1.1% | 1.1% |  |
+| 0 | 20% | 100% | Last Result |
+| 1 | 33% | 80% | Median |
+| 2 | 47% | 47% |  |
+| 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
 

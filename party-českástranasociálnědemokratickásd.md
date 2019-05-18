@@ -10,7 +10,7 @@ Last result: **14.2%** (General Election of 24–25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.1% | 6.1–12.7% | 5.8–13.7% | 5.6–14.3% | 5.1–15.5% |
+| N/A | [Poll Average](average.html) | 9.1% | 7.4–13.3% | 7.0–14.1% | 6.7–14.7% | 6.3–15.7% |
 | [12 April–3 May 2019](2019-05-03-TNSKantar.html) | TNS Kantar <br> Česká televize | 6.9% | N/A | N/A | N/A | N/A |
 | [29 April–3 May 2019](2019-05-03-STEM.html) | STEM | 6.3% | N/A | N/A | N/A | N/A |
 | [5–17 April 2019](2019-04-17-STEM.html) | STEM | 8.0% | 7.0–9.2% | 6.8–9.5% | 6.5–9.8% | 6.1–10.4% |
@@ -83,19 +83,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 2% | 100% |  |
-| 5.5–6.5% | 18% | 98% |  |
-| 6.5–7.5% | 20% | 80% |  |
-| 7.5–8.5% | 18% | 59% | Median |
-| 8.5–9.5% | 12% | 41% |  |
-| 9.5–10.5% | 7% | 29% |  |
-| 10.5–11.5% | 5% | 22% |  |
-| 11.5–12.5% | 5% | 16% |  |
-| 12.5–13.5% | 5% | 11% |  |
-| 13.5–14.5% | 4% | 6% | Last Result |
-| 14.5–15.5% | 1.5% | 2% |  |
-| 15.5–16.5% | 0.4% | 0.4% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 1.4% | 100% |  |
+| 6.5–7.5% | 12% | 98.6% |  |
+| 7.5–8.5% | 25% | 86% |  |
+| 8.5–9.5% | 18% | 62% | Median |
+| 9.5–10.5% | 11% | 44% |  |
+| 10.5–11.5% | 8% | 32% |  |
+| 11.5–12.5% | 8% | 24% |  |
+| 12.5–13.5% | 8% | 17% |  |
+| 13.5–14.5% | 5% | 8% | Last Result |
+| 14.5–15.5% | 2% | 3% |  |
+| 15.5–16.5% | 0.6% | 0.7% |  |
 | 16.5–17.5% | 0.1% | 0.1% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
@@ -183,11 +182,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% |  |
-| 1 | 48% | 99.7% |  |
-| 2 | 36% | 52% | Median |
-| 3 | 16% | 16% |  |
-| 4 | 0.1% | 0.1% | Last Result |
+| 1 | 25% | 100% |  |
+| 2 | 51% | 75% | Median |
+| 3 | 24% | 24% |  |
+| 4 | 0.2% | 0.2% | Last Result |
 | 5 | 0% | 0% |  |
 
 
