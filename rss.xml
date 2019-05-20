@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 06 May 2019 18:33:09 +0200</pubDate>
+    <pubDate>Mon, 20 May 2019 19:19:36 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by TNS Kantar for Česká televize, 12 April–3 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-05-03-TNSKantar.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (ALDE): 26.7–32.7%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 11.7–16.2%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (*): 13.5–18.3%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (EAPN): 7.2–11.0%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 4.5–7.7%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 5.4–8.8%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 4.5–7.7%&lt;/li&gt;&lt;li&gt;TOP 09–Starostové a nezávislí–Strana zelených (EPP): 8.1–12.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-05-03-TNSKantar.png"
+        length="271951"
+        type="image/png"/>
+      <pubDate>Mon, 20 May 2019 19:04:56 +0200</pubDate>
+      <dc:date>2019-05-20T19:04:56.346134+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by STEM, 29 April–3 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-05-03-STEM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (ALDE): 18.9–22.8%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 10.0–13.1%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (*): 14.9–18.5%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (EAPN): 13.0–16.4%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 6.1–8.7%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 5.2–7.5%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 5.2–7.5%&lt;/li&gt;&lt;li&gt;TOP 09–Starostové a nezávislí–Strana zelených (EPP): 11.0–14.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-05-03-STEM.png"
+        length="272738"
+        type="image/png"/>
+      <pubDate>Mon, 20 May 2019 19:19:36 +0200</pubDate>
+      <dc:date>2019-05-20T19:19:36.4046+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by STEM, 5–17 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-04-17-STEM.html#seats</link>
@@ -1899,6 +1919,6 @@
       <pubDate>Wed, 28 Feb 2018 21:28:02 +0100</pubDate>
       <dc:date>2018-02-28T21:28:02.104737+01:00</dc:date>
     </item>
-    <dc:date>2019-05-06T18:33:09.754337+02:00</dc:date>
+    <dc:date>2019-05-20T19:19:36.4046+02:00</dc:date>
   </channel>
 </rss>
