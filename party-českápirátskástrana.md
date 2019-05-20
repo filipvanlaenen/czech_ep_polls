@@ -11,8 +11,8 @@ Last result: **4.8%** (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.6% | 10.7–24.6% | 10.2–25.6% | 9.8–26.3% | 9.2–27.6% |
-| [12 April–3 May 2019](2019-05-03-TNSKantar.html) | TNS Kantar <br> Česká televize | 15.7% | N/A | N/A | N/A | N/A |
-| [29 April–3 May 2019](2019-05-03-STEM.html) | STEM | 16.6% | N/A | N/A | N/A | N/A |
+| [12 April–3 May 2019](2019-05-03-TNSKantar.html) | TNS Kantar <br> Česká televize | 15.7% | 14.2–17.4% | 13.8–17.9% | 13.5–18.3% | 12.8–19.1% |
+| [29 April–3 May 2019](2019-05-03-STEM.html) | STEM | 16.6% | 15.5–17.9% | 15.2–18.2% | 14.9–18.5% | 14.4–19.1% |
 | [5–17 April 2019](2019-04-17-STEM.html) | STEM | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.3–13.0% | 8.7–13.7% |
 | [30 March–10 April 2019](2019-04-10-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 12.9% | 11.4–14.7% | 11.0–15.2% | 10.7–15.6% | 10.0–16.5% |
 | [21 March–4 April 2019](2019-04-04-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 24.2% | 22.2–26.3% | 21.6–26.9% | 21.2–27.4% | 20.3–28.5% |
@@ -120,8 +120,8 @@ Last result: **0** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–6 | 2–6 | 2–6 | 2–7 |
-| [12 April–3 May 2019](2019-05-03-TNSKantar.html) | TNS Kantar <br> Česká televize |  |  |  |  |  |
-| [29 April–3 May 2019](2019-05-03-STEM.html) | STEM |  |  |  |  |  |
+| [12 April–3 May 2019](2019-05-03-TNSKantar.html) | TNS Kantar <br> Česká televize | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [29 April–3 May 2019](2019-05-03-STEM.html) | STEM | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [5–17 April 2019](2019-04-17-STEM.html) | STEM | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [30 March–10 April 2019](2019-04-10-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [21 March–4 April 2019](2019-04-04-PhoenixResearch.html) | Phoenix Research <br> Blesk Zprávy | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
