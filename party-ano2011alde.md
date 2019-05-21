@@ -118,7 +118,7 @@ Last result: **4** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 4–9 | 4–9 |
-| [12 April–3 May 2019](2019-05-03-TNSKantar.html) | TNS Kantar <br> Česká televize | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
+| [12 April–3 May 2019](2019-05-03-TNSKantar.html) | TNS Kantar <br> Česká televize | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [29 April–3 May 2019](2019-05-03-STEM.html) | STEM | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [5–17 April 2019](2019-04-17-STEM.html) | STEM | 8 | 8 | 7–9 | 7–9 | 7–9 |
 | [30 March–10 April 2019](2019-04-10-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
