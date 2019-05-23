@@ -121,7 +121,7 @@ Last result: **0** seats (General Election of 24–25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–6 | 2–6 | 2–6 | 2–7 |
-| [10 April–16 May 2019](2019-05-16-PhoenixResearch.html) | Phoenix Research | 4 | 4 | 4 | 4 | 4 |
+| [10 April–16 May 2019](2019-05-16-PhoenixResearch.html) | Phoenix Research | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [12 April–3 May 2019](2019-05-03-TNSKantar.html) | TNS Kantar <br> Česká televize | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [29 April–3 May 2019](2019-05-03-STEM.html) | STEM | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [5–17 April 2019](2019-04-17-STEM.html) | STEM | 2 | 2 | 2–3 | 2–3 | 2–3 |
