@@ -46,10 +46,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.1% | 100% |  |
-| 4 | 69% | 99.9% | Last Result, Median |
-| 5 | 31% | 31% |  |
-| 6 | 0.4% | 0.4% |  |
+| 3 | 0.2% | 100% |  |
+| 4 | 59% | 99.8% | Last Result, Median |
+| 5 | 41% | 41% |  |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
 ### Česká pirátská strana (*)
@@ -77,8 +77,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 25% | 100% |  |
-| 4 | 74% | 75% | Median |
+| 3 | 30% | 100% |  |
+| 4 | 69% | 70% | Median |
 | 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
 
@@ -90,8 +90,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 13% | 100% |  |
-| 3 | 85% | 87% | Median |
+| 2 | 10% | 100% |  |
+| 3 | 87% | 90% | Median |
 | 4 | 2% | 2% | Last Result |
 | 5 | 0% | 0% |  |
 
@@ -103,8 +103,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 30% | 100% |  |
-| 2 | 70% | 70% | Median |
+| 1 | 32% | 100% |  |
+| 2 | 68% | 68% | Median |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -116,8 +116,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% |  |
-| 1 | 91% | 94% | Median |
+| 0 | 7% | 100% |  |
+| 1 | 90% | 93% | Median |
 | 2 | 3% | 3% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -129,8 +129,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% |  |
-| 1 | 60% | 60% | Median |
+| 0 | 45% | 100% |  |
+| 1 | 55% | 55% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -142,8 +142,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Last Result, Median |
-| 1 | 7% | 7% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 8% | 8% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -158,7 +158,7 @@
 | ANO 2011 (ALDE) | 4 | 4 | 0% | 4–5 | 4–5 | 4–5 | 4–5 |
 | Česká pirátská strana (*) | 0 | 4 | 0% | 4 | 3–5 | 3–5 | 3–5 |
 | Občanská demokratická strana (ECR) | 2 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–5 |
-| TOP 09–Starostové a nezávislí–Strana zelených (EPP) – Křesťanská a demokratická unie–Československá strana lidová (EPP) | 7 | 4 | 0% | 3–4 | 3–4 | 2–4 | 2–4 |
+| TOP 09–Starostové a nezávislí–Strana zelených (EPP) – Křesťanská a demokratická unie–Československá strana lidová (EPP) | 7 | 4 | 0% | 3–4 | 3–4 | 2–4 | 2–5 |
 | Česká strana sociálně demokratická (S&D) | 4 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Komunistická strana Čech a Moravy (GUE/NGL) | 3 | 1 | 0% | 1 | 0–1 | 0–2 | 0–2 |
 | Svoboda a přímá demokracie (EAPN) | 0 | 0 | 0% | 0 | 0–1 | 0–1 | 0–1 |
@@ -169,10 +169,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.1% | 100% |  |
-| 4 | 69% | 99.9% | Last Result, Median |
-| 5 | 31% | 31% |  |
-| 6 | 0.4% | 0.4% |  |
+| 3 | 0.2% | 100% |  |
+| 4 | 59% | 99.8% | Last Result, Median |
+| 5 | 41% | 41% |  |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
 ### Česká pirátská strana (*)
@@ -196,8 +196,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 25% | 100% |  |
-| 4 | 74% | 75% | Median |
+| 3 | 30% | 100% |  |
+| 4 | 69% | 70% | Median |
 | 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
 
@@ -208,9 +208,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 4% | 100% |  |
-| 3 | 44% | 96% |  |
-| 4 | 52% | 52% | Median |
-| 5 | 0.4% | 0.4% |  |
+| 3 | 45% | 96% |  |
+| 4 | 50% | 50% | Median |
+| 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
 | 7 | 0% | 0% | Last Result |
 
@@ -220,8 +220,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 30% | 100% |  |
-| 2 | 70% | 70% | Median |
+| 1 | 32% | 100% |  |
+| 2 | 68% | 68% | Median |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -231,8 +231,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% |  |
-| 1 | 91% | 94% | Median |
+| 0 | 7% | 100% |  |
+| 1 | 90% | 93% | Median |
 | 2 | 3% | 3% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -242,8 +242,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Last Result, Median |
-| 1 | 7% | 7% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 8% | 8% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -258,6 +258,6 @@
 ### Calculations
 
 + **Sample size:** 1065
-+ **Simulations done:** 524,288
-+ **Error estimate:** 0.98%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.80%
 
