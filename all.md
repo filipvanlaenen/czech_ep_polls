@@ -13,7 +13,7 @@ Only polls for which at least the sample size has been published are included in
 **Legend:**
 + **Top half of each row:** Voting intentions (95% confidence interval)
 + **Bottom half of each row:** Seat projections for the European Parliament (95% confidence interval)
-+ **ANO:** ANO 2011 (ALDE)
++ **ANO:** ANO 2011 (RE)
 + **TOP 09:** TOP 09 (EPP)
 + **STAN:** Starostové a nezávislí (EPP)
 + **ČSSD:** Česká strana sociálně demokratická (S&D)
@@ -23,7 +23,7 @@ Only polls for which at least the sample size has been published are included in
 + **SVOBODNÍ:** Strana svobodných občanů (EFDD)
 + **Piráti:** Česká pirátská strana (Greens/EFA)
 + **ZELENÍ:** Strana zelených (Greens/EFA)
-+ **SPD:** Svoboda a přímá demokracie (EAPN)
++ **SPD:** Svoboda a přímá demokracie (ID)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
