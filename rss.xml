@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 16 Jun 2019 18:19:48 +0200</pubDate>
+    <pubDate>Sat, 29 Jun 2019 20:15:25 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 8–17 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-06-17-Centrumprovýzkumveřejnéhomínění.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 26.6–32.2%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 13.1–17.5%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 14.9–19.6%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 5.2–8.3%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 7.4–11.0%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 6.1–9.4%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 3.9–6.6%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 3.5–6.1%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-06-17-Centrumprovýzkumveřejnéhomínění.png"
+        length="301706"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jun 2019 20:15:25 +0200</pubDate>
+      <dc:date>2019-06-29T20:15:25.075534+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by TNS Kantar for Česká televize, 11–31 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-05-31-TNSKantar.html#seats</link>
@@ -39,6 +49,6 @@
       <pubDate>Sun, 16 Jun 2019 18:19:48 +0200</pubDate>
       <dc:date>2019-06-16T18:19:48.185513+02:00</dc:date>
     </item>
-    <dc:date>2019-06-16T18:19:48.185513+02:00</dc:date>
+    <dc:date>2019-06-29T20:15:25.075534+02:00</dc:date>
   </channel>
 </rss>
