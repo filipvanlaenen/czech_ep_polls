@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 24 Jul 2019 21:22:49 +0200</pubDate>
+    <pubDate>Fri, 26 Jul 2019 11:29:34 +0200</pubDate>
     <item>
       <title>Opinion Poll by TNS Kantar for Česká televize, 17–26 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-06-26-TNSKantar.html</link>
@@ -16,8 +16,18 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-06-26-TNSKantar.png"
         length="284330"
         type="image/png"/>
-      <pubDate>Wed, 24 Jul 2019 21:22:49 +0200</pubDate>
-      <dc:date>2019-07-24T21:22:49.015644+02:00</dc:date>
+      <pubDate>Fri, 26 Jul 2019 11:29:34 +0200</pubDate>
+      <dc:date>2019-07-26T11:29:34.841233+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 8–17 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-06-17-Centrumprovýzkumveřejnéhomínění.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 26.3–31.9%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 12.9–17.3%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 14.8–19.5%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 5.1–8.2%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 7.3–10.9%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 6.0–9.3%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 3.8–6.5%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 3.4–6.0%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-06-17-Centrumprovýzkumveřejnéhomínění.png"
+        length="300249"
+        type="image/png"/>
+      <pubDate>Fri, 26 Jul 2019 07:25:15 +0200</pubDate>
+      <dc:date>2019-07-26T07:25:15.455458+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS Kantar for Česká televize, 11–31 May 2019 – Seat Projections for the Parties</title>
@@ -49,6 +59,6 @@
       <pubDate>Sun, 16 Jun 2019 18:19:48 +0200</pubDate>
       <dc:date>2019-06-16T18:19:48.185513+02:00</dc:date>
     </item>
-    <dc:date>2019-07-24T21:22:49.015644+02:00</dc:date>
+    <dc:date>2019-07-26T11:29:34.841233+02:00</dc:date>
   </channel>
 </rss>
