@@ -42,9 +42,9 @@ Last result: **3** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 0–2 | 0–3 | 0–3 |
-| [17–26 June 2019](2019-06-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–17 June 2019](2019-06-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
+| [17–26 June 2019](2019-06-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [8–17 June 2019](2019-06-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 2 | 2 | 2 | 2–3 | 1–3 |
 | [11–31 May 2019](2019-05-31-TNSKantar.html) | TNS Kantar <br> Česká televize | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 
 ### Probability Mass Function
@@ -55,10 +55,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% |  |
-| 1 | 43% | 92% | Median |
-| 2 | 45% | 49% |  |
-| 3 | 5% | 5% | Last Result |
+| 0 | 9% | 100% |  |
+| 1 | 42% | 91% | Median |
+| 2 | 47% | 49% |  |
+| 3 | 2% | 2% | Last Result |
 | 4 | 0% | 0% |  |
 
 
