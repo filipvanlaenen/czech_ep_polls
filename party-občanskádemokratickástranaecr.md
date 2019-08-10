@@ -10,7 +10,9 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.0% | 12.2–16.0% | 11.8–16.5% | 11.5–16.9% | 10.9–17.7% |
+| N/A | [Poll Average](average.html) | 13.4% | 11.7–15.6% | 11.3–16.2% | 11.0–16.7% | 10.4–17.6% |
+| [1–26 July 2019](2019-07-26-Median.html) | Median | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.6% | 10.0–15.3% |
+| [1–30 June 2019](2019-06-30-Median.html) | Median | 14.5% | N/A | N/A | N/A | N/A |
 | [17–26 June 2019](2019-06-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 13.0% | 11.8–14.3% | 11.5–14.7% | 11.2–15.0% | 10.7–15.7% |
 | [8–17 June 2019](2019-06-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 15.0% | 13.6–16.5% | 13.2–16.9% | 12.9–17.3% | 12.3–18.1% |
 | [11–31 May 2019](2019-05-31-TNSKantar.html) | TNS Kantar <br> Česká televize | 12.5% | 11.3–13.8% | 11.0–14.2% | 10.7–14.5% | 10.2–15.2% |
@@ -23,16 +25,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% | Last Result |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.2% | 100% |  |
-| 10.5–11.5% | 3% | 99.8% |  |
-| 11.5–12.5% | 13% | 97% |  |
-| 12.5–13.5% | 24% | 84% |  |
-| 13.5–14.5% | 24% | 60% | Median |
-| 14.5–15.5% | 20% | 36% |  |
-| 15.5–16.5% | 12% | 16% |  |
-| 16.5–17.5% | 4% | 5% |  |
-| 17.5–18.5% | 0.7% | 0.8% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0.8% | 100% |  |
+| 10.5–11.5% | 7% | 99.2% |  |
+| 11.5–12.5% | 20% | 93% |  |
+| 12.5–13.5% | 27% | 73% | Median |
+| 13.5–14.5% | 21% | 46% |  |
+| 14.5–15.5% | 14% | 25% |  |
+| 15.5–16.5% | 8% | 11% |  |
+| 16.5–17.5% | 3% | 3% |  |
+| 17.5–18.5% | 0.5% | 0.5% |  |
+| 18.5–19.5% | 0% | 0% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 
@@ -44,7 +46,9 @@ Last result: **2** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [1–26 July 2019](2019-07-26-Median.html) | Median | 3 | 3 | 2–4 | 2–4 | 2–4 |
+| [1–30 June 2019](2019-06-30-Median.html) | Median |  |  |  |  |  |
 | [17–26 June 2019](2019-06-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [8–17 June 2019](2019-06-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [11–31 May 2019](2019-05-31-TNSKantar.html) | TNS Kantar <br> Česká televize | 3 | 3 | 3–4 | 3–4 | 2–4 |
@@ -57,10 +61,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.7% | 100% | Last Result |
-| 3 | 64% | 99.3% | Median |
-| 4 | 35% | 35% |  |
-| 5 | 0.7% | 0.7% |  |
+| 2 | 3% | 100% | Last Result |
+| 3 | 72% | 97% | Median |
+| 4 | 25% | 26% |  |
+| 5 | 0.5% | 0.5% |  |
 | 6 | 0% | 0% |  |
 
 
