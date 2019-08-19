@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 18 Aug 2019 22:44:46 +0200</pubDate>
+    <pubDate>Mon, 19 Aug 2019 09:24:21 +0200</pubDate>
     <item>
       <title>Opinion Poll by Median, 1–26 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-07-26-Median.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-06-30-Median.png"
         length="316286"
         type="image/png"/>
-      <pubDate>Sun, 18 Aug 2019 22:28:12 +0200</pubDate>
-      <dc:date>2019-08-18T22:28:12.158447+02:00</dc:date>
+      <pubDate>Mon, 19 Aug 2019 08:31:05 +0200</pubDate>
+      <dc:date>2019-08-19T08:31:05.614499+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS Kantar for Česká televize, 17–26 June 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-06-26-TNSKantar.png"
         length="302602"
         type="image/png"/>
-      <pubDate>Sun, 18 Aug 2019 22:34:35 +0200</pubDate>
-      <dc:date>2019-08-18T22:34:35.067415+02:00</dc:date>
+      <pubDate>Mon, 19 Aug 2019 09:24:21 +0200</pubDate>
+      <dc:date>2019-08-19T09:24:21.93679+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 8–17 June 2019 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-06-17-Centrumprovýzkumveřejnéhomínění.png"
         length="315322"
         type="image/png"/>
-      <pubDate>Sun, 18 Aug 2019 22:39:41 +0200</pubDate>
-      <dc:date>2019-08-18T22:39:41.32762+02:00</dc:date>
+      <pubDate>Mon, 19 Aug 2019 08:37:38 +0200</pubDate>
+      <dc:date>2019-08-19T08:37:38.33152+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS Kantar for Česká televize, 11–31 May 2019 – Voting Intentions</title>
@@ -76,9 +76,9 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-05-31-TNSKantar.png"
         length="303353"
         type="image/png"/>
-      <pubDate>Sun, 18 Aug 2019 22:44:46 +0200</pubDate>
-      <dc:date>2019-08-18T22:44:46.90828+02:00</dc:date>
+      <pubDate>Mon, 19 Aug 2019 08:41:44 +0200</pubDate>
+      <dc:date>2019-08-19T08:41:44.114575+02:00</dc:date>
     </item>
-    <dc:date>2019-08-18T22:44:46.90828+02:00</dc:date>
+    <dc:date>2019-08-19T09:24:21.93679+02:00</dc:date>
   </channel>
 </rss>
