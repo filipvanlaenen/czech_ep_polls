@@ -51,10 +51,10 @@ Last result: **3** seats (General Election of 24–25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–26 July 2019](2019-07-26-Median.html) | Median | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–30 June 2019](2019-06-30-Median.html) | Median | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–30 June 2019](2019-06-30-Median.html) | Median | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–26 June 2019](2019-06-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–17 June 2019](2019-06-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0 | 0 | 0 | 0 |
-| [11–31 May 2019](2019-05-31-TNSKantar.html) | TNS Kantar <br> Česká televize | 0 | 0 | 0 | 0 | 0 |
+| [11–31 May 2019](2019-05-31-TNSKantar.html) | TNS Kantar <br> Česká televize | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -64,9 +64,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Median |
-| 1 | 29% | 29% |  |
-| 2 | 0% | 0% |  |
+| 0 | 73% | 100% | Median |
+| 1 | 27% | 27% |  |
+| 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% | Last Result |
 
 
