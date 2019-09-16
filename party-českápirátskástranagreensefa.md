@@ -11,6 +11,8 @@ Last result: **4.8%** (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16.9% | 13.5–19.3% | 13.0–19.8% | 12.6–20.2% | 11.9–21.1% |
+| [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 17.0% | N/A | N/A | N/A | N/A |
+| [27 July–26 August 2019](2019-08-26-Median.html) | Median | 14.3% | N/A | N/A | N/A | N/A |
 | [1–26 July 2019](2019-07-26-Median.html) | Median | 14.0% | 12.7–15.5% | 12.4–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [1–30 June 2019](2019-06-30-Median.html) | Median | 13.0% | 11.8–14.4% | 11.4–14.8% | 11.1–15.2% | 10.5–15.9% |
 | [17–26 June 2019](2019-06-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 18.5% | 17.1–20.0% | 16.7–20.4% | 16.4–20.8% | 15.8–21.5% |
@@ -53,6 +55,8 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar |  |  |  |  |  |
+| [27 July–26 August 2019](2019-08-26-Median.html) | Median |  |  |  |  |  |
 | [1–26 July 2019](2019-07-26-Median.html) | Median | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–30 June 2019](2019-06-30-Median.html) | Median | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [17–26 June 2019](2019-06-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
