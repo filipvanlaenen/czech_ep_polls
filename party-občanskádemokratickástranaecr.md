@@ -11,8 +11,8 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.4% | 11.7–15.6% | 11.3–16.2% | 11.0–16.7% | 10.4–17.6% |
-| [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 14.5% | N/A | N/A | N/A | N/A |
-| [27 July–26 August 2019](2019-08-26-Median.html) | Median | 14.3% | N/A | N/A | N/A | N/A |
+| [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 14.5% | 13.3–15.9% | 12.9–16.3% | 12.6–16.6% | 12.0–17.3% |
+| [27 July–26 August 2019](2019-08-26-Median.html) | Median | 14.3% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.7–17.3% |
 | [1–26 July 2019](2019-07-26-Median.html) | Median | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.6% | 10.0–15.3% |
 | [1–30 June 2019](2019-06-30-Median.html) | Median | 14.5% | 13.2–16.0% | 12.8–16.4% | 12.5–16.8% | 11.9–17.6% |
 | [17–26 June 2019](2019-06-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 13.0% | 11.8–14.3% | 11.5–14.7% | 11.2–15.0% | 10.7–15.7% |
@@ -49,8 +49,8 @@ Last result: **2** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
-| [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar |  |  |  |  |  |
-| [27 July–26 August 2019](2019-08-26-Median.html) | Median |  |  |  |  |  |
+| [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [27 July–26 August 2019](2019-08-26-Median.html) | Median | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–26 July 2019](2019-07-26-Median.html) | Median | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [1–30 June 2019](2019-06-30-Median.html) | Median | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [17–26 June 2019](2019-06-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
