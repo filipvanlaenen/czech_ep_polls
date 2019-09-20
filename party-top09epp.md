@@ -53,7 +53,7 @@ Last result: **3** seats (General Election of 24–25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 0 | 0 | 0 | 0–1 | 0–1 |
-| [27 July–26 August 2019](2019-08-26-Median.html) | Median | 1 | 1 | 1 | 1 | 1 |
+| [27 July–26 August 2019](2019-08-26-Median.html) | Median | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [1–26 July 2019](2019-07-26-Median.html) | Median | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–30 June 2019](2019-06-30-Median.html) | Median | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–26 June 2019](2019-06-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
