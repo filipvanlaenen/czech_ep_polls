@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.3% | 6.1–9.8% | 5.8–10.2% | 5.5–10.5% | 5.0–11.2% |
+| N/A | [Poll Average](average.html) | 7.8% | 6.1–9.2% | 5.8–9.6% | 5.5–9.9% | 5.0–10.6% |
 | [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.7% | 6.2–10.2% |
 | [27 July–26 August 2019](2019-08-26-Median.html) | Median | 8.5% | 7.4–9.7% | 7.1–10.0% | 6.9–10.3% | 6.4–10.9% |
 | [1–26 July 2019](2019-07-26-Median.html) | Median | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 7.0–11.6% |
@@ -31,14 +31,13 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
 | 4.5–5.5% | 3% | 99.9% |  |
-| 5.5–6.5% | 14% | 97% |  |
-| 6.5–7.5% | 17% | 83% |  |
-| 7.5–8.5% | 25% | 66% | Median |
-| 8.5–9.5% | 27% | 41% |  |
-| 9.5–10.5% | 12% | 14% |  |
-| 10.5–11.5% | 2% | 2% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 5.5–6.5% | 15% | 97% |  |
+| 6.5–7.5% | 25% | 82% |  |
+| 7.5–8.5% | 32% | 58% | Median |
+| 8.5–9.5% | 20% | 25% |  |
+| 9.5–10.5% | 5% | 5% |  |
+| 10.5–11.5% | 0.5% | 0.5% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -49,7 +48,7 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 2 | 2 | 2 | 2 | 1–3 |
 | [27 July–26 August 2019](2019-08-26-Median.html) | Median | 2 | 2 | 2 | 2 | 1–3 |
 | [1–26 July 2019](2019-07-26-Median.html) | Median | 2 | 2 | 2–3 | 2–3 | 1–3 |
@@ -68,8 +67,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.8% | 100% | Last Result |
 | 1 | 28% | 99.2% |  |
-| 2 | 68% | 71% | Median |
-| 3 | 3% | 3% |  |
+| 2 | 71% | 71% | Median |
+| 3 | 0.5% | 0.5% |  |
 | 4 | 0% | 0% |  |
 
 
