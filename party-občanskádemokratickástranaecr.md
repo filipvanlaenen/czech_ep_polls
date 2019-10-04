@@ -10,8 +10,8 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.5% | 13.3–15.9% | 12.9–16.3% | 12.6–16.6% | 12.0–17.3% |
-| [28 August–29 September 2019](2019-09-29-Median.html) | Median | 12.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 13.6% | 11.7–15.4% | 11.3–15.9% | 10.9–16.3% | 10.3–17.0% |
+| [28 August–29 September 2019](2019-09-29-Median.html) | Median | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.6% | 10.0–15.3% |
 | [20 August–18 September 2019](2019-09-18-PhoenixResearch.html) | Phoenix Research | 10.8% | N/A | N/A | N/A | N/A |
 | [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 14.5% | 13.3–15.9% | 12.9–16.3% | 12.6–16.6% | 12.0–17.3% |
 | [27 July–26 August 2019](2019-08-26-Median.html) | Median | 14.3% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.7–17.3% |
@@ -29,15 +29,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% | Last Result |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 2% | 99.9% |  |
-| 12.5–13.5% | 14% | 98% |  |
-| 13.5–14.5% | 35% | 84% |  |
-| 14.5–15.5% | 33% | 49% | Median |
-| 15.5–16.5% | 14% | 17% |  |
-| 16.5–17.5% | 3% | 3% |  |
-| 17.5–18.5% | 0.2% | 0.3% |  |
+| 9.5–10.5% | 1.0% | 100% |  |
+| 10.5–11.5% | 7% | 99.0% |  |
+| 11.5–12.5% | 18% | 92% |  |
+| 12.5–13.5% | 24% | 74% |  |
+| 13.5–14.5% | 24% | 50% | Median |
+| 14.5–15.5% | 18% | 26% |  |
+| 15.5–16.5% | 7% | 8% |  |
+| 16.5–17.5% | 1.3% | 1.4% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
 
@@ -49,8 +49,8 @@ Last result: **2** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [28 August–29 September 2019](2019-09-29-Median.html) | Median |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [28 August–29 September 2019](2019-09-29-Median.html) | Median | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [20 August–18 September 2019](2019-09-18-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
 | [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [27 July–26 August 2019](2019-08-26-Median.html) | Median | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -68,10 +68,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.1% | 100% | Last Result |
-| 3 | 37% | 99.9% |  |
-| 4 | 62% | 62% | Median |
-| 5 | 0.3% | 0.3% |  |
+| 2 | 0.2% | 100% | Last Result |
+| 3 | 64% | 99.8% | Median |
+| 4 | 35% | 36% |  |
+| 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
 
