@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 04 Oct 2019 20:02:38 +0200</pubDate>
+    <pubDate>Fri, 04 Oct 2019 23:43:08 +0200</pubDate>
     <item>
       <title>Opinion Poll by Median, 28 August–29 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-09-29-Median.html</link>
@@ -18,6 +18,16 @@
         type="image/png"/>
       <pubDate>Fri, 04 Oct 2019 20:02:38 +0200</pubDate>
       <dc:date>2019-10-04T20:02:38.058316+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Phoenix Research, 20 August–18 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-09-18-PhoenixResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 26.9–32.4%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 9.1–12.8%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 16.4–21.1%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 4.6–7.5%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 3.8–6.4%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 6.0–9.1%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 4.2–7.0%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 3.8–6.4%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 2.5–4.7%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 1.3–3.0%&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (*): 3.0–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-09-18-PhoenixResearch.png"
+        length="316178"
+        type="image/png"/>
+      <pubDate>Fri, 04 Oct 2019 23:43:08 +0200</pubDate>
+      <dc:date>2019-10-04T23:43:08.245762+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS Kantar, 10–30 August 2019 – Seat Projections for the Parties</title>
@@ -189,6 +199,6 @@
       <pubDate>Mon, 19 Aug 2019 08:41:44 +0200</pubDate>
       <dc:date>2019-08-19T08:41:44.114575+02:00</dc:date>
     </item>
-    <dc:date>2019-10-04T20:02:38.058316+02:00</dc:date>
+    <dc:date>2019-10-04T23:43:08.245762+02:00</dc:date>
   </channel>
 </rss>
