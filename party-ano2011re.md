@@ -10,7 +10,12 @@ Last result: **16.1%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.2% | 28.3–32.2% | 27.8–32.8% | 27.4–33.3% | 26.5–34.3% |
+| N/A | [Poll Average](average.html) | 31.8% | 29.7–34.1% | 29.1–34.7% | 28.6–35.2% | 27.7–36.3% |
+| [1–18 November 2019](2019-11-18-PhoenixResearch.html) | Phoenix Research | 32.2% | 30.5–34.1% | 29.9–34.6% | 29.5–35.1% | 28.7–36.0% |
+| [12 October–1 November 2019](2019-11-01-TNSKantar.html) | TNS Kantar | 31.3% | 29.6–33.1% | 29.2–33.6% | 28.8–34.0% | 28.0–34.9% |
+| [30 September–28 October 2019](2019-10-28-Median.html) | Median | 30.5% | 28.8–32.3% | 28.3–32.8% | 27.9–33.3% | 27.1–34.1% |
+| [11–25 October 2019](2019-10-25-STEM.html) | STEM | 33.1% | 31.2–35.1% | 30.7–35.6% | 30.2–36.1% | 29.4–37.0% |
+| [16 September–5 October 2019](2019-10-05-TNSKantar.html) | TNS Kantar | 29.2% | 27.6–31.0% | 27.1–31.5% | 26.7–31.9% | 26.0–32.7% |
 | [28 August–29 September 2019](2019-09-29-Median.html) | Median | 31.0% | 29.2–32.9% | 28.7–33.4% | 28.3–33.9% | 27.4–34.8% |
 | [20 August–18 September 2019](2019-09-18-PhoenixResearch.html) | Phoenix Research | 29.6% | 27.8–31.4% | 27.3–31.9% | 26.9–32.4% | 26.1–33.3% |
 | [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 30.0% | 28.3–31.7% | 27.9–32.2% | 27.5–32.7% | 26.7–33.5% |
@@ -36,18 +41,21 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.1% | 100% |  |
-| 25.5–26.5% | 0.5% | 99.9% |  |
-| 26.5–27.5% | 3% | 99.4% |  |
-| 27.5–28.5% | 10% | 96% |  |
-| 28.5–29.5% | 20% | 87% |  |
-| 29.5–30.5% | 26% | 67% | Median |
-| 30.5–31.5% | 22% | 41% |  |
-| 31.5–32.5% | 13% | 19% |  |
-| 32.5–33.5% | 5% | 7% |  |
-| 33.5–34.5% | 1.4% | 2% |  |
-| 34.5–35.5% | 0.3% | 0.3% |  |
-| 35.5–36.5% | 0% | 0% |  |
+| 24.5–25.5% | 0% | 100% |  |
+| 25.5–26.5% | 0% | 100% |  |
+| 26.5–27.5% | 0.3% | 100% |  |
+| 27.5–28.5% | 2% | 99.6% |  |
+| 28.5–29.5% | 7% | 98% |  |
+| 29.5–30.5% | 14% | 91% |  |
+| 30.5–31.5% | 21% | 77% |  |
+| 31.5–32.5% | 22% | 56% | Median |
+| 32.5–33.5% | 17% | 33% |  |
+| 33.5–34.5% | 10% | 16% |  |
+| 34.5–35.5% | 4% | 6% |  |
+| 35.5–36.5% | 1.3% | 2% |  |
+| 36.5–37.5% | 0.3% | 0.3% |  |
+| 37.5–38.5% | 0% | 0% |  |
+| 38.5–39.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -58,7 +66,12 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
+| N/A | [Poll Average](average.html) | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
+| [1–18 November 2019](2019-11-18-PhoenixResearch.html) | Phoenix Research | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
+| [12 October–1 November 2019](2019-11-01-TNSKantar.html) | TNS Kantar | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
+| [30 September–28 October 2019](2019-10-28-Median.html) | Median | 8 | 8 | 8 | 7–8 | 7–8 |
+| [11–25 October 2019](2019-10-25-STEM.html) | STEM | 9 | 9 | 9 | 9 | 7–9 |
+| [16 September–5 October 2019](2019-10-05-TNSKantar.html) | TNS Kantar | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [28 August–29 September 2019](2019-09-29-Median.html) | Median | 9 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [20 August–18 September 2019](2019-09-18-PhoenixResearch.html) | Phoenix Research | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
@@ -80,10 +93,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 11% | 100% |  |
-| 8 | 50% | 89% | Median |
-| 9 | 37% | 39% |  |
-| 10 | 2% | 2% |  |
+| 7 | 2% | 100% |  |
+| 8 | 47% | 98% |  |
+| 9 | 47% | 51% | Median |
+| 10 | 4% | 4% |  |
 | 11 | 0% | 0% | Majority |
 
 
