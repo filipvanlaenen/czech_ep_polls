@@ -66,11 +66,11 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
-| [1–18 November 2019](2019-11-18-PhoenixResearch.html) | Phoenix Research | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
-| [12 October–1 November 2019](2019-11-01-TNSKantar.html) | TNS Kantar | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
-| [30 September–28 October 2019](2019-10-28-Median.html) | Median | 8 | 8 | 8 | 7–8 | 7–8 |
-| [11–25 October 2019](2019-10-25-STEM.html) | STEM | 9 | 9 | 9 | 9 | 7–9 |
+| N/A | [Poll Average](average.html) | 9 | 8–9 | 7–9 | 7–10 | 7–10 |
+| [1–18 November 2019](2019-11-18-PhoenixResearch.html) | Phoenix Research | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
+| [12 October–1 November 2019](2019-11-01-TNSKantar.html) | TNS Kantar | 9 | 8–9 | 8–9 | 8–10 | 8–11 |
+| [30 September–28 October 2019](2019-10-28-Median.html) | Median | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [11–25 October 2019](2019-10-25-STEM.html) | STEM | 9 | 9 | 8–10 | 8–10 | 7–10 |
 | [16 September–5 October 2019](2019-10-05-TNSKantar.html) | TNS Kantar | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [28 August–29 September 2019](2019-09-29-Median.html) | Median | 9 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [20 August–18 September 2019](2019-09-18-PhoenixResearch.html) | Phoenix Research | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
@@ -93,10 +93,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 2% | 100% |  |
-| 8 | 47% | 98% |  |
-| 9 | 47% | 51% | Median |
-| 10 | 4% | 4% |  |
-| 11 | 0% | 0% | Majority |
+| 7 | 7% | 100% |  |
+| 8 | 34% | 93% |  |
+| 9 | 56% | 60% | Median |
+| 10 | 3% | 4% |  |
+| 11 | 0.2% | 0.2% | Majority |
+| 12 | 0% | 0% |  |
 
 

@@ -59,9 +59,9 @@ Last result: **3** seats (General Election of 24–25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [1–18 November 2019](2019-11-18-PhoenixResearch.html) | Phoenix Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [12 October–1 November 2019](2019-11-01-TNSKantar.html) | TNS Kantar | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [30 September–28 October 2019](2019-10-28-Median.html) | Median | 1 | 1 | 1 | 1 | 1 |
-| [11–25 October 2019](2019-10-25-STEM.html) | STEM | 0 | 0 | 0 | 0 | 0–1 |
+| [12 October–1 November 2019](2019-11-01-TNSKantar.html) | TNS Kantar | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| [30 September–28 October 2019](2019-10-28-Median.html) | Median | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| [11–25 October 2019](2019-10-25-STEM.html) | STEM | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [16 September–5 October 2019](2019-10-05-TNSKantar.html) | TNS Kantar | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [28 August–29 September 2019](2019-09-29-Median.html) | Median | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [20 August–18 September 2019](2019-09-18-PhoenixResearch.html) | Phoenix Research | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -81,9 +81,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 47% | 100% |  |
-| 1 | 50% | 53% | Median |
-| 2 | 3% | 3% |  |
+| 0 | 49% | 100% |  |
+| 1 | 47% | 51% | Median |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% | Last Result |
 
 
