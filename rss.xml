@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 29 Nov 2019 19:39:36 +0100</pubDate>
+    <pubDate>Fri, 29 Nov 2019 21:36:35 +0100</pubDate>
     <item>
       <title>Opinion Poll by Phoenix Research, 1–18 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-11-18-PhoenixResearch.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-11-18-PhoenixResearch.png"
         length="292895"
         type="image/png"/>
-      <pubDate>Fri, 29 Nov 2019 19:39:36 +0100</pubDate>
-      <dc:date>2019-11-29T19:39:36.802001+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 20:38:00 +0100</pubDate>
+      <dc:date>2019-11-29T20:38:00.9197+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS Kantar, 12 October–1 November 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-11-01-TNSKantar.png"
         length="307379"
         type="image/png"/>
-      <pubDate>Fri, 29 Nov 2019 19:28:55 +0100</pubDate>
-      <dc:date>2019-11-29T19:28:55.432215+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 20:55:01 +0100</pubDate>
+      <dc:date>2019-11-29T20:55:01.151347+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Median, 30 September–28 October 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-10-28-Median.png"
         length="309879"
         type="image/png"/>
-      <pubDate>Fri, 29 Nov 2019 17:33:04 +0100</pubDate>
-      <dc:date>2019-11-29T17:33:04.461811+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 21:16:52 +0100</pubDate>
+      <dc:date>2019-11-29T21:16:52.102041+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by STEM, 11–25 October 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-10-25-STEM.png"
         length="310547"
         type="image/png"/>
-      <pubDate>Fri, 29 Nov 2019 17:44:26 +0100</pubDate>
-      <dc:date>2019-11-29T17:44:26.742776+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 21:36:35 +0100</pubDate>
+      <dc:date>2019-11-29T21:36:35.69724+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS Kantar, 16 September–5 October 2019 – Voting Intentions</title>
@@ -289,6 +289,6 @@
       <pubDate>Mon, 19 Aug 2019 08:41:44 +0200</pubDate>
       <dc:date>2019-08-19T08:41:44.114575+02:00</dc:date>
     </item>
-    <dc:date>2019-11-29T19:39:36.802001+01:00</dc:date>
+    <dc:date>2019-11-29T21:36:35.69724+01:00</dc:date>
   </channel>
 </rss>
