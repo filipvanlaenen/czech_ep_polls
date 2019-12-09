@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 1.4–7.2% | 1.2–7.7% | 1.1–8.1% | 0.9–8.8% |
+| N/A | [Poll Average](average.html) | 4.4% | 1.5–7.1% | 1.3–7.6% | 1.2–8.0% | 0.9–8.7% |
 | [21–27 November 2019](2019-11-27-SANEP.html) | SANEP | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
-| [1–18 November 2019](2019-11-18-PhoenixResearch.html) | Phoenix Research | 5.1% | N/A | N/A | N/A | N/A |
+| [1–18 November 2019](2019-11-18-PhoenixResearch.html) | Phoenix Research | 5.1% | 4.4–6.1% | 4.2–6.4% | 4.0–6.6% | 3.6–7.1% |
 | [2–15 November 2019](2019-11-15-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3.6% | 2.7–5.0% | 2.4–5.5% | 2.2–5.8% | 1.8–6.6% |
 | [12 October–1 November 2019](2019-11-01-TNSKantar.html) | TNS Kantar | 4.2% | 3.5–5.0% | 3.3–5.2% | 3.2–5.5% | 2.9–5.9% |
 | [30 September–28 October 2019](2019-10-28-Median.html) | Median | 1.5% | 1.1–2.0% | 1.0–2.2% | 0.9–2.4% | 0.8–2.7% |
@@ -36,17 +36,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 13% | 100% |  |
-| 1.5–2.5% | 13% | 87% |  |
-| 2.5–3.5% | 12% | 73% |  |
-| 3.5–4.5% | 25% | 62% | Median |
-| 4.5–5.5% | 11% | 37% |  |
-| 5.5–6.5% | 7% | 26% |  |
-| 6.5–7.5% | 12% | 19% |  |
-| 7.5–8.5% | 6% | 7% |  |
-| 8.5–9.5% | 0.9% | 0.9% |  |
+| 0.5–1.5% | 11% | 100% |  |
+| 1.5–2.5% | 11% | 89% |  |
+| 2.5–3.5% | 9% | 79% |  |
+| 3.5–4.5% | 23% | 69% | Median |
+| 4.5–5.5% | 20% | 47% |  |
+| 5.5–6.5% | 11% | 27% |  |
+| 6.5–7.5% | 10% | 15% |  |
+| 7.5–8.5% | 5% | 5% |  |
+| 8.5–9.5% | 0.7% | 0.7% |  |
 | 9.5–10.5% | 0% | 0% |  |
-| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -57,9 +56,9 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [21–27 November 2019](2019-11-27-SANEP.html) | SANEP | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [1–18 November 2019](2019-11-18-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
+| [1–18 November 2019](2019-11-18-PhoenixResearch.html) | Phoenix Research | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [2–15 November 2019](2019-11-15-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [12 October–1 November 2019](2019-11-01-TNSKantar.html) | TNS Kantar | 0 | 0 | 0 | 0–1 | 0–1 |
 | [30 September–28 October 2019](2019-10-28-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
@@ -84,9 +83,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Last Result, Median |
-| 1 | 16% | 27% |  |
-| 2 | 11% | 11% |  |
+| 0 | 65% | 100% | Last Result, Median |
+| 1 | 25% | 35% |  |
+| 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
 
