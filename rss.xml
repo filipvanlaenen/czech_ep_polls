@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 06 Dec 2019 14:51:48 +0100</pubDate>
+    <pubDate>Fri, 06 Dec 2019 22:37:05 +0100</pubDate>
     <item>
       <title>Opinion Poll by SANEP, 21–27 November 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-11-27-SANEP.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Fri, 06 Dec 2019 14:19:37 +0100</pubDate>
       <dc:date>2019-12-06T14:19:37.317981+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Phoenix Research, 1–18 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-11-18-PhoenixResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 6–8 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 1–2 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 0–2 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-11-18-PhoenixResearch-seats.png"
+        length="267508"
+        type="image/png"/>
+      <pubDate>Fri, 06 Dec 2019 22:37:05 +0100</pubDate>
+      <dc:date>2019-12-06T22:37:05.797802+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Phoenix Research, 1–18 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-11-18-PhoenixResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-11-18-PhoenixResearch-coalitions-seats.png"
+        length="229477"
+        type="image/png"/>
+      <pubDate>Fri, 06 Dec 2019 22:37:05 +0100</pubDate>
+      <dc:date>2019-12-06T22:37:05.797802+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Phoenix Research, 1–18 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-11-18-PhoenixResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 24.1–29.3%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 7.3–10.7%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 8.8–12.4%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 5.7–8.8%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 3.6–6.1%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 4.5–7.2%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 4.4–7.1%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 2.5–4.6%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 3.4–5.9%&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (*): 4.0–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-11-18-PhoenixResearch.png"
+        length="293427"
+        type="image/png"/>
+      <pubDate>Fri, 06 Dec 2019 22:37:05 +0100</pubDate>
+      <dc:date>2019-12-06T22:37:05.797802+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Centrum pro výzkum veřejného mínění, 2–15 November 2019 – Seat Projections for the Parties</title>
@@ -339,6 +369,6 @@
       <pubDate>Mon, 19 Aug 2019 08:41:44 +0200</pubDate>
       <dc:date>2019-08-19T08:41:44.114575+02:00</dc:date>
     </item>
-    <dc:date>2019-12-06T14:51:48.871847+01:00</dc:date>
+    <dc:date>2019-12-06T22:37:05.797802+01:00</dc:date>
   </channel>
 </rss>
