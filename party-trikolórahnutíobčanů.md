@@ -20,7 +20,7 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 | [16 September–5 October 2019](2019-10-05-TNSKantar.html) | TNS Kantar | 3.4% | 2.8–4.2% | 2.7–4.4% | 2.5–4.6% | 2.3–5.0% |
 | [28 August–29 September 2019](2019-09-29-Median.html) | Median | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.8–2.8% |
 | [20 August–18 September 2019](2019-09-18-PhoenixResearch.html) | Phoenix Research | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
-| [7–17 September 2019](2019-09-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 2.0% | N/A | N/A | N/A | N/A |
+| [7–17 September 2019](2019-09-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 2.0% | 1.4–2.9% | 1.3–3.2% | 1.1–3.5% | 0.9–4.0% |
 | [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
 | [27 July–26 August 2019](2019-08-26-Median.html) | Median | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [1–26 July 2019](2019-07-26-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
@@ -66,7 +66,7 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | [16 September–5 October 2019](2019-10-05-TNSKantar.html) | TNS Kantar | 0 | 0 | 0 | 0 | 0 |
 | [28 August–29 September 2019](2019-09-29-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [20 August–18 September 2019](2019-09-18-PhoenixResearch.html) | Phoenix Research | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [7–17 September 2019](2019-09-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění |  |  |  |  |  |
+| [7–17 September 2019](2019-09-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0 | 0 | 0 | 0 |
 | [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 0 | 0 | 0 | 0–1 | 0–1 |
 | [27 July–26 August 2019](2019-08-26-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [1–26 July 2019](2019-07-26-Median.html) | Median |  |  |  |  |  |

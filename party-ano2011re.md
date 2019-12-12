@@ -20,7 +20,7 @@ Last result: **16.1%** (General Election of 24–25 May 2019)
 | [16 September–5 October 2019](2019-10-05-TNSKantar.html) | TNS Kantar | 29.2% | 27.6–31.0% | 27.1–31.5% | 26.7–31.9% | 26.0–32.7% |
 | [28 August–29 September 2019](2019-09-29-Median.html) | Median | 31.0% | 29.2–32.9% | 28.7–33.4% | 28.3–33.9% | 27.4–34.8% |
 | [20 August–18 September 2019](2019-09-18-PhoenixResearch.html) | Phoenix Research | 29.6% | 27.8–31.4% | 27.3–31.9% | 26.9–32.4% | 26.1–33.3% |
-| [7–17 September 2019](2019-09-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 30.3% | N/A | N/A | N/A | N/A |
+| [7–17 September 2019](2019-09-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 30.3% | 28.0–32.8% | 27.3–33.5% | 26.7–34.1% | 25.7–35.3% |
 | [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 30.0% | 28.3–31.7% | 27.9–32.2% | 27.5–32.7% | 26.7–33.5% |
 | [27 July–26 August 2019](2019-08-26-Median.html) | Median | 29.2% | 27.4–31.1% | 26.9–31.6% | 26.5–32.0% | 25.7–33.0% |
 | [1–26 July 2019](2019-07-26-Median.html) | Median | 28.5% | 26.8–30.4% | 26.3–30.9% | 25.9–31.4% | 25.0–32.3% |
@@ -77,7 +77,7 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 | [16 September–5 October 2019](2019-10-05-TNSKantar.html) | TNS Kantar | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [28 August–29 September 2019](2019-09-29-Median.html) | Median | 9 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [20 August–18 September 2019](2019-09-18-PhoenixResearch.html) | Phoenix Research | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
-| [7–17 September 2019](2019-09-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění |  |  |  |  |  |
+| [7–17 September 2019](2019-09-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [27 July–26 August 2019](2019-08-26-Median.html) | Median | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [1–26 July 2019](2019-07-26-Median.html) | Median | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
