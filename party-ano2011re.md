@@ -10,8 +10,11 @@ Last result: **16.1%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.8% | 26.4–32.3% | 25.6–33.0% | 25.0–33.6% | 24.0–34.8% |
+| N/A | [Poll Average](average.html) | 28.6% | 25.8–31.5% | 25.2–32.4% | 24.7–33.3% | 23.8–35.0% |
+| [29 October–30 November 2019](2019-11-30-Median.html) | Median | 30.5% | N/A | N/A | N/A | N/A |
+| [9–29 November 2019](2019-11-29-TNSKantar.html) | TNS Kantar | 28.2% | N/A | N/A | N/A | N/A |
 | [21–27 November 2019](2019-11-27-SANEP.html) | SANEP | 29.2% | 27.5–31.1% | 27.0–31.6% | 26.5–32.1% | 25.7–33.0% |
+| [14–26 November 2019](2019-11-26-STEM.html) | STEM | 35.0% | N/A | N/A | N/A | N/A |
 | [1–18 November 2019](2019-11-18-PhoenixResearch.html) | Phoenix Research | 26.6% | 25.0–28.4% | 24.5–28.9% | 24.1–29.3% | 23.3–30.2% |
 | [2–15 November 2019](2019-11-15-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 29.9% | 27.1–32.9% | 26.4–33.7% | 25.7–34.5% | 24.4–35.9% |
 | [12 October–1 November 2019](2019-11-01-TNSKantar.html) | TNS Kantar | 31.3% | 29.6–33.1% | 29.2–33.6% | 28.8–34.0% | 28.0–34.9% |
@@ -42,21 +45,22 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.2% | 100% |  |
-| 23.5–24.5% | 1.0% | 99.8% |  |
-| 24.5–25.5% | 3% | 98.8% |  |
-| 25.5–26.5% | 7% | 96% |  |
-| 26.5–27.5% | 9% | 89% |  |
-| 27.5–28.5% | 11% | 80% |  |
-| 28.5–29.5% | 15% | 69% |  |
-| 29.5–30.5% | 18% | 54% | Median |
-| 30.5–31.5% | 17% | 36% |  |
-| 31.5–32.5% | 11% | 19% |  |
-| 32.5–33.5% | 5% | 8% |  |
-| 33.5–34.5% | 2% | 3% |  |
-| 34.5–35.5% | 0.5% | 0.7% |  |
-| 35.5–36.5% | 0.1% | 0.2% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 22.5–23.5% | 0.3% | 100% |  |
+| 23.5–24.5% | 2% | 99.7% |  |
+| 24.5–25.5% | 5% | 98% |  |
+| 25.5–26.5% | 11% | 93% |  |
+| 26.5–27.5% | 15% | 82% |  |
+| 27.5–28.5% | 16% | 67% |  |
+| 28.5–29.5% | 17% | 50% | Median |
+| 29.5–30.5% | 14% | 33% |  |
+| 30.5–31.5% | 10% | 19% |  |
+| 31.5–32.5% | 5% | 10% |  |
+| 32.5–33.5% | 3% | 5% |  |
+| 33.5–34.5% | 1.2% | 2% |  |
+| 34.5–35.5% | 0.5% | 0.8% |  |
+| 35.5–36.5% | 0.2% | 0.3% |  |
+| 36.5–37.5% | 0.1% | 0.1% |  |
+| 37.5–38.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -67,8 +71,11 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
+| [29 October–30 November 2019](2019-11-30-Median.html) | Median |  |  |  |  |  |
+| [9–29 November 2019](2019-11-29-TNSKantar.html) | TNS Kantar |  |  |  |  |  |
 | [21–27 November 2019](2019-11-27-SANEP.html) | SANEP | 8 | 8 | 7–9 | 7–9 | 7–9 |
+| [14–26 November 2019](2019-11-26-STEM.html) | STEM |  |  |  |  |  |
 | [1–18 November 2019](2019-11-18-PhoenixResearch.html) | Phoenix Research | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [2–15 November 2019](2019-11-15-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [12 October–1 November 2019](2019-11-01-TNSKantar.html) | TNS Kantar | 9 | 8–9 | 8–9 | 8–10 | 8–11 |
@@ -96,12 +103,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
-| 6 | 3% | 100% |  |
-| 7 | 23% | 97% |  |
-| 8 | 44% | 75% | Median |
-| 9 | 30% | 31% |  |
-| 10 | 0.7% | 0.9% |  |
-| 11 | 0.1% | 0.1% | Majority |
-| 12 | 0% | 0% |  |
+| 6 | 4% | 100% |  |
+| 7 | 30% | 96% |  |
+| 8 | 48% | 65% | Median |
+| 9 | 17% | 17% |  |
+| 10 | 0.1% | 0.1% |  |
+| 11 | 0% | 0% | Majority |
 
 
