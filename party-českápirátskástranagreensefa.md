@@ -11,6 +11,7 @@ Last result: **4.8%** (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.7% | 9.0–14.2% | 8.5–14.9% | 8.1–15.5% | 7.4–16.9% |
+| [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 14.0% | 12.5–15.8% | 12.0–16.3% | 11.7–16.8% | 11.0–17.7% |
 | [29 October–30 November 2019](2019-11-30-Median.html) | Median | 12.5% | 11.3–13.9% | 11.0–14.3% | 10.7–14.6% | 10.2–15.3% |
 | [9–29 November 2019](2019-11-29-TNSKantar.html) | TNS Kantar | 13.3% | 12.1–14.7% | 11.8–15.0% | 11.5–15.4% | 11.0–16.0% |
 | [21–27 November 2019](2019-11-27-SANEP.html) | SANEP | 8.9% | 7.9–10.1% | 7.6–10.5% | 7.3–10.8% | 6.9–11.4% |
@@ -65,6 +66,7 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [29 October–30 November 2019](2019-11-30-Median.html) | Median | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [9–29 November 2019](2019-11-29-TNSKantar.html) | TNS Kantar | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [21–27 November 2019](2019-11-27-SANEP.html) | SANEP | 2 | 2 | 2 | 2 | 1–3 |
@@ -77,7 +79,7 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | [16 September–5 October 2019](2019-10-05-TNSKantar.html) | TNS Kantar | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [28 August–29 September 2019](2019-09-29-Median.html) | Median | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [20 August–18 September 2019](2019-09-18-PhoenixResearch.html) | Phoenix Research | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| [7–17 September 2019](2019-09-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [7–17 September 2019](2019-09-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [27 July–26 August 2019](2019-08-26-Median.html) | Median | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [1–26 July 2019](2019-07-26-Median.html) | Median | 3 | 3–4 | 3–4 | 3–4 | 3–4 |

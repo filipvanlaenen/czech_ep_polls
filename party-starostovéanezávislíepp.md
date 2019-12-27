@@ -11,6 +11,7 @@ Last result: **16.0%** (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.4% | 3.7–7.4% | 3.4–7.8% | 3.1–8.1% | 2.6–8.8% |
+| [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 4.1% | 3.3–5.2% | 3.0–5.5% | 2.9–5.8% | 2.5–6.4% |
 | [29 October–30 November 2019](2019-11-30-Median.html) | Median | 6.0% | 5.2–7.1% | 5.0–7.3% | 4.8–7.6% | 4.4–8.1% |
 | [9–29 November 2019](2019-11-29-TNSKantar.html) | TNS Kantar | 6.4% | 5.6–7.4% | 5.3–7.7% | 5.2–8.0% | 4.8–8.5% |
 | [21–27 November 2019](2019-11-27-SANEP.html) | SANEP | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
@@ -65,6 +66,7 @@ Last result: **1** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [29 October–30 November 2019](2019-11-30-Median.html) | Median | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [9–29 November 2019](2019-11-29-TNSKantar.html) | TNS Kantar | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [21–27 November 2019](2019-11-27-SANEP.html) | SANEP | 0 | 0 | 0 | 0 | 0–1 |
