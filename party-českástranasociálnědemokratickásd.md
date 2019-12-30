@@ -10,7 +10,7 @@ Last result: **14.2%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.4% | 5.0–9.0% | 4.7–10.0% | 4.5–10.8% | 4.0–12.1% |
+| N/A | [Poll Average](average.html) | 6.7% | 5.1–10.2% | 4.8–10.9% | 4.5–11.5% | 4.0–12.5% |
 | [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 10.0% | 8.6–11.5% | 8.3–12.0% | 8.0–12.4% | 7.4–13.2% |
 | [29 October–30 November 2019](2019-11-30-Median.html) | Median | 7.5% | 6.5–8.6% | 6.3–8.9% | 6.1–9.1% | 5.7–9.7% |
 | [9–29 November 2019](2019-11-29-TNSKantar.html) | TNS Kantar | 5.9% | 5.1–6.9% | 4.9–7.2% | 4.7–7.4% | 4.4–7.9% |
@@ -39,18 +39,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 3% | 99.9% |  |
-| 4.5–5.5% | 21% | 97% |  |
-| 5.5–6.5% | 31% | 76% | Median |
-| 6.5–7.5% | 20% | 45% |  |
-| 7.5–8.5% | 11% | 25% |  |
-| 8.5–9.5% | 6% | 13% |  |
-| 9.5–10.5% | 4% | 7% |  |
-| 10.5–11.5% | 2% | 3% |  |
-| 11.5–12.5% | 0.8% | 1.0% |  |
-| 12.5–13.5% | 0.2% | 0.3% |  |
-| 13.5–14.5% | 0% | 0.1% | Last Result |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 3% | 100% |  |
+| 4.5–5.5% | 18% | 97% |  |
+| 5.5–6.5% | 27% | 80% |  |
+| 6.5–7.5% | 17% | 53% | Median |
+| 7.5–8.5% | 11% | 35% |  |
+| 8.5–9.5% | 9% | 24% |  |
+| 9.5–10.5% | 8% | 15% |  |
+| 10.5–11.5% | 5% | 7% |  |
+| 11.5–12.5% | 2% | 2% |  |
+| 12.5–13.5% | 0.4% | 0.5% |  |
+| 13.5–14.5% | 0.1% | 0.1% | Last Result |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -62,7 +62,7 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 1 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29 October–30 November 2019](2019-11-30-Median.html) | Median | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–29 November 2019](2019-11-29-TNSKantar.html) | TNS Kantar | 1 | 1 | 0–2 | 0–2 | 0–2 |
@@ -93,10 +93,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% |  |
-| 1 | 57% | 86% | Median |
-| 2 | 23% | 28% |  |
-| 3 | 6% | 6% |  |
-| 4 | 0% | 0% | Last Result |
+| 0 | 12% | 100% |  |
+| 1 | 49% | 88% | Median |
+| 2 | 28% | 38% |  |
+| 3 | 11% | 11% |  |
+| 4 | 0.1% | 0.1% | Last Result |
+| 5 | 0% | 0% |  |
 
 
