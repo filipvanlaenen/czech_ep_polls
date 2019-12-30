@@ -9,7 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | ANO | TOP 09 | STAN | ČSSD | KSČM | KDU–ČSL | ODS | SVOBODNÍ | Piráti | ZELENÍ | SPD | THO |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24–25 May 2019 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 25–36% <br> 7–10 | 3–7% <br> 0–1 | 3–8% <br> 0–2 | 4–11% <br> 0–3 | 4–11% <br> 0–2 | 4–7% <br> 0–1 | 8–16% <br> 2–5 | 0–2% <br> 0 | 8–16% <br> 2–4 | 0–2% <br> 0 | 4–10% <br> 0–2 | 2–8% <br> 0–2 |
+| N/A | Poll Average | 25–36% <br> 7–10 | 3–6% <br> 0–1 | 3–8% <br> 0–2 | 4–12% <br> 0–3 | 4–11% <br> 0–2 | 4–8% <br> 0–2 | 8–16% <br> 2–5 | 0–2% <br> 0 | 8–16% <br> 2–4 | 0–2% <br> 0 | 4–10% <br> 0–2 | 2–8% <br> 0–2 |
+| [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 26–33% <br> 7–9 | 2–5% <br> 0 | 3–6% <br> 0–1 | 8–12% <br> 2–3 | 6–10% <br> 1–2 | 5–9% <br> 0–2 | 10–15% <br> 3–4 | N/A <br> N/A | 12–17% <br> 3–4 | 1–3% <br> 0 | 4–7% <br> 0–1 | 2–5% <br> 0 |
 | [29 October–30 November 2019](2019-11-30-Median.html) | Median | 28–33% <br> 7–9 | 4–7% <br> 0–1 | 5–8% <br> 0–2 | 6–9% <br> 1–2 | 6–9% <br> 1–2 | 4–6% <br> 0–1 | 11–15% <br> 2–3 | N/A <br> N/A | 11–15% <br> 2–4 | 1–2% <br> 0 | 6–9% <br> 1–2 | 1–3% <br> 0 |
 | [9–29 November 2019](2019-11-29-TNSKantar.html) | TNS Kantar | 26–31% <br> 7–9 | 4–7% <br> 0–1 | 5–8% <br> 1–2 | 5–7% <br> 0–2 | 5–7% <br> 0–2 | 3–6% <br> 0–1 | 12–16% <br> 3–4 | N/A <br> N/A | 12–15% <br> 3–4 | N/A <br> N/A | 5–8% <br> 1–2 | 5–8% <br> 1–2 |
 | [21–27 November 2019](2019-11-27-SANEP.html) | SANEP | 27–32% <br> 7–9 | 3–6% <br> 0–1 | 3–5% <br> 0 | 4–7% <br> 0–1 | 5–8% <br> 1–2 | 4–7% <br> 0–1 | 9–13% <br> 2–3 | N/A <br> N/A | 7–11% <br> 2 | 1–2% <br> 0 | 6–10% <br> 1–2 | 6–9% <br> 1–2 |
@@ -46,18 +47,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#ano-2011-(re)">ANO 2011 (RE)</a> | 16.1% | 29.5% | 26.5–34.7% |25.7–35.8% | 25.2–36.5% | 24.1–37.8% |
-| <a href="#top-09-(epp)">TOP 09 (EPP)</a> | 16.0% | 4.4% | 3.1–5.9% |2.8–6.3% | 2.6–6.6% | 2.2–7.1% |
-| <a href="#starostové-a-nezávislí-(epp)">Starostové a nezávislí (EPP)</a> | 16.0% | 5.4% | 3.7–7.4% |3.4–7.8% | 3.1–8.1% | 2.6–8.8% |
-| <a href="#česká-strana-sociálně-demokratická-(s&d)">Česká strana sociálně demokratická (S&D)</a> | 14.2% | 6.4% | 5.0–9.0% |4.7–10.0% | 4.5–10.8% | 4.0–12.1% |
-| <a href="#komunistická-strana-čech-a-moravy-(gue/ngl)">Komunistická strana Čech a Moravy (GUE/NGL)</a> | 11.0% | 6.8% | 4.8–9.0% |4.4–10.0% | 4.1–10.8% | 3.6–12.1% |
-| <a href="#křesťanská-a-demokratická-unie–československá-strana-lidová-(epp)">Křesťanská a demokratická unie–Československá strana lidová (EPP)</a> | 10.0% | 5.3% | 4.2–6.5% |4.0–6.8% | 3.7–7.2% | 3.3–8.1% |
-| <a href="#občanská-demokratická-strana-(ecr)">Občanská demokratická strana (ECR)</a> | 7.7% | 11.8% | 9.0–15.0% |8.4–15.7% | 8.0–16.3% | 7.3–17.7% |
+| <a href="#ano-2011-(re)">ANO 2011 (RE)</a> | 16.1% | 29.5% | 26.6–34.4% |25.8–35.6% | 25.3–36.4% | 24.2–37.7% |
+| <a href="#top-09-(epp)">TOP 09 (EPP)</a> | 16.0% | 4.2% | 3.0–5.8% |2.8–6.2% | 2.6–6.5% | 2.2–7.1% |
+| <a href="#starostové-a-nezávislí-(epp)">Starostové a nezávislí (EPP)</a> | 16.0% | 5.1% | 3.6–7.3% |3.3–7.7% | 3.0–8.1% | 2.6–8.8% |
+| <a href="#česká-strana-sociálně-demokratická-(s&d)">Česká strana sociálně demokratická (S&D)</a> | 14.2% | 6.7% | 5.1–10.2% |4.8–10.9% | 4.5–11.5% | 4.0–12.5% |
+| <a href="#komunistická-strana-čech-a-moravy-(gue/ngl)">Komunistická strana Čech a Moravy (GUE/NGL)</a> | 11.0% | 7.0% | 4.9–9.2% |4.5–10.0% | 4.2–10.7% | 3.7–12.0% |
+| <a href="#křesťanská-a-demokratická-unie–československá-strana-lidová-(epp)">Křesťanská a demokratická unie–Československá strana lidová (EPP)</a> | 10.0% | 5.4% | 4.3–6.8% |4.0–7.3% | 3.8–7.7% | 3.4–8.5% |
+| <a href="#občanská-demokratická-strana-(ecr)">Občanská demokratická strana (ECR)</a> | 7.7% | 12.0% | 9.1–14.9% |8.5–15.6% | 8.1–16.2% | 7.4–17.5% |
 | <a href="#strana-svobodných-občanů-(ni)">Strana svobodných občanů (NI)</a> | 5.2% | 1.1% | 0.6–1.9% |0.5–2.2% | 0.4–2.4% | 0.3–3.0% |
-| <a href="#česká-pirátská-strana-(greens/efa)">Česká pirátská strana (Greens/EFA)</a> | 4.8% | 11.7% | 9.0–14.2% |8.5–14.9% | 8.1–15.5% | 7.4–16.9% |
-| <a href="#strana-zelených-(greens/efa)">Strana zelených (Greens/EFA)</a> | 3.8% | 1.2% | 0.7–1.8% |0.6–2.0% | 0.5–2.2% | 0.4–2.7% |
-| <a href="#svoboda-a-přímá-demokracie-(id)">Svoboda a přímá demokracie (ID)</a> | 0.0% | 7.3% | 5.6–9.2% |5.0–9.7% | 4.5–10.1% | 3.8–10.9% |
-| <a href="#trikolóra-hnutí-občanů-(*)">Trikolóra hnutí občanů (*)</a> | 0.0% | 4.6% | 1.8–7.2% |1.6–7.6% | 1.5–8.0% | 1.2–8.7% |
+| <a href="#česká-pirátská-strana-(greens/efa)">Česká pirátská strana (Greens/EFA)</a> | 4.8% | 12.1% | 9.2–14.7% |8.6–15.3% | 8.1–15.9% | 7.4–17.1% |
+| <a href="#strana-zelených-(greens/efa)">Strana zelených (Greens/EFA)</a> | 3.8% | 1.3% | 0.7–2.0% |0.6–2.2% | 0.5–2.4% | 0.4–2.9% |
+| <a href="#svoboda-a-přímá-demokracie-(id)">Svoboda a přímá demokracie (ID)</a> | 0.0% | 7.0% | 5.2–9.0% |4.7–9.6% | 4.4–10.0% | 3.7–10.8% |
+| <a href="#trikolóra-hnutí-občanů-(*)">Trikolóra hnutí občanů (*)</a> | 0.0% | 4.2% | 1.9–7.1% |1.7–7.5% | 1.5–7.9% | 1.2–8.6% |
 
 ### ANO 2011 (RE)
 
@@ -73,21 +74,21 @@ Only polls for which at least the sample size has been published are included in
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0.1% | 100% |  |
-| 23.5–24.5% | 0.9% | 99.8% |  |
-| 24.5–25.5% | 3% | 99.0% |  |
-| 25.5–26.5% | 7% | 96% |  |
-| 26.5–27.5% | 11% | 89% |  |
-| 27.5–28.5% | 14% | 78% |  |
-| 28.5–29.5% | 16% | 64% | Median |
-| 29.5–30.5% | 14% | 49% |  |
-| 30.5–31.5% | 10% | 35% |  |
-| 31.5–32.5% | 6% | 25% |  |
-| 32.5–33.5% | 4% | 19% |  |
-| 33.5–34.5% | 4% | 15% |  |
-| 34.5–35.5% | 5% | 11% |  |
-| 35.5–36.5% | 4% | 6% |  |
+| 23.5–24.5% | 0.8% | 99.9% |  |
+| 24.5–25.5% | 3% | 99.1% |  |
+| 25.5–26.5% | 6% | 96% |  |
+| 26.5–27.5% | 11% | 90% |  |
+| 27.5–28.5% | 14% | 80% |  |
+| 28.5–29.5% | 17% | 65% | Median |
+| 29.5–30.5% | 15% | 49% |  |
+| 30.5–31.5% | 11% | 34% |  |
+| 31.5–32.5% | 6% | 23% |  |
+| 32.5–33.5% | 4% | 17% |  |
+| 33.5–34.5% | 4% | 13% |  |
+| 34.5–35.5% | 4% | 9% |  |
+| 35.5–36.5% | 3% | 5% |  |
 | 36.5–37.5% | 2% | 2% |  |
-| 37.5–38.5% | 0.6% | 0.7% |  |
+| 37.5–38.5% | 0.5% | 0.6% |  |
 | 38.5–39.5% | 0.1% | 0.1% |  |
 | 39.5–40.5% | 0% | 0% |  |
 
@@ -99,11 +100,11 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 21% | 98% |  |
-| 3.5–4.5% | 32% | 77% | Median |
-| 4.5–5.5% | 27% | 45% |  |
-| 5.5–6.5% | 15% | 18% |  |
-| 6.5–7.5% | 2% | 3% |  |
+| 2.5–3.5% | 24% | 98% |  |
+| 3.5–4.5% | 33% | 73% | Median |
+| 4.5–5.5% | 24% | 40% |  |
+| 5.5–6.5% | 13% | 16% |  |
+| 6.5–7.5% | 2% | 2% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -122,14 +123,14 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.4% | 100% |  |
-| 2.5–3.5% | 7% | 99.6% |  |
-| 3.5–4.5% | 24% | 92% |  |
-| 4.5–5.5% | 20% | 68% | Median |
-| 5.5–6.5% | 22% | 48% |  |
-| 6.5–7.5% | 18% | 26% |  |
-| 7.5–8.5% | 7% | 8% |  |
-| 8.5–9.5% | 1.0% | 1.0% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
+| 2.5–3.5% | 9% | 99.6% |  |
+| 3.5–4.5% | 28% | 91% |  |
+| 4.5–5.5% | 21% | 63% | Median |
+| 5.5–6.5% | 19% | 42% |  |
+| 6.5–7.5% | 16% | 22% |  |
+| 7.5–8.5% | 6% | 7% |  |
+| 8.5–9.5% | 0.8% | 0.9% |  |
+| 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -143,18 +144,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 3% | 99.9% |  |
-| 4.5–5.5% | 21% | 97% |  |
-| 5.5–6.5% | 31% | 76% | Median |
-| 6.5–7.5% | 20% | 45% |  |
-| 7.5–8.5% | 11% | 25% |  |
-| 8.5–9.5% | 6% | 13% |  |
-| 9.5–10.5% | 4% | 7% |  |
-| 10.5–11.5% | 2% | 3% |  |
-| 11.5–12.5% | 0.8% | 1.0% |  |
-| 12.5–13.5% | 0.2% | 0.3% |  |
-| 13.5–14.5% | 0% | 0.1% | Last Result |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 3% | 100% |  |
+| 4.5–5.5% | 18% | 97% |  |
+| 5.5–6.5% | 27% | 80% |  |
+| 6.5–7.5% | 17% | 53% | Median |
+| 7.5–8.5% | 11% | 35% |  |
+| 8.5–9.5% | 9% | 24% |  |
+| 9.5–10.5% | 8% | 15% |  |
+| 10.5–11.5% | 5% | 7% |  |
+| 11.5–12.5% | 2% | 2% |  |
+| 12.5–13.5% | 0.4% | 0.5% |  |
+| 13.5–14.5% | 0.1% | 0.1% | Last Result |
 | 14.5–15.5% | 0% | 0% |  |
 
 ### Komunistická strana Čech a Moravy (GUE/NGL)
@@ -164,19 +165,18 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.4% | 100% |  |
-| 3.5–4.5% | 6% | 99.6% |  |
-| 4.5–5.5% | 14% | 93% |  |
-| 5.5–6.5% | 23% | 79% |  |
-| 6.5–7.5% | 26% | 56% | Median |
-| 7.5–8.5% | 16% | 30% |  |
-| 8.5–9.5% | 7% | 14% |  |
+| 2.5–3.5% | 0.3% | 100% |  |
+| 3.5–4.5% | 5% | 99.7% |  |
+| 4.5–5.5% | 12% | 94% |  |
+| 5.5–6.5% | 21% | 82% |  |
+| 6.5–7.5% | 25% | 61% | Median |
+| 7.5–8.5% | 19% | 36% |  |
+| 8.5–9.5% | 9% | 17% |  |
 | 9.5–10.5% | 4% | 7% |  |
 | 10.5–11.5% | 2% | 3% | Last Result |
-| 11.5–12.5% | 0.8% | 1.0% |  |
-| 12.5–13.5% | 0.2% | 0.3% |  |
-| 13.5–14.5% | 0% | 0.1% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 11.5–12.5% | 0.7% | 0.9% |  |
+| 12.5–13.5% | 0.2% | 0.2% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 ### Křesťanská a demokratická unie–Československá strana lidová (EPP)
 
@@ -185,14 +185,15 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.2% | 100% |  |
-| 3.5–4.5% | 18% | 98.8% |  |
-| 4.5–5.5% | 42% | 81% | Median |
-| 5.5–6.5% | 30% | 39% |  |
-| 6.5–7.5% | 7% | 8% |  |
-| 7.5–8.5% | 1.1% | 1.3% |  |
-| 8.5–9.5% | 0.2% | 0.2% |  |
-| 9.5–10.5% | 0% | 0% | Last Result |
+| 2.5–3.5% | 1.0% | 100% |  |
+| 3.5–4.5% | 15% | 99.0% |  |
+| 4.5–5.5% | 38% | 84% | Median |
+| 5.5–6.5% | 32% | 46% |  |
+| 6.5–7.5% | 11% | 14% |  |
+| 7.5–8.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.4% | 0.5% |  |
+| 9.5–10.5% | 0% | 0.1% | Last Result |
+| 10.5–11.5% | 0% | 0% |  |
 
 ### Občanská demokratická strana (ECR)
 
@@ -201,19 +202,19 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.9% | 100% |  |
-| 7.5–8.5% | 5% | 99.1% | Last Result |
-| 8.5–9.5% | 10% | 94% |  |
-| 9.5–10.5% | 14% | 84% |  |
-| 10.5–11.5% | 16% | 69% |  |
-| 11.5–12.5% | 13% | 53% | Median |
-| 12.5–13.5% | 13% | 40% |  |
-| 13.5–14.5% | 12% | 27% |  |
-| 14.5–15.5% | 9% | 15% |  |
-| 15.5–16.5% | 4% | 6% |  |
-| 16.5–17.5% | 1.3% | 2% |  |
-| 17.5–18.5% | 0.4% | 0.6% |  |
-| 18.5–19.5% | 0.1% | 0.2% |  |
+| 6.5–7.5% | 0.7% | 100% |  |
+| 7.5–8.5% | 5% | 99.2% | Last Result |
+| 8.5–9.5% | 9% | 95% |  |
+| 9.5–10.5% | 13% | 86% |  |
+| 10.5–11.5% | 16% | 73% |  |
+| 11.5–12.5% | 16% | 57% | Median |
+| 12.5–13.5% | 15% | 41% |  |
+| 13.5–14.5% | 13% | 26% |  |
+| 14.5–15.5% | 8% | 13% |  |
+| 15.5–16.5% | 4% | 5% |  |
+| 16.5–17.5% | 1.2% | 2% |  |
+| 17.5–18.5% | 0.4% | 0.5% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 ### Strana svobodných občanů (NI)
@@ -237,19 +238,19 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% | Last Result |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.7% | 100% |  |
-| 7.5–8.5% | 5% | 99.2% |  |
-| 8.5–9.5% | 10% | 94% |  |
-| 9.5–10.5% | 15% | 84% |  |
-| 10.5–11.5% | 17% | 69% |  |
-| 11.5–12.5% | 17% | 52% | Median |
-| 12.5–13.5% | 17% | 35% |  |
-| 13.5–14.5% | 11% | 18% |  |
-| 14.5–15.5% | 5% | 7% |  |
-| 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.5% | 0.7% |  |
-| 17.5–18.5% | 0.2% | 0.2% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 6.5–7.5% | 0.6% | 100% |  |
+| 7.5–8.5% | 4% | 99.3% |  |
+| 8.5–9.5% | 9% | 95% |  |
+| 9.5–10.5% | 13% | 86% |  |
+| 10.5–11.5% | 15% | 74% |  |
+| 11.5–12.5% | 16% | 59% | Median |
+| 12.5–13.5% | 18% | 43% |  |
+| 13.5–14.5% | 14% | 25% |  |
+| 14.5–15.5% | 7% | 11% |  |
+| 15.5–16.5% | 3% | 4% |  |
+| 16.5–17.5% | 0.9% | 1.1% |  |
+| 17.5–18.5% | 0.2% | 0.3% |  |
+| 18.5–19.5% | 0% | 0.1% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 ### Strana zelených (Greens/EFA)
@@ -259,9 +260,9 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 3% | 100% |  |
-| 0.5–1.5% | 75% | 97% | Median |
-| 1.5–2.5% | 21% | 22% |  |
-| 2.5–3.5% | 0.7% | 0.8% |  |
+| 0.5–1.5% | 68% | 97% | Median |
+| 1.5–2.5% | 27% | 29% |  |
+| 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% | Last Result |
 
 ### Svoboda a přímá demokracie (ID)
@@ -274,14 +275,14 @@ Only polls for which at least the sample size has been published are included in
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.3% | 100% |  |
-| 3.5–4.5% | 2% | 99.7% |  |
-| 4.5–5.5% | 7% | 97% |  |
-| 5.5–6.5% | 19% | 90% |  |
-| 6.5–7.5% | 29% | 72% | Median |
-| 7.5–8.5% | 24% | 43% |  |
-| 8.5–9.5% | 13% | 19% |  |
-| 9.5–10.5% | 5% | 6% |  |
-| 10.5–11.5% | 0.9% | 1.0% |  |
+| 3.5–4.5% | 3% | 99.7% |  |
+| 4.5–5.5% | 12% | 96% |  |
+| 5.5–6.5% | 21% | 85% |  |
+| 6.5–7.5% | 26% | 63% | Median |
+| 7.5–8.5% | 21% | 37% |  |
+| 8.5–9.5% | 11% | 16% |  |
+| 9.5–10.5% | 4% | 5% |  |
+| 10.5–11.5% | 0.8% | 0.9% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
@@ -292,15 +293,15 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 26% | 96% |  |
-| 2.5–3.5% | 10% | 70% |  |
-| 3.5–4.5% | 9% | 60% |  |
-| 4.5–5.5% | 13% | 51% | Median |
-| 5.5–6.5% | 17% | 37% |  |
-| 6.5–7.5% | 15% | 20% |  |
-| 7.5–8.5% | 5% | 6% |  |
-| 8.5–9.5% | 0.6% | 0.7% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 23% | 97% |  |
+| 2.5–3.5% | 15% | 73% |  |
+| 3.5–4.5% | 14% | 59% | Median |
+| 4.5–5.5% | 13% | 45% |  |
+| 5.5–6.5% | 15% | 32% |  |
+| 6.5–7.5% | 13% | 17% |  |
+| 7.5–8.5% | 4% | 5% |  |
+| 8.5–9.5% | 0.5% | 0.6% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -317,15 +318,15 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#ano-2011-(re)">ANO 2011 (RE)</a> | 4 | 8 | 7–9 |7–9 | 7–10 | 6–10 |
 | <a href="#top-09-(epp)">TOP 09 (EPP)</a> | 3 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#starostové-a-nezávislí-(epp)">Starostové a nezávislí (EPP)</a> | 1 | 1 | 0–2 |0–2 | 0–2 | 0–2 |
-| <a href="#česká-strana-sociálně-demokratická-(s&d)">Česká strana sociálně demokratická (S&D)</a> | 4 | 1 | 0–2 |0–3 | 0–3 | 0–3 |
+| <a href="#česká-strana-sociálně-demokratická-(s&d)">Česká strana sociálně demokratická (S&D)</a> | 4 | 1 | 0–3 |0–3 | 0–3 | 0–3 |
 | <a href="#komunistická-strana-čech-a-moravy-(gue/ngl)">Komunistická strana Čech a Moravy (GUE/NGL)</a> | 3 | 1 | 0–2 |0–2 | 0–2 | 0–3 |
-| <a href="#křesťanská-a-demokratická-unie–československá-strana-lidová-(epp)">Křesťanská a demokratická unie–Československá strana lidová (EPP)</a> | 3 | 1 | 0–1 |0–1 | 0–1 | 0–2 |
+| <a href="#křesťanská-a-demokratická-unie–československá-strana-lidová-(epp)">Křesťanská a demokratická unie–Československá strana lidová (EPP)</a> | 3 | 1 | 0–1 |0–2 | 0–2 | 0–2 |
 | <a href="#občanská-demokratická-strana-(ecr)">Občanská demokratická strana (ECR)</a> | 2 | 3 | 2–4 |2–4 | 2–5 | 2–5 |
 | <a href="#strana-svobodných-občanů-(ni)">Strana svobodných občanů (NI)</a> | 1 | 0 | 0 |0 | 0 | 0 |
-| <a href="#česká-pirátská-strana-(greens/efa)">Česká pirátská strana (Greens/EFA)</a> | 0 | 3 | 2–3 |2–4 | 2–4 | 2–4 |
+| <a href="#česká-pirátská-strana-(greens/efa)">Česká pirátská strana (Greens/EFA)</a> | 0 | 3 | 2–4 |2–4 | 2–4 | 2–4 |
 | <a href="#strana-zelených-(greens/efa)">Strana zelených (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#svoboda-a-přímá-demokracie-(id)">Svoboda a přímá demokracie (ID)</a> | 0 | 2 | 1–2 |0–2 | 0–2 | 0–3 |
-| <a href="#trikolóra-hnutí-občanů-(*)">Trikolóra hnutí občanů (*)</a> | 0 | 0 | 0–2 |0–2 | 0–2 | 0–2 |
+| <a href="#svoboda-a-přímá-demokracie-(id)">Svoboda a přímá demokracie (ID)</a> | 0 | 2 | 0–2 |0–2 | 0–2 | 0–3 |
+| <a href="#trikolóra-hnutí-občanů-(*)">Trikolóra hnutí občanů (*)</a> | 0 | 0 | 0–1 |0–2 | 0–2 | 0–2 |
 
 ### ANO 2011 (RE)
 
@@ -338,9 +339,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 2% | 100% |  |
-| 7 | 25% | 98% |  |
-| 8 | 47% | 73% | Median |
-| 9 | 22% | 25% |  |
+| 7 | 23% | 98% |  |
+| 8 | 46% | 75% | Median |
+| 9 | 26% | 29% |  |
 | 10 | 3% | 3% |  |
 | 11 | 0.1% | 0.1% | Majority |
 | 12 | 0% | 0% |  |
@@ -353,8 +354,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Median |
-| 1 | 28% | 29% |  |
+| 0 | 75% | 100% | Median |
+| 1 | 24% | 25% |  |
 | 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -366,9 +367,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 41% | 100% |  |
-| 1 | 46% | 59% | Last Result, Median |
-| 2 | 13% | 13% |  |
+| 0 | 49% | 100% |  |
+| 1 | 41% | 51% | Last Result, Median |
+| 2 | 11% | 11% |  |
 | 3 | 0% | 0% |  |
 
 ### Česká strana sociálně demokratická (S&D)
@@ -379,11 +380,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% |  |
-| 1 | 57% | 86% | Median |
-| 2 | 23% | 28% |  |
-| 3 | 6% | 6% |  |
-| 4 | 0% | 0% | Last Result |
+| 0 | 12% | 100% |  |
+| 1 | 49% | 88% | Median |
+| 2 | 28% | 38% |  |
+| 3 | 11% | 11% |  |
+| 4 | 0.1% | 0.1% | Last Result |
+| 5 | 0% | 0% |  |
 
 ### Komunistická strana Čech a Moravy (GUE/NGL)
 
@@ -393,10 +395,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% |  |
-| 1 | 49% | 86% | Median |
-| 2 | 36% | 37% |  |
-| 3 | 1.3% | 1.3% | Last Result |
+| 0 | 12% | 100% |  |
+| 1 | 48% | 88% | Median |
+| 2 | 39% | 40% |  |
+| 3 | 1.2% | 1.2% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### Křesťanská a demokratická unie–Československá strana lidová (EPP)
@@ -407,9 +409,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% |  |
-| 1 | 63% | 64% | Median |
-| 2 | 2% | 2% |  |
+| 0 | 31% | 100% |  |
+| 1 | 63% | 69% | Median |
+| 2 | 6% | 6% |  |
 | 3 | 0% | 0% | Last Result |
 
 ### Občanská demokratická strana (ECR)
@@ -421,9 +423,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.2% | 100% |  |
-| 2 | 29% | 99.8% | Last Result |
-| 3 | 51% | 71% | Median |
-| 4 | 16% | 20% |  |
+| 2 | 25% | 99.8% | Last Result |
+| 3 | 56% | 75% | Median |
+| 4 | 16% | 19% |  |
 | 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
@@ -448,10 +450,10 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.1% | 100% |  |
-| 2 | 31% | 99.9% |  |
-| 3 | 61% | 69% | Median |
-| 4 | 8% | 8% |  |
-| 5 | 0.1% | 0.1% |  |
+| 2 | 27% | 99.9% |  |
+| 3 | 60% | 73% | Median |
+| 4 | 13% | 13% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 ### Strana zelených (Greens/EFA)
@@ -472,10 +474,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 33% | 92% |  |
-| 2 | 58% | 59% | Median |
-| 3 | 0.8% | 0.8% |  |
+| 0 | 12% | 100% | Last Result |
+| 1 | 37% | 88% |  |
+| 2 | 50% | 51% | Median |
+| 3 | 0.7% | 0.7% |  |
 | 4 | 0% | 0% |  |
 
 ### Trikolóra hnutí občanů (*)
@@ -486,9 +488,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 55% | 100% | Last Result, Median |
-| 1 | 34% | 45% |  |
-| 2 | 10% | 10% |  |
+| 0 | 62% | 100% | Last Result, Median |
+| 1 | 29% | 38% |  |
+| 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -502,12 +504,12 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | ANO 2011 (RE) | 4 | 8 | 0.1% | 7–9 | 7–9 | 7–10 | 6–10 |
 | Občanská demokratická strana (ECR) | 2 | 3 | 0% | 2–4 | 2–4 | 2–5 | 2–5 |
-| Česká pirátská strana (Greens/EFA) – Strana zelených (Greens/EFA) | 0 | 3 | 0% | 2–3 | 2–4 | 2–4 | 2–4 |
-| Starostové a nezávislí (EPP) – TOP 09 (EPP) – Křesťanská a demokratická unie–Československá strana lidová (EPP) | 7 | 2 | 0% | 0–3 | 0–3 | 0–3 | 0–4 |
-| Česká strana sociálně demokratická (S&D) | 4 | 1 | 0% | 0–2 | 0–3 | 0–3 | 0–3 |
+| Česká pirátská strana (Greens/EFA) – Strana zelených (Greens/EFA) | 0 | 3 | 0% | 2–4 | 2–4 | 2–4 | 2–4 |
+| Starostové a nezávislí (EPP) – TOP 09 (EPP) – Křesťanská a demokratická unie–Československá strana lidová (EPP) | 7 | 2 | 0% | 1–3 | 0–3 | 0–3 | 0–4 |
+| Česká strana sociálně demokratická (S&D) | 4 | 1 | 0% | 0–3 | 0–3 | 0–3 | 0–3 |
 | Komunistická strana Čech a Moravy (GUE/NGL) | 3 | 1 | 0% | 0–2 | 0–2 | 0–2 | 0–3 |
-| Svoboda a přímá demokracie (ID) | 0 | 2 | 0% | 1–2 | 0–2 | 0–2 | 0–3 |
-| Trikolóra hnutí občanů (*) | 0 | 0 | 0% | 0–2 | 0–2 | 0–2 | 0–2 |
+| Svoboda a přímá demokracie (ID) | 0 | 2 | 0% | 0–2 | 0–2 | 0–2 | 0–3 |
+| Trikolóra hnutí občanů (*) | 0 | 0 | 0% | 0–1 | 0–2 | 0–2 | 0–2 |
 | Strana svobodných občanů (NI) | 1 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### ANO 2011 (RE)
@@ -519,9 +521,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 2% | 100% |  |
-| 7 | 25% | 98% |  |
-| 8 | 47% | 73% | Median |
-| 9 | 22% | 25% |  |
+| 7 | 23% | 98% |  |
+| 8 | 46% | 75% | Median |
+| 9 | 26% | 29% |  |
 | 10 | 3% | 3% |  |
 | 11 | 0.1% | 0.1% | Majority |
 | 12 | 0% | 0% |  |
@@ -533,9 +535,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.2% | 100% |  |
-| 2 | 29% | 99.8% | Last Result |
-| 3 | 51% | 71% | Median |
-| 4 | 16% | 20% |  |
+| 2 | 25% | 99.8% | Last Result |
+| 3 | 56% | 75% | Median |
+| 4 | 16% | 19% |  |
 | 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
@@ -547,10 +549,10 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.1% | 100% |  |
-| 2 | 31% | 99.9% |  |
-| 3 | 61% | 69% | Median |
-| 4 | 8% | 8% |  |
-| 5 | 0.1% | 0.1% |  |
+| 2 | 27% | 99.9% |  |
+| 3 | 60% | 73% | Median |
+| 4 | 13% | 13% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 ### Starostové a nezávislí (EPP) – TOP 09 (EPP) – Křesťanská a demokratická unie–Československá strana lidová (EPP)
@@ -559,11 +561,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% |  |
-| 1 | 31% | 89% |  |
-| 2 | 40% | 58% | Median |
-| 3 | 18% | 18% |  |
-| 4 | 0.6% | 0.6% |  |
+| 0 | 10% | 100% |  |
+| 1 | 35% | 90% |  |
+| 2 | 40% | 56% | Median |
+| 3 | 16% | 16% |  |
+| 4 | 0.5% | 0.5% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
 | 7 | 0% | 0% | Last Result |
@@ -574,11 +576,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% |  |
-| 1 | 57% | 86% | Median |
-| 2 | 23% | 28% |  |
-| 3 | 6% | 6% |  |
-| 4 | 0% | 0% | Last Result |
+| 0 | 12% | 100% |  |
+| 1 | 49% | 88% | Median |
+| 2 | 28% | 38% |  |
+| 3 | 11% | 11% |  |
+| 4 | 0.1% | 0.1% | Last Result |
+| 5 | 0% | 0% |  |
 
 ### Komunistická strana Čech a Moravy (GUE/NGL)
 
@@ -586,10 +589,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% |  |
-| 1 | 49% | 86% | Median |
-| 2 | 36% | 37% |  |
-| 3 | 1.3% | 1.3% | Last Result |
+| 0 | 12% | 100% |  |
+| 1 | 48% | 88% | Median |
+| 2 | 39% | 40% |  |
+| 3 | 1.2% | 1.2% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### Svoboda a přímá demokracie (ID)
@@ -598,10 +601,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 33% | 92% |  |
-| 2 | 58% | 59% | Median |
-| 3 | 0.8% | 0.8% |  |
+| 0 | 12% | 100% | Last Result |
+| 1 | 37% | 88% |  |
+| 2 | 50% | 51% | Median |
+| 3 | 0.7% | 0.7% |  |
 | 4 | 0% | 0% |  |
 
 ### Trikolóra hnutí občanů (*)
@@ -610,9 +613,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 55% | 100% | Last Result, Median |
-| 1 | 34% | 45% |  |
-| 2 | 10% | 10% |  |
+| 0 | 62% | 100% | Last Result, Median |
+| 1 | 29% | 38% |  |
+| 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
 ### Strana svobodných občanů (NI)
@@ -627,7 +630,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
-+ **Number of polls included in this average:** 6
++ **Number of polls included in this average:** 7
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 6,291,456
++ **Total number of simulations done in the polls included in this average:** 7,340,032
 + **Error estimate:** 2.94%
