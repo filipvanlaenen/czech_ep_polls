@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 31 Dec 2019 10:11:36 +0100</pubDate>
+    <pubDate>Fri, 17 Jan 2020 18:26:43 +0100</pubDate>
     <item>
       <title>Opinion Poll by CVM, 30 November–11 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-12-11-CVM.html#seats</link>
@@ -240,14 +240,34 @@
       <dc:date>2019-11-29T21:16:52.102041+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by STEM, 11–25 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-10-25-STEM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 8–10 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 2–4 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 1–2 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-10-25-STEM-seats.png"
+        length="265386"
+        type="image/png"/>
+      <pubDate>Fri, 17 Jan 2020 18:26:43 +0100</pubDate>
+      <dc:date>2020-01-17T18:26:43.412816+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by STEM, 11–25 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-10-25-STEM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-10-25-STEM-coalitions-seats.png"
+        length="211987"
+        type="image/png"/>
+      <pubDate>Fri, 17 Jan 2020 18:26:43 +0100</pubDate>
+      <dc:date>2020-01-17T18:26:43.412816+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by STEM, 11–25 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-10-25-STEM.html</link>
       <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 30.2–36.1%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 8.7–12.6%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 10.3–14.4%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 6.0–9.3%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 6.8–10.3%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 5.1–8.2%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 4.3–7.2%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 3.3–5.9%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 3.2–5.8%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0.8–2.4%&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (*): 3.1–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-10-25-STEM.png"
-        length="310547"
+        length="310605"
         type="image/png"/>
-      <pubDate>Fri, 29 Nov 2019 21:36:35 +0100</pubDate>
-      <dc:date>2019-11-29T21:36:35.69724+01:00</dc:date>
+      <pubDate>Fri, 17 Jan 2020 18:26:43 +0100</pubDate>
+      <dc:date>2020-01-17T18:26:43.412816+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS Kantar, 16 September–5 October 2019 – Seat Projections for the Parties</title>
@@ -579,6 +599,6 @@
       <pubDate>Mon, 30 Dec 2019 14:19:35 +0100</pubDate>
       <dc:date>2019-12-30T14:19:35.409648+01:00</dc:date>
     </item>
-    <dc:date>2019-12-31T10:11:36.665372+01:00</dc:date>
+    <dc:date>2020-01-17T18:26:43.412816+01:00</dc:date>
   </channel>
 </rss>
