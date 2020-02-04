@@ -10,7 +10,8 @@ Last result: **3.8%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.7–2.0% | 0.6–2.2% | 0.5–2.4% | 0.4–2.9% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.8–2.1% | 0.7–2.3% | 0.6–2.5% | 0.5–2.9% |
+| [1–12 January 2020](2020-01-12-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
 | [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 1.5% | 1.1–2.3% | 1.0–2.5% | 0.9–2.7% | 0.7–3.2% |
 | [29 October–30 November 2019](2019-11-30-Median.html) | Median | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.8–2.7% |
 | [9–29 November 2019](2019-11-29-TNSKantar.html) | TNS Kantar | 0.0% | N/A | N/A | N/A | N/A |
@@ -39,9 +40,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% |  |
-| 0.5–1.5% | 68% | 97% | Median |
-| 1.5–2.5% | 27% | 29% |  |
+| 0.0–0.5% | 1.1% | 100% |  |
+| 0.5–1.5% | 61% | 98.9% | Median |
+| 1.5–2.5% | 36% | 38% |  |
 | 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% | Last Result |
 
@@ -55,6 +56,7 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–12 January 2020](2020-01-12-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
 | [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 0 | 0 | 0 | 0 | 0 |
 | [29 October–30 November 2019](2019-11-30-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [9–29 November 2019](2019-11-29-TNSKantar.html) | TNS Kantar |  |  |  |  |  |
