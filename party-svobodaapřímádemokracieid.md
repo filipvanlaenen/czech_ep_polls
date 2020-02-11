@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.3% | 5.4–8.9% | 5.0–9.4% | 4.6–9.7% | 4.0–10.4% |
+| N/A | [Poll Average](average.html) | 7.0% | 4.0–8.8% | 3.6–9.3% | 3.3–9.7% | 2.8–10.4% |
+| [13–31 January 2020](2020-01-31-TNSKantar.html) | TNS Kantar | 7.5% | 6.4–8.7% | 6.1–9.1% | 5.9–9.4% | 5.5–10.0% |
+| [11–20 January 2020](2020-01-20-CVVM.html) | CVVM | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.8–5.6% | 2.5–6.2% |
 | [1–12 January 2020](2020-01-12-PhoenixResearch.html) | Phoenix Research | 8.5% | 7.5–9.7% | 7.1–10.1% | 6.9–10.4% | 6.4–11.0% |
 | [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 5.5% | 4.5–6.7% | 4.3–7.1% | 4.0–7.4% | 3.6–8.0% |
 | [29 October–30 November 2019](2019-11-30-Median.html) | Median | 7.5% | 6.5–8.6% | 6.3–8.9% | 6.1–9.1% | 5.7–9.7% |
@@ -42,16 +44,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 2% | 99.9% |  |
-| 4.5–5.5% | 10% | 98% |  |
-| 5.5–6.5% | 20% | 88% |  |
-| 6.5–7.5% | 26% | 69% | Median |
-| 7.5–8.5% | 26% | 42% |  |
-| 8.5–9.5% | 13% | 17% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 5% | 99.8% |  |
+| 3.5–4.5% | 12% | 95% |  |
+| 4.5–5.5% | 12% | 83% |  |
+| 5.5–6.5% | 12% | 70% |  |
+| 6.5–7.5% | 21% | 58% | Median |
+| 7.5–8.5% | 23% | 37% |  |
+| 8.5–9.5% | 11% | 15% |  |
 | 9.5–10.5% | 3% | 3% |  |
-| 10.5–11.5% | 0.3% | 0.4% |  |
+| 10.5–11.5% | 0.3% | 0.3% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -63,7 +65,9 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [13–31 January 2020](2020-01-31-TNSKantar.html) | TNS Kantar | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [11–20 January 2020](2020-01-20-CVVM.html) | CVVM | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–12 January 2020](2020-01-12-PhoenixResearch.html) | Phoenix Research | 2 | 2 | 2 | 1–2 | 1–3 |
 | [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [29 October–30 November 2019](2019-11-30-Median.html) | Median | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -95,10 +99,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 36% | 92% |  |
-| 2 | 55% | 56% | Median |
-| 3 | 0.5% | 0.5% |  |
+| 0 | 25% | 100% | Last Result |
+| 1 | 28% | 75% | Median |
+| 2 | 46% | 47% |  |
+| 3 | 0.7% | 0.7% |  |
 | 4 | 0% | 0% |  |
 
 

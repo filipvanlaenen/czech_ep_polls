@@ -10,7 +10,9 @@ Last result: **3.8%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 0.8–2.1% | 0.7–2.3% | 0.6–2.5% | 0.5–2.9% |
+| N/A | [Poll Average](average.html) | 1.6% | 1.0–2.4% | 0.8–2.6% | 0.7–2.8% | 0.5–3.3% |
+| [13–31 January 2020](2020-01-31-TNSKantar.html) | TNS Kantar | 2.0% | 1.5–2.7% | 1.4–3.0% | 1.3–3.2% | 1.1–3.6% |
+| [11–20 January 2020](2020-01-20-CVVM.html) | CVVM | 1.1% | 0.7–1.7% | 0.6–1.9% | 0.5–2.1% | 0.4–2.4% |
 | [1–12 January 2020](2020-01-12-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
 | [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 1.5% | 1.1–2.3% | 1.0–2.5% | 0.9–2.7% | 0.7–3.2% |
 | [29 October–30 November 2019](2019-11-30-Median.html) | Median | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.8–2.7% |
@@ -40,11 +42,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.1% | 100% |  |
-| 0.5–1.5% | 61% | 98.9% | Median |
-| 1.5–2.5% | 36% | 38% |  |
-| 2.5–3.5% | 2% | 2% |  |
-| 3.5–4.5% | 0% | 0% | Last Result |
+| 0.0–0.5% | 0.7% | 100% |  |
+| 0.5–1.5% | 46% | 99.3% |  |
+| 1.5–2.5% | 47% | 53% | Median |
+| 2.5–3.5% | 6% | 6% |  |
+| 3.5–4.5% | 0.1% | 0.1% | Last Result |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -56,6 +59,8 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [13–31 January 2020](2020-01-31-TNSKantar.html) | TNS Kantar | 0 | 0 | 0 | 0 | 0 |
+| [11–20 January 2020](2020-01-20-CVVM.html) | CVVM | 0 | 0 | 0 | 0 | 0 |
 | [1–12 January 2020](2020-01-12-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
 | [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 0 | 0 | 0 | 0 | 0 |
 | [29 October–30 November 2019](2019-11-30-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
