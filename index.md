@@ -5,12 +5,12 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ANO | TOP 09 | STAN | ČSSD | KSČM | KDU–ČSL | ODS | SVOBODNÍ | Piráti | ZELENÍ | SPD | THO |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24–25 May 2019 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 26–32% <br> 7–9 | 2–7% <br> 0–1 | 3–8% <br> 0–2 | 4–11% <br> 0–3 | 4–9% <br> 0–2 | 4–8% <br> 0–2 | 9–16% <br> 2–4 | N/A <br> N/A | 8–17% <br> 2–4 | 1–2% <br> 0 | 5–10% <br> 0–2 | 2–8% <br> 0–2 |
+| N/A | [Poll Average](average.html) | 27–34% <br> 7–9 | 2–7% <br> 0–1 | 3–7% <br> 0–2 | 4–11% <br> 0–3 | 4–10% <br> 0–2 | 4–8% <br> 0–2 | 9–17% <br> 2–4 | N/A <br> N/A | 11–18% <br> 3–5 | 1–3% <br> 0 | 3–10% <br> 0–2 | 1–8% <br> 0–2 |
+| [13–31 January 2020](2020-01-31-TNSKantar.html) | TNS Kantar | 27–33% <br> 7–9 | 4–7% <br> 0–2 | 4–7% <br> 0–1 | 4–7% <br> 0–1 | 5–8% <br> 0–2 | 4–7% <br> 0–1 | 10–15% <br> 3–4 | N/A <br> N/A | 14–19% <br> 4–5 | 1–3% <br> 0 | 6–9% <br> 1–2 | 2–4% <br> 0 |
+| [11–20 January 2020](2020-01-20-CVVM.html) | CVVM | 29–35% <br> 7–10 | 4–7% <br> 0–1 | 4–7% <br> 0–2 | 7–11% <br> 1–3 | 6–10% <br> 1–2 | 4–7% <br> 0–1 | 13–18% <br> 3–4 | N/A <br> N/A | 11–16% <br> 3–4 | 1–2% <br> 0 | 3–6% <br> 0–1 | 1–3% <br> 0 |
 | [1–12 January 2020](2020-01-12-PhoenixResearch.html) | Phoenix Research | 26–32% <br> 7–8 | 2–4% <br> 0 | 4–7% <br> 0–2 | 6–9% <br> 1–2 | 3–6% <br> 0–1 | 5–8% <br> 1–2 | 8–12% <br> 2–3 | N/A <br> N/A | 14–18% <br> 3–5 | N/A <br> N/A | 7–10% <br> 1–2 | 5–9% <br> 1–2 |
 | [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 26–33% <br> 7–9 | 2–5% <br> 0 | 3–6% <br> 0–1 | 8–12% <br> 2–3 | 6–10% <br> 1–2 | 5–9% <br> 0–2 | 10–15% <br> 3–4 | N/A <br> N/A | 12–17% <br> 3–4 | 1–3% <br> 0 | 4–7% <br> 0–1 | 2–5% <br> 0 |
 | [29 October–30 November 2019](2019-11-30-Median.html) | Median | 28–33% <br> 7–9 | 4–7% <br> 0–1 | 5–8% <br> 0–2 | 6–9% <br> 1–2 | 6–9% <br> 1–2 | 4–6% <br> 0–1 | 11–15% <br> 2–3 | N/A <br> N/A | 11–15% <br> 2–4 | 1–2% <br> 0 | 6–9% <br> 1–2 | 1–3% <br> 0 |
-| [9–29 November 2019](2019-11-29-TNSKantar.html) | TNS Kantar | 26–31% <br> 7–9 | 4–7% <br> 0–1 | 5–8% <br> 1–2 | 5–7% <br> 0–2 | 5–7% <br> 0–2 | 3–6% <br> 0–1 | 12–16% <br> 3–4 | N/A <br> N/A | 12–15% <br> 3–4 | N/A <br> N/A | 5–8% <br> 1–2 | 5–8% <br> 1–2 |
-| [21–27 November 2019](2019-11-27-SANEP.html) | SANEP | 27–32% <br> 7–9 | 3–6% <br> 0–1 | 3–5% <br> 0 | 4–7% <br> 0–1 | 5–8% <br> 1–2 | 4–7% <br> 0–1 | 9–13% <br> 2–3 | N/A <br> N/A | 7–11% <br> 2 | 1–2% <br> 0 | 6–10% <br> 1–2 | 6–9% <br> 1–2 |
 | 24–25 May 2019 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
