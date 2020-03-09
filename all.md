@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ANO | TOP 09 | STAN | ČSSD | KSČM | KDU–ČSL | ODS | SVOBODNÍ | Piráti | ZELENÍ | SPD | THO |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24–25 May 2019 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [10–28 February 2020](2020-02-28-TNSKantar.html) | TNS Kantar <br> O24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–31 January 2020](2020-01-31-TNSKantar.html) | TNS Kantar | 27–33% <br> 7–9 | 4–7% <br> 0–2 | 4–7% <br> 0–1 | 4–7% <br> 0–1 | 5–8% <br> 0–2 | 4–7% <br> 0–1 | 10–15% <br> 3–4 | N/A <br> N/A | 14–19% <br> 4–5 | 1–3% <br> 0 | 6–9% <br> 1–2 | 2–4% <br> 0 |
 | [11–20 January 2020](2020-01-20-CVVM.html) | CVVM | 29–35% <br> 7–10 | 4–7% <br> 0–1 | 4–7% <br> 0–2 | 7–11% <br> 1–3 | 6–10% <br> 1–2 | 4–7% <br> 0–1 | 13–18% <br> 3–4 | N/A <br> N/A | 11–16% <br> 3–4 | 1–2% <br> 0 | 3–6% <br> 0–1 | 1–3% <br> 0 |
 | [1–12 January 2020](2020-01-12-PhoenixResearch.html) | Phoenix Research | 26–32% <br> 7–8 | 2–4% <br> 0 | 4–7% <br> 0–2 | 6–9% <br> 1–2 | 3–6% <br> 0–1 | 5–8% <br> 1–2 | 8–12% <br> 2–3 | N/A <br> N/A | 14–18% <br> 3–5 | N/A <br> N/A | 7–10% <br> 1–2 | 5–9% <br> 1–2 |
