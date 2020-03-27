@@ -10,9 +10,11 @@ Last result: **14.2%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.7% | 5.4–10.4% | 5.0–11.0% | 4.7–11.6% | 4.1–12.5% |
-| [10–28 February 2020](2020-02-28-TNSKantar.html) | TNS Kantar <br> O24 | 5.5% | 4.6–6.6% | 4.4–7.0% | 4.2–7.2% | 3.8–7.8% |
-| [13–31 January 2020](2020-01-31-TNSKantar.html) | TNS Kantar | 5.0% | 4.2–6.1% | 3.9–6.4% | 3.8–6.6% | 3.4–7.2% |
+| N/A | [Poll Average](average.html) | 7.6% | 5.5–10.4% | 5.0–11.0% | 4.7–11.5% | 4.0–12.5% |
+| [10–28 February 2020](2020-02-28-TNSKantar.html) | TNS Kantar <br> O24 | 5.6% | 4.6–6.9% | 4.3–7.3% | 4.0–7.6% | 3.6–8.3% |
+| [1 January–13 February 2020](2020-02-13-Median.html) | Median | 7.1% | 6.0–8.5% | 5.6–8.9% | 5.4–9.2% | 4.9–9.9% |
+| [1–13 February 2020](2020-02-13-CVVM.html) | CVVM | 9.0% | 7.7–10.7% | 7.3–11.1% | 7.0–11.5% | 6.4–12.3% |
+| [13–31 January 2020](2020-01-31-TNSKantar.html) | TNS Kantar | 4.9% | N/A | N/A | N/A | N/A |
 | [11–20 January 2020](2020-01-20-CVVM.html) | CVVM | 8.4% | 7.3–9.9% | 6.9–10.3% | 6.7–10.7% | 6.1–11.4% |
 | [1–12 January 2020](2020-01-12-PhoenixResearch.html) | Phoenix Research | 7.0% | 6.1–8.1% | 5.8–8.5% | 5.6–8.7% | 5.2–9.3% |
 | [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 10.0% | 8.6–11.5% | 8.3–12.0% | 8.0–12.4% | 7.4–13.2% |
@@ -43,18 +45,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 2% | 100% |  |
-| 4.5–5.5% | 11% | 98% |  |
-| 5.5–6.5% | 17% | 87% |  |
-| 6.5–7.5% | 18% | 71% |  |
-| 7.5–8.5% | 17% | 53% | Median |
-| 8.5–9.5% | 15% | 36% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 2% | 99.9% |  |
+| 4.5–5.5% | 8% | 98% |  |
+| 5.5–6.5% | 17% | 90% |  |
+| 6.5–7.5% | 21% | 73% |  |
+| 7.5–8.5% | 17% | 51% | Median |
+| 8.5–9.5% | 14% | 35% |  |
 | 9.5–10.5% | 12% | 21% |  |
 | 10.5–11.5% | 6% | 9% |  |
-| 11.5–12.5% | 2% | 3% |  |
-| 12.5–13.5% | 0.4% | 0.5% |  |
-| 13.5–14.5% | 0% | 0.1% | Last Result |
+| 11.5–12.5% | 2% | 2% |  |
+| 12.5–13.5% | 0.4% | 0.4% |  |
+| 13.5–14.5% | 0% | 0% | Last Result |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -67,8 +69,10 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 0–3 | 0–3 | 0–3 |
-| [10–28 February 2020](2020-02-28-TNSKantar.html) | TNS Kantar <br> O24 | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| [13–31 January 2020](2020-01-31-TNSKantar.html) | TNS Kantar | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [10–28 February 2020](2020-02-28-TNSKantar.html) | TNS Kantar <br> O24 | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [1 January–13 February 2020](2020-02-13-Median.html) | Median | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–13 February 2020](2020-02-13-CVVM.html) | CVVM | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [13–31 January 2020](2020-01-31-TNSKantar.html) | TNS Kantar |  |  |  |  |  |
 | [11–20 January 2020](2020-01-20-CVVM.html) | CVVM | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [1–12 January 2020](2020-01-12-PhoenixResearch.html) | Phoenix Research | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -102,9 +106,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 7% | 100% |  |
-| 1 | 32% | 93% |  |
-| 2 | 50% | 61% | Median |
-| 3 | 11% | 11% |  |
+| 1 | 31% | 93% |  |
+| 2 | 52% | 63% | Median |
+| 3 | 10% | 10% |  |
 | 4 | 0% | 0% | Last Result |
 
 
