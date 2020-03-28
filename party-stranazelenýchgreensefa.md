@@ -14,7 +14,7 @@ Last result: **3.8%** (General Election of 24–25 May 2019)
 | [10–28 February 2020](2020-02-28-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
 | [1 January–13 February 2020](2020-02-13-Median.html) | Median | 2.0% | 1.5–2.9% | 1.3–3.1% | 1.2–3.4% | 1.0–3.8% |
 | [1–13 February 2020](2020-02-13-CVVM.html) | CVVM | 2.1% | 1.5–3.0% | 1.3–3.2% | 1.2–3.5% | 1.0–4.0% |
-| [13–31 January 2020](2020-01-31-TNSKantar.html) | TNS Kantar | 2.1% | N/A | N/A | N/A | N/A |
+| [13–31 January 2020](2020-01-31-TNSKantar.html) | TNS Kantar | 2.1% | 1.5–3.1% | 1.3–3.4% | 1.2–3.7% | 0.9–4.3% |
 | [11–20 January 2020](2020-01-20-CVVM.html) | CVVM | 1.1% | 0.7–1.7% | 0.6–1.9% | 0.5–2.1% | 0.4–2.4% |
 | [1–12 January 2020](2020-01-12-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
 | [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 1.5% | 1.1–2.3% | 1.0–2.5% | 0.9–2.7% | 0.7–3.2% |
@@ -65,7 +65,7 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | [10–28 February 2020](2020-02-28-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
 | [1 January–13 February 2020](2020-02-13-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [1–13 February 2020](2020-02-13-CVVM.html) | CVVM | 0 | 0 | 0 | 0 | 0 |
-| [13–31 January 2020](2020-01-31-TNSKantar.html) | TNS Kantar |  |  |  |  |  |
+| [13–31 January 2020](2020-01-31-TNSKantar.html) | TNS Kantar | 0 | 0 | 0 | 0 | 0 |
 | [11–20 January 2020](2020-01-20-CVVM.html) | CVVM | 0 | 0 | 0 | 0 | 0 |
 | [1–12 January 2020](2020-01-12-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
 | [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 0 | 0 | 0 | 0 | 0 |
