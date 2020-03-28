@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 27 Mar 2020 17:17:06 +0100</pubDate>
+    <pubDate>Fri, 27 Mar 2020 20:24:11 +0100</pubDate>
     <item>
       <title>Opinion Poll by TNS Kantar for O24, 10–28 February 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-02-28-TNSKantar.html#seats</link>
@@ -98,6 +98,36 @@
         type="image/png"/>
       <pubDate>Fri, 27 Mar 2020 17:17:02 +0100</pubDate>
       <dc:date>2020-03-27T17:17:02.568975+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS Kantar, 13–31 January 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-01-31-TNSKantar.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 7–9 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 2–4 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 3–5 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 1–2 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 0–2 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 0–2 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-01-31-TNSKantar-seats.png"
+        length="288268"
+        type="image/png"/>
+      <pubDate>Fri, 27 Mar 2020 20:24:11 +0100</pubDate>
+      <dc:date>2020-03-27T20:24:11.027021+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS Kantar, 13–31 January 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-01-31-TNSKantar.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-01-31-TNSKantar-coalitions-seats.png"
+        length="252869"
+        type="image/png"/>
+      <pubDate>Fri, 27 Mar 2020 20:24:11 +0100</pubDate>
+      <dc:date>2020-03-27T20:24:11.027021+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS Kantar, 13–31 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-01-31-TNSKantar.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 26.1–33.9%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 9.9–15.5%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 13.5–19.8%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 5.6–10.1%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 4.6–8.8%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 3.4–7.1%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 3.4–7.1%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 3.8–7.8%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 3.4–7.1%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 1.2–3.7%&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (*): 1.4–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-01-31-TNSKantar.png"
+        length="338900"
+        type="image/png"/>
+      <pubDate>Fri, 27 Mar 2020 20:24:11 +0100</pubDate>
+      <dc:date>2020-03-27T20:24:11.027021+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CVVM, 11–20 January 2020 – Seat Projections for the Parties</title>
@@ -749,6 +779,6 @@
       <pubDate>Mon, 30 Dec 2019 14:19:35 +0100</pubDate>
       <dc:date>2019-12-30T14:19:35.409648+01:00</dc:date>
     </item>
-    <dc:date>2020-03-27T17:17:06.357034+01:00</dc:date>
+    <dc:date>2020-03-27T20:24:11.027021+01:00</dc:date>
   </channel>
 </rss>
