@@ -10,10 +10,10 @@ Last result: **3.8%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.7–2.7% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.8–1.9% | 0.6–2.1% | 0.5–2.3% | 0.4–2.7% |
 | [9–27 March 2020](2020-03-27-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
 | [29 February–26 March 2020](2020-03-26-Median.html) | Median | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.7–2.7% |
-| [29 February–11 March 2020](2020-03-11-CVVM.html) | CVVM | 1.0% | N/A | N/A | N/A | N/A |
+| [29 February–11 March 2020](2020-03-11-CVVM.html) | CVVM | 1.0% | 0.6–1.7% | 0.5–1.9% | 0.4–2.1% | 0.3–2.5% |
 | [10–28 February 2020](2020-02-28-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
 | [1 January–13 February 2020](2020-02-13-Median.html) | Median | 2.0% | 1.5–2.9% | 1.3–3.1% | 1.2–3.4% | 1.0–3.8% |
 | [1–13 February 2020](2020-02-13-CVVM.html) | CVVM | 2.1% | 1.5–3.0% | 1.3–3.2% | 1.2–3.5% | 1.0–4.0% |
@@ -48,10 +48,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 52% | 100% |  |
-| 1.5–2.5% | 47% | 48% | Median |
-| 2.5–3.5% | 1.3% | 1.3% |  |
+| 0.0–0.5% | 3% | 100% |  |
+| 0.5–1.5% | 66% | 97% | Median |
+| 1.5–2.5% | 30% | 31% |  |
+| 2.5–3.5% | 0.9% | 0.9% |  |
 | 3.5–4.5% | 0% | 0% | Last Result |
 
 
@@ -66,7 +66,7 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [9–27 March 2020](2020-03-27-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
 | [29 February–26 March 2020](2020-03-26-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
-| [29 February–11 March 2020](2020-03-11-CVVM.html) | CVVM |  |  |  |  |  |
+| [29 February–11 March 2020](2020-03-11-CVVM.html) | CVVM | 0 | 0 | 0 | 0 | 0 |
 | [10–28 February 2020](2020-02-28-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
 | [1 January–13 February 2020](2020-02-13-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [1–13 February 2020](2020-02-13-CVVM.html) | CVVM | 0 | 0 | 0 | 0 | 0 |

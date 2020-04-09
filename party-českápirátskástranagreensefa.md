@@ -10,10 +10,10 @@ Last result: **4.8%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.9% | 11.2–16.9% | 10.8–17.4% | 10.4–17.9% | 9.8–18.7% |
-| [9–27 March 2020](2020-03-27-TNSKantar.html) | TNS Kantar <br> O24 | 13.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 13.3% | 11.3–16.3% | 10.8–16.9% | 10.4–17.4% | 9.7–18.4% |
+| [9–27 March 2020](2020-03-27-TNSKantar.html) | TNS Kantar <br> O24 | 13.5% | 12.2–15.1% | 11.8–15.5% | 11.5–15.9% | 10.9–16.7% |
 | [29 February–26 March 2020](2020-03-26-Median.html) | Median | 12.0% | 10.7–13.4% | 10.4–13.8% | 10.1–14.1% | 9.6–14.8% |
-| [29 February–11 March 2020](2020-03-11-CVVM.html) | CVVM | 12.4% | N/A | N/A | N/A | N/A |
+| [29 February–11 March 2020](2020-03-11-CVVM.html) | CVVM | 12.4% | 10.9–14.3% | 10.5–14.8% | 10.1–15.3% | 9.4–16.2% |
 | [10–28 February 2020](2020-02-28-TNSKantar.html) | TNS Kantar <br> O24 | 15.4% | 13.7–17.4% | 13.3–17.9% | 12.8–18.4% | 12.1–19.4% |
 | [1 January–13 February 2020](2020-02-13-Median.html) | Median | 11.5% | 10.1–13.2% | 9.7–13.7% | 9.4–14.1% | 8.7–15.0% |
 | [1–13 February 2020](2020-02-13-CVVM.html) | CVVM | 13.0% | 11.4–14.8% | 10.9–15.4% | 10.6–15.8% | 9.9–16.8% |
@@ -52,19 +52,18 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.2% | 100% |  |
-| 9.5–10.5% | 3% | 99.8% |  |
-| 10.5–11.5% | 13% | 97% |  |
-| 11.5–12.5% | 19% | 84% |  |
-| 12.5–13.5% | 12% | 65% |  |
-| 13.5–14.5% | 8% | 53% | Median |
-| 14.5–15.5% | 13% | 45% |  |
-| 15.5–16.5% | 17% | 31% |  |
-| 16.5–17.5% | 10% | 15% |  |
-| 17.5–18.5% | 4% | 4% |  |
-| 18.5–19.5% | 0.6% | 0.7% |  |
-| 19.5–20.5% | 0.1% | 0.1% |  |
-| 20.5–21.5% | 0% | 0% |  |
+| 8.5–9.5% | 0.3% | 100% |  |
+| 9.5–10.5% | 3% | 99.7% |  |
+| 10.5–11.5% | 11% | 97% |  |
+| 11.5–12.5% | 20% | 86% |  |
+| 12.5–13.5% | 21% | 66% | Median |
+| 13.5–14.5% | 16% | 45% |  |
+| 14.5–15.5% | 12% | 29% |  |
+| 15.5–16.5% | 10% | 17% |  |
+| 16.5–17.5% | 5% | 8% |  |
+| 17.5–18.5% | 2% | 2% |  |
+| 18.5–19.5% | 0.3% | 0.4% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -75,10 +74,10 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–5 | 2–5 |
-| [9–27 March 2020](2020-03-27-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
+| [9–27 March 2020](2020-03-27-TNSKantar.html) | TNS Kantar <br> O24 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [29 February–26 March 2020](2020-03-26-Median.html) | Median | 3 | 3 | 2–3 | 2–4 | 2–4 |
-| [29 February–11 March 2020](2020-03-11-CVVM.html) | CVVM |  |  |  |  |  |
+| [29 February–11 March 2020](2020-03-11-CVVM.html) | CVVM | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [10–28 February 2020](2020-02-28-TNSKantar.html) | TNS Kantar <br> O24 | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [1 January–13 February 2020](2020-02-13-Median.html) | Median | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [1–13 February 2020](2020-02-13-CVVM.html) | CVVM | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -117,10 +116,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 4% | 100% |  |
-| 3 | 48% | 96% | Median |
-| 4 | 45% | 48% |  |
-| 5 | 3% | 3% |  |
+| 2 | 5% | 100% |  |
+| 3 | 63% | 95% | Median |
+| 4 | 30% | 32% |  |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 
