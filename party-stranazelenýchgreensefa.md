@@ -10,7 +10,9 @@ Last result: **3.8%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.8–1.9% | 0.6–2.1% | 0.5–2.3% | 0.4–2.7% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.6–1.8% | 0.5–2.0% | 0.5–2.2% | 0.4–2.6% |
+| [7–13 May 2020](2020-05-13-SANEP.html) | SANEP | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
+| [13–30 April 2020](2020-04-30-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
 | [9–27 March 2020](2020-03-27-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
 | [29 February–26 March 2020](2020-03-26-Median.html) | Median | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.7–2.7% |
 | [29 February–11 March 2020](2020-03-11-CVVM.html) | CVVM | 1.0% | 0.6–1.7% | 0.5–1.9% | 0.4–2.1% | 0.3–2.5% |
@@ -48,10 +50,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% |  |
-| 0.5–1.5% | 66% | 97% | Median |
-| 1.5–2.5% | 30% | 31% |  |
-| 2.5–3.5% | 0.9% | 0.9% |  |
+| 0.0–0.5% | 5% | 100% |  |
+| 0.5–1.5% | 73% | 95% | Median |
+| 1.5–2.5% | 21% | 21% |  |
+| 2.5–3.5% | 0.6% | 0.6% |  |
 | 3.5–4.5% | 0% | 0% | Last Result |
 
 
@@ -64,6 +66,8 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–13 May 2020](2020-05-13-SANEP.html) | SANEP | 0 | 0 | 0 | 0 | 0 |
+| [13–30 April 2020](2020-04-30-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
 | [9–27 March 2020](2020-03-27-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
 | [29 February–26 March 2020](2020-03-26-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [29 February–11 March 2020](2020-03-11-CVVM.html) | CVVM | 0 | 0 | 0 | 0 | 0 |
