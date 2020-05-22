@@ -85,12 +85,12 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
+| N/A | [Poll Average](average.html) | 8 | 8–9 | 8–10 | 7–10 | 7–10 |
 | [7–13 May 2020](2020-05-13-SANEP.html) | SANEP | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [13–30 April 2020](2020-04-30-TNSKantar.html) | TNS Kantar <br> O24 | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [9–27 March 2020](2020-03-27-TNSKantar.html) | TNS Kantar <br> O24 | 9 | 9–10 | 9–11 | 8–11 | 8–11 |
-| [29 February–26 March 2020](2020-03-26-Median.html) | Median | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| [29 February–11 March 2020](2020-03-11-CVVM.html) | CVVM | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
+| [29 February–26 March 2020](2020-03-26-Median.html) | Median | 8 | 8 | 7–8 | 7–9 | 7–9 |
+| [29 February–11 March 2020](2020-03-11-CVVM.html) | CVVM | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [10–28 February 2020](2020-02-28-TNSKantar.html) | TNS Kantar <br> O24 | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
 | [1 January–13 February 2020](2020-02-13-Median.html) | Median | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [1–13 February 2020](2020-02-13-CVVM.html) | CVVM | 8 | 8–9 | 8–10 | 8–10 | 7–10 |
@@ -130,11 +130,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 7% | 100% |  |
-| 8 | 38% | 93% |  |
-| 9 | 44% | 55% | Median |
-| 10 | 10% | 11% |  |
-| 11 | 0.8% | 0.8% | Majority |
+| 7 | 3% | 100% |  |
+| 8 | 51% | 97% | Median |
+| 9 | 37% | 46% |  |
+| 10 | 9% | 9% |  |
+| 11 | 0.4% | 0.4% | Majority |
 | 12 | 0% | 0% |  |
 
 

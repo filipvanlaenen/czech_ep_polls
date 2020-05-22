@@ -19,7 +19,7 @@
 | Česká strana sociálně demokratická (S&D) | 14.2% | 5.5% | 4.6–6.6% |4.4–6.9% |4.2–7.2% |3.8–7.8% |
 | Starostové a nezávislí (EPP) | 16.0% | 5.5% | 4.6–6.6% |4.4–6.9% |4.2–7.2% |3.8–7.8% |
 | Křesťanská a demokratická unie–Československá strana lidová (EPP) | 10.0% | 4.0% | 3.2–4.9% |3.0–5.2% |2.9–5.5% |2.6–6.0% |
-| Trikolóra hnutí občanů (*) | 0.0% | 2.5% | 2.0–3.4% |1.8–3.6% |1.7–3.8% |1.5–4.2% |
+| Trikolóra hnutí občanů (ID) | 0.0% | 2.5% | 2.0–3.4% |1.8–3.6% |1.7–3.8% |1.5–4.2% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -42,7 +42,7 @@
 | <a href="#česká-strana-sociálně-demokratická-(s&d)">Česká strana sociálně demokratická (S&D)</a> | 4 | 1 | 0–1 |0–1 |0–2 |0–2 |
 | <a href="#starostové-a-nezávislí-(epp)">Starostové a nezávislí (EPP)</a> | 1 | 1 | 0–1 |0–1 |0–2 |0–2 |
 | <a href="#křesťanská-a-demokratická-unie–československá-strana-lidová-(epp)">Křesťanská a demokratická unie–Československá strana lidová (EPP)</a> | 3 | 0 | 0 |0–1 |0–1 |0–1 |
-| <a href="#trikolóra-hnutí-občanů-(*)">Trikolóra hnutí občanů (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#trikolóra-hnutí-občanů-(id)">Trikolóra hnutí občanů (ID)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### ANO 2011 (RE)
 
@@ -170,11 +170,11 @@
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
-### Trikolóra hnutí občanů (*)
+### Trikolóra hnutí občanů (ID)
 
-*For a full overview of the results for this party, see the [Trikolóra hnutí občanů (*)](party-trikolórahnutíobčanů.html) page.*
+*For a full overview of the results for this party, see the [Trikolóra hnutí občanů (ID)](party-trikolórahnutíobčanůid.html) page.*
 
-![Graph with seats probability mass function not yet produced](2020-04-30-TNSKantar-seats-pmf-trikolórahnutíobčanů.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-04-30-TNSKantar-seats-pmf-trikolórahnutíobčanůid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -192,10 +192,9 @@
 | ANO 2011 (RE) | 4 | 9 | 1.5% | 8–10 | 8–10 | 8–10 | 8–11 |
 | Občanská demokratická strana (ECR) | 2 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–4 |
 | TOP 09 (EPP) – Starostové a nezávislí (EPP) – Křesťanská a demokratická unie–Československá strana lidová (EPP) | 7 | 2 | 0% | 1–3 | 1–3 | 1–3 | 1–4 |
-| Svoboda a přímá demokracie (ID) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 0–2 |
+| Svoboda a přímá demokracie (ID) – Trikolóra hnutí občanů (ID) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 0–2 |
 | Komunistická strana Čech a Moravy (GUE/NGL) | 3 | 1 | 0% | 0–1 | 0–1 | 0–2 | 0–2 |
 | Česká strana sociálně demokratická (S&D) | 4 | 1 | 0% | 0–1 | 0–1 | 0–2 | 0–2 |
-| Trikolóra hnutí občanů (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### ANO 2011 (RE)
 
@@ -239,9 +238,9 @@
 | 6 | 0% | 0% |  |
 | 7 | 0% | 0% | Last Result |
 
-### Svoboda a přímá demokracie (ID)
+### Svoboda a přímá demokracie (ID) – Trikolóra hnutí občanů (ID)
 
-![Graph with seats probability mass function not yet produced](2020-04-30-TNSKantar-coalitions-seats-pmf-spd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-04-30-TNSKantar-coalitions-seats-pmf-spd–tho.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -272,14 +271,6 @@
 | 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
-
-### Trikolóra hnutí občanů (*)
-
-![Graph with seats probability mass function not yet produced](2020-04-30-TNSKantar-coalitions-seats-pmf-tho.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Technical Information
