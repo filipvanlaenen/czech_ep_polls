@@ -79,7 +79,7 @@ Last result: **3** seats (General Election of 24–25 May 2019)
 | [7–13 May 2020](2020-05-13-SANEP.html) | SANEP | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–30 April 2020](2020-04-30-TNSKantar.html) | TNS Kantar <br> O24 | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [9–27 March 2020](2020-03-27-TNSKantar.html) | TNS Kantar <br> O24 | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [29 February–26 March 2020](2020-03-26-Median.html) | Median | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [29 February–26 March 2020](2020-03-26-Median.html) | Median | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [29 February–11 March 2020](2020-03-11-CVVM.html) | CVVM | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–28 February 2020](2020-02-28-TNSKantar.html) | TNS Kantar <br> O24 | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [1 January–13 February 2020](2020-02-13-Median.html) | Median | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -117,8 +117,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 37% | 100% |  |
-| 1 | 55% | 63% | Median |
+| 0 | 42% | 100% |  |
+| 1 | 50% | 58% | Median |
 | 2 | 8% | 8% |  |
 | 3 | 0% | 0% | Last Result |
 
