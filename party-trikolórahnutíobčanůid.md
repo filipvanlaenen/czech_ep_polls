@@ -88,7 +88,7 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | [14–26 November 2019](2019-11-26-STEM.html) | STEM | 0 | 0 | 0 | 0 | 0 |
 | [1–18 November 2019](2019-11-18-PhoenixResearch.html) | Phoenix Research | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [2–15 November 2019](2019-11-15-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [12 October–1 November 2019](2019-11-01-TNSKantar.html) | TNS Kantar | 0 | 0 | 0 | 0–1 | 0–1 |
+| [12 October–1 November 2019](2019-11-01-TNSKantar.html) | TNS Kantar | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [30 September–28 October 2019](2019-10-28-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [11–25 October 2019](2019-10-25-STEM.html) | STEM | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16 September–5 October 2019](2019-10-05-TNSKantar.html) | TNS Kantar | 0 | 0 | 0 | 0 | 0–1 |
