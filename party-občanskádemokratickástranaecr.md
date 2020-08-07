@@ -10,7 +10,11 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.1% | 11.1–15.2% | 10.6–15.9% | 10.2–16.5% | 9.5–17.6% |
+| N/A | [Poll Average](average.html) | 13.0% | 11.2–14.8% | 10.7–15.4% | 10.3–16.0% | 9.6–17.0% |
+| [15 June–3 July 2020](2020-07-03-TNSKantar.html) | TNS Kantar <br> O24 | 13.0% | 12.2–13.9% | 11.9–14.1% | 11.7–14.3% | 11.4–14.8% |
+| [20 June–2 July 2020](2020-07-02-CVVM.html) | CVVM | 14.1% | 12.5–15.9% | 12.0–16.4% | 11.7–16.8% | 11.0–17.8% |
+| [18 May–5 June 2020](2020-06-05-TNSKantar.html) | TNS Kantar <br> O24 | 13.5% | 12.3–14.8% | 12.0–15.2% | 11.7–15.6% | 11.1–16.2% |
+| [22 May–1 June 2020](2020-06-01-STEM.html) | STEM | 11.4% | 10.3–12.7% | 9.9–13.1% | 9.7–13.5% | 9.1–14.1% |
 | [7–13 May 2020](2020-05-13-SANEP.html) | SANEP | 13.4% | 12.2–14.8% | 11.8–15.2% | 11.5–15.5% | 11.0–16.2% |
 | [13–30 April 2020](2020-04-30-TNSKantar.html) | TNS Kantar <br> O24 | 11.5% | 10.2–12.9% | 9.9–13.4% | 9.6–13.7% | 9.0–14.5% |
 | [9–27 March 2020](2020-03-27-TNSKantar.html) | TNS Kantar <br> O24 | 14.0% | 12.6–15.5% | 12.2–16.0% | 11.9–16.4% | 11.2–17.1% |
@@ -51,18 +55,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% | Last Result |
-| 8.5–9.5% | 0.6% | 100% |  |
-| 9.5–10.5% | 4% | 99.4% |  |
+| 8.5–9.5% | 0.5% | 100% |  |
+| 9.5–10.5% | 4% | 99.5% |  |
 | 10.5–11.5% | 11% | 96% |  |
-| 11.5–12.5% | 19% | 85% |  |
-| 12.5–13.5% | 26% | 65% | Median |
-| 13.5–14.5% | 21% | 39% |  |
-| 14.5–15.5% | 11% | 18% |  |
-| 15.5–16.5% | 5% | 7% |  |
-| 16.5–17.5% | 2% | 2% |  |
-| 17.5–18.5% | 0.5% | 0.6% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
-| 19.5–20.5% | 0% | 0% |  |
+| 11.5–12.5% | 20% | 85% |  |
+| 12.5–13.5% | 31% | 65% | Median |
+| 13.5–14.5% | 21% | 34% |  |
+| 14.5–15.5% | 9% | 13% |  |
+| 15.5–16.5% | 3% | 4% |  |
+| 16.5–17.5% | 0.8% | 1.0% |  |
+| 17.5–18.5% | 0.2% | 0.2% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -73,7 +76,11 @@ Last result: **2** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [15 June–3 July 2020](2020-07-03-TNSKantar.html) | TNS Kantar <br> O24 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [20 June–2 July 2020](2020-07-02-CVVM.html) | CVVM | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [18 May–5 June 2020](2020-06-05-TNSKantar.html) | TNS Kantar <br> O24 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [22 May–1 June 2020](2020-06-01-STEM.html) | STEM | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [7–13 May 2020](2020-05-13-SANEP.html) | SANEP | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [13–30 April 2020](2020-04-30-TNSKantar.html) | TNS Kantar <br> O24 | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [9–27 March 2020](2020-03-27-TNSKantar.html) | TNS Kantar <br> O24 | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -115,10 +122,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 8% | 100% | Last Result |
-| 3 | 58% | 92% | Median |
-| 4 | 33% | 35% |  |
-| 5 | 2% | 2% |  |
+| 2 | 1.5% | 100% | Last Result |
+| 3 | 62% | 98.5% | Median |
+| 4 | 36% | 36% |  |
+| 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
 
