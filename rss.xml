@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 07 Aug 2020 17:05:35 +0200</pubDate>
+    <pubDate>Sun, 09 Aug 2020 10:47:15 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by TNS Kantar for O24, 15 June–3 July 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-07-03-TNSKantar.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 8–10 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 4–5 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 0–1 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (ID): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-07-03-TNSKantar-seats.png"
+        length="310417"
+        type="image/png"/>
+      <pubDate>Sat, 08 Aug 2020 23:51:24 +0200</pubDate>
+      <dc:date>2020-08-08T23:51:24.283643+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS Kantar for O24, 15 June–3 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-07-03-TNSKantar.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-07-03-TNSKantar-coalitions-seats.png"
+        length="192532"
+        type="image/png"/>
+      <pubDate>Sat, 08 Aug 2020 23:51:24 +0200</pubDate>
+      <dc:date>2020-08-08T23:51:24.283643+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by TNS Kantar for O24, 15 June–3 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-07-03-TNSKantar.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-07-03-TNSKantar.png"
         length="349723"
         type="image/png"/>
-      <pubDate>Fri, 07 Aug 2020 15:16:02 +0200</pubDate>
-      <dc:date>2020-08-07T15:16:02.952514+02:00</dc:date>
+      <pubDate>Sat, 08 Aug 2020 23:51:24 +0200</pubDate>
+      <dc:date>2020-08-08T23:51:24.283643+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CVVM, 20 June–2 July 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-07-02-CVVM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 7–9 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 3–5 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 0–1 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (ID): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-07-02-CVVM-seats.png"
+        length="320747"
+        type="image/png"/>
+      <pubDate>Sun, 09 Aug 2020 10:20:29 +0200</pubDate>
+      <dc:date>2020-08-09T10:20:29.149061+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CVVM, 20 June–2 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-07-02-CVVM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-07-02-CVVM-coalitions-seats.png"
+        length="206093"
+        type="image/png"/>
+      <pubDate>Sun, 09 Aug 2020 10:20:29 +0200</pubDate>
+      <dc:date>2020-08-09T10:20:29.149061+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CVVM, 20 June–2 July 2020 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-07-02-CVVM.png"
         length="413818"
         type="image/png"/>
-      <pubDate>Fri, 07 Aug 2020 16:39:59 +0200</pubDate>
-      <dc:date>2020-08-07T16:39:59.065405+02:00</dc:date>
+      <pubDate>Sun, 09 Aug 2020 10:20:29 +0200</pubDate>
+      <dc:date>2020-08-09T10:20:29.149061+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS Kantar for O24, 18 May–5 June 2020 – Voting Intentions</title>
@@ -40,14 +80,34 @@
       <dc:date>2020-08-07T16:54:18.212705+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by STEM, 22 May–1 June 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-06-01-STEM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 8–10 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 1–2 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana svobodných občanů (NI): 0 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (ID): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-06-01-STEM-seats.png"
+        length="319689"
+        type="image/png"/>
+      <pubDate>Sun, 09 Aug 2020 10:47:15 +0200</pubDate>
+      <dc:date>2020-08-09T10:47:15.055016+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by STEM, 22 May–1 June 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-06-01-STEM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-06-01-STEM-coalitions-seats.png"
+        length="175232"
+        type="image/png"/>
+      <pubDate>Sun, 09 Aug 2020 10:47:15 +0200</pubDate>
+      <dc:date>2020-08-09T10:47:15.055016+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by STEM, 22 May–1 June 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-06-01-STEM.html</link>
       <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 30.9–36.6%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 9.7–13.5%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 10.9–14.9%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 5.2–8.2%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 5.9–9.0%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 7.4–10.8%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 4.8–7.7%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 2.4–4.6%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 3.2–5.6%&lt;/li&gt;&lt;li&gt;Strana svobodných občanů (NI): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (ID): 2.6–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-06-01-STEM.png"
         length="405300"
         type="image/png"/>
-      <pubDate>Fri, 07 Aug 2020 17:05:35 +0200</pubDate>
-      <dc:date>2020-08-07T17:05:35.018737+02:00</dc:date>
+      <pubDate>Sun, 09 Aug 2020 10:47:15 +0200</pubDate>
+      <dc:date>2020-08-09T10:47:15.055016+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SANEP, 7–13 May 2020 – Seat Projections for the Parties</title>
@@ -1009,6 +1069,6 @@
       <pubDate>Mon, 30 Dec 2019 14:19:35 +0100</pubDate>
       <dc:date>2019-12-30T14:19:35.409648+01:00</dc:date>
     </item>
-    <dc:date>2020-08-07T17:05:35.018737+02:00</dc:date>
+    <dc:date>2020-08-09T10:47:15.055016+02:00</dc:date>
   </channel>
 </rss>
