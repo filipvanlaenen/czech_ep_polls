@@ -88,11 +88,11 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–9 | 7–9 | 7–9 | 7–10 |
-| [15 June–3 July 2020](2020-07-03-TNSKantar.html) | TNS Kantar <br> O24 | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
+| N/A | [Poll Average](average.html) | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
+| [15 June–3 July 2020](2020-07-03-TNSKantar.html) | TNS Kantar <br> O24 | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [20 June–2 July 2020](2020-07-02-CVVM.html) | CVVM | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [18 May–5 June 2020](2020-06-05-TNSKantar.html) | TNS Kantar <br> O24 | 9 | 8–10 | 7–10 | 7–10 | 7–10 |
-| [22 May–1 June 2020](2020-06-01-STEM.html) | STEM | 9 | 9 | 8–10 | 8–10 | 8–10 |
+| [22 May–1 June 2020](2020-06-01-STEM.html) | STEM | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [7–13 May 2020](2020-05-13-SANEP.html) | SANEP | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [13–30 April 2020](2020-04-30-TNSKantar.html) | TNS Kantar <br> O24 | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [9–27 March 2020](2020-03-27-TNSKantar.html) | TNS Kantar <br> O24 | 9 | 9–10 | 9–11 | 8–11 | 8–11 |
@@ -137,9 +137,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 0.3% | 100% |  |
-| 7 | 7% | 99.7% |  |
-| 8 | 35% | 93% |  |
-| 9 | 56% | 58% | Median |
+| 7 | 8% | 99.7% |  |
+| 8 | 42% | 92% | Median |
+| 9 | 48% | 50% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0% | 0% | Majority |
 
