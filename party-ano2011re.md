@@ -91,7 +91,7 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 | N/A | [Poll Average](average.html) | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [15 June–3 July 2020](2020-07-03-TNSKantar.html) | TNS Kantar <br> O24 | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [20 June–2 July 2020](2020-07-02-CVVM.html) | CVVM | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| [18 May–5 June 2020](2020-06-05-TNSKantar.html) | TNS Kantar <br> O24 | 9 | 8–10 | 7–10 | 7–10 | 7–10 |
+| [18 May–5 June 2020](2020-06-05-TNSKantar.html) | TNS Kantar <br> O24 | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [22 May–1 June 2020](2020-06-01-STEM.html) | STEM | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [7–13 May 2020](2020-05-13-SANEP.html) | SANEP | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [13–30 April 2020](2020-04-30-TNSKantar.html) | TNS Kantar <br> O24 | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
