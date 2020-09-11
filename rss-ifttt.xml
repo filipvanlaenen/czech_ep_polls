@@ -6,6 +6,38 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Fri, 17 Jul 2020 21:27:58 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Median, 1–27 August 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-08-27-Median.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Median, 1–27 August 2020<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2020-08-27-Median.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2020-08-27-Median-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-08-27-Median-seating-plan.png" length="479432" type="image/png"/>
+      <pubDate>Fri, 11 Sep 2020 19:02:42 +0200</pubDate>
+      <dc:date>2020-09-11T19:02:42.717723+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median, 1–27 August 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-08-27-Median.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Median, 1–27 August 2020<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2020-08-27-Median.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2020-08-27-Median-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-08-27-Median-seats.png" length="342236" type="image/png"/>
+      <pubDate>Fri, 11 Sep 2020 19:02:42 +0200</pubDate>
+      <dc:date>2020-09-11T19:02:42.717723+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median, 1–27 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-08-27-Median.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Median, 1–27 August 2020<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2020-08-27-Median.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2020-08-27-Median.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-08-27-Median.png" length="399123" type="image/png"/>
+      <pubDate>Fri, 11 Sep 2020 19:02:42 +0200</pubDate>
+      <dc:date>2020-09-11T19:02:42.717723+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CVVM, 18–27 July 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-07-27-CVVM.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CVVM, 18–27 July 2020<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2020-07-27-CVVM.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2020-07-27-CVVM.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-07-27-CVVM.png" length="446210" type="image/png"/>
+      <pubDate>Fri, 11 Sep 2020 18:42:25 +0200</pubDate>
+      <dc:date>2020-09-11T18:42:25.602016+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by TNS Kantar for O24, 15 June–3 July 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-07-03-TNSKantar.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by TNS Kantar for O24, 15 June–3 July 2020<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2020-07-03-TNSKantar.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2020-07-03-TNSKantar-seating-plan.png"/>]]></description>
@@ -196,54 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-03-26-Median.png" length="401276" type="image/png"/>
       <pubDate>Wed, 27 May 2020 20:23:18 +0200</pubDate>
       <dc:date>2020-05-27T20:23:18.158502+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by CVVM, 29 February–11 March 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-03-11-CVVM.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by CVVM, 29 February–11 March 2020<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2020-03-11-CVVM.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2020-03-11-CVVM-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-03-11-CVVM-seating-plan.png" length="431576" type="image/png"/>
-      <pubDate>Wed, 27 May 2020 21:01:29 +0200</pubDate>
-      <dc:date>2020-05-27T21:01:29.229387+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by CVVM, 29 February–11 March 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-03-11-CVVM.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by CVVM, 29 February–11 March 2020<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2020-03-11-CVVM.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2020-03-11-CVVM-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-03-11-CVVM-seats.png" length="320094" type="image/png"/>
-      <pubDate>Wed, 27 May 2020 21:01:29 +0200</pubDate>
-      <dc:date>2020-05-27T21:01:29.229387+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by CVVM, 29 February–11 March 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-03-11-CVVM.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CVVM, 29 February–11 March 2020<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2020-03-11-CVVM.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2020-03-11-CVVM.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-03-11-CVVM.png" length="409542" type="image/png"/>
-      <pubDate>Wed, 27 May 2020 21:01:29 +0200</pubDate>
-      <dc:date>2020-05-27T21:01:29.229387+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by TNS Kantar for O24, 10–28 February 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-02-28-TNSKantar.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by TNS Kantar for O24, 10–28 February 2020<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2020-02-28-TNSKantar.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2020-02-28-TNSKantar-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-02-28-TNSKantar-seating-plan.png" length="455984" type="image/png"/>
-      <pubDate>Fri, 27 Mar 2020 07:25:07 +0100</pubDate>
-      <dc:date>2020-03-27T07:25:07.494061+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by TNS Kantar for O24, 10–28 February 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-02-28-TNSKantar.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by TNS Kantar for O24, 10–28 February 2020<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2020-02-28-TNSKantar.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2020-02-28-TNSKantar-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-02-28-TNSKantar-seats.png" length="263781" type="image/png"/>
-      <pubDate>Fri, 27 Mar 2020 07:25:07 +0100</pubDate>
-      <dc:date>2020-03-27T07:25:07.494061+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by TNS Kantar for O24, 10–28 February 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-02-28-TNSKantar.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by TNS Kantar for O24, 10–28 February 2020<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2020-02-28-TNSKantar.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2020-02-28-TNSKantar.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-02-28-TNSKantar.png" length="310300" type="image/png"/>
-      <pubDate>Fri, 27 Mar 2020 07:25:07 +0100</pubDate>
-      <dc:date>2020-03-27T07:25:07.494061+01:00</dc:date>
     </item>
   </channel>
 </rss>
