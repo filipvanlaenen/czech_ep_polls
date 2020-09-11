@@ -10,7 +10,9 @@ Last result: **16.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.1% | 4.0–6.3% | 3.7–6.5% | 3.5–6.8% | 3.1–7.2% |
+| N/A | [Poll Average](average.html) | 5.3% | 4.0–6.5% | 3.7–6.8% | 3.5–7.1% | 3.1–7.8% |
+| [1–27 August 2020](2020-08-27-Median.html) | Median | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
+| [18–27 July 2020](2020-07-27-CVVM.html) | CVVM | 5.6% | 4.5–7.0% | 4.2–7.4% | 4.0–7.7% | 3.5–8.4% |
 | [15 June–3 July 2020](2020-07-03-TNSKantar.html) | TNS Kantar <br> O24 | 6.0% | 5.4–6.6% | 5.3–6.8% | 5.1–7.0% | 4.9–7.3% |
 | [20 June–2 July 2020](2020-07-02-CVVM.html) | CVVM | 5.0% | 4.1–6.2% | 3.8–6.6% | 3.6–6.9% | 3.2–7.5% |
 | [18 May–5 June 2020](2020-06-05-TNSKantar.html) | TNS Kantar <br> O24 | 5.5% | 4.7–6.4% | 4.5–6.7% | 4.3–7.0% | 4.0–7.4% |
@@ -56,12 +58,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 26% | 97% |  |
-| 4.5–5.5% | 36% | 71% | Median |
-| 5.5–6.5% | 29% | 34% |  |
-| 6.5–7.5% | 5% | 5% |  |
-| 7.5–8.5% | 0.2% | 0.2% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 3.5–4.5% | 22% | 97% |  |
+| 4.5–5.5% | 33% | 75% | Median |
+| 5.5–6.5% | 33% | 42% |  |
+| 6.5–7.5% | 8% | 8% |  |
+| 7.5–8.5% | 0.8% | 0.9% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
@@ -79,7 +81,9 @@ Last result: **1** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [1–27 August 2020](2020-08-27-Median.html) | Median | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [18–27 July 2020](2020-07-27-CVVM.html) | CVVM | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [15 June–3 July 2020](2020-07-03-TNSKantar.html) | TNS Kantar <br> O24 | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [20 June–2 July 2020](2020-07-02-CVVM.html) | CVVM | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [18 May–5 June 2020](2020-06-05-TNSKantar.html) | TNS Kantar <br> O24 | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -125,9 +129,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 49% | 100% |  |
-| 1 | 50% | 51% | Last Result, Median |
-| 2 | 2% | 2% |  |
+| 0 | 33% | 100% |  |
+| 1 | 58% | 67% | Last Result, Median |
+| 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
 

@@ -10,7 +10,9 @@ Last result: **5.2%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.2% | 0.4–1.3% | 0.4–1.4% | 0.3–1.7% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.6–1.5% | 0.5–1.8% | 0.4–2.0% | 0.3–2.4% |
+| [1–27 August 2020](2020-08-27-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
+| [18–27 July 2020](2020-07-27-CVVM.html) | CVVM | 1.0% | 0.7–1.8% | 0.5–2.0% | 0.5–2.2% | 0.3–2.6% |
 | [15 June–3 July 2020](2020-07-03-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
 | [20 June–2 July 2020](2020-07-02-CVVM.html) | CVVM | 0.0% | N/A | N/A | N/A | N/A |
 | [18 May–5 June 2020](2020-06-05-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -54,10 +56,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 15% | 100% |  |
-| 0.5–1.5% | 84% | 85% | Median |
-| 1.5–2.5% | 1.3% | 1.3% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 10% | 100% |  |
+| 0.5–1.5% | 80% | 90% | Median |
+| 1.5–2.5% | 10% | 10% |  |
+| 2.5–3.5% | 0.3% | 0.3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% | Last Result |
 
@@ -71,6 +73,8 @@ Last result: **1** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–27 August 2020](2020-08-27-Median.html) | Median |  |  |  |  |  |
+| [18–27 July 2020](2020-07-27-CVVM.html) | CVVM | 0 | 0 | 0 | 0 | 0 |
 | [15 June–3 July 2020](2020-07-03-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
 | [20 June–2 July 2020](2020-07-02-CVVM.html) | CVVM |  |  |  |  |  |
 | [18 May–5 June 2020](2020-06-05-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |

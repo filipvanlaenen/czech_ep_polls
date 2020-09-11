@@ -10,7 +10,9 @@ Last result: **3.8%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.7% | 0.6–1.9% | 0.5–2.1% | 0.4–2.4% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.1–2.5% | 1.0–2.7% | 0.9–2.9% | 0.7–3.3% |
+| [1–27 August 2020](2020-08-27-Median.html) | Median | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [18–27 July 2020](2020-07-27-CVVM.html) | CVVM | 1.5% | 1.0–2.4% | 0.9–2.6% | 0.8–2.9% | 0.6–3.3% |
 | [15 June–3 July 2020](2020-07-03-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
 | [20 June–2 July 2020](2020-07-02-CVVM.html) | CVVM | 1.0% | 0.7–1.7% | 0.6–1.9% | 0.5–2.1% | 0.4–2.4% |
 | [18 May–5 June 2020](2020-06-05-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -54,11 +56,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 4% | 100% |  |
-| 0.5–1.5% | 77% | 96% | Median |
-| 1.5–2.5% | 18% | 18% |  |
-| 2.5–3.5% | 0.3% | 0.3% |  |
-| 3.5–4.5% | 0% | 0% | Last Result |
+| 0.0–0.5% | 0.1% | 100% |  |
+| 0.5–1.5% | 39% | 99.9% |  |
+| 1.5–2.5% | 54% | 61% | Median |
+| 2.5–3.5% | 8% | 8% |  |
+| 3.5–4.5% | 0.2% | 0.2% | Last Result |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -70,6 +73,8 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–27 August 2020](2020-08-27-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
+| [18–27 July 2020](2020-07-27-CVVM.html) | CVVM | 0 | 0 | 0 | 0 | 0 |
 | [15 June–3 July 2020](2020-07-03-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
 | [20 June–2 July 2020](2020-07-02-CVVM.html) | CVVM | 0 | 0 | 0 | 0 | 0 |
 | [18 May–5 June 2020](2020-06-05-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
