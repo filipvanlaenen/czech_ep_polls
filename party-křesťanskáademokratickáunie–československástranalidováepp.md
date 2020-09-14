@@ -78,7 +78,7 @@ Last result: **3** seats (General Election of 24–25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [1–27 August 2020](2020-08-27-Median.html) | Median | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [18–27 July 2020](2020-07-27-CVVM.html) | CVVM | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [18–27 July 2020](2020-07-27-CVVM.html) | CVVM | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [15 June–3 July 2020](2020-07-03-TNSKantar.html) | TNS Kantar <br> O24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20 June–2 July 2020](2020-07-02-CVVM.html) | CVVM | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18 May–5 June 2020](2020-06-05-TNSKantar.html) | TNS Kantar <br> O24 | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -124,9 +124,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 30% | 100% |  |
-| 1 | 58% | 70% | Median |
-| 2 | 12% | 12% |  |
+| 0 | 31% | 100% |  |
+| 1 | 58% | 69% | Median |
+| 2 | 11% | 11% |  |
 | 3 | 0% | 0% | Last Result |
 
 
