@@ -10,7 +10,9 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.9% | 10.3–13.5% | 9.9–13.9% | 9.6–14.2% | 9.0–15.0% |
+| N/A | [Poll Average](average.html) | 11.7% | 10.0–15.4% | 9.6–16.1% | 9.2–16.6% | 8.6–17.6% |
+| [31 August–13 September 2020](2020-09-13-STEM.html) | STEM | 10.6% | 9.5–11.9% | 9.1–12.3% | 8.9–12.7% | 8.4–13.3% |
+| [24 August–11 September 2020](2020-09-11-TNSKantar.html) | TNS Kantar <br> O24 | 15.0% | 13.6–16.6% | 13.2–17.1% | 12.8–17.5% | 12.1–18.3% |
 | [1–27 August 2020](2020-08-27-Median.html) | Median | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.0% | 8.7–13.7% |
 | [18–27 July 2020](2020-07-27-CVVM.html) | CVVM | 12.0% | 10.4–13.8% | 10.0–14.4% | 9.6–14.8% | 8.9–15.8% |
 | [15 June–3 July 2020](2020-07-03-TNSKantar.html) | TNS Kantar <br> O24 | 13.0% | 12.2–13.9% | 11.9–14.1% | 11.7–14.3% | 11.4–14.8% |
@@ -57,16 +59,19 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.1% | 100% | Last Result |
-| 8.5–9.5% | 2% | 99.9% |  |
-| 9.5–10.5% | 12% | 98% |  |
-| 10.5–11.5% | 25% | 85% |  |
-| 11.5–12.5% | 27% | 60% | Median |
-| 12.5–13.5% | 24% | 33% |  |
-| 13.5–14.5% | 8% | 9% |  |
-| 14.5–15.5% | 1.1% | 1.3% |  |
-| 15.5–16.5% | 0.2% | 0.2% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.4% | 100% | Last Result |
+| 8.5–9.5% | 5% | 99.6% |  |
+| 9.5–10.5% | 17% | 95% |  |
+| 10.5–11.5% | 25% | 78% |  |
+| 11.5–12.5% | 17% | 53% | Median |
+| 12.5–13.5% | 10% | 36% |  |
+| 13.5–14.5% | 9% | 26% |  |
+| 14.5–15.5% | 9% | 18% |  |
+| 15.5–16.5% | 6% | 9% |  |
+| 16.5–17.5% | 2% | 3% |  |
+| 17.5–18.5% | 0.5% | 0.6% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -77,7 +82,9 @@ Last result: **2** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| [31 August–13 September 2020](2020-09-13-STEM.html) | STEM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [24 August–11 September 2020](2020-09-11-TNSKantar.html) | TNS Kantar <br> O24 | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [1–27 August 2020](2020-08-27-Median.html) | Median | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18–27 July 2020](2020-07-27-CVVM.html) | CVVM | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [15 June–3 July 2020](2020-07-03-TNSKantar.html) | TNS Kantar <br> O24 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -125,9 +132,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 10% | 100% | Last Result |
-| 3 | 85% | 90% | Median |
-| 4 | 5% | 5% |  |
-| 5 | 0% | 0% |  |
+| 2 | 27% | 100% | Last Result |
+| 3 | 53% | 73% | Median |
+| 4 | 19% | 20% |  |
+| 5 | 0.8% | 0.8% |  |
+| 6 | 0% | 0% |  |
 
 
