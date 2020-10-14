@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 28 Sep 2020 14:25:28 +0200</pubDate>
+    <pubDate>Wed, 14 Oct 2020 18:07:48 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by CVVM, 5–20 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-09-20-CVVM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 28.1–35.2%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 10.2–15.3%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 13.4–19.0%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 3.2–6.5%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 7.4–11.9%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 8.4–13.1%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 2.3–5.2%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 2.7–5.7%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 3.2–6.5%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0.5–2.2%&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (ID): 1.2–3.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-09-20-CVVM.png"
+        length="413379"
+        type="image/png"/>
+      <pubDate>Wed, 14 Oct 2020 18:07:48 +0200</pubDate>
+      <dc:date>2020-10-14T18:07:48.839633+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by STEM, 31 August–13 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-09-13-STEM.html#seats</link>
@@ -1209,6 +1219,6 @@
       <pubDate>Mon, 30 Dec 2019 14:19:35 +0100</pubDate>
       <dc:date>2019-12-30T14:19:35.409648+01:00</dc:date>
     </item>
-    <dc:date>2020-09-28T14:25:28.558492+02:00</dc:date>
+    <dc:date>2020-10-14T18:07:48.839633+02:00</dc:date>
   </channel>
 </rss>
