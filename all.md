@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ANO | TOP 09 | STAN | ČSSD | KSČM | KDU–ČSL | ODS | SVOBODNÍ | Piráti | ZELENÍ | SPD | THO |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24–25 May 2019 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [5–20 September 2020](2020-09-20-CVVM.html) | CVVM | 28–35% <br> 8–9 | 3–6% <br> 0 | 3–6% <br> 0–1 | 8–13% <br> 2–3 | 7–12% <br> 2–3 | 2–5% <br> 0–1 | 10–15% <br> 3–4 | N/A <br> N/A | 13–19% <br> 3–4 | 1–2% <br> 0 | 3–6% <br> 0–1 | 1–3% <br> 0 |
 | [31 August–13 September 2020](2020-09-13-STEM.html) | STEM | 26–31% <br> 6–8 | 4–7% <br> 0–1 | 6–9% <br> 1–2 | 6–9% <br> 1–2 | 6–9% <br> 1–2 | 4–7% <br> 0–1 | 9–13% <br> 2–3 | 1–2% <br> 0 | 11–15% <br> 2–4 | 1–2% <br> 0 | 7–11% <br> 1–2 | 2–5% <br> 0 |
 | [24 August–11 September 2020](2020-09-11-TNSKantar.html) | TNS Kantar <br> O24 | 25–31% <br> 6–8 | 4–7% <br> 0–1 | 5–8% <br> 1–2 | 4–7% <br> 0–2 | 3–6% <br> 0–1 | 3–6% <br> 0–1 | 13–17% <br> 3–5 | N/A <br> N/A | 17–22% <br> 4–6 | N/A <br> N/A | 6–10% <br> 1–2 | 2–4% <br> 0 |
 | [1–27 August 2020](2020-08-27-Median.html) | Median | 27–32% <br> 7–9 | 5–8% <br> 0–2 | 4–7% <br> 0–1 | 8–11% <br> 2–3 | 6–9% <br> 1–2 | 4–7% <br> 0–1 | 9–13% <br> 2–3 | N/A <br> N/A | 11–15% <br> 2–3 | 1–3% <br> 0 | 6–9% <br> 1–2 | 2–4% <br> 0 |
