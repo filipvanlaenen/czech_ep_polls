@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 1.8–3.7% | 1.6–4.0% | 1.4–4.3% | 1.1–4.8% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.9–3.8% | 1.6–4.1% | 1.4–4.3% | 1.1–4.8% |
+| [21 September–9 October 2020](2020-10-09-TNSKantar.html) | TNS Kantar <br> O24 | 3.0% | 2.3–3.8% | 2.2–4.1% | 2.0–4.3% | 1.8–4.7% |
 | [5–20 September 2020](2020-09-20-CVVM.html) | CVVM | 2.0% | 1.4–2.9% | 1.3–3.1% | 1.2–3.4% | 0.9–3.9% |
 | [31 August–13 September 2020](2020-09-13-STEM.html) | STEM | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.5–4.7% | 2.2–5.2% |
 | [24 August–11 September 2020](2020-09-11-TNSKantar.html) | TNS Kantar <br> O24 | 2.6% | 2.0–3.4% | 1.8–3.6% | 1.7–3.8% | 1.5–4.2% |
@@ -61,10 +62,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 39% | 96% |  |
-| 2.5–3.5% | 43% | 56% | Median |
-| 3.5–4.5% | 13% | 14% |  |
-| 4.5–5.5% | 1.0% | 1.1% |  |
+| 1.5–2.5% | 33% | 96% |  |
+| 2.5–3.5% | 46% | 63% | Median |
+| 3.5–4.5% | 16% | 17% |  |
+| 4.5–5.5% | 1.2% | 1.3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -77,6 +78,7 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [21 September–9 October 2020](2020-10-09-TNSKantar.html) | TNS Kantar <br> O24 | 0 | 0 | 0 | 0 | 0 |
 | [5–20 September 2020](2020-09-20-CVVM.html) | CVVM | 0 | 0 | 0 | 0 | 0 |
 | [31 August–13 September 2020](2020-09-13-STEM.html) | STEM | 0 | 0 | 0 | 0 | 0–1 |
 | [24 August–11 September 2020](2020-09-11-TNSKantar.html) | TNS Kantar <br> O24 | 0 | 0 | 0 | 0 | 0 |
