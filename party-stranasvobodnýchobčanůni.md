@@ -11,6 +11,8 @@ Last result: **5.2%** (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.1% |
+| [13 November–4 December 2020](2020-12-04-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
+| [1–30 November 2020](2020-11-30-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [19 October–6 November 2020](2020-11-06-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–29 October 2020](2020-10-29-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [21 September–9 October 2020](2020-10-09-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -79,6 +81,8 @@ Last result: **1** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [13 November–4 December 2020](2020-12-04-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
+| [1–30 November 2020](2020-11-30-Median.html) | Median |  |  |  |  |  |
 | [19 October–6 November 2020](2020-11-06-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
 | [1–29 October 2020](2020-10-29-Median.html) | Median |  |  |  |  |  |
 | [21 September–9 October 2020](2020-10-09-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
