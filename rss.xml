@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 27 Dec 2020 15:55:30 +0100</pubDate>
+    <pubDate>Wed, 27 Jan 2021 09:18:16 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Phoenix Research, 1–10 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-01-10-PhoenixResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 24.7–31.3%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 7.9–12.3%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 3.2–6.3%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 4.5–8.1%&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (ID): 3.0–6.0%&lt;/li&gt;&lt;li&gt;SPOLU (ECR): 19.3–25.4%&lt;/li&gt;&lt;li&gt;Česká pirátská strana–Starostové a nezávislí (Greens/EFA): 18.2–24.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-01-10-PhoenixResearch.png"
+        length="299109"
+        type="image/png"/>
+      <pubDate>Wed, 27 Jan 2021 08:32:34 +0100</pubDate>
+      <dc:date>2021-01-27T08:32:34.614421+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SANEP, 11–16 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-12-16-SANEP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 25.1–30.5%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 15.3–19.9%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 6.6–10.0%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 3.9–6.5%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 5.4–8.4%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0.6–1.9%&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (ID): 2.0–4.0%&lt;/li&gt;&lt;li&gt;SPOLU (ECR): 17.8–22.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2020-12-16-SANEP.png"
+        length="330050"
+        type="image/png"/>
+      <pubDate>Wed, 27 Jan 2021 09:18:16 +0100</pubDate>
+      <dc:date>2021-01-27T09:18:16.532123+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by TNS Kantar for O24, 13 November–4 December 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2020-12-04-TNSKantar.html#seats</link>
@@ -1389,6 +1409,6 @@
       <pubDate>Mon, 30 Dec 2019 14:19:35 +0100</pubDate>
       <dc:date>2019-12-30T14:19:35.409648+01:00</dc:date>
     </item>
-    <dc:date>2020-12-27T15:55:30.046385+01:00</dc:date>
+    <dc:date>2021-01-27T09:18:16.532123+01:00</dc:date>
   </channel>
 </rss>
