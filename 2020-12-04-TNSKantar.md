@@ -193,7 +193,6 @@
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | ANO 2011 (RE) | 4 | 7 | 0% | 6–7 | 6–8 | 6–8 | 5–8 |
 | Starostové a nezávislí (EPP) – TOP 09 (EPP) – Křesťanská a demokratická unie–Československá strana lidová (EPP) | 7 | 3 | 0% | 3–5 | 2–5 | 2–5 | 2–5 |
-| Občanská demokratická strana (ECR) | 2 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–4 |
 | Svoboda a přímá demokracie (ID) – Trikolóra hnutí občanů (ID) | 0 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká strana sociálně demokratická (S&D) | 4 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Komunistická strana Čech a Moravy (GUE/NGL) | 3 | 0 | 0% | 0 | 0 | 0 | 0–1 |
@@ -223,17 +222,6 @@
 | 5 | 11% | 11% |  |
 | 6 | 0% | 0% |  |
 | 7 | 0% | 0% | Last Result |
-
-### Občanská demokratická strana (ECR)
-
-![Graph with seats probability mass function not yet produced](2020-12-04-TNSKantar-coalitions-seats-pmf-ods.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 12% | 100% | Last Result |
-| 3 | 86% | 88% | Median |
-| 4 | 1.4% | 1.4% |  |
-| 5 | 0% | 0% |  |
 
 ### Svoboda a přímá demokracie (ID) – Trikolóra hnutí občanů (ID)
 

@@ -98,7 +98,7 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [1–10 January 2021](2021-01-10-PhoenixResearch.html) | Phoenix Research | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [11–16 December 2020](2020-12-16-SANEP.html) | SANEP | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [11–16 December 2020](2020-12-16-SANEP.html) | SANEP | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [13 November–4 December 2020](2020-12-04-TNSKantar.html) | TNS Kantar <br> O24 | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [1–30 November 2020](2020-11-30-Median.html) | Median | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [19 October–6 November 2020](2020-11-06-TNSKantar.html) | TNS Kantar <br> O24 | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
@@ -156,9 +156,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
 | 5 | 0.2% | 100% |  |
-| 6 | 23% | 99.8% |  |
-| 7 | 57% | 77% | Median |
-| 8 | 17% | 20% |  |
+| 6 | 22% | 99.8% |  |
+| 7 | 60% | 78% | Median |
+| 8 | 16% | 18% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
