@@ -10,7 +10,11 @@ Last result: **3.8%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.8–2.0% | 0.7–2.3% | 0.6–2.5% | 0.5–3.0% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.7–2.0% | 0.6–2.2% | 0.5–2.5% | 0.4–2.9% |
+| [18 January–5 February 2021](2021-02-05-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
+| [1–29 January 2021](2021-01-29-Median.html) | Median | 1.5% | 1.0–2.3% | 0.9–2.5% | 0.8–2.7% | 0.6–3.2% |
+| [21–26 January 2021](2021-01-26-SANEP.html) | SANEP | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
+| [15–19 January 2021](2021-01-19-Ipsos.html) | Ipsos | 1.2% | 0.8–2.0% | 0.7–2.2% | 0.6–2.4% | 0.5–2.8% |
 | [1–10 January 2021](2021-01-10-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
 | [11–16 December 2020](2020-12-16-SANEP.html) | SANEP | 1.0% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% | 0.5–2.1% |
 | [13 November–4 December 2020](2020-12-04-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -66,12 +70,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.9% | 100% |  |
-| 0.5–1.5% | 69% | 99.1% | Median |
-| 1.5–2.5% | 27% | 30% |  |
+| 0.0–0.5% | 4% | 100% |  |
+| 0.5–1.5% | 68% | 96% | Median |
+| 1.5–2.5% | 27% | 28% |  |
 | 2.5–3.5% | 2% | 2% |  |
-| 3.5–4.5% | 0.1% | 0.1% | Last Result |
-| 4.5–5.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -83,6 +86,10 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18 January–5 February 2021](2021-02-05-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
+| [1–29 January 2021](2021-01-29-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
+| [21–26 January 2021](2021-01-26-SANEP.html) | SANEP | 0 | 0 | 0 | 0 | 0 |
+| [15–19 January 2021](2021-01-19-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0 | 0 |
 | [1–10 January 2021](2021-01-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
 | [11–16 December 2020](2020-12-16-SANEP.html) | SANEP | 0 | 0 | 0 | 0 | 0 |
 | [13 November–4 December 2020](2020-12-04-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
