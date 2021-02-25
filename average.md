@@ -306,8 +306,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
 | 5 | 2% | 100% |  |
-| 6 | 55% | 98% | Median |
-| 7 | 40% | 43% |  |
+| 6 | 54% | 98% | Median |
+| 7 | 41% | 44% |  |
 | 8 | 3% | 3% |  |
 | 9 | 0% | 0% |  |
 
@@ -345,8 +345,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 35% | 100% |  |
-| 1 | 58% | 65% | Median |
+| 0 | 36% | 100% |  |
+| 1 | 58% | 64% | Median |
 | 2 | 6% | 6% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -428,7 +428,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 1.1% | 100% |  |
 | 4 | 42% | 98.9% |  |
-| 5 | 44% | 57% | Median |
+| 5 | 43% | 57% | Median |
 | 6 | 13% | 13% |  |
 | 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% |  |
@@ -479,8 +479,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
 | 5 | 2% | 100% |  |
-| 6 | 55% | 98% | Median |
-| 7 | 40% | 43% |  |
+| 6 | 54% | 98% | Median |
+| 7 | 41% | 44% |  |
 | 8 | 3% | 3% |  |
 | 9 | 0% | 0% |  |
 
@@ -511,7 +511,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% | Last Result |
 | 3 | 1.1% | 100% |  |
 | 4 | 42% | 98.9% |  |
-| 5 | 44% | 57% | Median |
+| 5 | 43% | 57% | Median |
 | 6 | 13% | 13% |  |
 | 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% |  |
@@ -535,8 +535,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 35% | 100% |  |
-| 1 | 58% | 65% | Median |
+| 0 | 36% | 100% |  |
+| 1 | 58% | 64% | Median |
 | 2 | 6% | 6% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -581,5 +581,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 5
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 1,966,080
++ **Total number of simulations done in the polls included in this average:** 2,490,368
 + **Error estimate:** 2.44%
