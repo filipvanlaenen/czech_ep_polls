@@ -93,7 +93,7 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | [18 January–5 February 2021](2021-02-05-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
 | [1–29 January 2021](2021-01-29-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [21–26 January 2021](2021-01-26-SANEP.html) | SANEP | 0 | 0 | 0 | 0 | 0 |
-| [15–19 January 2021](2021-01-19-Ipsos.html) | Ipsos | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [15–19 January 2021](2021-01-19-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0–1 | 0–1 |
 | [1–10 January 2021](2021-01-10-PhoenixResearch.html) | Phoenix Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–16 December 2020](2020-12-16-SANEP.html) | SANEP | 0 | 0 | 0 | 0 | 0 |
 | [13 November–4 December 2020](2020-12-04-TNSKantar.html) | TNS Kantar <br> O24 | 0 | 0 | 0 | 0 | 0 |
@@ -151,8 +151,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Last Result, Median |
-| 1 | 7% | 7% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 6% | 6% |  |
 | 2 | 0% | 0% |  |
 
 
