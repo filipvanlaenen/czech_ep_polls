@@ -10,8 +10,15 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 1.8–4.8% | 1.6–5.2% | 1.4–5.5% | 1.1–6.2% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.2–4.2% | 1.9–4.7% |
+| [1–29 March 2021](2021-03-29-Median.html) | Median | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
+| [18–23 March 2021](2021-03-23-SANEP.html) | SANEP | 2.8% | 2.4–3.4% | 2.2–3.5% | 2.1–3.6% | 2.0–3.9% |
+| [12–16 March 2021](2021-03-16-Ipsos.html) | Ipsos <br> SPOLU | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.5% | 2.0–4.9% |
+| [1 February–2 March 2021](2021-03-02-Median.html) | Median | NaN% | N/A | N/A | N/A | N/A |
+| [18–23 February 2021](2021-02-23-SANEP.html) | SANEP | 2.6% | 2.2–3.1% | 2.1–3.3% | 2.0–3.4% | 1.8–3.7% |
+| [15–19 February 2021](2021-02-19-Ipsos.html) | Ipsos <br> SPOLU | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [18 January–5 February 2021](2021-02-05-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
+| [15–5 February 2021](2021-02-05-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–29 January 2021](2021-01-29-Median.html) | Median | 1.9% | 1.4–2.8% | 1.2–3.0% | 1.1–3.3% | 0.9–3.7% |
 | [21–26 January 2021](2021-01-26-SANEP.html) | SANEP | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.5–3.9% |
 | [15–19 January 2021](2021-01-19-Ipsos.html) | Ipsos | 3.7% | 2.9–4.8% | 2.7–5.1% | 2.5–5.4% | 2.1–6.0% |
@@ -71,14 +78,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 29% | 96% |  |
-| 2.5–3.5% | 28% | 66% | Median |
-| 3.5–4.5% | 24% | 38% |  |
-| 4.5–5.5% | 11% | 14% |  |
-| 5.5–6.5% | 2% | 2% |  |
-| 6.5–7.5% | 0.2% | 0.2% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 16% | 100% |  |
+| 2.5–3.5% | 67% | 84% | Median |
+| 3.5–4.5% | 16% | 17% |  |
+| 4.5–5.5% | 0.8% | 0.8% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -89,8 +94,15 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–29 March 2021](2021-03-29-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
+| [18–23 March 2021](2021-03-23-SANEP.html) | SANEP | 0 | 0 | 0 | 0 | 0 |
+| [12–16 March 2021](2021-03-16-Ipsos.html) | Ipsos <br> SPOLU | 0 | 0 | 0 | 0 | 0 |
+| [1 February–2 March 2021](2021-03-02-Median.html) | Median |  |  |  |  |  |
+| [18–23 February 2021](2021-02-23-SANEP.html) | SANEP | 0 | 0 | 0 | 0 | 0 |
+| [15–19 February 2021](2021-02-19-Ipsos.html) | Ipsos <br> SPOLU | 0 | 0 | 0 | 0 | 0–1 |
 | [18 January–5 February 2021](2021-02-05-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
+| [15–5 February 2021](2021-02-05-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
 | [1–29 January 2021](2021-01-29-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [21–26 January 2021](2021-01-26-SANEP.html) | SANEP | 0 | 0 | 0 | 0 | 0 |
 | [15–19 January 2021](2021-01-19-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -151,8 +163,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Last Result, Median |
-| 1 | 6% | 6% |  |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% |  |
 
 
