@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/czech_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2021-02-27T18:01:46.896854+01:00</updated>
+  <updated>2021-04-12T17:50:46.728372+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>ANO 2011 (RE): 22.8–28.2%, 6–7 seats</li><li>Svoboda a přímá demokracie (ID): 7.7–11.4%, 2–3 seats</li><li>Komunistická strana Čech a Moravy (GUE/NGL): 3.6–6.3%, 0–1 seats</li><li>Česká strana sociálně demokratická (S&amp;D): 4.3–7.1%, 0–1 seats</li><li>Strana zelených (Greens/EFA): 1.0–2.6%, 0 seats</li><li>Trikolóra hnutí občanů (ID): 2.4–4.7%, 0 seats</li><li>SPOLU (ECR): 18.1–23.1%, 4–6 seats</li><li>Česká pirátská strana–Starostové a nezávislí (Greens/EFA): 22.3–27.7%, 5–7 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/czech_ep_polls/2021-02-19-Ipsos.html</id>
+    <link href="https://filipvanlaenen.github.io/czech_ep_polls/2021-02-19-Ipsos.html"/>
+    <title>Opinion Poll by Ipsos for SPOLU, 15–19 February 2021</title>
+    <updated>2021-04-12T17:50:46.728372+02:00</updated>
+    <dc:date>2021-04-12T17:50:46.728372+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>ANO 2011 (RE): 23.3–30.0%, 5–7 seats</li><li>Svoboda a přímá demokracie (ID): 8.4–13.1%, 2–3 seats</li><li>Komunistická strana Čech a Moravy (GUE/NGL): 3.6–7.0%, 0–1 seats</li><li>Česká strana sociálně demokratická (S&amp;D): 2.7–5.7%, 0–1 seats</li><li>SPOLU (ECR): 16.7–22.7%, 4–5 seats</li><li>Česká pirátská strana–Starostové a nezávislí (Greens/EFA): 26.2–33.2%, 6–8 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/czech_ep_polls/2021-02-05-TNSKantar.html</id>
@@ -423,5 +431,5 @@
     <updated>2019-12-30T14:19:35.409648+01:00</updated>
     <dc:date>2019-12-30T14:19:35.409648+01:00</dc:date>
   </entry>
-  <dc:date>2021-02-27T18:01:46.896854+01:00</dc:date>
+  <dc:date>2021-04-12T17:50:46.728372+02:00</dc:date>
 </feed>
