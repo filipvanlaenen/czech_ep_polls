@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 12 Apr 2021 17:50:46 +0200</pubDate>
+    <pubDate>Tue, 13 Apr 2021 15:49:09 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Median, 1–29 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-03-29-Median.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 5–7 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 2–3 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (ID): 0 seats&lt;/li&gt;&lt;li&gt;SPOLU (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana–Starostové a nezávislí (Greens/EFA): 6–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-03-29-Median-seats.png"
+        length="253102"
+        type="image/png"/>
+      <pubDate>Tue, 13 Apr 2021 15:49:09 +0200</pubDate>
+      <dc:date>2021-04-13T15:49:09.368955+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median, 1–29 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-03-29-Median.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-03-29-Median-coalitions-seats.png"
+        length="191112"
+        type="image/png"/>
+      <pubDate>Tue, 13 Apr 2021 15:49:09 +0200</pubDate>
+      <dc:date>2021-04-13T15:49:09.368955+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Median, 1–29 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-03-29-Median.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-03-29-Median.png"
         length="308108"
         type="image/png"/>
-      <pubDate>Mon, 12 Apr 2021 07:32:22 +0200</pubDate>
-      <dc:date>2021-04-12T07:32:22.649144+02:00</dc:date>
+      <pubDate>Tue, 13 Apr 2021 15:49:09 +0200</pubDate>
+      <dc:date>2021-04-13T15:49:09.368955+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SANEP, 18–23 March 2021 – Voting Intentions</title>
@@ -38,6 +58,26 @@
         type="image/png"/>
       <pubDate>Mon, 12 Apr 2021 07:54:42 +0200</pubDate>
       <dc:date>2021-04-12T07:54:42.059773+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for CT24, 15 February–5 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-03-05-Kantar.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 19.5–24.8%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 9.1–13.2%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 4.2–7.2%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 3.3–6.0%&lt;/li&gt;&lt;li&gt;SPOLU (ECR): 15.2–20.1%&lt;/li&gt;&lt;li&gt;Česká pirátská strana–Starostové a nezávislí (Greens/EFA): 31.0–37.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-03-05-Kantar.png"
+        length="259904"
+        type="image/png"/>
+      <pubDate>Tue, 13 Apr 2021 07:32:56 +0200</pubDate>
+      <dc:date>2021-04-13T07:32:56.11054+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median, 1 February–2 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-03-02-Median.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 23.9–29.3%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 3.4–5.9%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0.9–2.5%&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (ID): 1.7–3.6%&lt;/li&gt;&lt;li&gt;SPOLU (ECR): 16.3–21.0%&lt;/li&gt;&lt;li&gt;Česká pirátská strana–Starostové a nezávislí (Greens/EFA): 22.5–27.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-03-02-Median.png"
+        length="310127"
+        type="image/png"/>
+      <pubDate>Tue, 13 Apr 2021 07:38:51 +0200</pubDate>
+      <dc:date>2021-04-13T07:38:51.621939+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SANEP, 18–23 February 2021 – Voting Intentions</title>
@@ -108,16 +148,6 @@
         type="image/png"/>
       <pubDate>Wed, 24 Feb 2021 19:21:38 +0100</pubDate>
       <dc:date>2021-02-24T19:21:38.960756+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar for CT24, 15–5 February 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-02-05-Kantar.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 19.5–24.8%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 9.1–13.2%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 4.2–7.2%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 3.3–6.0%&lt;/li&gt;&lt;li&gt;SPOLU (ECR): 15.2–20.1%&lt;/li&gt;&lt;li&gt;Česká pirátská strana–Starostové a nezávislí (Greens/EFA): 31.0–37.1%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-02-05-Kantar.png"
-        length="258494"
-        type="image/png"/>
-      <pubDate>Mon, 12 Apr 2021 16:40:23 +0200</pubDate>
-      <dc:date>2021-04-12T16:40:23.980424+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Median, 1–29 January 2021 – Seat Projections for the Parties</title>
@@ -1649,6 +1679,6 @@
       <pubDate>Mon, 30 Dec 2019 14:19:35 +0100</pubDate>
       <dc:date>2019-12-30T14:19:35.409648+01:00</dc:date>
     </item>
-    <dc:date>2021-04-12T17:50:46.728372+02:00</dc:date>
+    <dc:date>2021-04-13T15:49:09.368955+02:00</dc:date>
   </channel>
 </rss>
