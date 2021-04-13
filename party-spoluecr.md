@@ -14,11 +14,11 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 | [1–29 March 2021](2021-03-29-Median.html) | Median | 17.5% | 16.0–19.1% | 15.6–19.5% | 15.3–19.9% | 14.6–20.7% |
 | [18–23 March 2021](2021-03-23-SANEP.html) | SANEP | 17.9% | 16.8–19.1% | 16.5–19.4% | 16.2–19.7% | 15.7–20.2% |
 | [12–16 March 2021](2021-03-16-Ipsos.html) | Ipsos <br> SPOLU | 21.5% | 20.0–23.2% | 19.5–23.7% | 19.1–24.1% | 18.4–25.0% |
-| [1 February–2 March 2021](2021-03-02-Median.html) | Median | NaN% | N/A | N/A | N/A | N/A |
+| [15 February–5 March 2021](2021-03-05-Kantar.html) | Kantar <br> CT24 | 17.5% | 16.0–19.2% | 15.5–19.7% | 15.2–20.1% | 14.5–20.9% |
+| [1 February–2 March 2021](2021-03-02-Median.html) | Median | 18.5% | 17.0–20.1% | 16.6–20.6% | 16.3–21.0% | 15.6–21.8% |
 | [18–23 February 2021](2021-02-23-SANEP.html) | SANEP | 18.6% | 17.5–19.8% | 17.2–20.1% | 16.9–20.4% | 16.4–21.0% |
 | [15–19 February 2021](2021-02-19-Ipsos.html) | Ipsos <br> SPOLU | 20.5% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.4–24.0% |
 | [18 January–5 February 2021](2021-02-05-TNSKantar.html) | TNS Kantar <br> O24 | 19.5% | 17.6–21.6% | 17.1–22.2% | 16.7–22.7% | 15.8–23.8% |
-| [15–5 February 2021](2021-02-05-Kantar.html) | Kantar <br> CT24 | 17.5% | 16.0–19.2% | 15.5–19.7% | 15.2–20.1% | 14.5–20.9% |
 | [1–29 January 2021](2021-01-29-Median.html) | Median | 18.5% | 16.7–20.6% | 16.2–21.2% | 15.8–21.7% | 15.0–22.7% |
 | [21–26 January 2021](2021-01-26-SANEP.html) | SANEP | 18.3% | 16.9–19.8% | 16.5–20.3% | 16.1–20.7% | 15.5–21.4% |
 | [15–19 January 2021](2021-01-19-Ipsos.html) | Ipsos | 21.8% | 19.8–24.0% | 19.3–24.6% | 18.8–25.1% | 17.9–26.2% |
@@ -115,14 +115,14 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
-| [1–29 March 2021](2021-03-29-Median.html) | Median | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [1–29 March 2021](2021-03-29-Median.html) | Median | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [18–23 March 2021](2021-03-23-SANEP.html) | SANEP | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [12–16 March 2021](2021-03-16-Ipsos.html) | Ipsos <br> SPOLU | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [1 February–2 March 2021](2021-03-02-Median.html) | Median |  |  |  |  |  |
+| [15 February–5 March 2021](2021-03-05-Kantar.html) | Kantar <br> CT24 | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [1 February–2 March 2021](2021-03-02-Median.html) | Median | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [18–23 February 2021](2021-02-23-SANEP.html) | SANEP | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [15–19 February 2021](2021-02-19-Ipsos.html) | Ipsos <br> SPOLU | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [18 January–5 February 2021](2021-02-05-TNSKantar.html) | TNS Kantar <br> O24 | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [15–5 February 2021](2021-02-05-Kantar.html) | Kantar <br> CT24 | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [1–29 January 2021](2021-01-29-Median.html) | Median | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [21–26 January 2021](2021-01-26-SANEP.html) | SANEP | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [15–19 January 2021](2021-01-19-Ipsos.html) | Ipsos | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
@@ -187,8 +187,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 3% | 100% |  |
-| 4 | 54% | 97% | Median |
-| 5 | 38% | 43% |  |
+| 4 | 57% | 97% | Median |
+| 5 | 36% | 41% |  |
 | 6 | 5% | 5% |  |
 | 7 | 0% | 0% |  |
 
