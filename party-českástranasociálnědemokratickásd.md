@@ -107,7 +107,7 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 | [12–16 March 2021](2021-03-16-Ipsos.html) | Ipsos <br> SPOLU | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15 February–5 March 2021](2021-03-05-Kantar.html) | Kantar <br> CT24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1 February–2 March 2021](2021-03-02-Median.html) | Median | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [18–23 February 2021](2021-02-23-SANEP.html) | SANEP | 1 | 1 | 1 | 1 | 0–1 |
+| [18–23 February 2021](2021-02-23-SANEP.html) | SANEP | 1 | 1 | 1 | 0–1 | 0–1 |
 | [15–19 February 2021](2021-02-19-Ipsos.html) | Ipsos <br> SPOLU | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [18 January–5 February 2021](2021-02-05-TNSKantar.html) | TNS Kantar <br> O24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–29 January 2021](2021-01-29-Median.html) | Median | 1 | 1–2 | 1–2 | 1–2 | 0–2 |

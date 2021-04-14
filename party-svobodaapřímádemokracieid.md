@@ -106,7 +106,7 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–29 March 2021](2021-03-29-Median.html) | Median | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18–23 March 2021](2021-03-23-SANEP.html) | SANEP | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [12–16 March 2021](2021-03-16-Ipsos.html) | Ipsos <br> SPOLU | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [12–16 March 2021](2021-03-16-Ipsos.html) | Ipsos <br> SPOLU | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [15 February–5 March 2021](2021-03-05-Kantar.html) | Kantar <br> CT24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1 February–2 March 2021](2021-03-02-Median.html) | Median | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [18–23 February 2021](2021-02-23-SANEP.html) | SANEP | 2 | 2 | 2 | 2 | 2 |
@@ -173,8 +173,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.4% | 100% |  |
-| 2 | 87% | 99.6% | Median |
+| 1 | 0.3% | 100% |  |
+| 2 | 87% | 99.7% | Median |
 | 3 | 12% | 12% |  |
 | 4 | 0% | 0% |  |
 
