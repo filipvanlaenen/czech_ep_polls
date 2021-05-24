@@ -2,16 +2,17 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | ANO | TOP 09 | STAN | ČSSD | KSČM | KDU–ČSL | ODS | SVOBODNÍ | Piráti | ZELENÍ | SPD | THO | SPOLU | Pir–STAN |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 24–25 May 2019 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 20–29% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 | 4–9% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 8–13% <br> 2–3 | 2–4% <br> 0 | 16–23% <br> 3–6 | 25–36% <br> 6–9 |
-| [1–29 March 2021](2021-03-29-Median.html) | Median | 22–27% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 8–12% <br> 2–3 | 2–4% <br> 0 | 15–20% <br> 4–5 | 25–30% <br> 6–8 |
-| [18–23 March 2021](2021-03-23-SANEP.html) | SANEP | 24–28% <br> 6–7 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–1 | 5–7% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 9–12% <br> 2–3 | 2–4% <br> 0 | 16–20% <br> 4–5 | 24–28% <br> 6–7 |
-| [12–16 March 2021](2021-03-16-Ipsos.html) | Ipsos <br> SPOLU | 23–29% <br> 6–7 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 | 3–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 8–12% <br> 2–3 | 2–4% <br> 0 | 19–24% <br> 5–6 | 25–31% <br> 6–8 |
-| [15 February–5 March 2021](2021-03-05-Kantar.html) | Kantar <br> CT24 | 19–25% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 2–3 | N/A <br> N/A | 15–20% <br> 3–5 | 31–37% <br> 7–9 |
-| [18 January–5 February 2021](2021-02-05-TNSKantar.html) | TNS Kantar <br> O24 | 23–30% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 8–13% <br> 2–3 | N/A <br> N/A | 17–23% <br> 4–5 | 26–33% <br> 6–8 |
-| 24–25 May 2019 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | ANO | TOP 09 | STAN | ČSSD | KSČM | KDU–ČSL | ODS | SVOBODNÍ | Piráti | ZELENÍ | SPD | THO | SPOLU | Pir–STAN | T–S–SsČR | P |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 24–25 May 2019 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 19–26% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | 3–8% <br> 0–2 | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 | 9–14% <br> 2–3 | 3–6% <br> 0–1 | 15–24% <br> 3–6 | 24–30% <br> 6–8 | 2–6% <br> 0–1 | 2–4% <br> 0 |
+| [1 April–4 May 2021](2021-05-04-Median.html) | Median | 18–24% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 0–2 | 5–8% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0 | 9–14% <br> 2–3 | N/A <br> N/A | 14–20% <br> 3–5 | 24–31% <br> 6–8 | 2–4% <br> 0 | 2–4% <br> 0 |
+| [12–30 April 2021](2021-04-30-Kantar.html) | Kantar <br> CT24 | 19–23% <br> 5–6 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | 4–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 2–3 | N/A <br> N/A | 19–24% <br> 5–6 | 25–30% <br> 6–8 | 3–5% <br> 0 | 2–4% <br> 0 |
+| [15–21 April 2021](2021-04-21-SANEP.html) | SANEP | 22–26% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 | 5–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 9–12% <br> 2–3 | N/A <br> N/A | 16–20% <br> 4–5 | 24–29% <br> 6–7 | 4–6% <br> 0–1 | 2–4% <br> 0 |
+| [7–13 April 2021](2021-04-13-STEM.html) | STEM | 22–27% <br> 5–6 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 11–15% <br> 2–3 | N/A <br> N/A | 14–19% <br> 3–4 | 25–31% <br> 6–8 | 1–3% <br> 0 | 2–4% <br> 0 |
+| [8–12 April 2021](2021-04-12-Ipsos.html) | Ipsos <br> SPOLU | 20–25% <br> 5–6 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 2–3 | N/A <br> N/A | 19–24% <br> 5–6 | 25–31% <br> 6–8 | 3–5% <br> 0 | 2–4% <br> 0 |
+| [1–10 April 2021](2021-04-10-PhoenixResearch.html) | Phoenix Research | 21–28% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–2 | 4–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–15% <br> 2–3 | 3–6% <br> 0–1 | 14–20% <br> 3–5 | 23–30% <br> 5–7 | N/A <br> N/A | N/A <br> N/A |
+| 24–25 May 2019 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -32,6 +33,8 @@ Only polls for which at least the sample size has been published are included in
 + **THO:** Trikolóra hnutí občanů (ID)
 + **SPOLU:** SPOLU (ECR)
 + **Pir–STAN:** Česká pirátská strana–Starostové a nezávislí (Greens/EFA)
++ **T–S–SsČR:** Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID)
++ **P:** Přísaha (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
