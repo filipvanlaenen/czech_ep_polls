@@ -10,7 +10,15 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.2–4.2% | 1.9–4.7% |
+| N/A | [Poll Average](average.html) | 4.0% | 3.0–5.1% | 2.8–5.4% | 2.6–5.7% | 2.2–6.3% |
+| [1 April–4 May 2021](2021-05-04-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
+| [12–30 April 2021](2021-04-30-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
+| [15–21 April 2021](2021-04-21-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
+| [7–13 April 2021](2021-04-13-STEM.html) | STEM | 0.0% | N/A | N/A | N/A | N/A |
+| [8–12 April 2021](2021-04-12-Ipsos.html) | Ipsos <br> SPOLU | 0.0% | N/A | N/A | N/A | N/A |
+| [1–10 April 2021](2021-04-10-PhoenixResearch.html) | Phoenix Research | 3.8% | 3.0–5.1% | 2.8–5.4% | 2.6–5.7% | 2.2–6.4% |
+| [25 March–1 April 2021](2021-04-01-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
+| [25 March–1 April 2021](2021-04-01-DataCollect.html) | Data Collect <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–29 March 2021](2021-03-29-Median.html) | Median | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [18–23 March 2021](2021-03-23-SANEP.html) | SANEP | 2.8% | 2.4–3.4% | 2.2–3.5% | 2.1–3.6% | 2.0–3.9% |
 | [12–16 March 2021](2021-03-16-Ipsos.html) | Ipsos <br> SPOLU | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.5% | 2.0–4.9% |
@@ -79,11 +87,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 16% | 100% |  |
-| 2.5–3.5% | 67% | 84% | Median |
-| 3.5–4.5% | 16% | 17% |  |
-| 4.5–5.5% | 0.8% | 0.8% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 28% | 98% |  |
+| 3.5–4.5% | 47% | 70% | Median |
+| 4.5–5.5% | 20% | 23% |  |
+| 5.5–6.5% | 3% | 4% |  |
+| 6.5–7.5% | 0.3% | 0.3% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -94,7 +104,15 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [1 April–4 May 2021](2021-05-04-Median.html) | Median |  |  |  |  |  |
+| [12–30 April 2021](2021-04-30-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
+| [15–21 April 2021](2021-04-21-SANEP.html) | SANEP |  |  |  |  |  |
+| [7–13 April 2021](2021-04-13-STEM.html) | STEM |  |  |  |  |  |
+| [8–12 April 2021](2021-04-12-Ipsos.html) | Ipsos <br> SPOLU |  |  |  |  |  |
+| [1–10 April 2021](2021-04-10-PhoenixResearch.html) | Phoenix Research | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [25 March–1 April 2021](2021-04-01-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
+| [25 March–1 April 2021](2021-04-01-DataCollect.html) | Data Collect <br> CT24 |  |  |  |  |  |
 | [1–29 March 2021](2021-03-29-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [18–23 March 2021](2021-03-23-SANEP.html) | SANEP | 0 | 0 | 0 | 0 | 0 |
 | [12–16 March 2021](2021-03-16-Ipsos.html) | Ipsos <br> SPOLU | 0 | 0 | 0 | 0 | 0 |
@@ -163,8 +181,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
+| 0 | 90% | 100% | Last Result, Median |
+| 1 | 10% | 10% |  |
 | 2 | 0% | 0% |  |
 
 

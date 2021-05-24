@@ -10,7 +10,15 @@ Last result: **14.2%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.5–5.5% | 3.2–5.8% | 3.0–6.0% | 2.7–6.5% |
+| N/A | [Poll Average](average.html) | 5.5% | 3.9–7.5% | 3.6–8.0% | 3.4–8.3% | 3.0–9.0% |
+| [1 April–4 May 2021](2021-05-04-Median.html) | Median | 6.5% | 5.4–7.9% | 5.1–8.3% | 4.9–8.6% | 4.4–9.4% |
+| [12–30 April 2021](2021-04-30-Kantar.html) | Kantar <br> CT24 | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
+| [15–21 April 2021](2021-04-21-SANEP.html) | SANEP | 5.1% | 4.4–6.0% | 4.2–6.3% | 4.0–6.5% | 3.7–7.0% |
+| [7–13 April 2021](2021-04-13-STEM.html) | STEM | 7.1% | 6.1–8.2% | 5.9–8.5% | 5.7–8.8% | 5.2–9.3% |
+| [8–12 April 2021](2021-04-12-Ipsos.html) | Ipsos <br> SPOLU | 4.5% | 3.7–5.4% | 3.5–5.7% | 3.4–5.9% | 3.0–6.4% |
+| [1–10 April 2021](2021-04-10-PhoenixResearch.html) | Phoenix Research | 6.2% | 5.1–7.6% | 4.8–8.0% | 4.5–8.4% | 4.0–9.2% |
+| [25 March–1 April 2021](2021-04-01-Kantar.html) | Kantar <br> CT24 | 3.0% | 2.3–3.8% | 2.2–4.0% | 2.0–4.2% | 1.8–4.7% |
+| [25 March–1 April 2021](2021-04-01-DataCollect.html) | Data Collect <br> CT24 | 3.7% | 3.0–4.6% | 2.8–4.9% | 2.7–5.1% | 2.4–5.6% |
 | [1–29 March 2021](2021-03-29-Median.html) | Median | 4.0% | 3.4–5.0% | 3.2–5.2% | 3.0–5.5% | 2.7–5.9% |
 | [18–23 March 2021](2021-03-23-SANEP.html) | SANEP | 5.3% | 4.7–6.0% | 4.5–6.2% | 4.3–6.4% | 4.1–6.7% |
 | [12–16 March 2021](2021-03-16-Ipsos.html) | Ipsos <br> SPOLU | 4.2% | 3.4–5.1% | 3.3–5.3% | 3.1–5.5% | 2.8–6.0% |
@@ -77,16 +85,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.3% | 100% |  |
-| 2.5–3.5% | 12% | 99.7% |  |
-| 3.5–4.5% | 43% | 88% | Median |
-| 4.5–5.5% | 35% | 44% |  |
-| 5.5–6.5% | 9% | 10% |  |
-| 6.5–7.5% | 0.4% | 0.4% |  |
-| 7.5–8.5% | 0% | 0% |  |
-| 8.5–9.5% | 0% | 0% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 4% | 100% |  |
+| 3.5–4.5% | 21% | 96% |  |
+| 4.5–5.5% | 25% | 75% |  |
+| 5.5–6.5% | 22% | 50% | Median |
+| 6.5–7.5% | 19% | 28% |  |
+| 7.5–8.5% | 8% | 10% |  |
+| 8.5–9.5% | 1.4% | 2% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -101,7 +108,15 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [1 April–4 May 2021](2021-05-04-Median.html) | Median | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [12–30 April 2021](2021-04-30-Kantar.html) | Kantar <br> CT24 | 0 | 0 | 0 | 0–1 | 0–1 |
+| [15–21 April 2021](2021-04-21-SANEP.html) | SANEP | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [7–13 April 2021](2021-04-13-STEM.html) | STEM | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [8–12 April 2021](2021-04-12-Ipsos.html) | Ipsos <br> SPOLU | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–10 April 2021](2021-04-10-PhoenixResearch.html) | Phoenix Research | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| [25 March–1 April 2021](2021-04-01-Kantar.html) | Kantar <br> CT24 | 0 | 0 | 0 | 0 | 0 |
+| [25 March–1 April 2021](2021-04-01-DataCollect.html) | Data Collect <br> CT24 | 0 | 0 | 0 | 0–1 | 0–1 |
 | [1–29 March 2021](2021-03-29-Median.html) | Median | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [18–23 March 2021](2021-03-23-SANEP.html) | SANEP | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–16 March 2021](2021-03-16-Ipsos.html) | Ipsos <br> SPOLU | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -170,9 +185,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 74% | 100% | Median |
-| 1 | 26% | 26% |  |
-| 2 | 0% | 0% |  |
+| 0 | 37% | 100% |  |
+| 1 | 55% | 63% | Median |
+| 2 | 8% | 8% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
