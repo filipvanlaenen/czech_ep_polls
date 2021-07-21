@@ -10,7 +10,16 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.1% | 15.8–22.3% | 15.2–22.9% | 14.8–23.5% | 13.9–24.4% |
+| N/A | [Poll Average](average.html) | 18.4% | 16.2–20.5% | 15.6–21.2% | 15.2–21.8% | 14.4–23.0% |
+| [31 May–11 June 2021](2021-06-11-DataCollect.html) | Data Collect <br> CT24 | 19.5% | 17.6–21.6% | 17.1–22.2% | 16.6–22.7% | 15.8–23.7% |
+| [1–10 June 2021](2021-06-10-PhoenixResearch.html) | Phoenix Research | 16.7% | 15.4–18.3% | 15.0–18.7% | 14.6–19.1% | 14.0–19.8% |
+| [2–6 June 2021](2021-06-06-Ipsos.html) | Ipsos | 23.1% | N/A | N/A | N/A | N/A |
+| [1–31 May 2021](2021-05-31-Median.html) | Median | 19.3% | N/A | N/A | N/A | N/A |
+| [10–28 May 2021](2021-05-28-Kantar.html) | Kantar <br> CT24 | 21.6% | N/A | N/A | N/A | N/A |
+| [19–24 May 2021](2021-05-24-Ipsos.html) | Ipsos | 23.1% | N/A | N/A | N/A | N/A |
+| [3–21 May 2021](2021-05-21-DataCollect.html) | Data Collect <br> CT24 | 20.7% | N/A | N/A | N/A | N/A |
+| [13–19 May 2021](2021-05-19-SANEP.html) | SANEP | 18.8% | 17.6–20.0% | 17.3–20.3% | 17.0–20.6% | 16.5–21.2% |
+| [1–15 May 2021](2021-05-15-PhoenixResearch.html) | Phoenix Research | 16.3% | 14.9–17.9% | 14.5–18.3% | 14.2–18.7% | 13.5–19.5% |
 | [1 April–4 May 2021](2021-05-04-Median.html) | Median | 17.0% | 15.3–19.0% | 14.8–19.6% | 14.4–20.1% | 13.6–21.0% |
 | [12–30 April 2021](2021-04-30-Kantar.html) | Kantar <br> CT24 | 21.5% | 20.0–23.1% | 19.6–23.5% | 19.3–23.9% | 18.6–24.7% |
 | [15–21 April 2021](2021-04-21-SANEP.html) | SANEP | 17.7% | 16.3–19.1% | 15.9–19.6% | 15.6–19.9% | 15.0–20.6% |
@@ -98,21 +107,19 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.2% | 100% |  |
-| 13.5–14.5% | 2% | 99.8% |  |
-| 14.5–15.5% | 6% | 98% |  |
-| 15.5–16.5% | 14% | 92% |  |
-| 16.5–17.5% | 19% | 78% |  |
-| 17.5–18.5% | 16% | 59% | Median |
-| 18.5–19.5% | 9% | 43% |  |
-| 19.5–20.5% | 7% | 35% |  |
-| 20.5–21.5% | 10% | 28% |  |
-| 21.5–22.5% | 10% | 18% |  |
-| 22.5–23.5% | 5% | 8% |  |
-| 23.5–24.5% | 2% | 2% |  |
-| 24.5–25.5% | 0.4% | 0.4% |  |
-| 25.5–26.5% | 0% | 0% |  |
-| 26.5–27.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.6% | 100% |  |
+| 14.5–15.5% | 4% | 99.4% |  |
+| 15.5–16.5% | 10% | 96% |  |
+| 16.5–17.5% | 16% | 85% |  |
+| 17.5–18.5% | 22% | 69% | Median |
+| 18.5–19.5% | 23% | 47% |  |
+| 19.5–20.5% | 14% | 24% |  |
+| 20.5–21.5% | 6% | 10% |  |
+| 21.5–22.5% | 2% | 3% |  |
+| 22.5–23.5% | 0.8% | 1.0% |  |
+| 23.5–24.5% | 0.2% | 0.2% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -123,7 +130,16 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [31 May–11 June 2021](2021-06-11-DataCollect.html) | Data Collect <br> CT24 | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [1–10 June 2021](2021-06-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
+| [2–6 June 2021](2021-06-06-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [1–31 May 2021](2021-05-31-Median.html) | Median |  |  |  |  |  |
+| [10–28 May 2021](2021-05-28-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
+| [19–24 May 2021](2021-05-24-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [3–21 May 2021](2021-05-21-DataCollect.html) | Data Collect <br> CT24 |  |  |  |  |  |
+| [13–19 May 2021](2021-05-19-SANEP.html) | SANEP | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [1–15 May 2021](2021-05-15-PhoenixResearch.html) | Phoenix Research | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [1 April–4 May 2021](2021-05-04-Median.html) | Median | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [12–30 April 2021](2021-04-30-Kantar.html) | Kantar <br> CT24 | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [15–21 April 2021](2021-04-21-SANEP.html) | SANEP | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -203,11 +219,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 7% | 100% |  |
-| 4 | 52% | 93% | Median |
-| 5 | 29% | 41% |  |
-| 6 | 12% | 12% |  |
-| 7 | 0.1% | 0.1% |  |
-| 8 | 0% | 0% |  |
+| 3 | 0.1% | 100% |  |
+| 4 | 31% | 99.9% |  |
+| 5 | 66% | 69% | Median |
+| 6 | 3% | 3% |  |
+| 7 | 0% | 0% |  |
 
 
