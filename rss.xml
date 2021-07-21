@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 May 2021 23:49:50 +0200</pubDate>
+    <pubDate>Wed, 21 Jul 2021 19:10:38 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Data Collect for CT24, 31 May–11 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-06-11-DataCollect.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 17.6–23.8%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 8.5–13.2%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 3.9–7.4%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 3.6–6.9%&lt;/li&gt;&lt;li&gt;SPOLU (ECR): 16.6–22.7%&lt;/li&gt;&lt;li&gt;Česká pirátská strana–Starostové a nezávislí (Greens/EFA): 22.3–29.0%&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID): 2.0–4.6%&lt;/li&gt;&lt;li&gt;Přísaha (*): 3.6–6.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-06-11-DataCollect.png"
+        length="356869"
+        type="image/png"/>
+      <pubDate>Wed, 21 Jul 2021 19:08:40 +0200</pubDate>
+      <dc:date>2021-07-21T19:08:40.548871+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SANEP, 13–19 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-05-19-SANEP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 20.9–24.7%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 9.6–12.5%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 4.1–6.1%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 4.8–7.0%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0.8–1.8%&lt;/li&gt;&lt;li&gt;SPOLU (ECR): 17.0–20.6%&lt;/li&gt;&lt;li&gt;Česká pirátská strana–Starostové a nezávislí (Greens/EFA): 24.7–28.8%&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID): 3.1–4.9%&lt;/li&gt;&lt;li&gt;Přísaha (*): 2.8–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-05-19-SANEP.png"
+        length="346689"
+        type="image/png"/>
+      <pubDate>Wed, 21 Jul 2021 18:57:22 +0200</pubDate>
+      <dc:date>2021-07-21T18:57:22.033947+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Phoenix Research, 1–15 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-05-15-PhoenixResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 20.1–25.2%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 10.8–14.9%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 3.4–6.0%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 4.1–6.9%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0.7–2.2%&lt;/li&gt;&lt;li&gt;SPOLU (ECR): 14.2–18.7%&lt;/li&gt;&lt;li&gt;Česká pirátská strana–Starostové a nezávislí (Greens/EFA): 23.2–28.5%&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID): 2.5–4.8%&lt;/li&gt;&lt;li&gt;Přísaha (*): 2.2–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-05-15-PhoenixResearch.png"
+        length="364694"
+        type="image/png"/>
+      <pubDate>Wed, 21 Jul 2021 19:10:38 +0200</pubDate>
+      <dc:date>2021-07-21T19:10:38.752432+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Median, 1 April–4 May 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-05-04-Median.html#seats</link>
@@ -2019,6 +2049,6 @@
       <pubDate>Mon, 30 Dec 2019 14:19:35 +0100</pubDate>
       <dc:date>2019-12-30T14:19:35.409648+01:00</dc:date>
     </item>
-    <dc:date>2021-05-22T23:49:50.949817+02:00</dc:date>
+    <dc:date>2021-07-21T19:10:38.752432+02:00</dc:date>
   </channel>
 </rss>
