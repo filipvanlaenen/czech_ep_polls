@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:47 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Data Collect for CT24, 31 May–11 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-06-11-DataCollect.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Data Collect for CT24, 31 May–11 June 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-06-11-DataCollect.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-06-11-DataCollect.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-06-11-DataCollect.png" length="356869" type="image/png"/>
+      <pubDate>Wed, 21 Jul 2021 19:08:40 +0200</pubDate>
+      <dc:date>2021-07-21T19:08:40.548871+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SANEP, 13–19 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-05-19-SANEP.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by SANEP, 13–19 May 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-05-19-SANEP.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-05-19-SANEP.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-05-19-SANEP.png" length="346689" type="image/png"/>
+      <pubDate>Wed, 21 Jul 2021 18:57:22 +0200</pubDate>
+      <dc:date>2021-07-21T18:57:22.033947+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Phoenix Research, 1–15 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-05-15-PhoenixResearch.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Phoenix Research, 1–15 May 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-05-15-PhoenixResearch.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-05-15-PhoenixResearch.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-05-15-PhoenixResearch.png" length="364694" type="image/png"/>
+      <pubDate>Wed, 21 Jul 2021 19:10:38 +0200</pubDate>
+      <dc:date>2021-07-21T19:10:38.752432+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Median, 1 April–4 May 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-05-04-Median.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Median, 1 April–4 May 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-05-04-Median.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-05-04-Median-seating-plan.png"/>]]></description>
@@ -28,222 +52,6 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-05-04-Median.png" length="375438" type="image/png"/>
       <pubDate>Sat, 22 May 2021 22:45:42 +0200</pubDate>
       <dc:date>2021-05-22T22:45:42.045569+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar for CT24, 12–30 April 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-30-Kantar.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Kantar for CT24, 12–30 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-30-Kantar.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-30-Kantar-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-30-Kantar-seating-plan.png" length="396165" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 23:05:16 +0200</pubDate>
-      <dc:date>2021-05-22T23:05:16.766949+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar for CT24, 12–30 April 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-30-Kantar.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Kantar for CT24, 12–30 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-30-Kantar.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-30-Kantar-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-30-Kantar-seats.png" length="265085" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 23:05:16 +0200</pubDate>
-      <dc:date>2021-05-22T23:05:16.766949+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar for CT24, 12–30 April 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-30-Kantar.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar for CT24, 12–30 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-30-Kantar.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-30-Kantar.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-30-Kantar.png" length="333324" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 23:05:16 +0200</pubDate>
-      <dc:date>2021-05-22T23:05:16.766949+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by SANEP, 15–21 April 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-21-SANEP.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by SANEP, 15–21 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-21-SANEP.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-21-SANEP-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-21-SANEP-seating-plan.png" length="414793" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 23:37:36 +0200</pubDate>
-      <dc:date>2021-05-22T23:37:36.359195+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by SANEP, 15–21 April 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-21-SANEP.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by SANEP, 15–21 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-21-SANEP.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-21-SANEP-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-21-SANEP-seats.png" length="306564" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 23:37:36 +0200</pubDate>
-      <dc:date>2021-05-22T23:37:36.359195+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by SANEP, 15–21 April 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-21-SANEP.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by SANEP, 15–21 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-21-SANEP.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-21-SANEP.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-21-SANEP.png" length="357424" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 23:37:36 +0200</pubDate>
-      <dc:date>2021-05-22T23:37:36.359195+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by STEM, 7–13 April 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-13-STEM.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by STEM, 7–13 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-13-STEM.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-13-STEM-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-13-STEM-seating-plan.png" length="397130" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 21:07:31 +0200</pubDate>
-      <dc:date>2021-05-22T21:07:31.92201+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by STEM, 7–13 April 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-13-STEM.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by STEM, 7–13 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-13-STEM.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-13-STEM-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-13-STEM-seats.png" length="301443" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 21:07:31 +0200</pubDate>
-      <dc:date>2021-05-22T21:07:31.92201+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by STEM, 7–13 April 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-13-STEM.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by STEM, 7–13 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-13-STEM.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-13-STEM.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-13-STEM.png" length="354081" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 21:07:31 +0200</pubDate>
-      <dc:date>2021-05-22T21:07:31.92201+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for SPOLU, 8–12 April 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-12-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for SPOLU, 8–12 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-12-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-12-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-12-Ipsos-seating-plan.png" length="396602" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 21:46:59 +0200</pubDate>
-      <dc:date>2021-05-22T21:46:59.061895+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for SPOLU, 8–12 April 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-12-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for SPOLU, 8–12 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-12-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-12-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-12-Ipsos-seats.png" length="254142" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 21:46:59 +0200</pubDate>
-      <dc:date>2021-05-22T21:46:59.061895+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for SPOLU, 8–12 April 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-12-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for SPOLU, 8–12 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-12-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-12-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-12-Ipsos.png" length="337641" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 21:46:59 +0200</pubDate>
-      <dc:date>2021-05-22T21:46:59.061895+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Phoenix Research, 1–10 April 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-10-PhoenixResearch.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Phoenix Research, 1–10 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-10-PhoenixResearch.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-10-PhoenixResearch-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-10-PhoenixResearch-seating-plan.png" length="426890" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 21:27:22 +0200</pubDate>
-      <dc:date>2021-05-22T21:27:22.57015+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Phoenix Research, 1–10 April 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-10-PhoenixResearch.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Phoenix Research, 1–10 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-10-PhoenixResearch.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-10-PhoenixResearch-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-10-PhoenixResearch-seats.png" length="297599" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 21:27:22 +0200</pubDate>
-      <dc:date>2021-05-22T21:27:22.57015+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Phoenix Research, 1–10 April 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-10-PhoenixResearch.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Phoenix Research, 1–10 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-10-PhoenixResearch.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-10-PhoenixResearch.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-10-PhoenixResearch.png" length="304992" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 21:27:22 +0200</pubDate>
-      <dc:date>2021-05-22T21:27:22.57015+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Data Collect for CT24, 25 March–1 April 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-DataCollect.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Data Collect for CT24, 25 March–1 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-DataCollect.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-DataCollect-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-DataCollect-seating-plan.png" length="399879" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 23:49:50 +0200</pubDate>
-      <dc:date>2021-05-22T23:49:50.949817+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Data Collect for CT24, 25 March–1 April 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-DataCollect.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Data Collect for CT24, 25 March–1 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-DataCollect.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-DataCollect-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-DataCollect-seats.png" length="259666" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 23:49:50 +0200</pubDate>
-      <dc:date>2021-05-22T23:49:50.949817+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Data Collect for CT24, 25 March–1 April 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-DataCollect.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Data Collect for CT24, 25 March–1 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-DataCollect.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-DataCollect.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-DataCollect.png" length="322829" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 23:49:50 +0200</pubDate>
-      <dc:date>2021-05-22T23:49:50.949817+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar for CT24, 25 March–1 April 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-Kantar.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Kantar for CT24, 25 March–1 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-Kantar.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-Kantar-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-Kantar-seating-plan.png" length="401176" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 22:14:32 +0200</pubDate>
-      <dc:date>2021-05-22T22:14:32.669055+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar for CT24, 25 March–1 April 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-Kantar.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Kantar for CT24, 25 March–1 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-Kantar.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-Kantar-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-Kantar-seats.png" length="264308" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 22:14:32 +0200</pubDate>
-      <dc:date>2021-05-22T22:14:32.669055+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar for CT24, 25 March–1 April 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-Kantar.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar for CT24, 25 March–1 April 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-Kantar.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-Kantar.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-04-01-Kantar.png" length="333572" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 22:14:32 +0200</pubDate>
-      <dc:date>2021-05-22T22:14:32.669055+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Median, 1–29 March 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-03-29-Median.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Median, 1–29 March 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-03-29-Median.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-03-29-Median-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-03-29-Median-seating-plan.png" length="392891" type="image/png"/>
-      <pubDate>Tue, 13 Apr 2021 15:49:09 +0200</pubDate>
-      <dc:date>2021-04-13T15:49:09.368955+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Median, 1–29 March 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-03-29-Median.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Median, 1–29 March 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-03-29-Median.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-03-29-Median-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-03-29-Median-seats.png" length="253102" type="image/png"/>
-      <pubDate>Tue, 13 Apr 2021 15:49:09 +0200</pubDate>
-      <dc:date>2021-04-13T15:49:09.368955+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Median, 1–29 March 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-03-29-Median.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Median, 1–29 March 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-03-29-Median.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-03-29-Median.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-03-29-Median.png" length="308108" type="image/png"/>
-      <pubDate>Tue, 13 Apr 2021 15:49:09 +0200</pubDate>
-      <dc:date>2021-04-13T15:49:09.368955+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by SANEP, 18–23 March 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-03-23-SANEP.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by SANEP, 18–23 March 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-03-23-SANEP.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-03-23-SANEP-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-03-23-SANEP-seating-plan.png" length="409625" type="image/png"/>
-      <pubDate>Tue, 13 Apr 2021 21:21:25 +0200</pubDate>
-      <dc:date>2021-04-13T21:21:25.344745+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by SANEP, 18–23 March 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-03-23-SANEP.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by SANEP, 18–23 March 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-03-23-SANEP.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-03-23-SANEP-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-03-23-SANEP-seats.png" length="224385" type="image/png"/>
-      <pubDate>Tue, 13 Apr 2021 21:21:25 +0200</pubDate>
-      <dc:date>2021-04-13T21:21:25.344745+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by SANEP, 18–23 March 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-03-23-SANEP.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by SANEP, 18–23 March 2021<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2021-03-23-SANEP.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2021-03-23-SANEP.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-03-23-SANEP.png" length="295497" type="image/png"/>
-      <pubDate>Tue, 13 Apr 2021 21:21:25 +0200</pubDate>
-      <dc:date>2021-04-13T21:21:25.344745+02:00</dc:date>
     </item>
   </channel>
 </rss>
