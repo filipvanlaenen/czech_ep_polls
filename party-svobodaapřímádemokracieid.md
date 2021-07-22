@@ -10,14 +10,19 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.4% | 9.9–13.4% | 9.4–13.9% | 9.0–14.3% | 8.2–15.1% |
+| N/A | [Poll Average](average.html) | 10.7% | 8.2–13.1% | 7.7–13.7% | 7.3–14.1% | 6.7–15.0% |
+| [1–30 June 2021](2021-06-30-Median.html) | Median | 8.0% | 7.0–9.2% | 6.8–9.6% | 6.5–9.9% | 6.1–10.5% |
+| [21–29 June 2021](2021-06-29-STEM.html) | STEM | 10.9% | 9.4–12.7% | 9.0–13.2% | 8.7–13.6% | 8.0–14.5% |
+| [7–18 June 2021](2021-06-18-Kantar.html) | Kantar <br> CT24 | 12.6% | 11.2–14.1% | 10.9–14.5% | 10.6–14.9% | 10.0–15.6% |
+| [10–15 June 2021](2021-06-15-SANEP.html) | SANEP | 10.9% | 10.0–11.8% | 9.7–12.1% | 9.5–12.3% | 9.1–12.8% |
+| [29 May–13 June 2021](2021-06-13-CVVM.html) | CVVM | 9.5% | 8.2–11.1% | 7.8–11.6% | 7.5–12.0% | 6.9–12.8% |
 | [31 May–11 June 2021](2021-06-11-DataCollect.html) | Data Collect <br> CT24 | 10.6% | 9.2–12.3% | 8.8–12.7% | 8.5–13.2% | 7.8–14.0% |
-| [1–10 June 2021](2021-06-10-PhoenixResearch.html) | Phoenix Research | 12.7% | 11.5–14.1% | 11.2–14.5% | 10.9–14.9% | 10.3–15.5% |
-| [2–6 June 2021](2021-06-06-Ipsos.html) | Ipsos | 9.6% | N/A | N/A | N/A | N/A |
-| [1–31 May 2021](2021-05-31-Median.html) | Median | 9.0% | N/A | N/A | N/A | N/A |
-| [10–28 May 2021](2021-05-28-Kantar.html) | Kantar <br> CT24 | 10.0% | N/A | N/A | N/A | N/A |
-| [19–24 May 2021](2021-05-24-Ipsos.html) | Ipsos | 10.1% | N/A | N/A | N/A | N/A |
-| [3–21 May 2021](2021-05-21-DataCollect.html) | Data Collect <br> CT24 | 13.0% | N/A | N/A | N/A | N/A |
+| [1–10 June 2021](2021-06-10-PhoenixResearch.html) | Phoenix Research | 12.7% | 11.5–14.1% | 11.2–14.5% | 10.9–14.8% | 10.3–15.5% |
+| [2–6 June 2021](2021-06-06-Ipsos.html) | Ipsos | 9.6% | 8.3–11.2% | 7.9–11.7% | 7.6–12.1% | 7.0–12.9% |
+| [1–31 May 2021](2021-05-31-Median.html) | Median | 9.0% | 7.9–10.2% | 7.6–10.5% | 7.4–10.8% | 6.9–11.4% |
+| [10–28 May 2021](2021-05-28-Kantar.html) | Kantar <br> CT24 | 10.0% | 8.8–11.4% | 8.5–11.8% | 8.2–12.1% | 7.7–12.8% |
+| [19–24 May 2021](2021-05-24-Ipsos.html) | Ipsos | 10.1% | 8.7–11.8% | 8.4–12.3% | 8.0–12.7% | 7.4–13.6% |
+| [3–21 May 2021](2021-05-21-DataCollect.html) | Data Collect <br> CT24 | 13.0% | 11.4–14.8% | 11.0–15.3% | 10.6–15.8% | 9.9–16.7% |
 | [13–19 May 2021](2021-05-19-SANEP.html) | SANEP | 11.0% | 10.1–11.9% | 9.8–12.2% | 9.6–12.5% | 9.2–13.0% |
 | [1–15 May 2021](2021-05-15-PhoenixResearch.html) | Phoenix Research | 12.7% | 11.4–14.1% | 11.1–14.5% | 10.8–14.9% | 10.2–15.6% |
 | [1 April–4 May 2021](2021-05-04-Median.html) | Median | 11.6% | 10.1–13.3% | 9.7–13.8% | 9.4–14.2% | 8.7–15.1% |
@@ -66,26 +71,26 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 | [13–31 January 2020](2020-01-31-TNSKantar.html) | TNS Kantar | 7.5% | 6.2–9.2% | 5.9–9.7% | 5.6–10.1% | 5.0–11.0% |
 | [11–20 January 2020](2020-01-20-CVVM.html) | CVVM | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.8–5.6% | 2.5–6.2% |
 | [1–12 January 2020](2020-01-12-PhoenixResearch.html) | Phoenix Research | 8.5% | 7.5–9.7% | 7.1–10.1% | 6.9–10.4% | 6.4–11.0% |
-| [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 5.5% | 4.5–6.7% | 4.3–7.1% | 4.0–7.4% | 3.6–8.0% |
+| [30 November–11 December 2019](2019-12-11-CVVM.html) | CVVM | 5.5% | 4.5–6.7% | 4.3–7.1% | 4.0–7.4% | 3.6–8.0% |
 | [29 October–30 November 2019](2019-11-30-Median.html) | Median | 7.5% | 6.5–8.6% | 6.3–8.9% | 6.1–9.1% | 5.7–9.7% |
 | [9–29 November 2019](2019-11-29-TNSKantar.html) | TNS Kantar | 6.4% | 5.6–7.4% | 5.3–7.7% | 5.2–8.0% | 4.8–8.5% |
 | [21–27 November 2019](2019-11-27-SANEP.html) | SANEP | 7.9% | 6.9–9.0% | 6.6–9.4% | 6.4–9.6% | 5.9–10.2% |
 | [14–26 November 2019](2019-11-26-STEM.html) | STEM | 9.1% | 8.1–10.3% | 7.8–10.6% | 7.5–10.9% | 7.1–11.5% |
 | [1–18 November 2019](2019-11-18-PhoenixResearch.html) | Phoenix Research | 7.1% | 6.2–8.2% | 5.9–8.5% | 5.7–8.8% | 5.3–9.3% |
-| [2–15 November 2019](2019-11-15-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 5.5% | 4.3–7.2% | 4.0–7.7% | 3.7–8.1% | 3.2–9.0% |
+| [2–15 November 2019](2019-11-15-CVVM.html) | CVVM | 5.5% | 4.3–7.2% | 4.0–7.7% | 3.7–8.1% | 3.2–9.0% |
 | [12 October–1 November 2019](2019-11-01-TNSKantar.html) | TNS Kantar | 4.5% | 3.8–5.4% | 3.6–5.6% | 3.5–5.8% | 3.2–6.3% |
 | [30 September–28 October 2019](2019-10-28-Median.html) | Median | 8.0% | 7.0–9.1% | 6.8–9.4% | 6.6–9.7% | 6.1–10.3% |
 | [11–25 October 2019](2019-10-25-STEM.html) | STEM | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.5–9.9% |
 | [16 September–5 October 2019](2019-10-05-TNSKantar.html) | TNS Kantar | 5.8% | 5.0–6.8% | 4.8–7.1% | 4.6–7.3% | 4.3–7.8% |
 | [28 August–29 September 2019](2019-09-29-Median.html) | Median | 7.5% | 6.5–8.6% | 6.3–9.0% | 6.0–9.3% | 5.6–9.8% |
 | [20 August–18 September 2019](2019-09-18-PhoenixResearch.html) | Phoenix Research | 5.9% | 5.0–6.9% | 4.8–7.2% | 4.6–7.5% | 4.2–8.0% |
-| [7–17 September 2019](2019-09-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 8.7% | 7.3–10.3% | 7.0–10.8% | 6.7–11.2% | 6.1–12.0% |
+| [7–17 September 2019](2019-09-17-CVVM.html) | CVVM | 8.7% | 7.3–10.3% | 7.0–10.8% | 6.7–11.2% | 6.1–12.0% |
 | [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.7% | 6.2–10.2% |
 | [27 July–26 August 2019](2019-08-26-Median.html) | Median | 8.5% | 7.4–9.7% | 7.1–10.0% | 6.9–10.3% | 6.4–10.9% |
 | [1–26 July 2019](2019-07-26-Median.html) | Median | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 7.0–11.6% |
 | [1–30 June 2019](2019-06-30-Median.html) | Median | 9.0% | 7.9–10.2% | 7.7–10.6% | 7.4–10.9% | 6.9–11.5% |
 | [17–26 June 2019](2019-06-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 8.5% | 7.5–9.6% | 7.3–9.9% | 7.0–10.2% | 6.6–10.8% |
-| [8–17 June 2019](2019-06-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.7% |
+| [8–17 June 2019](2019-06-17-CVVM.html) | CVVM | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.7% |
 | [11–31 May 2019](2019-05-31-TNSKantar.html) | TNS Kantar <br> Česká televize | 10.5% | 9.4–11.7% | 9.1–12.1% | 8.9–12.4% | 8.4–13.0% |
 
 ### Probability Mass Function
@@ -100,17 +105,17 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.1% | 100% |  |
-| 7.5–8.5% | 1.0% | 99.9% |  |
-| 8.5–9.5% | 5% | 99.0% |  |
-| 9.5–10.5% | 18% | 94% |  |
-| 10.5–11.5% | 30% | 75% | Median |
-| 11.5–12.5% | 22% | 45% |  |
-| 12.5–13.5% | 15% | 23% |  |
-| 13.5–14.5% | 7% | 8% |  |
-| 14.5–15.5% | 1.4% | 2% |  |
-| 15.5–16.5% | 0.2% | 0.2% |  |
+| 5.5–6.5% | 0.4% | 100% |  |
+| 6.5–7.5% | 4% | 99.6% |  |
+| 7.5–8.5% | 10% | 96% |  |
+| 8.5–9.5% | 14% | 86% |  |
+| 9.5–10.5% | 19% | 72% |  |
+| 10.5–11.5% | 21% | 53% | Median |
+| 11.5–12.5% | 16% | 32% |  |
+| 12.5–13.5% | 11% | 17% |  |
+| 13.5–14.5% | 5% | 6% |  |
+| 14.5–15.5% | 1.0% | 1.2% |  |
+| 15.5–16.5% | 0.1% | 0.1% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
 
@@ -122,14 +127,19 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
+| [1–30 June 2021](2021-06-30-Median.html) | Median | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [21–29 June 2021](2021-06-29-STEM.html) | STEM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [7–18 June 2021](2021-06-18-Kantar.html) | Kantar <br> CT24 | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [10–15 June 2021](2021-06-15-SANEP.html) | SANEP | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [29 May–13 June 2021](2021-06-13-CVVM.html) | CVVM | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [31 May–11 June 2021](2021-06-11-DataCollect.html) | Data Collect <br> CT24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [1–10 June 2021](2021-06-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
-| [2–6 June 2021](2021-06-06-Ipsos.html) | Ipsos |  |  |  |  |  |
-| [1–31 May 2021](2021-05-31-Median.html) | Median |  |  |  |  |  |
-| [10–28 May 2021](2021-05-28-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
-| [19–24 May 2021](2021-05-24-Ipsos.html) | Ipsos |  |  |  |  |  |
-| [3–21 May 2021](2021-05-21-DataCollect.html) | Data Collect <br> CT24 |  |  |  |  |  |
+| [1–10 June 2021](2021-06-10-PhoenixResearch.html) | Phoenix Research | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| [2–6 June 2021](2021-06-06-Ipsos.html) | Ipsos | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [1–31 May 2021](2021-05-31-Median.html) | Median | 2 | 2 | 2 | 2 | 1–3 |
+| [10–28 May 2021](2021-05-28-Kantar.html) | Kantar <br> CT24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [19–24 May 2021](2021-05-24-Ipsos.html) | Ipsos | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [3–21 May 2021](2021-05-21-DataCollect.html) | Data Collect <br> CT24 | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [13–19 May 2021](2021-05-19-SANEP.html) | SANEP | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–15 May 2021](2021-05-15-PhoenixResearch.html) | Phoenix Research | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [1 April–4 May 2021](2021-05-04-Median.html) | Median | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -178,26 +188,26 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | [13–31 January 2020](2020-01-31-TNSKantar.html) | TNS Kantar | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [11–20 January 2020](2020-01-20-CVVM.html) | CVVM | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–12 January 2020](2020-01-12-PhoenixResearch.html) | Phoenix Research | 2 | 2 | 2 | 1–2 | 1–3 |
-| [30 November–11 December 2019](2019-12-11-CVM.html) | CVM | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [30 November–11 December 2019](2019-12-11-CVVM.html) | CVVM | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [29 October–30 November 2019](2019-11-30-Median.html) | Median | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–29 November 2019](2019-11-29-TNSKantar.html) | TNS Kantar | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [21–27 November 2019](2019-11-27-SANEP.html) | SANEP | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [14–26 November 2019](2019-11-26-STEM.html) | STEM | 2 | 2 | 2 | 2–3 | 1–3 |
 | [1–18 November 2019](2019-11-18-PhoenixResearch.html) | Phoenix Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [2–15 November 2019](2019-11-15-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [2–15 November 2019](2019-11-15-CVVM.html) | CVVM | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [12 October–1 November 2019](2019-11-01-TNSKantar.html) | TNS Kantar | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 September–28 October 2019](2019-10-28-Median.html) | Median | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–25 October 2019](2019-10-25-STEM.html) | STEM | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16 September–5 October 2019](2019-10-05-TNSKantar.html) | TNS Kantar | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [28 August–29 September 2019](2019-09-29-Median.html) | Median | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20 August–18 September 2019](2019-09-18-PhoenixResearch.html) | Phoenix Research | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| [7–17 September 2019](2019-09-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [7–17 September 2019](2019-09-17-CVVM.html) | CVVM | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27 July–26 August 2019](2019-08-26-Median.html) | Median | 2 | 2 | 2 | 1–2 | 1–3 |
 | [1–26 July 2019](2019-07-26-Median.html) | Median | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [1–30 June 2019](2019-06-30-Median.html) | Median | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [17–26 June 2019](2019-06-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 2 | 2 | 2 | 2–3 | 1–3 |
-| [8–17 June 2019](2019-06-17-Centrumprovýzkumveřejnéhomínění.html) | Centrum pro výzkum veřejného mínění | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [8–17 June 2019](2019-06-17-CVVM.html) | CVVM | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [11–31 May 2019](2019-05-31-TNSKantar.html) | TNS Kantar <br> Česká televize | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 
 ### Probability Mass Function
@@ -209,9 +219,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.2% | 100% |  |
-| 2 | 67% | 99.8% | Median |
-| 3 | 33% | 33% |  |
-| 4 | 0% | 0% |  |
+| 1 | 3% | 100% |  |
+| 2 | 58% | 97% | Median |
+| 3 | 38% | 39% |  |
+| 4 | 1.1% | 1.1% |  |
+| 5 | 0% | 0% |  |
 
 
