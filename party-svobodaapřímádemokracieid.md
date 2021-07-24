@@ -139,9 +139,9 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | [1–31 May 2021](2021-05-31-Median.html) | Median | 2 | 2 | 2 | 2 | 1–3 |
 | [10–28 May 2021](2021-05-28-Kantar.html) | Kantar <br> CT24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19–24 May 2021](2021-05-24-Ipsos.html) | Ipsos | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| [3–21 May 2021](2021-05-21-DataCollect.html) | Data Collect <br> CT24 | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [3–21 May 2021](2021-05-21-DataCollect.html) | Data Collect <br> CT24 | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [13–19 May 2021](2021-05-19-SANEP.html) | SANEP | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [1–15 May 2021](2021-05-15-PhoenixResearch.html) | Phoenix Research | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [1–15 May 2021](2021-05-15-PhoenixResearch.html) | Phoenix Research | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [1 April–4 May 2021](2021-05-04-Median.html) | Median | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [12–30 April 2021](2021-04-30-Kantar.html) | Kantar <br> CT24 | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [15–21 April 2021](2021-04-21-SANEP.html) | SANEP | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
