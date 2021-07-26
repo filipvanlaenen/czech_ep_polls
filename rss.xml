@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 24 Jul 2021 13:10:09 +0200</pubDate>
+    <pubDate>Sun, 25 Jul 2021 23:46:42 +0200</pubDate>
     <item>
       <title>Opinion Poll by Median, 1–30 June 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-06-30-Median.html#seats</link>
@@ -1810,14 +1810,34 @@
       <dc:date>2020-02-04T19:07:36.753607+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by CVVM, 30 November–11 December 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-12-11-CVVM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 7–9 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 0–1 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (ID): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-12-11-CVVM-seats.png"
+        length="321778"
+        type="image/png"/>
+      <pubDate>Sun, 25 Jul 2021 23:46:42 +0200</pubDate>
+      <dc:date>2021-07-25T23:46:42.148876+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CVVM, 30 November–11 December 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-12-11-CVVM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-12-11-CVVM-coalitions-seats.png"
+        length="203783"
+        type="image/png"/>
+      <pubDate>Sun, 25 Jul 2021 23:46:42 +0200</pubDate>
+      <dc:date>2021-07-25T23:46:42.148876+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by CVVM, 30 November–11 December 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-12-11-CVVM.html</link>
       <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 26.2–32.9%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 10.3–15.1%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 11.7–16.8%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 4.0–7.4%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 6.2–10.2%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 8.0–12.4%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 4.9–8.5%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 2.4–5.1%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 2.9–5.8%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0.9–2.7%&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (ID): 2.4–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-12-11-CVVM.png"
         length="416484"
         type="image/png"/>
-      <pubDate>Thu, 22 Jul 2021 12:19:31 +0200</pubDate>
-      <dc:date>2021-07-22T12:19:31.180871+02:00</dc:date>
+      <pubDate>Sun, 25 Jul 2021 23:46:42 +0200</pubDate>
+      <dc:date>2021-07-25T23:46:42.148876+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Median, 29 October–30 November 2019 – Seat Projections for the Parties</title>
@@ -1970,14 +1990,34 @@
       <dc:date>2019-12-06T22:37:05.797802+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by CVVM, 2–15 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-11-15-CVVM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 7–9 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 3–5 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 0–2 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana svobodných občanů (NI): 0 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (ID): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-11-15-CVVM-seats.png"
+        length="343774"
+        type="image/png"/>
+      <pubDate>Sun, 25 Jul 2021 23:19:30 +0200</pubDate>
+      <dc:date>2021-07-25T23:19:30.387028+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CVVM, 2–15 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-11-15-CVVM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-11-15-CVVM-coalitions-seats.png"
+        length="228562"
+        type="image/png"/>
+      <pubDate>Sun, 25 Jul 2021 23:19:30 +0200</pubDate>
+      <dc:date>2021-07-25T23:19:30.387028+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by CVVM, 2–15 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-11-15-CVVM.html</link>
       <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 25.7–34.5%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 11.1–17.8%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 10.5–17.0%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 3.7–8.1%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 6.7–12.2%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 6.7–12.2%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 3.7–8.1%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 2.2–5.8%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 2.6–6.4%&lt;/li&gt;&lt;li&gt;Strana svobodných občanů (NI): 0.4–2.4%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0.4–2.4%&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (ID): 2.2–5.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-11-15-CVVM.png"
         length="436287"
         type="image/png"/>
-      <pubDate>Thu, 22 Jul 2021 12:27:46 +0200</pubDate>
-      <dc:date>2021-07-22T12:27:46.867187+02:00</dc:date>
+      <pubDate>Sun, 25 Jul 2021 23:19:30 +0200</pubDate>
+      <dc:date>2021-07-25T23:19:30.387028+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS Kantar, 12 October–1 November 2019 – Seat Projections for the Parties</title>
@@ -2160,14 +2200,34 @@
       <dc:date>2019-10-17T10:46:52.819728+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by CVVM, 7–17 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-09-17-CVVM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 7–9 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 2–4 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 2–4 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 1–3 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (ID): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-09-17-CVVM-seats.png"
+        length="334682"
+        type="image/png"/>
+      <pubDate>Sun, 25 Jul 2021 22:53:13 +0200</pubDate>
+      <dc:date>2021-07-25T22:53:13.522952+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CVVM, 7–17 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-09-17-CVVM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-09-17-CVVM-coalitions-seats.png"
+        length="231640"
+        type="image/png"/>
+      <pubDate>Sun, 25 Jul 2021 22:53:13 +0200</pubDate>
+      <dc:date>2021-07-25T22:53:13.522952+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by CVVM, 7–17 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2019-09-17-CVVM.html</link>
       <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 26.7–34.1%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 9.8–15.0%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 10.7–16.1%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 6.7–11.2%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 6.7–11.2%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 7.5–12.3%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 3.1–6.5%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 2.7–5.9%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 3.1–6.5%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0.5–2.2%&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (ID): 1.1–3.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2019-09-17-CVVM.png"
         length="417894"
         type="image/png"/>
-      <pubDate>Thu, 22 Jul 2021 12:35:32 +0200</pubDate>
-      <dc:date>2021-07-22T12:35:32.340439+02:00</dc:date>
+      <pubDate>Sun, 25 Jul 2021 22:53:13 +0200</pubDate>
+      <dc:date>2021-07-25T22:53:13.522952+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS Kantar, 10–30 August 2019 – Seat Projections for the Parties</title>
@@ -2359,6 +2419,6 @@
       <pubDate>Mon, 30 Dec 2019 14:19:35 +0100</pubDate>
       <dc:date>2019-12-30T14:19:35.409648+01:00</dc:date>
     </item>
-    <dc:date>2021-07-24T13:10:09.076603+02:00</dc:date>
+    <dc:date>2021-07-25T23:46:42.148876+02:00</dc:date>
   </channel>
 </rss>
