@@ -207,7 +207,7 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 | [1–26 July 2019](2019-07-26-Median.html) | Median | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [1–30 June 2019](2019-06-30-Median.html) | Median | 8 | 7–8 | 7–8 | 6–9 | 6–9 |
 | [17–26 June 2019](2019-06-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
-| [8–17 June 2019](2019-06-17-CVVM.html) | CVVM | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [8–17 June 2019](2019-06-17-CVVM.html) | CVVM | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [11–31 May 2019](2019-05-31-TNSKantar.html) | TNS Kantar <br> Česká televize | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 
 ### Probability Mass Function
