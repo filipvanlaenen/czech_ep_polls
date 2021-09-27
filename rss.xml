@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 31 Jul 2021 09:23:02 +0200</pubDate>
+    <pubDate>Mon, 27 Sep 2021 19:11:56 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar for CT24, 2–13 August 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-08-13-Kantar.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 24.4–30.8%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 8.1–12.4%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 3.7–6.8%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 2.4–5.1%&lt;/li&gt;&lt;li&gt;SPOLU (ECR): 18.2–24.1%&lt;/li&gt;&lt;li&gt;Česká pirátská strana–Starostové a nezávislí (Greens/EFA): 18.2–24.1%&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID): 1.2–3.3%&lt;/li&gt;&lt;li&gt;Přísaha (*): 4.1–7.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-08-13-Kantar.png"
+        length="347881"
+        type="image/png"/>
+      <pubDate>Mon, 27 Sep 2021 19:11:56 +0200</pubDate>
+      <dc:date>2021-09-27T19:11:56.396428+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Median, 1–30 June 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-06-30-Median.html#seats</link>
@@ -2439,6 +2449,6 @@
       <pubDate>Mon, 30 Dec 2019 14:19:35 +0100</pubDate>
       <dc:date>2019-12-30T14:19:35.409648+01:00</dc:date>
     </item>
-    <dc:date>2021-07-31T09:23:02.998129+02:00</dc:date>
+    <dc:date>2021-09-27T19:11:56.396428+02:00</dc:date>
   </channel>
 </rss>
