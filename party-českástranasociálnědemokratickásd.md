@@ -10,15 +10,15 @@ Last result: **14.2%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.8–6.3% | 3.5–6.7% | 3.3–7.1% | 3.0–7.7% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.7–6.3% | 3.5–6.6% | 3.3–6.9% | 2.9–7.5% |
 | [1–30 September 2021](2021-09-30-Median.html) | Median | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 | 4.5% | 3.8–5.4% | 3.6–5.6% | 3.5–5.8% | 3.2–6.3% |
 | [8–12 September 2021](2021-09-12-Ipsos.html) | Ipsos | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [1–10 September 2021](2021-09-10-PhoenixResearch.html) | Phoenix Research | 6.0% | 5.2–7.0% | 4.9–7.3% | 4.7–7.6% | 4.4–8.1% |
-| [2–9 September 2021](2021-09-09-SANEP.html) | SANEP | 5.9% | N/A | N/A | N/A | N/A |
-| [31 August–8 September 2021](2021-09-08-STEM.html) | STEM | 4.4% | N/A | N/A | N/A | N/A |
-| [30 August–8 September 2021](2021-09-08-DataCollect.html) | Data Collect | 4.0% | N/A | N/A | N/A | N/A |
-| [1 August–2 September 2021](2021-09-02-Median.html) | Median | 4.5% | N/A | N/A | N/A | N/A |
+| [2–9 September 2021](2021-09-09-SANEP.html) | SANEP | 5.9% | 5.3–6.6% | 5.1–6.8% | 4.9–7.0% | 4.6–7.4% |
+| [31 August–8 September 2021](2021-09-08-STEM.html) | STEM | 4.4% | 3.7–5.4% | 3.5–5.7% | 3.3–5.9% | 3.0–6.4% |
+| [30 August–8 September 2021](2021-09-08-DataCollect.html) | Data Collect | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
+| [1 August–2 September 2021](2021-09-02-Median.html) | Median | 4.5% | 3.8–5.5% | 3.6–5.8% | 3.4–6.0% | 3.1–6.4% |
 | [2–13 August 2021](2021-08-13-Kantar.html) | Kantar <br> CT24 | 3.5% | 2.8–4.6% | 2.6–4.9% | 2.4–5.1% | 2.1–5.7% |
 | [9–12 August 2021](2021-08-12-STEM.html) | STEM | 4.6% | 3.9–5.6% | 3.7–5.9% | 3.5–6.1% | 3.2–6.6% |
 | [1–10 August 2021](2021-08-10-PhoenixResearch.html) | Phoenix Research | 5.1% | N/A | N/A | N/A | N/A |
@@ -115,12 +115,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 5% | 100% |  |
-| 3.5–4.5% | 33% | 95% |  |
-| 4.5–5.5% | 36% | 62% | Median |
-| 5.5–6.5% | 19% | 26% |  |
-| 6.5–7.5% | 6% | 7% |  |
-| 7.5–8.5% | 0.7% | 0.7% |  |
+| 2.5–3.5% | 6% | 100% |  |
+| 3.5–4.5% | 35% | 94% |  |
+| 4.5–5.5% | 32% | 59% | Median |
+| 5.5–6.5% | 21% | 27% |  |
+| 6.5–7.5% | 5% | 6% |  |
+| 7.5–8.5% | 0.4% | 0.5% |  |
 | 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
@@ -137,14 +137,14 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [1–30 September 2021](2021-09-30-Median.html) | Median | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–12 September 2021](2021-09-12-Ipsos.html) | Ipsos | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [1–10 September 2021](2021-09-10-PhoenixResearch.html) | Phoenix Research | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [2–9 September 2021](2021-09-09-SANEP.html) | SANEP |  |  |  |  |  |
-| [31 August–8 September 2021](2021-09-08-STEM.html) | STEM |  |  |  |  |  |
-| [30 August–8 September 2021](2021-09-08-DataCollect.html) | Data Collect |  |  |  |  |  |
+| [1–10 September 2021](2021-09-10-PhoenixResearch.html) | Phoenix Research | 1 | 1 | 1 | 0–2 | 0–2 |
+| [2–9 September 2021](2021-09-09-SANEP.html) | SANEP | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [31 August–8 September 2021](2021-09-08-STEM.html) | STEM | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [30 August–8 September 2021](2021-09-08-DataCollect.html) | Data Collect | 0 | 0 | 0 | 0–1 | 0–1 |
 | [1 August–2 September 2021](2021-09-02-Median.html) | Median |  |  |  |  |  |
 | [2–13 August 2021](2021-08-13-Kantar.html) | Kantar <br> CT24 | 0 | 0 | 0 | 0 | 0–1 |
 | [9–12 August 2021](2021-08-12-STEM.html) | STEM | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -243,9 +243,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 82% | 100% | Median |
-| 1 | 18% | 18% |  |
-| 2 | 0% | 0% |  |
+| 0 | 61% | 100% | Median |
+| 1 | 38% | 39% |  |
+| 2 | 0.8% | 0.8% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
