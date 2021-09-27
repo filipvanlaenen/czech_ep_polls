@@ -10,17 +10,17 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.7% | 16.7% | 16.7–27.8% | 16.7–27.8% | 16.7–27.8% |
-| [1–30 September 2021](2021-09-30-Median.html) | Median | 21.5% | 19.9–23.3% | 19.5–23.9% | 19.1–24.3% | 18.2–25.1% |
-| [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 | 23.0% | N/A | N/A | N/A | N/A |
-| [8–12 September 2021](2021-09-12-Ipsos.html) | Ipsos | 24.7% | N/A | N/A | N/A | N/A |
-| [1–10 September 2021](2021-09-10-PhoenixResearch.html) | Phoenix Research | 17.1% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 22.3% | 16.8–25.2% | 16.2–25.9% | 15.7–26.5% | 14.8–27.6% |
+| [1–30 September 2021](2021-09-30-Median.html) | Median | 21.5% | 19.9–23.3% | 19.5–23.8% | 19.1–24.2% | 18.4–25.0% |
+| [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 | 23.0% | 21.5–24.6% | 21.1–25.1% | 20.7–25.5% | 20.0–26.3% |
+| [8–12 September 2021](2021-09-12-Ipsos.html) | Ipsos | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.5% | 21.3–28.4% |
+| [1–10 September 2021](2021-09-10-PhoenixResearch.html) | Phoenix Research | 17.1% | 15.7–18.6% | 15.3–19.1% | 14.9–19.5% | 14.3–20.2% |
 | [2–9 September 2021](2021-09-09-SANEP.html) | SANEP | 20.0% | N/A | N/A | N/A | N/A |
 | [31 August–8 September 2021](2021-09-08-STEM.html) | STEM | 20.0% | N/A | N/A | N/A | N/A |
 | [30 August–8 September 2021](2021-09-08-DataCollect.html) | Data Collect | 22.0% | N/A | N/A | N/A | N/A |
 | [1 August–2 September 2021](2021-09-02-Median.html) | Median | 21.0% | N/A | N/A | N/A | N/A |
 | [2–13 August 2021](2021-08-13-Kantar.html) | Kantar <br> CT24 | 21.0% | 19.2–23.0% | 18.7–23.6% | 18.2–24.1% | 17.4–25.1% |
-| [9–12 August 2021](2021-08-12-STEM.html) | STEM | 21.7% | 20.0–23.5% | 19.6–24.0% | 19.2–24.4% | 18.5–25.2% |
+| [9–12 August 2021](2021-08-12-STEM.html) | STEM | 21.7% | 20.1–23.5% | 19.7–23.9% | 19.3–24.4% | 18.5–25.2% |
 | [1–10 August 2021](2021-08-10-PhoenixResearch.html) | Phoenix Research | 18.0% | N/A | N/A | N/A | N/A |
 | [1–31 July 2021](2021-07-31-Median.html) | Median | 21.5% | N/A | N/A | N/A | N/A |
 | [8–14 July 2021](2021-07-14-SANEP.html) | SANEP | 20.3% | N/A | N/A | N/A | N/A |
@@ -128,22 +128,23 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 91% | 100% | Median |
-| 17.5–18.5% | 0% | 9% |  |
-| 18.5–19.5% | 0% | 9% |  |
-| 19.5–20.5% | 0% | 9% |  |
-| 20.5–21.5% | 0% | 9% |  |
-| 21.5–22.5% | 0% | 9% |  |
-| 22.5–23.5% | 0% | 9% |  |
-| 23.5–24.5% | 0% | 9% |  |
-| 24.5–25.5% | 0% | 9% |  |
-| 25.5–26.5% | 0% | 9% |  |
-| 26.5–27.5% | 0% | 9% |  |
-| 27.5–28.5% | 9% | 9% |  |
-| 28.5–29.5% | 0% | 0% |  |
+| 13.5–14.5% | 0.2% | 100% |  |
+| 14.5–15.5% | 2% | 99.8% |  |
+| 15.5–16.5% | 6% | 98% |  |
+| 16.5–17.5% | 8% | 92% |  |
+| 17.5–18.5% | 6% | 84% |  |
+| 18.5–19.5% | 3% | 78% |  |
+| 19.5–20.5% | 5% | 74% |  |
+| 20.5–21.5% | 10% | 69% |  |
+| 21.5–22.5% | 14% | 60% | Median |
+| 22.5–23.5% | 15% | 46% |  |
+| 23.5–24.5% | 14% | 30% |  |
+| 24.5–25.5% | 9% | 17% |  |
+| 25.5–26.5% | 5% | 8% |  |
+| 26.5–27.5% | 2% | 2% |  |
+| 27.5–28.5% | 0.5% | 0.5% |  |
+| 28.5–29.5% | 0.1% | 0.1% |  |
+| 29.5–30.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -154,17 +155,17 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) |  |  |  |  |  |
-| [1–30 September 2021](2021-09-30-Median.html) | Median |  |  |  |  |  |
-| [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
-| [8–12 September 2021](2021-09-12-Ipsos.html) | Ipsos |  |  |  |  |  |
-| [1–10 September 2021](2021-09-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [1–30 September 2021](2021-09-30-Median.html) | Median | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [8–12 September 2021](2021-09-12-Ipsos.html) | Ipsos | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [1–10 September 2021](2021-09-10-PhoenixResearch.html) | Phoenix Research | 5 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [2–9 September 2021](2021-09-09-SANEP.html) | SANEP |  |  |  |  |  |
 | [31 August–8 September 2021](2021-09-08-STEM.html) | STEM |  |  |  |  |  |
 | [30 August–8 September 2021](2021-09-08-DataCollect.html) | Data Collect |  |  |  |  |  |
 | [1 August–2 September 2021](2021-09-02-Median.html) | Median |  |  |  |  |  |
 | [2–13 August 2021](2021-08-13-Kantar.html) | Kantar <br> CT24 | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| [9–12 August 2021](2021-08-12-STEM.html) | STEM |  |  |  |  |  |
+| [9–12 August 2021](2021-08-12-STEM.html) | STEM | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [1–10 August 2021](2021-08-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
 | [1–31 July 2021](2021-07-31-Median.html) | Median |  |  |  |  |  |
 | [8–14 July 2021](2021-07-14-SANEP.html) | SANEP |  |  |  |  |  |
@@ -257,4 +258,18 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-spoluecr.png "Seats Probability Mass Function")
 
 The following table shows the probability mass function per seat for the [poll average](average.html) for SPOLU (ECR).
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 18% | 99.8% |  |
+| 6 | 76% | 82% | Median |
+| 7 | 6% | 6% |  |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
+
 
