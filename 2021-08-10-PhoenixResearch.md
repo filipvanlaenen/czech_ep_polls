@@ -33,10 +33,10 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#ano-2011-(re)">ANO 2011 (RE)</a> | 4 | 6 | 5–7 |5–7 |5–7 |5–7 |
-| <a href="#spolu-(ecr)">SPOLU (ECR)</a> | 0 | 4 | 4–5 |4–5 |4–5 |3–6 |
-| <a href="#česká-pirátská-strana–starostové-a-nezávislí-(greens/efa)">Česká pirátská strana–Starostové a nezávislí (Greens/EFA)</a> | 0 | 4 | 4–5 |4–5 |4–5 |3–5 |
+| <a href="#spolu-(ecr)">SPOLU (ECR)</a> | 0 | 4 | 4–5 |4–5 |3–5 |3–6 |
+| <a href="#česká-pirátská-strana–starostové-a-nezávislí-(greens/efa)">Česká pirátská strana–Starostové a nezávislí (Greens/EFA)</a> | 0 | 4 | 4–5 |4–5 |3–5 |3–5 |
 | <a href="#svoboda-a-přímá-demokracie-(id)">Svoboda a přímá demokracie (ID)</a> | 0 | 3 | 2–3 |2–3 |2–3 |2–4 |
-| <a href="#přísaha-(*)">Přísaha (*)</a> | 0 | 1 | 1–2 |0–2 |0–2 |0–2 |
+| <a href="#přísaha-(*)">Přísaha (*)</a> | 0 | 1 | 1 |0–2 |0–2 |0–2 |
 | <a href="#česká-strana-sociálně-demokratická-(s&d)">Česká strana sociálně demokratická (S&D)</a> | 4 | 1 | 0–1 |0–1 |0–1 |0–2 |
 | <a href="#komunistická-strana-čech-a-moravy-(gue/ngl)">Komunistická strana Čech a Moravy (GUE/NGL)</a> | 3 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#trikolóra-hnutí-občanů–strana-svobodných-občanů–strana-soukromníků-české-republiky-(id)">Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID)</a> | 0 | 0 | 0 |0 |0 |0–1 |
@@ -51,9 +51,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 11% | 100% |  |
-| 6 | 78% | 89% | Median |
-| 7 | 11% | 11% |  |
+| 5 | 13% | 100% |  |
+| 6 | 67% | 87% | Median |
+| 7 | 20% | 20% |  |
 | 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 
@@ -68,10 +68,10 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 2% | 100% |  |
-| 4 | 62% | 98% | Median |
-| 5 | 34% | 36% |  |
-| 6 | 2% | 2% |  |
+| 3 | 3% | 100% |  |
+| 4 | 61% | 97% | Median |
+| 5 | 35% | 36% |  |
+| 6 | 0.6% | 0.6% |  |
 | 7 | 0% | 0% |  |
 
 ### Česká pirátská strana–Starostové a nezávislí (Greens/EFA)
@@ -85,9 +85,9 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 2% | 100% |  |
-| 4 | 68% | 98% | Median |
-| 5 | 29% | 30% |  |
+| 3 | 3% | 100% |  |
+| 4 | 64% | 97% | Median |
+| 5 | 33% | 33% |  |
 | 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
@@ -101,9 +101,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 35% | 100% |  |
-| 3 | 64% | 65% | Median |
-| 4 | 1.1% | 1.1% |  |
+| 2 | 38% | 100% |  |
+| 3 | 61% | 62% | Median |
+| 4 | 0.7% | 0.7% |  |
 | 5 | 0% | 0% |  |
 
 ### Přísaha (*)
@@ -114,9 +114,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% | Last Result |
-| 1 | 79% | 94% | Median |
-| 2 | 15% | 15% |  |
+| 0 | 10% | 100% | Last Result |
+| 1 | 82% | 90% | Median |
+| 2 | 8% | 8% |  |
 | 3 | 0% | 0% |  |
 
 ### Česká strana sociálně demokratická (S&D)
@@ -127,9 +127,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% |  |
-| 1 | 62% | 64% | Median |
-| 2 | 2% | 2% |  |
+| 0 | 45% | 100% |  |
+| 1 | 53% | 55% | Median |
+| 2 | 1.5% | 1.5% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -141,8 +141,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Median |
-| 1 | 13% | 13% |  |
+| 0 | 82% | 100% | Median |
+| 1 | 18% | 18% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -154,8 +154,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.4% | 100% | Last Result, Median |
-| 1 | 0.6% | 0.6% |  |
+| 0 | 99.3% | 100% | Last Result, Median |
+| 1 | 0.7% | 0.7% |  |
 | 2 | 0% | 0% |  |
 
 ### Strana zelených (Greens/EFA)
@@ -178,7 +178,7 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | ANO 2011 (RE) | 4 | 6 | 0% | 5–7 | 5–7 | 5–7 | 5–7 |
-| Přísaha (*) | 0 | 1 | 0% | 1–2 | 0–2 | 0–2 | 0–2 |
+| Přísaha (*) | 0 | 1 | 0% | 1 | 0–2 | 0–2 | 0–2 |
 | Komunistická strana Čech a Moravy (GUE/NGL) | 3 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Česká strana sociálně demokratická (S&D) | 4 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–2 |
 
@@ -189,9 +189,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 11% | 100% |  |
-| 6 | 78% | 89% | Median |
-| 7 | 11% | 11% |  |
+| 5 | 13% | 100% |  |
+| 6 | 67% | 87% | Median |
+| 7 | 20% | 20% |  |
 | 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 
@@ -201,9 +201,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% | Last Result |
-| 1 | 79% | 94% | Median |
-| 2 | 15% | 15% |  |
+| 0 | 10% | 100% | Last Result |
+| 1 | 82% | 90% | Median |
+| 2 | 8% | 8% |  |
 | 3 | 0% | 0% |  |
 
 ### Komunistická strana Čech a Moravy (GUE/NGL)
@@ -212,8 +212,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Median |
-| 1 | 13% | 13% |  |
+| 0 | 82% | 100% | Median |
+| 1 | 18% | 18% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -223,9 +223,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% |  |
-| 1 | 62% | 64% | Median |
-| 2 | 2% | 2% |  |
+| 0 | 45% | 100% |  |
+| 1 | 53% | 55% | Median |
+| 2 | 1.5% | 1.5% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -241,6 +241,6 @@
 ### Calculations
 
 + **Sample size:** 628
-+ **Simulations done:** 131,072
-+ **Error estimate:** 2.12%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 3.63%
 

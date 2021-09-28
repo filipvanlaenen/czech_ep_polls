@@ -155,7 +155,7 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 | [2–9 September 2021](2021-09-09-SANEP.html) | SANEP | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [31 August–8 September 2021](2021-09-08-STEM.html) | STEM | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [30 August–8 September 2021](2021-09-08-DataCollect.html) | Data Collect | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [1 August–2 September 2021](2021-09-02-Median.html) | Median | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
+| [1 August–2 September 2021](2021-09-02-Median.html) | Median | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [2–13 August 2021](2021-08-13-Kantar.html) | Kantar <br> CT24 | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [9–12 August 2021](2021-08-12-STEM.html) | STEM | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [1–10 August 2021](2021-08-10-PhoenixResearch.html) | Phoenix Research | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
