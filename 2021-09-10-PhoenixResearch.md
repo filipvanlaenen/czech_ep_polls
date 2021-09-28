@@ -31,12 +31,12 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#ano-2011-(re)">ANO 2011 (RE)</a> | 4 | 6 | 6–7 |6–7 |6–7 |5–7 |
+| <a href="#ano-2011-(re)">ANO 2011 (RE)</a> | 4 | 6 | 6–7 |6–7 |5–7 |5–7 |
 | <a href="#spolu-(ecr)">SPOLU (ECR)</a> | 0 | 4 | 4 |4–5 |3–5 |3–5 |
-| <a href="#česká-pirátská-strana–starostové-a-nezávislí-(greens/efa)">Česká pirátská strana–Starostové a nezávislí (Greens/EFA)</a> | 0 | 4 | 3–4 |3–4 |3–4 |3–4 |
+| <a href="#česká-pirátská-strana–starostové-a-nezávislí-(greens/efa)">Česká pirátská strana–Starostové a nezávislí (Greens/EFA)</a> | 0 | 4 | 3–4 |3–4 |3–4 |3–5 |
 | <a href="#svoboda-a-přímá-demokracie-(id)">Svoboda a přímá demokracie (ID)</a> | 0 | 3 | 2–3 |2–3 |2–3 |2–3 |
-| <a href="#česká-strana-sociálně-demokratická-(s&d)">Česká strana sociálně demokratická (S&D)</a> | 4 | 1 | 1 |1 |0–2 |0–2 |
-| <a href="#přísaha-(*)">Přísaha (*)</a> | 0 | 1 | 1 |1 |0–1 |0–2 |
+| <a href="#česká-strana-sociálně-demokratická-(s&d)">Česká strana sociálně demokratická (S&D)</a> | 4 | 1 | 1 |0–1 |0–2 |0–2 |
+| <a href="#přísaha-(*)">Přísaha (*)</a> | 0 | 1 | 1 |0–1 |0–1 |0–2 |
 | <a href="#trikolóra-hnutí-občanů–strana-svobodných-občanů–strana-soukromníků-české-republiky-(id)">Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#komunistická-strana-čech-a-moravy-(gue/ngl)">Komunistická strana Čech a Moravy (GUE/NGL)</a> | 3 | 0 | 0 |0 |0 |0 |
 
@@ -49,10 +49,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 2% | 100% |  |
-| 6 | 72% | 98% | Median |
-| 7 | 26% | 27% |  |
-| 8 | 0.1% | 0.1% |  |
+| 5 | 4% | 100% |  |
+| 6 | 66% | 96% | Median |
+| 7 | 31% | 31% |  |
+| 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 
 ### SPOLU (ECR)
@@ -66,9 +66,9 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 3% | 100% |  |
-| 4 | 90% | 97% | Median |
-| 5 | 7% | 7% |  |
+| 3 | 4% | 100% |  |
+| 4 | 88% | 96% | Median |
+| 5 | 8% | 8% |  |
 | 6 | 0% | 0% |  |
 
 ### Česká pirátská strana–Starostové a nezávislí (Greens/EFA)
@@ -82,9 +82,9 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 30% | 100% |  |
-| 4 | 69% | 70% | Median |
-| 5 | 0.5% | 0.5% |  |
+| 3 | 34% | 100% |  |
+| 4 | 65% | 66% | Median |
+| 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
 
 ### Svoboda a přímá demokracie (ID)
@@ -97,9 +97,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 35% | 100% |  |
-| 3 | 65% | 65% | Median |
-| 4 | 0.1% | 0.1% |  |
+| 2 | 38% | 100% |  |
+| 3 | 62% | 62% | Median |
+| 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
 ### Česká strana sociálně demokratická (S&D)
@@ -110,9 +110,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 92% | 96% | Median |
-| 2 | 4% | 4% |  |
+| 0 | 6% | 100% |  |
+| 1 | 90% | 94% | Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -124,8 +124,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 94% | 97% | Median |
+| 0 | 7% | 100% | Last Result |
+| 1 | 91% | 93% | Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
@@ -137,8 +137,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Last Result, Median |
-| 1 | 20% | 20% |  |
+| 0 | 72% | 100% | Last Result, Median |
+| 1 | 28% | 28% |  |
 | 2 | 0% | 0% |  |
 
 ### Komunistická strana Čech a Moravy (GUE/NGL)
@@ -163,9 +163,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| ANO 2011 (RE) | 4 | 6 | 0% | 6–7 | 6–7 | 6–7 | 5–7 |
-| Česká strana sociálně demokratická (S&D) | 4 | 1 | 0% | 1 | 1 | 0–2 | 0–2 |
-| Přísaha (*) | 0 | 1 | 0% | 1 | 1 | 0–1 | 0–2 |
+| ANO 2011 (RE) | 4 | 6 | 0% | 6–7 | 6–7 | 5–7 | 5–7 |
+| Česká strana sociálně demokratická (S&D) | 4 | 1 | 0% | 1 | 0–1 | 0–2 | 0–2 |
+| Přísaha (*) | 0 | 1 | 0% | 1 | 0–1 | 0–1 | 0–2 |
 | Komunistická strana Čech a Moravy (GUE/NGL) | 3 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### ANO 2011 (RE)
@@ -175,10 +175,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 2% | 100% |  |
-| 6 | 72% | 98% | Median |
-| 7 | 26% | 27% |  |
-| 8 | 0.1% | 0.1% |  |
+| 5 | 4% | 100% |  |
+| 6 | 66% | 96% | Median |
+| 7 | 31% | 31% |  |
+| 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 
 ### Česká strana sociálně demokratická (S&D)
@@ -187,9 +187,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 92% | 96% | Median |
-| 2 | 4% | 4% |  |
+| 0 | 6% | 100% |  |
+| 1 | 90% | 94% | Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -199,8 +199,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 94% | 97% | Median |
+| 0 | 7% | 100% | Last Result |
+| 1 | 91% | 93% | Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
@@ -227,6 +227,6 @@
 ### Calculations
 
 + **Sample size:** 1066
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.31%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.45%
 

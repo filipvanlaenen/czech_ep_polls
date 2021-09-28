@@ -18,14 +18,14 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 | [2–9 September 2021](2021-09-09-SANEP.html) | SANEP | 2.6% | 2.2–3.1% | 2.1–3.3% | 2.0–3.4% | 1.8–3.7% |
 | [31 August–8 September 2021](2021-09-08-STEM.html) | STEM | 3.5% | 2.8–4.3% | 2.6–4.6% | 2.5–4.8% | 2.2–5.2% |
 | [30 August–8 September 2021](2021-09-08-DataCollect.html) | Data Collect | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
-| [1 August–2 September 2021](2021-09-02-Median.html) | Median | 3.0% | 2.4–3.8% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [1 August–2 September 2021](2021-09-02-Median.html) | Median | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.3% | 1.9–4.7% |
 | [2–13 August 2021](2021-08-13-Kantar.html) | Kantar <br> CT24 | 2.0% | 1.5–2.9% | 1.4–3.1% | 1.2–3.3% | 1.0–3.8% |
 | [9–12 August 2021](2021-08-12-STEM.html) | STEM | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 1.9–4.7% |
-| [1–10 August 2021](2021-08-10-PhoenixResearch.html) | Phoenix Research | 3.0% | N/A | N/A | N/A | N/A |
-| [1–31 July 2021](2021-07-31-Median.html) | Median | 3.0% | N/A | N/A | N/A | N/A |
-| [8–14 July 2021](2021-07-14-SANEP.html) | SANEP | 3.5% | N/A | N/A | N/A | N/A |
-| [26 June–11 July 2021](2021-07-11-CVVM.html) | CVVM | 2.6% | N/A | N/A | N/A | N/A |
-| [1–10 July 2021](2021-07-10-PhoenixResearch.html) | Phoenix Research | 3.1% | N/A | N/A | N/A | N/A |
+| [1–10 August 2021](2021-08-10-PhoenixResearch.html) | Phoenix Research | 3.0% | 2.3–4.1% | 2.1–4.4% | 2.0–4.7% | 1.6–5.3% |
+| [1–31 July 2021](2021-07-31-Median.html) | Median | 3.0% | 2.4–3.7% | 2.2–4.0% | 2.1–4.2% | 1.9–4.6% |
+| [8–14 July 2021](2021-07-14-SANEP.html) | SANEP | 3.5% | 3.0–4.1% | 2.9–4.3% | 2.8–4.5% | 2.5–4.8% |
+| [26 June–11 July 2021](2021-07-11-CVVM.html) | CVVM | 2.6% | 1.8–3.9% | 1.6–4.3% | 1.4–4.6% | 1.1–5.4% |
+| [1–10 July 2021](2021-07-10-PhoenixResearch.html) | Phoenix Research | 3.1% | 2.3–4.2% | 2.1–4.5% | 2.0–4.8% | 1.6–5.4% |
 | [1–30 June 2021](2021-06-30-Median.html) | Median | 3.5% | 2.9–4.3% | 2.7–4.6% | 2.5–4.8% | 2.3–5.2% |
 | [21–29 June 2021](2021-06-29-STEM.html) | STEM | 2.6% | 2.0–3.7% | 1.8–4.0% | 1.6–4.3% | 1.4–4.8% |
 | [7–18 June 2021](2021-06-18-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -136,19 +136,19 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–30 September 2021](2021-09-30-Median.html) | Median | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 | 0 | 0 | 0 | 0 | 0 |
-| [8–12 September 2021](2021-09-12-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0–1 | 0–1 |
+| [8–12 September 2021](2021-09-12-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0 | 0–1 |
 | [1–10 September 2021](2021-09-10-PhoenixResearch.html) | Phoenix Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–9 September 2021](2021-09-09-SANEP.html) | SANEP | 0 | 0 | 0 | 0 | 0 |
 | [31 August–8 September 2021](2021-09-08-STEM.html) | STEM | 0 | 0 | 0 | 0 | 0–1 |
 | [30 August–8 September 2021](2021-09-08-DataCollect.html) | Data Collect | 0 | 0 | 0 | 0 | 0–1 |
-| [1 August–2 September 2021](2021-09-02-Median.html) | Median |  |  |  |  |  |
+| [1 August–2 September 2021](2021-09-02-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [2–13 August 2021](2021-08-13-Kantar.html) | Kantar <br> CT24 | 0 | 0 | 0 | 0 | 0 |
 | [9–12 August 2021](2021-08-12-STEM.html) | STEM | 0 | 0 | 0 | 0 | 0 |
-| [1–10 August 2021](2021-08-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
-| [1–31 July 2021](2021-07-31-Median.html) | Median |  |  |  |  |  |
-| [8–14 July 2021](2021-07-14-SANEP.html) | SANEP |  |  |  |  |  |
-| [26 June–11 July 2021](2021-07-11-CVVM.html) | CVVM |  |  |  |  |  |
-| [1–10 July 2021](2021-07-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
+| [1–10 August 2021](2021-08-10-PhoenixResearch.html) | Phoenix Research | 0 | 0 | 0 | 0 | 0–1 |
+| [1–31 July 2021](2021-07-31-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
+| [8–14 July 2021](2021-07-14-SANEP.html) | SANEP | 0 | 0 | 0 | 0 | 0 |
+| [26 June–11 July 2021](2021-07-11-CVVM.html) | CVVM | 0 | 0 | 0 | 0 | 0–1 |
+| [1–10 July 2021](2021-07-10-PhoenixResearch.html) | Phoenix Research | 0 | 0 | 0 | 0–1 | 0–1 |
 | [1–30 June 2021](2021-06-30-Median.html) | Median | 0 | 0 | 0 | 0 | 0–1 |
 | [21–29 June 2021](2021-06-29-STEM.html) | STEM | 0 | 0 | 0 | 0 | 0 |
 | [7–18 June 2021](2021-06-18-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
@@ -239,8 +239,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 11% | 11% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 12% | 12% |  |
 | 2 | 0% | 0% |  |
 
 
