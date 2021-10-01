@@ -148,7 +148,7 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | [1–31 July 2021](2021-07-31-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [8–14 July 2021](2021-07-14-SANEP.html) | SANEP | 0 | 0 | 0 | 0 | 0 |
 | [26 June–11 July 2021](2021-07-11-CVVM.html) | CVVM | 0 | 0 | 0 | 0 | 0–1 |
-| [1–10 July 2021](2021-07-10-PhoenixResearch.html) | Phoenix Research | 0 | 0 | 0 | 0–1 | 0–1 |
+| [1–10 July 2021](2021-07-10-PhoenixResearch.html) | Phoenix Research | 0 | 0 | 0 | 0 | 0–1 |
 | [1–30 June 2021](2021-06-30-Median.html) | Median | 0 | 0 | 0 | 0 | 0–1 |
 | [21–29 June 2021](2021-06-29-STEM.html) | STEM | 0 | 0 | 0 | 0 | 0 |
 | [7–18 June 2021](2021-06-18-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
