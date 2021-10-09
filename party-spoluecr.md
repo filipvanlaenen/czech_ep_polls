@@ -159,7 +159,7 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
-| [24–30 September 2021](2021-09-30-STEM.html) | STEM <br> CNN Prima News | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| [24–30 September 2021](2021-09-30-STEM.html) | STEM <br> CNN Prima News | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [23–30 September 2021](2021-09-30-SANEP.html) | SANEP | 5 | 5 | 5–6 | 5–6 | 4–6 |
 | [1–30 September 2021](2021-09-30-Median.html) | Median | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [23–29 September 2021](2021-09-29-Median.html) | Median <br> iDNES | 5 | 5–6 | 4–6 | 4–6 | 4–6 |

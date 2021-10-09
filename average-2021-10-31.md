@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24–25 May 2019 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 23–30% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | 3–7% <br> 0–1 | 3–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 | 8–14% <br> 2–3 | N/A <br> N/A | 16–26% <br> 4–7 | 14–22% <br> 3–6 | 2–6% <br> 0–1 | 3–7% <br> 0–1 |
-| [24–30 September 2021](2021-09-30-STEM.html) | STEM <br> CNN Prima News | 25–30% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–14% <br> 2–3 | N/A <br> N/A | 19–24% <br> 4–6 | 15–20% <br> 4–5 | 1–3% <br> 0 | 5–7% <br> 0–1 |
+| [24–30 September 2021](2021-09-30-STEM.html) | STEM <br> CNN Prima News | 25–30% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–14% <br> 2–3 | N/A <br> N/A | 19–24% <br> 5–6 | 15–20% <br> 4–5 | 1–3% <br> 0 | 5–7% <br> 0–1 |
 | [23–30 September 2021](2021-09-30-SANEP.html) | SANEP | 24–28% <br> 6–7 | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 1 | 4–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 2–3 | N/A <br> N/A | 19–23% <br> 5–6 | 17–20% <br> 4–5 | 2–3% <br> 0 | 3–5% <br> 0 |
 | [1–30 September 2021](2021-09-30-Median.html) | Median | 26–31% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–1 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 9–13% <br> 2–3 | N/A <br> N/A | 19–24% <br> 5–6 | 17–22% <br> 4–6 | 4–6% <br> 0–1 | 3–5% <br> 0–1 |
 | [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 | 22–27% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 | 4–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–13% <br> 2–3 | N/A <br> N/A | 21–25% <br> 5–7 | 18–23% <br> 4–6 | 2–4% <br> 0 | 3–5% <br> 0–1 |
@@ -311,8 +311,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
 | 5 | 1.2% | 100% |  |
-| 6 | 40% | 98.8% |  |
-| 7 | 48% | 59% | Median |
+| 6 | 41% | 98.8% |  |
+| 7 | 47% | 58% | Median |
 | 8 | 11% | 11% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
@@ -353,7 +353,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 57% | 100% | Median |
 | 1 | 42% | 43% |  |
-| 2 | 1.0% | 1.0% |  |
+| 2 | 1.2% | 1.2% |  |
 | 3 | 0% | 0% | Last Result |
 
 ### Křesťanská a demokratická unie–Československá strana lidová (EPP)
@@ -400,9 +400,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.3% | 100% |  |
-| 2 | 60% | 99.7% | Median |
+| 2 | 61% | 99.7% | Median |
 | 3 | 39% | 39% |  |
-| 4 | 0.1% | 0.1% |  |
+| 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
 ### Trikolóra hnutí občanů (ID)
@@ -443,7 +443,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 5% | 100% |  |
 | 4 | 41% | 95% |  |
-| 5 | 47% | 54% | Median |
+| 5 | 48% | 54% | Median |
 | 6 | 6% | 6% |  |
 | 7 | 0% | 0% |  |
 
@@ -467,8 +467,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 58% | 100% | Last Result, Median |
-| 1 | 42% | 42% |  |
+| 0 | 57% | 100% | Last Result, Median |
+| 1 | 42% | 43% |  |
 | 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
@@ -499,8 +499,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
 | 5 | 1.2% | 100% |  |
-| 6 | 40% | 98.8% |  |
-| 7 | 48% | 59% | Median |
+| 6 | 41% | 98.8% |  |
+| 7 | 47% | 58% | Median |
 | 8 | 11% | 11% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
@@ -531,7 +531,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 5% | 100% |  |
 | 4 | 41% | 95% |  |
-| 5 | 47% | 54% | Median |
+| 5 | 48% | 54% | Median |
 | 6 | 6% | 6% |  |
 | 7 | 0% | 0% |  |
 
@@ -544,7 +544,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.3% | 100% |  |
 | 2 | 51% | 99.7% | Median |
-| 3 | 46% | 49% |  |
+| 3 | 46% | 48% |  |
 | 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
@@ -556,7 +556,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 57% | 100% | Median |
 | 1 | 42% | 43% |  |
-| 2 | 1.0% | 1.0% |  |
+| 2 | 1.2% | 1.2% |  |
 | 3 | 0% | 0% | Last Result |
 
 ### Přísaha (*)
@@ -565,8 +565,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 58% | 100% | Last Result, Median |
-| 1 | 42% | 42% |  |
+| 0 | 57% | 100% | Last Result, Median |
+| 1 | 42% | 43% |  |
 | 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
@@ -611,5 +611,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 7
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 5,505,024
++ **Total number of simulations done in the polls included in this average:** 5,898,240
 + **Error estimate:** 1.86%

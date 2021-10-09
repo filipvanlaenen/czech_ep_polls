@@ -147,7 +147,7 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
-| [24–30 September 2021](2021-09-30-STEM.html) | STEM <br> CNN Prima News | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [24–30 September 2021](2021-09-30-STEM.html) | STEM <br> CNN Prima News | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [23–30 September 2021](2021-09-30-SANEP.html) | SANEP | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [1–30 September 2021](2021-09-30-Median.html) | Median | 8 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [23–29 September 2021](2021-09-29-Median.html) | Median <br> iDNES | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
@@ -257,8 +257,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
 | 5 | 1.2% | 100% |  |
-| 6 | 40% | 98.8% |  |
-| 7 | 48% | 59% | Median |
+| 6 | 41% | 98.8% |  |
+| 7 | 47% | 58% | Median |
 | 8 | 11% | 11% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
