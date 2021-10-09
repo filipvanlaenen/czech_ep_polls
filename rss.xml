@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 08 Oct 2021 10:33:31 +0200</pubDate>
+    <pubDate>Sat, 09 Oct 2021 19:11:15 +0200</pubDate>
     <item>
       <title>Opinion Poll by STEM for CNN Prima News, 24–30 September 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-09-30-STEM.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-09-30-STEM.png"
         length="338633"
         type="image/png"/>
-      <pubDate>Fri, 08 Oct 2021 09:49:47 +0200</pubDate>
-      <dc:date>2021-10-08T09:49:47.333567+02:00</dc:date>
+      <pubDate>Sat, 09 Oct 2021 19:11:15 +0200</pubDate>
+      <dc:date>2021-10-09T19:11:15.401788+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SANEP, 23–30 September 2021 – Voting Intentions</title>
@@ -2939,6 +2939,6 @@
       <pubDate>Mon, 30 Dec 2019 14:19:35 +0100</pubDate>
       <dc:date>2019-12-30T14:19:35.409648+01:00</dc:date>
     </item>
-    <dc:date>2021-10-08T10:33:31.454149+02:00</dc:date>
+    <dc:date>2021-10-09T19:11:15.401788+02:00</dc:date>
   </channel>
 </rss>
