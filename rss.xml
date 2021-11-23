@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 22 Nov 2021 21:05:13 +0100</pubDate>
+    <pubDate>Tue, 23 Nov 2021 07:00:10 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by STEM for CNN Prima News, 24–30 September 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-09-30-STEM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 6–8 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 2–3 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;SPOLU (ECR): 5–6 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana–Starostové a nezávislí (Greens/EFA): 4–5 seats&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID): 0 seats&lt;/li&gt;&lt;li&gt;Přísaha (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-09-30-STEM-seats.png"
+        length="272899"
+        type="image/png"/>
+      <pubDate>Mon, 22 Nov 2021 22:52:37 +0100</pubDate>
+      <dc:date>2021-11-22T22:52:37.398011+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by STEM for CNN Prima News, 24–30 September 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-09-30-STEM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-09-30-STEM-coalitions-seats.png"
+        length="204324"
+        type="image/png"/>
+      <pubDate>Mon, 22 Nov 2021 22:52:37 +0100</pubDate>
+      <dc:date>2021-11-22T22:52:37.398011+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by STEM for CNN Prima News, 24–30 September 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-09-30-STEM.html</link>
@@ -16,8 +36,68 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-09-30-STEM.png"
         length="338617"
         type="image/png"/>
-      <pubDate>Mon, 22 Nov 2021 21:05:13 +0100</pubDate>
-      <dc:date>2021-11-22T21:05:13.764271+01:00</dc:date>
+      <pubDate>Mon, 22 Nov 2021 22:52:37 +0100</pubDate>
+      <dc:date>2021-11-22T22:52:37.398011+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median, 1–30 September 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-09-30-Median.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 7–8 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 2–3 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;SPOLU (ECR): 5–6 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana–Starostové a nezávislí (Greens/EFA): 4–6 seats&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID): 0–1 seats&lt;/li&gt;&lt;li&gt;Přísaha (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-09-30-Median-seats.png"
+        length="282412"
+        type="image/png"/>
+      <pubDate>Mon, 22 Nov 2021 22:59:16 +0100</pubDate>
+      <dc:date>2021-11-22T22:59:16.849461+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median, 1–30 September 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-09-30-Median.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-09-30-Median-coalitions-seats.png"
+        length="204198"
+        type="image/png"/>
+      <pubDate>Mon, 22 Nov 2021 22:59:16 +0100</pubDate>
+      <dc:date>2021-11-22T22:59:16.849461+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median, 1–30 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-09-30-Median.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 25.9–31.5%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 8.9–12.7%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 2.5–4.8%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 3.7–6.4%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 1.7–3.7%&lt;/li&gt;&lt;li&gt;SPOLU (ECR): 19.1–24.2%&lt;/li&gt;&lt;li&gt;Česká pirátská strana–Starostové a nezávislí (Greens/EFA): 17.3–22.2%&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID): 3.5–6.2%&lt;/li&gt;&lt;li&gt;Přísaha (*): 2.9–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-09-30-Median.png"
+        length="364305"
+        type="image/png"/>
+      <pubDate>Mon, 22 Nov 2021 22:59:16 +0100</pubDate>
+      <dc:date>2021-11-22T22:59:16.849461+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for CT24, 13–22 September 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-09-22-Kantar.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 5–7 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 2–3 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;SPOLU (ECR): 5–7 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana–Starostové a nezávislí (Greens/EFA): 4–6 seats&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID): 0 seats&lt;/li&gt;&lt;li&gt;Přísaha (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-09-22-Kantar-seats.png"
+        length="297621"
+        type="image/png"/>
+      <pubDate>Tue, 23 Nov 2021 07:00:10 +0100</pubDate>
+      <dc:date>2021-11-23T07:00:10.739297+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for CT24, 13–22 September 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-09-22-Kantar.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-09-22-Kantar-coalitions-seats.png"
+        length="237967"
+        type="image/png"/>
+      <pubDate>Tue, 23 Nov 2021 07:00:10 +0100</pubDate>
+      <dc:date>2021-11-23T07:00:10.739297+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for CT24, 13–22 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2021-09-22-Kantar.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ANO 2011 (RE): 22.1–27.0%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 9.8–13.4%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 3.9–6.4%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 3.5–5.8%&lt;/li&gt;&lt;li&gt;SPOLU (ECR): 20.7–25.5%&lt;/li&gt;&lt;li&gt;Česká pirátská strana–Starostové a nezávislí (Greens/EFA): 18.3–22.9%&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID): 1.8–3.6%&lt;/li&gt;&lt;li&gt;Přísaha (*): 3.0–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2021-09-22-Kantar.png"
+        length="342642"
+        type="image/png"/>
+      <pubDate>Tue, 23 Nov 2021 07:00:10 +0100</pubDate>
+      <dc:date>2021-11-23T07:00:10.739297+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Median, 1–30 June 2021 – Seat Projections for the Parties</title>
@@ -2449,6 +2529,6 @@
       <pubDate>Mon, 30 Dec 2019 14:19:35 +0100</pubDate>
       <dc:date>2019-12-30T14:19:35+01:00</dc:date>
     </item>
-    <dc:date>2021-11-22T21:05:13.764271+01:00</dc:date>
+    <dc:date>2021-11-23T07:00:10.739297+01:00</dc:date>
   </channel>
 </rss>
