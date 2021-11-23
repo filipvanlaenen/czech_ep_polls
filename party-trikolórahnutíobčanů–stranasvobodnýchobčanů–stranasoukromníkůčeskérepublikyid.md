@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 1.4–2.3% | 1.3–2.5% | 1.2–2.7% | 1.0–3.0% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.6–5.1% | 1.5–5.5% | 1.3–5.8% | 1.1–6.3% |
 | [24–30 September 2021](2021-09-30-STEM.html) | STEM <br> CNN Prima News | 1.8% | 1.4–2.3% | 1.2–2.5% | 1.2–2.7% | 1.0–3.0% |
 | [23–30 September 2021](2021-09-30-SANEP.html) | SANEP | 2.6% | N/A | N/A | N/A | N/A |
-| [1–30 September 2021](2021-09-30-Median.html) | Median | 4.7% | N/A | N/A | N/A | N/A |
+| [1–30 September 2021](2021-09-30-Median.html) | Median | 4.7% | 3.9–5.7% | 3.7–5.9% | 3.5–6.2% | 3.2–6.7% |
 | [23–29 September 2021](2021-09-29-Median.html) | Median <br> iDNES | 4.5% | N/A | N/A | N/A | N/A |
-| [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 | 2.5% | N/A | N/A | N/A | N/A |
-| [8–12 September 2021](2021-09-12-Ipsos.html) | Ipsos | 3.5% | N/A | N/A | N/A | N/A |
+| [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.8–3.6% | 1.5–3.9% |
+| [8–12 September 2021](2021-09-12-Ipsos.html) | Ipsos | 3.5% | 2.5–4.5% | 2.5–4.9% | 2.5–4.9% | 2.1–5.3% |
 | [1–10 September 2021](2021-09-10-PhoenixResearch.html) | Phoenix Research | 4.6% | N/A | N/A | N/A | N/A |
 | [2–9 September 2021](2021-09-09-SANEP.html) | SANEP | 2.6% | N/A | N/A | N/A | N/A |
 | [31 August–8 September 2021](2021-09-08-STEM.html) | STEM | 3.5% | N/A | N/A | N/A | N/A |
@@ -118,10 +118,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 23% | 100% |  |
-| 1.5–2.5% | 72% | 77% | Median |
-| 2.5–3.5% | 4% | 4% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.5–1.5% | 8% | 100% |  |
+| 1.5–2.5% | 40% | 92% |  |
+| 2.5–3.5% | 18% | 52% | Median |
+| 3.5–4.5% | 13% | 33% |  |
+| 4.5–5.5% | 16% | 20% |  |
+| 5.5–6.5% | 4% | 4% |  |
+| 6.5–7.5% | 0.2% | 0.3% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -132,12 +136,12 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24–30 September 2021](2021-09-30-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
 | [23–30 September 2021](2021-09-30-SANEP.html) | SANEP |  |  |  |  |  |
-| [1–30 September 2021](2021-09-30-Median.html) | Median |  |  |  |  |  |
+| [1–30 September 2021](2021-09-30-Median.html) | Median | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–29 September 2021](2021-09-29-Median.html) | Median <br> iDNES |  |  |  |  |  |
-| [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
+| [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 | 0 | 0 | 0 | 0 | 0 |
 | [8–12 September 2021](2021-09-12-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [1–10 September 2021](2021-09-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
 | [2–9 September 2021](2021-09-09-SANEP.html) | SANEP |  |  |  |  |  |
@@ -241,6 +245,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 83% | 100% | Last Result, Median |
+| 1 | 17% | 17% |  |
+| 2 | 0% | 0% |  |
 
 

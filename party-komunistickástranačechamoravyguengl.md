@@ -10,13 +10,13 @@ Last result: **11.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.7–7.5% | 5.4–7.8% | 5.3–8.0% | 4.9–8.5% |
+| N/A | [Poll Average](average.html) | 5.1% | 3.3–6.9% | 3.0–7.3% | 2.8–7.6% | 2.4–8.2% |
 | [24–30 September 2021](2021-09-30-STEM.html) | STEM <br> CNN Prima News | 6.5% | 5.7–7.5% | 5.4–7.8% | 5.3–8.0% | 4.9–8.5% |
 | [23–30 September 2021](2021-09-30-SANEP.html) | SANEP | 5.0% | N/A | N/A | N/A | N/A |
-| [1–30 September 2021](2021-09-30-Median.html) | Median | 3.5% | N/A | N/A | N/A | N/A |
+| [1–30 September 2021](2021-09-30-Median.html) | Median | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [23–29 September 2021](2021-09-29-Median.html) | Median <br> iDNES | 4.4% | N/A | N/A | N/A | N/A |
-| [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 | 5.0% | N/A | N/A | N/A | N/A |
-| [8–12 September 2021](2021-09-12-Ipsos.html) | Ipsos | 4.1% | N/A | N/A | N/A | N/A |
+| [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 | 5.0% | 4.3–5.9% | 4.1–6.2% | 3.9–6.4% | 3.6–6.8% |
+| [8–12 September 2021](2021-09-12-Ipsos.html) | Ipsos | 4.1% | 2.5–4.9% | 2.5–6.2% | 2.5–6.2% | 2.5–6.2% |
 | [1–10 September 2021](2021-09-10-PhoenixResearch.html) | Phoenix Research | 3.3% | N/A | N/A | N/A | N/A |
 | [2–9 September 2021](2021-09-09-SANEP.html) | SANEP | 5.1% | N/A | N/A | N/A | N/A |
 | [31 August–8 September 2021](2021-09-08-STEM.html) | STEM | 5.4% | N/A | N/A | N/A | N/A |
@@ -117,12 +117,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 7% | 99.9% |  |
-| 5.5–6.5% | 44% | 93% |  |
-| 6.5–7.5% | 41% | 49% | Median |
-| 7.5–8.5% | 8% | 9% |  |
-| 8.5–9.5% | 0.4% | 0.4% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.9% | 100% |  |
+| 2.5–3.5% | 16% | 99.1% |  |
+| 3.5–4.5% | 22% | 83% |  |
+| 4.5–5.5% | 23% | 62% | Median |
+| 5.5–6.5% | 22% | 39% |  |
+| 6.5–7.5% | 14% | 17% |  |
+| 7.5–8.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% | Last Result |
 
@@ -135,12 +138,12 @@ Last result: **3** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [24–30 September 2021](2021-09-30-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [23–30 September 2021](2021-09-30-SANEP.html) | SANEP |  |  |  |  |  |
-| [1–30 September 2021](2021-09-30-Median.html) | Median |  |  |  |  |  |
+| [1–30 September 2021](2021-09-30-Median.html) | Median | 0 | 0 | 0 | 0 | 0–1 |
 | [23–29 September 2021](2021-09-29-Median.html) | Median <br> iDNES |  |  |  |  |  |
-| [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
+| [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–12 September 2021](2021-09-12-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [1–10 September 2021](2021-09-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
 | [2–9 September 2021](2021-09-09-SANEP.html) | SANEP |  |  |  |  |  |
@@ -244,9 +247,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.7% | 100% |  |
-| 1 | 92% | 99.3% | Median |
-| 2 | 7% | 7% |  |
+| 0 | 50% | 100% |  |
+| 1 | 48% | 50% | Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% | Last Result |
 
 
