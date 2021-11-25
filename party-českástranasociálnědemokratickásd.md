@@ -10,9 +10,9 @@ Last result: **14.2%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.7–6.0% | 3.4–6.5% | 3.3–6.9% | 2.9–7.5% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.7–6.4% | 3.5–6.7% | 3.3–7.0% | 2.9–7.6% |
 | [24–30 September 2021](2021-09-30-STEM.html) | STEM <br> CNN Prima News | 4.4% | 3.7–5.3% | 3.6–5.5% | 3.4–5.7% | 3.1–6.1% |
-| [23–30 September 2021](2021-09-30-SANEP.html) | SANEP | 6.1% | N/A | N/A | N/A | N/A |
+| [23–30 September 2021](2021-09-30-SANEP.html) | SANEP | 6.1% | 5.5–6.9% | 5.3–7.1% | 5.1–7.3% | 4.8–7.7% |
 | [1–30 September 2021](2021-09-30-Median.html) | Median | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [23–29 September 2021](2021-09-29-Median.html) | Median <br> iDNES | 5.6% | N/A | N/A | N/A | N/A |
 | [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 | 4.5% | 3.8–5.4% | 3.6–5.6% | 3.5–5.8% | 3.2–6.3% |
@@ -118,11 +118,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 7% | 100% |  |
-| 3.5–4.5% | 41% | 93% |  |
-| 4.5–5.5% | 33% | 52% | Median |
-| 5.5–6.5% | 14% | 18% |  |
-| 6.5–7.5% | 4% | 5% |  |
+| 2.5–3.5% | 6% | 100% |  |
+| 3.5–4.5% | 35% | 94% |  |
+| 4.5–5.5% | 31% | 59% | Median |
+| 5.5–6.5% | 21% | 28% |  |
+| 6.5–7.5% | 7% | 7% |  |
 | 7.5–8.5% | 0.5% | 0.5% |  |
 | 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -142,7 +142,7 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [24–30 September 2021](2021-09-30-STEM.html) | STEM <br> CNN Prima News | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [23–30 September 2021](2021-09-30-SANEP.html) | SANEP |  |  |  |  |  |
+| [23–30 September 2021](2021-09-30-SANEP.html) | SANEP | 1 | 1 | 1 | 1 | 0–2 |
 | [1–30 September 2021](2021-09-30-Median.html) | Median | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–29 September 2021](2021-09-29-Median.html) | Median <br> iDNES |  |  |  |  |  |
 | [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -249,9 +249,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Median |
-| 1 | 29% | 29% |  |
-| 2 | 0.6% | 0.6% |  |
+| 0 | 61% | 100% | Median |
+| 1 | 38% | 39% |  |
+| 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
