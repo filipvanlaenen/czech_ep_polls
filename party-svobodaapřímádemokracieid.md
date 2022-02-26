@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.3% | 10.4–12.3% | 10.2–12.6% | 9.9–12.8% | 9.5–13.3% |
+| N/A | [Poll Average](average.html) | 9.9% | 7.8–11.8% | 7.4–12.2% | 7.1–12.5% | 6.4–13.1% |
 | [20–26 January 2022](2022-01-26-SANEP.html) | SANEP | 11.3% | 10.4–12.3% | 10.2–12.6% | 9.9–12.8% | 9.5–13.3% |
 | [1 November–1 December 2021](2021-12-01-Median.html) | Median | 8.5% | 7.3–10.0% | 7.0–10.4% | 6.7–10.7% | 6.1–11.5% |
 | [1–19 November 2021](2021-11-19-Kantar.html) | Kantar <br> CT24 | 9.5% | 8.1–11.3% | 7.7–11.8% | 7.3–12.3% | 6.7–13.2% |
@@ -126,15 +126,15 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.6% | 100% |  |
-| 9.5–10.5% | 13% | 99.4% |  |
-| 10.5–11.5% | 48% | 86% | Median |
-| 11.5–12.5% | 33% | 39% |  |
-| 12.5–13.5% | 5% | 6% |  |
-| 13.5–14.5% | 0.2% | 0.2% |  |
+| 5.5–6.5% | 0.7% | 100% |  |
+| 6.5–7.5% | 6% | 99.3% |  |
+| 7.5–8.5% | 16% | 94% |  |
+| 8.5–9.5% | 21% | 77% |  |
+| 9.5–10.5% | 19% | 56% | Median |
+| 10.5–11.5% | 22% | 38% |  |
+| 11.5–12.5% | 13% | 15% |  |
+| 12.5–13.5% | 2% | 2% |  |
+| 13.5–14.5% | 0.1% | 0.2% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -146,7 +146,7 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [20–26 January 2022](2022-01-26-SANEP.html) | SANEP | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [1 November–1 December 2021](2021-12-01-Median.html) | Median | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [1–19 November 2021](2021-11-19-Kantar.html) | Kantar <br> CT24 | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -259,10 +259,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 11% | 100% |  |
-| 3 | 88% | 89% | Median |
-| 4 | 1.0% | 1.0% |  |
+| 1 | 4% | 100% |  |
+| 2 | 61% | 96% | Median |
+| 3 | 34% | 35% |  |
+| 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 
 
