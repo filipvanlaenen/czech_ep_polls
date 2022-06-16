@@ -10,7 +10,14 @@ Last result: **3.8%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.9–1.6% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% |
+| N/A | [Poll Average](average.html) | 1.7% | 0.8–3.3% | 0.7–3.6% | 0.6–3.9% | 0.4–4.5% |
+| [1 May–2 June 2022](2022-06-02-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
+| [16 May–2 June 2022](2022-06-02-Kantar.html) | Kantar <br> CT24 | 2.5% | 1.9–3.6% | 1.7–3.9% | 1.5–4.2% | 1.2–4.8% |
+| [26–30 May 2022](2022-05-30-SANEP.html) | SANEP | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 2.0% | 1.4–3.0% | 1.3–3.2% | 1.2–3.5% | 0.9–4.0% |
+| [14 March–1 April 2022](2022-04-01-Kantar.html) | Kantar <br> CT24 | 2.0% | N/A | N/A | N/A | N/A |
+| [14 February–4 March 2022](2022-03-04-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
+| [24–28 February 2022](2022-02-28-SANEP.html) | SANEP | 1.2% | N/A | N/A | N/A | N/A |
 | [20–26 January 2022](2022-01-26-SANEP.html) | SANEP | 1.2% | 0.9–1.6% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% |
 | [1 November–1 December 2021](2021-12-01-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [1–19 November 2021](2021-11-19-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -120,11 +127,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 88% | 100% | Median |
-| 1.5–2.5% | 12% | 12% |  |
-| 2.5–3.5% | 0% | 0% |  |
-| 3.5–4.5% | 0% | 0% | Last Result |
+| 0.0–0.5% | 2% | 100% |  |
+| 0.5–1.5% | 45% | 98% |  |
+| 1.5–2.5% | 25% | 53% | Median |
+| 2.5–3.5% | 22% | 28% |  |
+| 3.5–4.5% | 5% | 6% | Last Result |
+| 4.5–5.5% | 0.5% | 0.5% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -136,6 +145,13 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1 May–2 June 2022](2022-06-02-Median.html) | Median |  |  |  |  |  |
+| [16 May–2 June 2022](2022-06-02-Kantar.html) | Kantar <br> CT24 | 0 | 0 | 0 | 0 | 0–1 |
+| [26–30 May 2022](2022-05-30-SANEP.html) | SANEP | 0 | 0 | 0 | 0 | 0 |
+| [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 0 | 0 | 0 | 0 | 0 |
+| [14 March–1 April 2022](2022-04-01-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
+| [14 February–4 March 2022](2022-03-04-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
+| [24–28 February 2022](2022-02-28-SANEP.html) | SANEP |  |  |  |  |  |
 | [20–26 January 2022](2022-01-26-SANEP.html) | SANEP | 0 | 0 | 0 | 0 | 0 |
 | [1 November–1 December 2021](2021-12-01-Median.html) | Median |  |  |  |  |  |
 | [1–19 November 2021](2021-11-19-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
@@ -247,6 +263,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.7% | 100% | Last Result, Median |
+| 1 | 0.3% | 0.3% |  |
+| 2 | 0% | 0% |  |
 
 
