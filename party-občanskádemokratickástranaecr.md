@@ -10,25 +10,20 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.0% | 15.6–20.7% | 15.1–21.3% | 14.7–21.8% | 14.0–22.7% |
+| N/A | [Poll Average](average.html) | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.4–18.9% | 13.7–19.7% |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
 | [16 May–2 June 2022](2022-06-02-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
-| [26–30 May 2022](2022-05-30-SANEP.html) | SANEP | 19.6% | 18.0–21.3% | 17.5–21.8% | 17.1–22.3% | 16.4–23.1% |
 | [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [14 March–1 April 2022](2022-04-01-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [14 February–4 March 2022](2022-03-04-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
-| [24–28 February 2022](2022-02-28-SANEP.html) | SANEP | 17.3% | N/A | N/A | N/A | N/A |
-| [20–26 January 2022](2022-01-26-SANEP.html) | SANEP | 14.7% | 13.7–15.8% | 13.4–16.1% | 13.1–16.4% | 12.7–16.9% |
 | [1 November–1 December 2021](2021-12-01-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [1–19 November 2021](2021-11-19-Kantar.html) | Kantar <br> CT24 | 15.5% | N/A | N/A | N/A | N/A |
 | [24–30 September 2021](2021-09-30-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
-| [23–30 September 2021](2021-09-30-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
 | [1–30 September 2021](2021-09-30-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [23–29 September 2021](2021-09-29-Median.html) | Median <br> iDNES | 0.0% | N/A | N/A | N/A | N/A |
 | [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [8–12 September 2021](2021-09-12-Ipsos.html) | Ipsos | 0.0% | N/A | N/A | N/A | N/A |
 | [1–10 September 2021](2021-09-10-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
-| [2–9 September 2021](2021-09-09-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
 | [31 August–8 September 2021](2021-09-08-STEM.html) | STEM | 0.0% | N/A | N/A | N/A | N/A |
 | [30 August–8 September 2021](2021-09-08-DataCollect.html) | Data Collect | 0.0% | N/A | N/A | N/A | N/A |
 | [1 August–2 September 2021](2021-09-02-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
@@ -36,13 +31,11 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 | [9–12 August 2021](2021-08-12-STEM.html) | STEM | 0.0% | N/A | N/A | N/A | N/A |
 | [1–10 August 2021](2021-08-10-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 July 2021](2021-07-31-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
-| [8–14 July 2021](2021-07-14-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
 | [26 June–11 July 2021](2021-07-11-CVVM.html) | CVVM | 0.0% | N/A | N/A | N/A | N/A |
 | [1–10 July 2021](2021-07-10-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
 | [1–30 June 2021](2021-06-30-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [21–29 June 2021](2021-06-29-STEM.html) | STEM | 0.0% | N/A | N/A | N/A | N/A |
 | [7–18 June 2021](2021-06-18-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
-| [10–15 June 2021](2021-06-15-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
 | [29 May–13 June 2021](2021-06-13-CVVM.html) | CVVM | 0.0% | N/A | N/A | N/A | N/A |
 | [31 May–11 June 2021](2021-06-11-DataCollect.html) | Data Collect <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–10 June 2021](2021-06-10-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
@@ -51,29 +44,23 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 | [10–28 May 2021](2021-05-28-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [19–24 May 2021](2021-05-24-Ipsos.html) | Ipsos | 0.0% | N/A | N/A | N/A | N/A |
 | [3–21 May 2021](2021-05-21-DataCollect.html) | Data Collect <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
-| [13–19 May 2021](2021-05-19-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
 | [1–15 May 2021](2021-05-15-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
 | [1 April–4 May 2021](2021-05-04-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [12–30 April 2021](2021-04-30-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
-| [15–21 April 2021](2021-04-21-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
 | [7–13 April 2021](2021-04-13-STEM.html) | STEM | 0.0% | N/A | N/A | N/A | N/A |
 | [8–12 April 2021](2021-04-12-Ipsos.html) | Ipsos <br> SPOLU | 0.0% | N/A | N/A | N/A | N/A |
 | [1–10 April 2021](2021-04-10-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
 | [25 March–1 April 2021](2021-04-01-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [25 March–1 April 2021](2021-04-01-DataCollect.html) | Data Collect <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–29 March 2021](2021-03-29-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
-| [18–23 March 2021](2021-03-23-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
 | [12–16 March 2021](2021-03-16-Ipsos.html) | Ipsos <br> SPOLU | 0.0% | N/A | N/A | N/A | N/A |
 | [15 February–5 March 2021](2021-03-05-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [1 February–2 March 2021](2021-03-02-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
-| [18–23 February 2021](2021-02-23-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
 | [15–19 February 2021](2021-02-19-Ipsos.html) | Ipsos <br> SPOLU | 0.0% | N/A | N/A | N/A | N/A |
 | [18 January–5 February 2021](2021-02-05-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–29 January 2021](2021-01-29-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
-| [21–26 January 2021](2021-01-26-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
 | [15–19 January 2021](2021-01-19-Ipsos.html) | Ipsos | 0.0% | N/A | N/A | N/A | N/A |
 | [1–10 January 2021](2021-01-10-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
-| [11–16 December 2020](2020-12-16-SANEP.html) | SANEP | 0.0% | N/A | N/A | N/A | N/A |
 | [13 November–4 December 2020](2020-12-04-TNSKantar.html) | TNS Kantar <br> O24 | 11.5% | 10.2–13.0% | 9.9–13.4% | 9.6–13.8% | 9.0–14.6% |
 | [1–30 November 2020](2020-11-30-Median.html) | Median | 10.5% | 9.1–12.3% | 8.7–12.7% | 8.4–13.2% | 7.7–14.1% |
 | [19 October–6 November 2020](2020-11-06-TNSKantar.html) | TNS Kantar <br> O24 | 10.4% | 9.2–11.9% | 8.9–12.3% | 8.6–12.7% | 8.0–13.4% |
@@ -88,7 +75,6 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 | [20 June–2 July 2020](2020-07-02-CVVM.html) | CVVM | 14.1% | 12.5–15.9% | 12.0–16.4% | 11.7–16.8% | 11.0–17.8% |
 | [18 May–5 June 2020](2020-06-05-TNSKantar.html) | TNS Kantar <br> O24 | 13.5% | 12.3–14.8% | 12.0–15.2% | 11.7–15.6% | 11.1–16.2% |
 | [22 May–1 June 2020](2020-06-01-STEM.html) | STEM | 11.4% | 10.3–12.7% | 9.9–13.1% | 9.7–13.5% | 9.1–14.1% |
-| [7–13 May 2020](2020-05-13-SANEP.html) | SANEP | 13.4% | 12.2–14.8% | 11.8–15.2% | 11.5–15.5% | 11.0–16.2% |
 | [13–30 April 2020](2020-04-30-TNSKantar.html) | TNS Kantar <br> O24 | 11.5% | 10.2–12.9% | 9.9–13.4% | 9.6–13.7% | 9.0–14.5% |
 | [9–27 March 2020](2020-03-27-TNSKantar.html) | TNS Kantar <br> O24 | 14.0% | 12.6–15.5% | 12.2–16.0% | 11.9–16.4% | 11.2–17.1% |
 | [29 February–26 March 2020](2020-03-26-Median.html) | Median | 13.0% | 11.7–14.4% | 11.3–14.8% | 11.0–15.2% | 10.4–15.9% |
@@ -102,7 +88,6 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 | [30 November–11 December 2019](2019-12-11-CVVM.html) | CVVM | 12.5% | 11.0–14.2% | 10.6–14.7% | 10.3–15.1% | 9.6–16.0% |
 | [29 October–30 November 2019](2019-11-30-Median.html) | Median | 12.5% | 11.3–13.9% | 11.0–14.3% | 10.7–14.6% | 10.2–15.3% |
 | [9–29 November 2019](2019-11-29-TNSKantar.html) | TNS Kantar | 14.3% | 13.1–15.7% | 12.8–16.1% | 12.5–16.4% | 11.9–17.1% |
-| [21–27 November 2019](2019-11-27-SANEP.html) | SANEP | 10.8% | 9.7–12.1% | 9.4–12.5% | 9.1–12.9% | 8.6–13.5% |
 | [14–26 November 2019](2019-11-26-STEM.html) | STEM | 10.5% | 9.4–11.8% | 9.1–12.2% | 8.9–12.5% | 8.4–13.1% |
 | [1–18 November 2019](2019-11-18-PhoenixResearch.html) | Phoenix Research | 8.8% | 7.8–10.0% | 7.5–10.3% | 7.3–10.7% | 6.8–11.2% |
 | [2–15 November 2019](2019-11-15-CVVM.html) | CVVM | 14.1% | 12.1–16.5% | 11.6–17.2% | 11.1–17.8% | 10.2–19.0% |
@@ -132,19 +117,16 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.2% | 100% |  |
-| 13.5–14.5% | 2% | 99.8% |  |
-| 14.5–15.5% | 8% | 98% |  |
-| 15.5–16.5% | 16% | 90% |  |
-| 16.5–17.5% | 17% | 75% |  |
-| 17.5–18.5% | 15% | 57% | Median |
-| 18.5–19.5% | 16% | 42% |  |
-| 19.5–20.5% | 14% | 26% |  |
-| 20.5–21.5% | 8% | 12% |  |
-| 21.5–22.5% | 3% | 4% |  |
-| 22.5–23.5% | 0.6% | 0.7% |  |
-| 23.5–24.5% | 0.1% | 0.1% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 12.5–13.5% | 0.3% | 100% |  |
+| 13.5–14.5% | 3% | 99.7% |  |
+| 14.5–15.5% | 15% | 96% |  |
+| 15.5–16.5% | 31% | 81% |  |
+| 16.5–17.5% | 30% | 50% | Median |
+| 17.5–18.5% | 15% | 20% |  |
+| 18.5–19.5% | 4% | 5% |  |
+| 19.5–20.5% | 0.6% | 0.7% |  |
+| 20.5–21.5% | 0.1% | 0.1% |  |
+| 21.5–22.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -155,25 +137,20 @@ Last result: **2** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [16 May–2 June 2022](2022-06-02-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
-| [26–30 May 2022](2022-05-30-SANEP.html) | SANEP | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
 | [14 March–1 April 2022](2022-04-01-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
 | [14 February–4 March 2022](2022-03-04-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
-| [24–28 February 2022](2022-02-28-SANEP.html) | SANEP |  |  |  |  |  |
-| [20–26 January 2022](2022-01-26-SANEP.html) | SANEP | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [1 November–1 December 2021](2021-12-01-Median.html) | Median |  |  |  |  |  |
 | [1–19 November 2021](2021-11-19-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
 | [24–30 September 2021](2021-09-30-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
-| [23–30 September 2021](2021-09-30-SANEP.html) | SANEP |  |  |  |  |  |
 | [1–30 September 2021](2021-09-30-Median.html) | Median |  |  |  |  |  |
 | [23–29 September 2021](2021-09-29-Median.html) | Median <br> iDNES |  |  |  |  |  |
 | [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
 | [8–12 September 2021](2021-09-12-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [1–10 September 2021](2021-09-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
-| [2–9 September 2021](2021-09-09-SANEP.html) | SANEP |  |  |  |  |  |
 | [31 August–8 September 2021](2021-09-08-STEM.html) | STEM |  |  |  |  |  |
 | [30 August–8 September 2021](2021-09-08-DataCollect.html) | Data Collect |  |  |  |  |  |
 | [1 August–2 September 2021](2021-09-02-Median.html) | Median |  |  |  |  |  |
@@ -181,13 +158,11 @@ Last result: **2** seats (General Election of 24–25 May 2019)
 | [9–12 August 2021](2021-08-12-STEM.html) | STEM |  |  |  |  |  |
 | [1–10 August 2021](2021-08-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
 | [1–31 July 2021](2021-07-31-Median.html) | Median |  |  |  |  |  |
-| [8–14 July 2021](2021-07-14-SANEP.html) | SANEP |  |  |  |  |  |
 | [26 June–11 July 2021](2021-07-11-CVVM.html) | CVVM |  |  |  |  |  |
 | [1–10 July 2021](2021-07-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
 | [1–30 June 2021](2021-06-30-Median.html) | Median |  |  |  |  |  |
 | [21–29 June 2021](2021-06-29-STEM.html) | STEM |  |  |  |  |  |
 | [7–18 June 2021](2021-06-18-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
-| [10–15 June 2021](2021-06-15-SANEP.html) | SANEP |  |  |  |  |  |
 | [29 May–13 June 2021](2021-06-13-CVVM.html) | CVVM |  |  |  |  |  |
 | [31 May–11 June 2021](2021-06-11-DataCollect.html) | Data Collect <br> CT24 |  |  |  |  |  |
 | [1–10 June 2021](2021-06-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
@@ -196,29 +171,23 @@ Last result: **2** seats (General Election of 24–25 May 2019)
 | [10–28 May 2021](2021-05-28-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
 | [19–24 May 2021](2021-05-24-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [3–21 May 2021](2021-05-21-DataCollect.html) | Data Collect <br> CT24 |  |  |  |  |  |
-| [13–19 May 2021](2021-05-19-SANEP.html) | SANEP |  |  |  |  |  |
 | [1–15 May 2021](2021-05-15-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
 | [1 April–4 May 2021](2021-05-04-Median.html) | Median |  |  |  |  |  |
 | [12–30 April 2021](2021-04-30-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
-| [15–21 April 2021](2021-04-21-SANEP.html) | SANEP |  |  |  |  |  |
 | [7–13 April 2021](2021-04-13-STEM.html) | STEM |  |  |  |  |  |
 | [8–12 April 2021](2021-04-12-Ipsos.html) | Ipsos <br> SPOLU |  |  |  |  |  |
 | [1–10 April 2021](2021-04-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
 | [25 March–1 April 2021](2021-04-01-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
 | [25 March–1 April 2021](2021-04-01-DataCollect.html) | Data Collect <br> CT24 |  |  |  |  |  |
 | [1–29 March 2021](2021-03-29-Median.html) | Median |  |  |  |  |  |
-| [18–23 March 2021](2021-03-23-SANEP.html) | SANEP |  |  |  |  |  |
 | [12–16 March 2021](2021-03-16-Ipsos.html) | Ipsos <br> SPOLU |  |  |  |  |  |
 | [15 February–5 March 2021](2021-03-05-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
 | [1 February–2 March 2021](2021-03-02-Median.html) | Median |  |  |  |  |  |
-| [18–23 February 2021](2021-02-23-SANEP.html) | SANEP |  |  |  |  |  |
 | [15–19 February 2021](2021-02-19-Ipsos.html) | Ipsos <br> SPOLU |  |  |  |  |  |
 | [18 January–5 February 2021](2021-02-05-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
 | [1–29 January 2021](2021-01-29-Median.html) | Median |  |  |  |  |  |
-| [21–26 January 2021](2021-01-26-SANEP.html) | SANEP |  |  |  |  |  |
 | [15–19 January 2021](2021-01-19-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [1–10 January 2021](2021-01-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
-| [11–16 December 2020](2020-12-16-SANEP.html) | SANEP |  |  |  |  |  |
 | [13 November–4 December 2020](2020-12-04-TNSKantar.html) | TNS Kantar <br> O24 | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [1–30 November 2020](2020-11-30-Median.html) | Median | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19 October–6 November 2020](2020-11-06-TNSKantar.html) | TNS Kantar <br> O24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -233,7 +202,6 @@ Last result: **2** seats (General Election of 24–25 May 2019)
 | [20 June–2 July 2020](2020-07-02-CVVM.html) | CVVM | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | [18 May–5 June 2020](2020-06-05-TNSKantar.html) | TNS Kantar <br> O24 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [22 May–1 June 2020](2020-06-01-STEM.html) | STEM | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| [7–13 May 2020](2020-05-13-SANEP.html) | SANEP | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [13–30 April 2020](2020-04-30-TNSKantar.html) | TNS Kantar <br> O24 | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [9–27 March 2020](2020-03-27-TNSKantar.html) | TNS Kantar <br> O24 | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [29 February–26 March 2020](2020-03-26-Median.html) | Median | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -247,7 +215,6 @@ Last result: **2** seats (General Election of 24–25 May 2019)
 | [30 November–11 December 2019](2019-12-11-CVVM.html) | CVVM | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [29 October–30 November 2019](2019-11-30-Median.html) | Median | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [9–29 November 2019](2019-11-29-TNSKantar.html) | TNS Kantar | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [21–27 November 2019](2019-11-27-SANEP.html) | SANEP | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14–26 November 2019](2019-11-26-STEM.html) | STEM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–18 November 2019](2019-11-18-PhoenixResearch.html) | Phoenix Research | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [2–15 November 2019](2019-11-15-CVVM.html) | CVVM | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
@@ -275,10 +242,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 0.2% | 100% |  |
-| 4 | 32% | 99.8% |  |
-| 5 | 57% | 68% | Median |
-| 6 | 11% | 11% |  |
+| 3 | 0.3% | 100% |  |
+| 4 | 56% | 99.7% | Median |
+| 5 | 43% | 43% |  |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
 
