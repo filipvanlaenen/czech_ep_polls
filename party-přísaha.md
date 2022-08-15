@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 2.1–3.8% | 1.9–4.0% | 1.7–4.3% | 1.3–4.7% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.1–3.7% | 1.9–4.0% | 1.7–4.2% | 1.3–4.7% |
+| [8 July–2 August 2022](2022-08-02-Median.html) | Median | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.7% |
+| [20 May–4 July 2022](2022-07-04-Median.html) | Median | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 3.0% | 2.5–3.9% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [16 May–2 June 2022](2022-06-02-Kantar.html) | Kantar <br> CT24 | 2.5% | 1.9–3.6% | 1.7–3.9% | 1.5–4.2% | 1.2–4.8% |
 | [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 3.0% | 2.3–4.1% | 2.1–4.4% | 1.9–4.7% | 1.6–5.3% |
@@ -114,10 +116,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 1.5% | 100% |  |
-| 1.5–2.5% | 27% | 98.5% |  |
-| 2.5–3.5% | 55% | 71% | Median |
-| 3.5–4.5% | 15% | 16% |  |
-| 4.5–5.5% | 0.9% | 0.9% |  |
+| 1.5–2.5% | 29% | 98.5% |  |
+| 2.5–3.5% | 55% | 70% | Median |
+| 3.5–4.5% | 14% | 15% |  |
+| 4.5–5.5% | 0.8% | 0.8% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -130,6 +132,8 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8 July–2 August 2022](2022-08-02-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
+| [20 May–4 July 2022](2022-07-04-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [16 May–2 June 2022](2022-06-02-Kantar.html) | Kantar <br> CT24 | 0 | 0 | 0 | 0 | 0–1 |
 | [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 0 | 0 | 0 | 0 | 0–1 |

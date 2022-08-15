@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12.6% | 10.8–14.4% | 10.4–15.0% | 10.0–15.5% | 9.2–16.5% |
+| [8 July–2 August 2022](2022-08-02-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
+| [20 May–4 July 2022](2022-07-04-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [16 May–2 June 2022](2022-06-02-Kantar.html) | Kantar <br> CT24 | 12.5% | 10.8–14.4% | 10.3–15.0% | 10.0–15.5% | 9.2–16.5% |
 | [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 11.5% | 10.0–13.4% | 9.6–13.9% | 9.2–14.4% | 8.5–15.3% |
@@ -143,6 +145,8 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [8 July–2 August 2022](2022-08-02-Median.html) | Median |  |  |  |  |  |
+| [20 May–4 July 2022](2022-07-04-Median.html) | Median |  |  |  |  |  |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median |  |  |  |  |  |
 | [16 May–2 June 2022](2022-06-02-Kantar.html) | Kantar <br> CT24 | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 3 | 2–3 | 2–3 | 2–3 | 2–4 |

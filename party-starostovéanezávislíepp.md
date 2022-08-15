@@ -10,7 +10,9 @@ Last result: **16.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.6% | 7.5–9.8% | 7.2–10.1% | 7.0–10.4% | 6.5–11.0% |
+| N/A | [Poll Average](average.html) | 5.5% | 4.7–6.5% | 4.4–6.8% | 4.2–7.0% | 3.9–7.6% |
+| [8 July–2 August 2022](2022-08-02-Median.html) | Median | 5.5% | 4.6–6.5% | 4.4–6.8% | 4.2–7.1% | 3.9–7.6% |
+| [20 May–4 July 2022](2022-07-04-Median.html) | Median | 4.8% | 4.0–5.7% | 3.8–6.0% | 3.6–6.3% | 3.3–6.8% |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 8.5% | 7.5–9.8% | 7.2–10.1% | 7.0–10.4% | 6.5–11.1% |
 | [16 May–2 June 2022](2022-06-02-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -112,14 +114,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.6% | 100% |  |
-| 6.5–7.5% | 10% | 99.4% |  |
-| 7.5–8.5% | 37% | 89% |  |
-| 8.5–9.5% | 38% | 52% | Median |
-| 9.5–10.5% | 13% | 15% |  |
-| 10.5–11.5% | 2% | 2% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 7% | 99.9% |  |
+| 4.5–5.5% | 43% | 92% |  |
+| 5.5–6.5% | 40% | 49% | Median |
+| 6.5–7.5% | 8% | 9% |  |
+| 7.5–8.5% | 0.6% | 0.6% |  |
+| 8.5–9.5% | 0% | 0% |  |
+| 9.5–10.5% | 0% | 0% |  |
+| 10.5–11.5% | 0% | 0% |  |
+| 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
@@ -134,7 +138,9 @@ Last result: **1** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [8 July–2 August 2022](2022-08-02-Median.html) | Median | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [20 May–4 July 2022](2022-07-04-Median.html) | Median | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [16 May–2 June 2022](2022-06-02-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
 | [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
@@ -238,9 +244,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% | Last Result |
-| 2 | 89% | 98% | Median |
-| 3 | 9% | 9% |  |
-| 4 | 0% | 0% |  |
+| 0 | 62% | 100% | Median |
+| 1 | 32% | 38% | Last Result |
+| 2 | 6% | 6% |  |
+| 3 | 0% | 0% |  |
 
 
