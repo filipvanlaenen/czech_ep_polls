@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 2.1–3.7% | 1.9–4.0% | 1.7–4.2% | 1.3–4.7% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.9–4.7% | 2.7–5.0% | 2.5–5.2% | 2.1–5.8% |
+| [12–30 September 2022](2022-09-30-Kantar.html) | Kantar <br> CT24 | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
+| [1–8 September 2022](2022-09-08-STEM.html) | STEM <br> CNN Prima News | 3.5% | 2.9–4.3% | 2.8–4.6% | 2.6–4.8% | 2.4–5.2% |
+| [15 August–2 September 2022](2022-09-02-Kantar.html) | Kantar <br> CT24 | 3.0% | N/A | N/A | N/A | N/A |
+| [1–31 August 2022](2022-08-31-Median.html) | Median | 3.5% | 2.7–4.6% | 2.4–5.0% | 2.3–5.3% | 1.9–5.9% |
+| [4–11 August 2022](2022-08-11-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
 | [8 July–2 August 2022](2022-08-02-Median.html) | Median | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.7% |
 | [20 May–4 July 2022](2022-07-04-Median.html) | Median | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 3.0% | 2.5–3.9% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -115,12 +120,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 1.5% | 100% |  |
-| 1.5–2.5% | 29% | 98.5% |  |
-| 2.5–3.5% | 55% | 70% | Median |
-| 3.5–4.5% | 14% | 15% |  |
-| 4.5–5.5% | 0.8% | 0.8% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 36% | 97% |  |
+| 3.5–4.5% | 48% | 61% | Median |
+| 4.5–5.5% | 12% | 13% |  |
+| 5.5–6.5% | 1.0% | 1.0% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -131,7 +137,12 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [12–30 September 2022](2022-09-30-Kantar.html) | Kantar <br> CT24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–8 September 2022](2022-09-08-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0–1 |
+| [15 August–2 September 2022](2022-09-02-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
+| [1–31 August 2022](2022-08-31-Median.html) | Median | 0 | 0 | 0 | 0–1 | 0–1 |
+| [4–11 August 2022](2022-08-11-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [8 July–2 August 2022](2022-08-02-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [20 May–4 July 2022](2022-07-04-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
@@ -237,8 +248,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.6% | 100% | Last Result, Median |
-| 1 | 0.4% | 0.4% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 6% | 6% |  |
 | 2 | 0% | 0% |  |
 
 

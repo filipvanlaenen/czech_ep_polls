@@ -10,7 +10,12 @@ Last result: **4.8%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.6% | 8.3–13.3% |
+| N/A | [Poll Average](average.html) | 9.8% | 8.4–12.2% | 8.0–12.9% | 7.7–13.5% | 7.2–14.6% |
+| [12–30 September 2022](2022-09-30-Kantar.html) | Kantar <br> CT24 | 9.0% | 8.0–10.3% | 7.7–10.7% | 7.4–11.0% | 6.9–11.6% |
+| [1–8 September 2022](2022-09-08-STEM.html) | STEM <br> CNN Prima News | 9.4% | 8.4–10.6% | 8.1–10.9% | 7.9–11.2% | 7.4–11.8% |
+| [15 August–2 September 2022](2022-09-02-Kantar.html) | Kantar <br> CT24 | 8.5% | N/A | N/A | N/A | N/A |
+| [1–31 August 2022](2022-08-31-Median.html) | Median | 11.4% | 9.9–13.3% | 9.4–13.8% | 9.1–14.3% | 8.4–15.2% |
+| [4–11 August 2022](2022-08-11-STEM.html) | STEM <br> CNN Prima News | 9.3% | N/A | N/A | N/A | N/A |
 | [8 July–2 August 2022](2022-08-02-Median.html) | Median | 10.5% | 9.4–11.9% | 9.1–12.3% | 8.8–12.6% | 8.3–13.3% |
 | [20 May–4 July 2022](2022-07-04-Median.html) | Median | 11.8% | 10.6–13.2% | 10.3–13.6% | 10.0–14.0% | 9.4–14.7% |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 9.0% | 8.0–10.3% | 7.7–10.7% | 7.4–11.0% | 7.0–11.6% |
@@ -116,15 +121,17 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% | Last Result |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 1.2% | 100% |  |
-| 8.5–9.5% | 12% | 98.8% |  |
-| 9.5–10.5% | 34% | 87% |  |
-| 10.5–11.5% | 35% | 52% | Median |
-| 11.5–12.5% | 14% | 17% |  |
-| 12.5–13.5% | 3% | 3% |  |
-| 13.5–14.5% | 0.2% | 0.2% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 6.5–7.5% | 1.5% | 100% |  |
+| 7.5–8.5% | 12% | 98.5% |  |
+| 8.5–9.5% | 29% | 86% |  |
+| 9.5–10.5% | 25% | 57% | Median |
+| 10.5–11.5% | 15% | 31% |  |
+| 11.5–12.5% | 9% | 17% |  |
+| 12.5–13.5% | 5% | 7% |  |
+| 13.5–14.5% | 2% | 2% |  |
+| 14.5–15.5% | 0.4% | 0.5% |  |
+| 15.5–16.5% | 0.1% | 0.1% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -135,7 +142,12 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [12–30 September 2022](2022-09-30-Kantar.html) | Kantar <br> CT24 | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [1–8 September 2022](2022-09-08-STEM.html) | STEM <br> CNN Prima News | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [15 August–2 September 2022](2022-09-02-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
+| [1–31 August 2022](2022-08-31-Median.html) | Median | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [4–11 August 2022](2022-08-11-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [8 July–2 August 2022](2022-08-02-Median.html) | Median | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [20 May–4 July 2022](2022-07-04-Median.html) | Median | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -242,10 +254,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 16% | 100% |  |
-| 3 | 82% | 84% | Median |
-| 4 | 2% | 2% |  |
+| 1 | 0.3% | 100% |  |
+| 2 | 59% | 99.7% | Median |
+| 3 | 34% | 40% |  |
+| 4 | 6% | 6% |  |
 | 5 | 0% | 0% |  |
 
 

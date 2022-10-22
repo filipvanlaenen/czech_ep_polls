@@ -10,7 +10,12 @@ Last result: **16.1%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.8% | 27.6–32.0% | 26.9–32.6% | 26.3–33.1% | 25.1–34.3% |
+| N/A | [Poll Average](average.html) | 29.6% | 27.5–31.6% | 26.9–32.1% | 26.3–32.6% | 25.1–33.7% |
+| [12–30 September 2022](2022-09-30-Kantar.html) | Kantar <br> CT24 | 29.5% | 27.7–31.4% | 27.2–31.9% | 26.7–32.4% | 25.9–33.3% |
+| [1–8 September 2022](2022-09-08-STEM.html) | STEM <br> CNN Prima News | 30.0% | 28.3–31.7% | 27.8–32.2% | 27.4–32.6% | 26.6–33.5% |
+| [15 August–2 September 2022](2022-09-02-Kantar.html) | Kantar <br> CT24 | 30.5% | N/A | N/A | N/A | N/A |
+| [1–31 August 2022](2022-08-31-Median.html) | Median | 29.1% | 26.7–31.6% | 26.1–32.3% | 25.5–32.9% | 24.4–34.1% |
+| [4–11 August 2022](2022-08-11-STEM.html) | STEM <br> CNN Prima News | 31.1% | N/A | N/A | N/A | N/A |
 | [8 July–2 August 2022](2022-08-02-Median.html) | Median | 30.0% | 28.2–32.0% | 27.7–32.5% | 27.3–33.0% | 26.4–33.9% |
 | [20 May–4 July 2022](2022-07-04-Median.html) | Median | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.5–32.8% |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 28.5% | 26.7–30.4% | 26.2–30.9% | 25.8–31.4% | 25.0–32.3% |
@@ -124,18 +129,17 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0.2% | 100% |  |
 | 24.5–25.5% | 0.7% | 99.8% |  |
-| 25.5–26.5% | 2% | 99.1% |  |
-| 26.5–27.5% | 6% | 97% |  |
-| 27.5–28.5% | 13% | 90% |  |
-| 28.5–29.5% | 21% | 77% |  |
-| 29.5–30.5% | 23% | 56% | Median |
-| 30.5–31.5% | 18% | 33% |  |
-| 31.5–32.5% | 10% | 15% |  |
-| 32.5–33.5% | 4% | 5% |  |
-| 33.5–34.5% | 1.1% | 1.5% |  |
-| 34.5–35.5% | 0.3% | 0.3% |  |
-| 35.5–36.5% | 0.1% | 0.1% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 25.5–26.5% | 3% | 99.0% |  |
+| 26.5–27.5% | 7% | 96% |  |
+| 27.5–28.5% | 15% | 89% |  |
+| 28.5–29.5% | 24% | 74% |  |
+| 29.5–30.5% | 24% | 51% | Median |
+| 30.5–31.5% | 17% | 27% |  |
+| 31.5–32.5% | 7% | 10% |  |
+| 32.5–33.5% | 2% | 3% |  |
+| 33.5–34.5% | 0.5% | 0.6% |  |
+| 34.5–35.5% | 0.1% | 0.1% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -146,7 +150,12 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
+| N/A | [Poll Average](average.html) | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
+| [12–30 September 2022](2022-09-30-Kantar.html) | Kantar <br> CT24 | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [1–8 September 2022](2022-09-08-STEM.html) | STEM <br> CNN Prima News | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [15 August–2 September 2022](2022-09-02-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
+| [1–31 August 2022](2022-08-31-Median.html) | Median | 9 | 8–9 | 7–9 | 7–10 | 7–10 |
+| [4–11 August 2022](2022-08-11-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [8 July–2 August 2022](2022-08-02-Median.html) | Median | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [20 May–4 July 2022](2022-07-04-Median.html) | Median | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
@@ -254,11 +263,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
-| 6 | 4% | 100% |  |
-| 7 | 29% | 96% |  |
-| 8 | 27% | 67% | Median |
-| 9 | 38% | 40% |  |
-| 10 | 2% | 2% |  |
+| 6 | 0% | 100% |  |
+| 7 | 10% | 100% |  |
+| 8 | 60% | 90% | Median |
+| 9 | 29% | 31% |  |
+| 10 | 1.2% | 1.2% |  |
 | 11 | 0% | 0% | Majority |
 
 
