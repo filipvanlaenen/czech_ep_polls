@@ -1,14 +1,12 @@
 # Overview
 
-The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
+The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | ANO | TOP 09 | STAN | ČSSD | KSČM | KDU–ČSL | ODS | SVOBODNÍ | Piráti | ZELENÍ | SPD | THO | SPOLU | Pir–STAN | T–S–SsČR | P |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24–25 May 2019 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 25–34% <br> 7–10 | 4–7% <br> 0–1 | 4–8% <br> 0–2 | 3–7% <br> 0–1 | 1–5% <br> 0 | 3–8% <br> 0–2 | 12–23% <br> 3–6 | N/A <br> N/A | 8–13% <br> 2–3 | 1–4% <br> 0 | 10–14% <br> 2–4 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 |
+| N/A | [Poll Average](average.html) | 29–33% <br> 8–9 | 4–6% <br> 0–1 | 5–8% <br> 1–2 | 3–5% <br> 0 | 3–5% <br> 0–1 | 4–6% <br> 0–1 | 12–15% <br> 3–4 | N/A <br> N/A | 8–11% <br> 2–3 | N/A <br> N/A | 11–14% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29 November–5 December 2022](2022-12-05-STEM.html) | STEM <br> CNN Prima News | 29–33% <br> 8–9 | 4–6% <br> 0–1 | 5–8% <br> 1–2 | 3–5% <br> 0 | 3–5% <br> 0–1 | 4–6% <br> 0–1 | 12–15% <br> 3–4 | N/A <br> N/A | 8–11% <br> 2–3 | N/A <br> N/A | 11–14% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [17 October–4 November 2022](2022-11-04-Kantar.html) | Kantar <br> CT24 | 24–29% <br> 7–8 | 4–7% <br> 0–2 | 5–7% <br> 0–2 | 3–5% <br> 0 | 2–4% <br> 0 | 3–5% <br> 0 | 19–24% <br> 5–7 | N/A <br> N/A | 10–13% <br> 2–3 | N/A <br> N/A | 9–13% <br> 2–3 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 |
-| [1–31 October 2022](2022-10-31-Median.html) | Median | 28–35% <br> 8–10 | 4–7% <br> 0–1 | 4–8% <br> 0–2 | 4–8% <br> 0–2 | 1–4% <br> 0 | 4–8% <br> 0–2 | 11–16% <br> 3–4 | N/A <br> N/A | 9–14% <br> 2–4 | 1–4% <br> 0 | 10–15% <br> 2–4 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 |
 | 24–25 May 2019 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
