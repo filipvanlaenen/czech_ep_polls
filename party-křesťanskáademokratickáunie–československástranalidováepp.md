@@ -10,7 +10,7 @@ Last result: **10.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.3–6.7% | 3.0–7.2% | 2.8–7.7% | 2.5–8.5% |
+| N/A | [Poll Average](average.html) | 4.9% | 4.3–5.6% | 4.2–5.8% | 4.0–5.9% | 3.8–6.3% |
 | [29 November–5 December 2022](2022-12-05-STEM.html) | STEM <br> CNN Prima News | 4.9% | 4.3–5.6% | 4.2–5.8% | 4.0–5.9% | 3.8–6.3% |
 | [17 October–4 November 2022](2022-11-04-Kantar.html) | Kantar <br> CT24 | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
 | [1–31 October 2022](2022-10-31-Median.html) | Median | 6.1% | 5.0–7.5% | 4.7–7.9% | 4.4–8.3% | 3.9–9.0% |
@@ -123,17 +123,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.6% | 100% |  |
-| 2.5–3.5% | 16% | 99.4% |  |
-| 3.5–4.5% | 24% | 83% |  |
-| 4.5–5.5% | 31% | 59% | Median |
-| 5.5–6.5% | 17% | 28% |  |
-| 6.5–7.5% | 9% | 12% |  |
-| 7.5–8.5% | 3% | 3% |  |
-| 8.5–9.5% | 0.4% | 0.5% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 22% | 99.9% |  |
+| 4.5–5.5% | 67% | 78% | Median |
+| 5.5–6.5% | 10% | 10% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
+| 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% | Last Result |
-| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -144,7 +141,7 @@ Last result: **3** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29 November–5 December 2022](2022-12-05-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17 October–4 November 2022](2022-11-04-Kantar.html) | Kantar <br> CT24 | 0 | 0 | 0 | 0 | 0–1 |
 | [1–31 October 2022](2022-10-31-Median.html) | Median | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
@@ -259,9 +256,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% |  |
-| 1 | 47% | 50% | Median |
-| 2 | 4% | 4% |  |
+| 0 | 44% | 100% |  |
+| 1 | 56% | 56% | Median |
+| 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
 
