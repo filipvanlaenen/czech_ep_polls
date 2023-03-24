@@ -10,7 +10,10 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.9% | 12.9–14.9% | 12.7–15.2% | 12.4–15.4% | 12.0–16.0% |
+| N/A | [Poll Average](average.html) | 14.4% | 12.9–16.0% | 12.5–16.5% | 12.2–16.9% | 11.5–17.8% |
+| [1 February–31 March 2023](2023-03-31-PhoenixResearch.html) | Phoenix Research | 14.1% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.1% |
+| [12 February–7 March 2023](2023-03-07-Median.html) | Median | 14.5% | 13.0–16.3% | 12.6–16.8% | 12.2–17.2% | 11.5–18.1% |
+| [13 February–3 March 2023](2023-03-03-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [29 November–5 December 2022](2022-12-05-STEM.html) | STEM <br> CNN Prima News | 13.9% | 12.9–14.9% | 12.7–15.2% | 12.4–15.5% | 12.0–16.0% |
 | [17 October–4 November 2022](2022-11-04-Kantar.html) | Kantar <br> CT24 | 21.5% | 20.0–23.1% | 19.6–23.5% | 19.3–23.9% | 18.6–24.7% |
 | [1–31 October 2022](2022-10-31-Median.html) | Median | 13.5% | 11.8–15.4% | 11.4–16.0% | 11.0–16.5% | 10.2–17.5% |
@@ -126,14 +129,16 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% | Last Result |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 4% | 99.9% |  |
-| 12.5–13.5% | 29% | 96% |  |
-| 13.5–14.5% | 47% | 67% | Median |
-| 14.5–15.5% | 18% | 20% |  |
-| 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.1% | 0.1% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 10.5–11.5% | 0.5% | 100% |  |
+| 11.5–12.5% | 5% | 99.4% |  |
+| 12.5–13.5% | 19% | 94% |  |
+| 13.5–14.5% | 32% | 75% | Median |
+| 14.5–15.5% | 26% | 43% |  |
+| 15.5–16.5% | 13% | 17% |  |
+| 16.5–17.5% | 4% | 4% |  |
+| 17.5–18.5% | 0.7% | 0.8% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -144,7 +149,10 @@ Last result: **2** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [1 February–31 March 2023](2023-03-31-PhoenixResearch.html) | Phoenix Research | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [12 February–7 March 2023](2023-03-07-Median.html) | Median | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [13 February–3 March 2023](2023-03-03-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
 | [29 November–5 December 2022](2022-12-05-STEM.html) | STEM <br> CNN Prima News | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [17 October–4 November 2022](2022-11-04-Kantar.html) | Kantar <br> CT24 | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | [1–31 October 2022](2022-10-31-Median.html) | Median | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -259,9 +267,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0% | 100% | Last Result |
-| 3 | 48% | 100% |  |
-| 4 | 52% | 52% | Median |
-| 5 | 0% | 0% |  |
+| 2 | 0.4% | 100% | Last Result |
+| 3 | 57% | 99.6% | Median |
+| 4 | 41% | 43% |  |
+| 5 | 2% | 2% |  |
+| 6 | 0% | 0% |  |
 
 
