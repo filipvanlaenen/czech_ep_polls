@@ -10,7 +10,9 @@ Last result: **10.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.1–6.5% | 2.8–6.8% | 2.6–7.1% | 2.3–7.7% |
+| N/A | [Poll Average](average.html) | 4.1% | 2.8–6.2% | 2.5–6.6% | 2.3–6.9% | 2.0–7.6% |
+| [20 March–6 April 2023](2023-04-06-Kantar.html) | Kantar <br> CT24 | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.8–4.7% |
+| [2 March–3 April 2023](2023-04-03-Median.html) | Median | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.8% |
 | [1 February–31 March 2023](2023-03-31-PhoenixResearch.html) | Phoenix Research | 5.8% | 4.9–6.8% | 4.7–7.1% | 4.5–7.4% | 4.1–7.9% |
 | [12 February–7 March 2023](2023-03-07-Median.html) | Median | 3.5% | 2.8–4.6% | 2.6–4.8% | 2.4–5.1% | 2.1–5.6% |
 | [13 February–3 March 2023](2023-03-03-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -127,13 +129,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 21% | 98% |  |
-| 3.5–4.5% | 24% | 77% |  |
-| 4.5–5.5% | 20% | 53% | Median |
-| 5.5–6.5% | 24% | 33% |  |
-| 6.5–7.5% | 8% | 9% |  |
-| 7.5–8.5% | 0.7% | 0.8% |  |
+| 1.5–2.5% | 6% | 100% |  |
+| 2.5–3.5% | 28% | 94% |  |
+| 3.5–4.5% | 27% | 66% | Median |
+| 4.5–5.5% | 17% | 40% |  |
+| 5.5–6.5% | 17% | 22% |  |
+| 6.5–7.5% | 5% | 6% |  |
+| 7.5–8.5% | 0.5% | 0.5% |  |
 | 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% | Last Result |
 
@@ -146,7 +148,9 @@ Last result: **3** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20 March–6 April 2023](2023-04-06-Kantar.html) | Kantar <br> CT24 | 0 | 0 | 0 | 0 | 0 |
+| [2 March–3 April 2023](2023-04-03-Median.html) | Median | 0 | 0 | 0 | 0–1 | 0–1 |
 | [1 February–31 March 2023](2023-03-31-PhoenixResearch.html) | Phoenix Research | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [12 February–7 March 2023](2023-03-07-Median.html) | Median | 0 | 0 | 0 | 0 | 0–1 |
 | [13 February–3 March 2023](2023-03-03-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
@@ -264,9 +268,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 57% | 100% | Median |
-| 1 | 42% | 43% |  |
-| 2 | 0.6% | 0.6% |  |
+| 0 | 71% | 100% | Median |
+| 1 | 28% | 29% |  |
+| 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% | Last Result |
 
 
