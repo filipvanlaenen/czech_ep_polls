@@ -10,12 +10,14 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.4% | 13.6–17.9% | 13.2–18.5% | 12.9–19.0% | 12.2–19.9% |
+| N/A | [Poll Average](average.html) | 15.6% | 13.1–18.2% | 12.7–18.8% | 12.3–19.3% | 11.6–20.1% |
+| [12–30 June 2023](2023-06-30-Median.html) | Median | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [1 May–2 June 2023](2023-06-02-Median.html) | Median | 15.0% | 13.7–16.6% | 13.3–17.0% | 12.9–17.4% | 12.3–18.1% |
-| [15 May–2 June 2023](2023-06-02-Kantar.html) | Kantar <br> CT24 | 17.2% | 15.7–18.8% | 15.3–19.3% | 14.9–19.7% | 14.2–20.5% |
+| [15 May–2 June 2023](2023-06-02-Kantar.html) | Kantar <br> CT24 | 17.0% | 15.7–18.8% | 15.3–19.3% | 14.9–19.7% | 14.2–20.5% |
 | [18–29 May 2023](2023-05-29-STEM.html) | STEM <br> CNN Prima News | 14.5% | 13.2–15.9% | 12.8–16.3% | 12.5–16.6% | 11.9–17.3% |
 | [17 April–5 May 2023](2023-05-05-Kantar.html) | Kantar <br> CT24 | 17.0% | 15.6–18.7% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
-| [1–30 April 2023](2023-04-30-PhoenixResearch.html) | Phoenix Research | 13.9% | 12.6–15.4% | 12.2–15.8% | 11.9–16.2% | 11.3–16.9% |
+| [1 April–2 May 2023](2023-05-02-Median.html) | Median | 15.0% | N/A | N/A | N/A | N/A |
+| [1–30 April 2023](2023-04-30-PhoenixResearch.html) | Phoenix Research | 14.2% | 12.6–15.4% | 12.2–15.8% | 11.9–16.2% | 11.3–16.9% |
 | [20 March–6 April 2023](2023-04-06-Kantar.html) | Kantar <br> CT24 | 20.0% | 18.4–21.7% | 17.9–22.2% | 17.5–22.7% | 16.8–23.5% |
 | [2 March–3 April 2023](2023-04-03-Median.html) | Median | 15.3% | 13.9–16.9% | 13.5–17.3% | 13.2–17.7% | 12.6–18.4% |
 | [1 February–31 March 2023](2023-03-31-PhoenixResearch.html) | Phoenix Research | 14.1% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.1% |
@@ -34,9 +36,10 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 | [20 May–4 July 2022](2022-07-04-Median.html) | Median | 16.1% | 14.7–17.7% | 14.3–18.1% | 14.0–18.5% | 13.3–19.3% |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
 | [16 May–2 June 2022](2022-06-02-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
-| [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
+| [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 26.1% | N/A | N/A | N/A | N/A |
 | [14 March–1 April 2022](2022-04-01-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [14 February–4 March 2022](2022-03-04-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
+| [1–28 February 2022](2022-02-28-PhoenixResearch.html) | Phoenix Research | 15.4% | N/A | N/A | N/A | N/A |
 | [1 November–1 December 2021](2021-12-01-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [1–19 November 2021](2021-11-19-Kantar.html) | Kantar <br> CT24 | 15.5% | N/A | N/A | N/A | N/A |
 | [24–30 September 2021](2021-09-30-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
@@ -48,6 +51,7 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 | [31 August–8 September 2021](2021-09-08-STEM.html) | STEM | 0.0% | N/A | N/A | N/A | N/A |
 | [30 August–8 September 2021](2021-09-08-DataCollect.html) | Data Collect | 0.0% | N/A | N/A | N/A | N/A |
 | [1 August–2 September 2021](2021-09-02-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
+| [1–31 August 2021](2021-08-31-MédeaResearch.html) | Médea Research | 0.0% | N/A | N/A | N/A | N/A |
 | [2–13 August 2021](2021-08-13-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [9–12 August 2021](2021-08-12-STEM.html) | STEM | 0.0% | N/A | N/A | N/A | N/A |
 | [1–10 August 2021](2021-08-10-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
@@ -86,7 +90,7 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 | [1–30 November 2020](2020-11-30-Median.html) | Median | 10.5% | 9.1–12.3% | 8.7–12.7% | 8.4–13.2% | 7.7–14.1% |
 | [19 October–6 November 2020](2020-11-06-TNSKantar.html) | TNS Kantar <br> O24 | 10.4% | 9.2–11.9% | 8.9–12.3% | 8.6–12.7% | 8.0–13.4% |
 | [1–29 October 2020](2020-10-29-Median.html) | Median | 13.0% | 11.5–14.7% | 11.0–15.2% | 10.7–15.7% | 10.0–16.5% |
-| [21 September–9 October 2020](2020-10-09-TNSKantar.html) | TNS Kantar <br> O24 | 13.6% | 12.2–15.2% | 11.8–15.6% | 11.5–16.0% | 10.9–16.8% |
+| [21 September–9 October 2020](2020-10-09-TNSKantar.html) | TNS Kantar <br> O24 | 13.5% | 12.2–15.2% | 11.8–15.6% | 11.5–16.0% | 10.9–16.8% |
 | [5–20 September 2020](2020-09-20-CVVM.html) | CVVM | 12.5% | 11.0–14.3% | 10.5–14.8% | 10.2–15.3% | 9.5–16.2% |
 | [31 August–13 September 2020](2020-09-13-STEM.html) | STEM | 10.6% | 9.5–11.9% | 9.1–12.3% | 8.9–12.7% | 8.4–13.3% |
 | [24 August–11 September 2020](2020-09-11-TNSKantar.html) | TNS Kantar <br> O24 | 15.0% | 13.6–16.6% | 13.2–17.1% | 12.8–17.5% | 12.1–18.3% |
@@ -96,6 +100,7 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 | [20 June–2 July 2020](2020-07-02-CVVM.html) | CVVM | 14.1% | 12.5–15.9% | 12.0–16.4% | 11.7–16.8% | 11.0–17.8% |
 | [18 May–5 June 2020](2020-06-05-TNSKantar.html) | TNS Kantar <br> O24 | 13.5% | 12.3–14.8% | 12.0–15.2% | 11.7–15.6% | 11.1–16.2% |
 | [22 May–1 June 2020](2020-06-01-STEM.html) | STEM | 11.4% | 10.3–12.7% | 9.9–13.1% | 9.7–13.5% | 9.1–14.1% |
+| [15–30 April 2020](2020-04-30-g82.html) | g82 | 10.0% | N/A | N/A | N/A | N/A |
 | [13–30 April 2020](2020-04-30-TNSKantar.html) | TNS Kantar <br> O24 | 11.5% | 10.2–12.9% | 9.9–13.4% | 9.6–13.7% | 9.0–14.5% |
 | [9–27 March 2020](2020-03-27-TNSKantar.html) | TNS Kantar <br> O24 | 14.0% | 12.6–15.5% | 12.2–16.0% | 11.9–16.4% | 11.2–17.1% |
 | [29 February–26 March 2020](2020-03-26-Median.html) | Median | 13.0% | 11.7–14.4% | 11.3–14.8% | 11.0–15.2% | 10.4–15.9% |
@@ -118,7 +123,7 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 | [16 September–5 October 2019](2019-10-05-TNSKantar.html) | TNS Kantar | 14.2% | 12.9–15.5% | 12.6–15.9% | 12.3–16.3% | 11.7–16.9% |
 | [28 August–29 September 2019](2019-09-29-Median.html) | Median | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.6% | 10.0–15.3% |
 | [20 August–18 September 2019](2019-09-18-PhoenixResearch.html) | Phoenix Research | 10.8% | 9.7–12.1% | 9.3–12.5% | 9.1–12.8% | 8.6–13.5% |
-| [7–17 September 2019](2019-09-17-CVVM.html) | CVVM | 12.1% | 10.6–14.0% | 10.1–14.5% | 9.8–15.0% | 9.1–15.9% |
+| [7–17 September 2019](2019-09-17-CVVM.html) | CVVM | 12.0% | 10.6–14.0% | 10.1–14.5% | 9.8–15.0% | 9.1–15.9% |
 | [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 14.5% | 13.3–15.9% | 12.9–16.3% | 12.6–16.6% | 12.0–17.3% |
 | [27 July–26 August 2019](2019-08-26-Median.html) | Median | 14.3% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.7–17.3% |
 | [1–26 July 2019](2019-07-26-Median.html) | Median | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.6% | 10.0–15.3% |
@@ -136,17 +141,17 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% | Last Result |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 1.1% | 99.9% |  |
-| 12.5–13.5% | 7% | 98.9% |  |
-| 13.5–14.5% | 20% | 91% |  |
-| 14.5–15.5% | 24% | 71% | Median |
-| 15.5–16.5% | 20% | 47% |  |
-| 16.5–17.5% | 14% | 28% |  |
-| 17.5–18.5% | 9% | 14% |  |
-| 18.5–19.5% | 4% | 5% |  |
-| 19.5–20.5% | 0.9% | 1.0% |  |
-| 20.5–21.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0.4% | 100% |  |
+| 11.5–12.5% | 3% | 99.6% |  |
+| 12.5–13.5% | 12% | 96% |  |
+| 13.5–14.5% | 18% | 84% |  |
+| 14.5–15.5% | 15% | 66% |  |
+| 15.5–16.5% | 15% | 51% | Median |
+| 16.5–17.5% | 16% | 36% |  |
+| 17.5–18.5% | 13% | 19% |  |
+| 18.5–19.5% | 5% | 7% |  |
+| 19.5–20.5% | 1.3% | 2% |  |
+| 20.5–21.5% | 0.2% | 0.2% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
 
@@ -158,11 +163,13 @@ Last result: **2** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
+| [12–30 June 2023](2023-06-30-Median.html) | Median | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [1 May–2 June 2023](2023-06-02-Median.html) | Median | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [15 May–2 June 2023](2023-06-02-Kantar.html) | Kantar <br> CT24 | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [18–29 May 2023](2023-05-29-STEM.html) | STEM <br> CNN Prima News | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [17 April–5 May 2023](2023-05-05-Kantar.html) | Kantar <br> CT24 | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [1 April–2 May 2023](2023-05-02-Median.html) | Median |  |  |  |  |  |
 | [1–30 April 2023](2023-04-30-PhoenixResearch.html) | Phoenix Research | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [20 March–6 April 2023](2023-04-06-Kantar.html) | Kantar <br> CT24 | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [2 March–3 April 2023](2023-04-03-Median.html) | Median | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
@@ -185,6 +192,7 @@ Last result: **2** seats (General Election of 24–25 May 2019)
 | [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
 | [14 March–1 April 2022](2022-04-01-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
 | [14 February–4 March 2022](2022-03-04-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
+| [1–28 February 2022](2022-02-28-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
 | [1 November–1 December 2021](2021-12-01-Median.html) | Median |  |  |  |  |  |
 | [1–19 November 2021](2021-11-19-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
 | [24–30 September 2021](2021-09-30-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
@@ -196,6 +204,7 @@ Last result: **2** seats (General Election of 24–25 May 2019)
 | [31 August–8 September 2021](2021-09-08-STEM.html) | STEM |  |  |  |  |  |
 | [30 August–8 September 2021](2021-09-08-DataCollect.html) | Data Collect |  |  |  |  |  |
 | [1 August–2 September 2021](2021-09-02-Median.html) | Median |  |  |  |  |  |
+| [1–31 August 2021](2021-08-31-MédeaResearch.html) | Médea Research |  |  |  |  |  |
 | [2–13 August 2021](2021-08-13-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
 | [9–12 August 2021](2021-08-12-STEM.html) | STEM |  |  |  |  |  |
 | [1–10 August 2021](2021-08-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
@@ -244,6 +253,7 @@ Last result: **2** seats (General Election of 24–25 May 2019)
 | [20 June–2 July 2020](2020-07-02-CVVM.html) | CVVM | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | [18 May–5 June 2020](2020-06-05-TNSKantar.html) | TNS Kantar <br> O24 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [22 May–1 June 2020](2020-06-01-STEM.html) | STEM | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [15–30 April 2020](2020-04-30-g82.html) | g82 |  |  |  |  |  |
 | [13–30 April 2020](2020-04-30-TNSKantar.html) | TNS Kantar <br> O24 | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [9–27 March 2020](2020-03-27-TNSKantar.html) | TNS Kantar <br> O24 | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [29 February–26 March 2020](2020-03-26-Median.html) | Median | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -284,10 +294,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 5% | 100% |  |
-| 4 | 63% | 95% | Median |
-| 5 | 32% | 32% |  |
-| 6 | 0.6% | 0.6% |  |
+| 3 | 4% | 100% |  |
+| 4 | 60% | 96% | Median |
+| 5 | 35% | 36% |  |
+| 6 | 0.9% | 0.9% |  |
 | 7 | 0% | 0% |  |
 
 
