@@ -37,7 +37,7 @@ Last result: **16.1%** (General Election of 24–25 May 2019)
 | [20 May–4 July 2022](2022-07-04-Median.html) | Median | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.5–32.8% |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 28.5% | 26.7–30.4% | 26.2–30.9% | 25.8–31.4% | 25.0–32.3% |
 | [16 May–2 June 2022](2022-06-02-Kantar.html) | Kantar <br> CT24 | 29.4% | 27.0–32.0% | 26.4–32.7% | 25.8–33.4% | 24.7–34.6% |
-| [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 28.4% | 26.2–30.9% | 25.5–31.6% | 25.0–32.2% | 23.9–33.4% |
+| [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 27.5% | 26.2–30.9% | 25.5–31.6% | 25.0–32.2% | 23.9–33.4% |
 | [14 March–1 April 2022](2022-04-01-Kantar.html) | Kantar <br> CT24 | 28.5% | N/A | N/A | N/A | N/A |
 | [14 February–4 March 2022](2022-03-04-Kantar.html) | Kantar <br> CT24 | 27.4% | N/A | N/A | N/A | N/A |
 | [1–28 February 2022](2022-02-28-PhoenixResearch.html) | Phoenix Research | 26.4% | N/A | N/A | N/A | N/A |
