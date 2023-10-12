@@ -10,7 +10,8 @@ Last result: **5.2%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 2.2–3.5% | 2.1–3.7% | 2.0–3.9% | 1.7–4.3% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
+| [11–29 September 2023](2023-09-29-Kantar.html) | Kantar <br> CT24 | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [7–17 September 2023](2023-09-17-STEM.html) | STEM <br> CNN Prima News | 2.8% | 2.2–3.5% | 2.1–3.7% | 2.0–3.9% | 1.7–4.3% |
 | [1 July–8 August 2023](2023-08-08-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [12–30 June 2023](2023-06-30-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
@@ -141,10 +142,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 28% | 99.9% |  |
-| 2.5–3.5% | 63% | 72% | Median |
-| 3.5–4.5% | 8% | 8% |  |
-| 4.5–5.5% | 0.1% | 0.1% | Last Result |
+| 1.5–2.5% | 23% | 99.9% |  |
+| 2.5–3.5% | 64% | 77% | Median |
+| 3.5–4.5% | 13% | 13% |  |
+| 4.5–5.5% | 0.4% | 0.4% | Last Result |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -157,6 +158,7 @@ Last result: **1** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [11–29 September 2023](2023-09-29-Kantar.html) | Kantar <br> CT24 | 0 | 0 | 0 | 0 | 0 |
 | [7–17 September 2023](2023-09-17-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
 | [1 July–8 August 2023](2023-08-08-Median.html) | Median |  |  |  |  |  |
 | [12–30 June 2023](2023-06-30-Median.html) | Median |  |  |  |  |  |
