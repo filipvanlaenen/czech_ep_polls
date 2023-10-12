@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 05 Oct 2023 14:03:18 +0200</pubDate>
+    <pubDate>Thu, 12 Oct 2023 22:24:59 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar for CT24, 11–29 September 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2023-09-29-Kantar.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;TOP 09 (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;ANO 2011 (RE): 9–11 seats&lt;/li&gt;&lt;li&gt;Přísaha (*): 0 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Právo Respekt Odbornost (*): 0 seats&lt;/li&gt;&lt;li&gt;Strana svobodných občanů (NI): 0 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2023-09-29-Kantar-seats.png"
+        length="316112"
+        type="image/png"/>
+      <pubDate>Thu, 12 Oct 2023 22:24:59 +0200</pubDate>
+      <dc:date>2023-10-12T22:24:59.810546+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for CT24, 11–29 September 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2023-09-29-Kantar.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2023-09-29-Kantar-coalitions-seats.png"
+        length="184220"
+        type="image/png"/>
+      <pubDate>Thu, 12 Oct 2023 22:24:59 +0200</pubDate>
+      <dc:date>2023-10-12T22:24:59.810546+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for CT24, 11–29 September 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2023-09-29-Kantar.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;TOP 09 (EPP): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 2.5–4.8%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 6.9–10.4%&lt;/li&gt;&lt;li&gt;ANO 2011 (RE): 30.6–36.5%&lt;/li&gt;&lt;li&gt;Přísaha (*): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 10.1–14.2%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Právo Respekt Odbornost (*): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Strana svobodných občanů (NI): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 6.0–9.4%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 2.5–4.8%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 7.8–11.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2023-09-29-Kantar.png"
+        length="440120"
+        type="image/png"/>
+      <pubDate>Thu, 12 Oct 2023 22:24:59 +0200</pubDate>
+      <dc:date>2023-10-12T22:24:59.810546+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by STEM for CNN Prima News, 7–17 September 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2023-09-17-STEM.html#seats</link>
@@ -3159,6 +3189,6 @@
       <pubDate>Mon, 30 Dec 2019 14:19:35 +0100</pubDate>
       <dc:date>2019-12-30T14:19:35+01:00</dc:date>
     </item>
-    <dc:date>2023-10-05T14:03:18.444346+02:00</dc:date>
+    <dc:date>2023-10-12T22:24:59.810546+02:00</dc:date>
   </channel>
 </rss>
