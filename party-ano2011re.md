@@ -11,6 +11,7 @@ Last result: **16.1%** (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32.1% | 29.7–34.8% | 29.1–35.5% | 28.6–36.0% | 27.7–37.1% |
+| [5 September–2 October 2023](2023-10-02-Median.html) | Median | 34.0% | N/A | N/A | N/A | N/A |
 | [11–29 September 2023](2023-09-29-Kantar.html) | Kantar <br> CT24 | 33.5% | 31.6–35.5% | 31.1–36.0% | 30.6–36.5% | 29.7–37.5% |
 | [7–17 September 2023](2023-09-17-STEM.html) | STEM <br> CNN Prima News | 30.8% | 29.1–32.6% | 28.6–33.1% | 28.2–33.6% | 27.4–34.5% |
 | [1 July–8 August 2023](2023-08-08-Median.html) | Median | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–35.9% | 29.3–36.9% |
@@ -39,7 +40,7 @@ Last result: **16.1%** (General Election of 24–25 May 2019)
 | [20 May–4 July 2022](2022-07-04-Median.html) | Median | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.5–32.8% |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 28.5% | 26.7–30.4% | 26.2–30.9% | 25.8–31.4% | 25.0–32.3% |
 | [16 May–2 June 2022](2022-06-02-Kantar.html) | Kantar <br> CT24 | 29.4% | 27.0–32.0% | 26.4–32.7% | 25.8–33.4% | 24.7–34.6% |
-| [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 27.5% | 26.2–30.9% | 25.5–31.6% | 25.0–32.2% | 23.9–33.4% |
+| [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 28.4% | 26.2–30.9% | 25.5–31.6% | 25.0–32.2% | 23.9–33.4% |
 | [14 March–1 April 2022](2022-04-01-Kantar.html) | Kantar <br> CT24 | 28.5% | N/A | N/A | N/A | N/A |
 | [14 February–4 March 2022](2022-03-04-Kantar.html) | Kantar <br> CT24 | 27.4% | N/A | N/A | N/A | N/A |
 | [1–28 February 2022](2022-02-28-PhoenixResearch.html) | Phoenix Research | 26.4% | N/A | N/A | N/A | N/A |
@@ -176,6 +177,7 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 8–11 | 8–11 | 8–11 | 8–11 |
+| [5 September–2 October 2023](2023-10-02-Median.html) | Median |  |  |  |  |  |
 | [11–29 September 2023](2023-09-29-Kantar.html) | Kantar <br> CT24 | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
 | [7–17 September 2023](2023-09-17-STEM.html) | STEM <br> CNN Prima News | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [1 July–8 August 2023](2023-08-08-Median.html) | Median | 9 | 8–10 | 8–10 | 8–10 | 8–10 |

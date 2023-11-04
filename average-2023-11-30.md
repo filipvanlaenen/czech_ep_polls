@@ -10,6 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24–25 May 2019 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 29–36% <br> 8–11 | 4–7% <br> 0–2 | 4–9% <br> 0–3 | 3–5% <br> 0 | 2–5% <br> 0–1 | 3–6% <br> 0–1 | 10–15% <br> 3–4 | 2–4% <br> 0 | 7–11% <br> 2–3 | 1–4% <br> 0 | 8–12% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0 | 1–4% <br> 0 |
+| [5 September–2 October 2023](2023-10-02-Median.html) | Median | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11–29 September 2023](2023-09-29-Kantar.html) | Kantar <br> CT24 | 31–37% <br> 9–11 | 4–7% <br> 0–1 | 6–9% <br> 2–3 | 2–5% <br> 0 | 2–4% <br> 0 | 2–5% <br> 0 | 10–14% <br> 3–4 | 2–4% <br> 0 | 7–10% <br> 2–3 | 1–3% <br> 0 | 8–11% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 | 2–4% <br> 0 |
 | [7–17 September 2023](2023-09-17-STEM.html) | STEM <br> CNN Prima News | 28–34% <br> 8–10 | 4–7% <br> 0–2 | 4–7% <br> 0–2 | 3–5% <br> 0 | 3–6% <br> 0–1 | 4–6% <br> 0–2 | 11–15% <br> 3–4 | 2–4% <br> 0 | 8–11% <br> 2–3 | 2–4% <br> 0 | 9–13% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 1–2% <br> 0 |
 | 24–25 May 2019 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -683,7 +684,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
-+ **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Number of polls included in this average:** 3
++ **Lowest number of simulations done in a poll included in this average:** 0
 + **Total number of simulations done in the polls included in this average:** 2,097,152
 + **Error estimate:** 2.21%
