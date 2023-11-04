@@ -10,8 +10,8 @@ Last result: **10.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 3.1–5.6% | 2.8–5.9% | 2.6–6.2% | 2.3–6.7% |
-| [5 September–2 October 2023](2023-10-02-Median.html) | Median | 4.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 4.2% | 3.1–5.4% | 2.9–5.8% | 2.7–6.0% | 2.4–6.6% |
+| [5 September–2 October 2023](2023-10-02-Median.html) | Median | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [11–29 September 2023](2023-09-29-Kantar.html) | Kantar <br> CT24 | 3.5% | 2.8–4.3% | 2.6–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [7–17 September 2023](2023-09-17-STEM.html) | STEM <br> CNN Prima News | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.9–6.4% | 3.5–6.9% |
 | [1 July–8 August 2023](2023-08-08-Median.html) | Median | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
@@ -143,12 +143,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 25% | 98% |  |
-| 3.5–4.5% | 32% | 74% | Median |
-| 4.5–5.5% | 30% | 42% |  |
-| 5.5–6.5% | 10% | 11% |  |
-| 6.5–7.5% | 0.8% | 0.8% |  |
+| 1.5–2.5% | 1.1% | 100% |  |
+| 2.5–3.5% | 22% | 98.9% |  |
+| 3.5–4.5% | 41% | 77% | Median |
+| 4.5–5.5% | 27% | 35% |  |
+| 5.5–6.5% | 8% | 8% |  |
+| 6.5–7.5% | 0.5% | 0.6% |  |
 | 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% | Last Result |
@@ -163,7 +163,7 @@ Last result: **3** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [5 September–2 October 2023](2023-10-02-Median.html) | Median |  |  |  |  |  |
+| [5 September–2 October 2023](2023-10-02-Median.html) | Median | 0 | 0 | 0 | 0–1 | 0–1 |
 | [11–29 September 2023](2023-09-29-Kantar.html) | Kantar <br> CT24 | 0 | 0 | 0 | 0 | 0–1 |
 | [7–17 September 2023](2023-09-17-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [1 July–8 August 2023](2023-08-08-Median.html) | Median | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -296,9 +296,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 64% | 100% | Median |
-| 1 | 35% | 36% |  |
-| 2 | 2% | 2% |  |
+| 0 | 75% | 100% | Median |
+| 1 | 24% | 25% |  |
+| 2 | 1.1% | 1.1% |  |
 | 3 | 0% | 0% | Last Result |
 
 
