@@ -10,7 +10,8 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.8% | 11.3–14.2% | 10.9–14.7% | 10.6–15.0% | 9.9–15.7% |
+| N/A | [Poll Average](average.html) | 15.5% | 14.2–16.9% | 13.9–17.3% | 13.6–17.7% | 13.0–18.4% |
+| [16 October–3 November 2023](2023-11-03-Kantar.html) | Kantar <br> CT24 | 15.5% | 14.2–16.9% | 13.9–17.3% | 13.6–17.7% | 13.0–18.4% |
 | [5 September–2 October 2023](2023-10-02-Median.html) | Median | 13.0% | 11.7–14.4% | 11.4–14.8% | 11.1–15.2% | 10.5–15.9% |
 | [11–29 September 2023](2023-09-29-Kantar.html) | Kantar <br> CT24 | 12.0% | 10.8–13.4% | 10.4–13.9% | 10.1–14.2% | 9.6–14.9% |
 | [7–17 September 2023](2023-09-17-STEM.html) | STEM <br> CNN Prima News | 13.1% | 11.9–14.5% | 11.5–14.9% | 11.2–15.2% | 10.7–15.9% |
@@ -40,7 +41,7 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 | [20 May–4 July 2022](2022-07-04-Median.html) | Median | 16.1% | 14.7–17.7% | 14.3–18.1% | 14.0–18.5% | 13.3–19.3% |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
 | [16 May–2 June 2022](2022-06-02-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
-| [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
+| [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 26.1% | N/A | N/A | N/A | N/A |
 | [14 March–1 April 2022](2022-04-01-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [14 February–4 March 2022](2022-03-04-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–28 February 2022](2022-02-28-PhoenixResearch.html) | Phoenix Research | 15.4% | N/A | N/A | N/A | N/A |
@@ -143,16 +144,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% | Last Result |
-| 8.5–9.5% | 0.2% | 100% |  |
-| 9.5–10.5% | 2% | 99.8% |  |
-| 10.5–11.5% | 12% | 98% |  |
-| 11.5–12.5% | 28% | 86% |  |
-| 12.5–13.5% | 33% | 58% | Median |
-| 13.5–14.5% | 19% | 25% |  |
-| 14.5–15.5% | 5% | 6% |  |
-| 15.5–16.5% | 0.7% | 0.8% |  |
-| 16.5–17.5% | 0.1% | 0.1% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.1% | 100% |  |
+| 12.5–13.5% | 2% | 99.9% |  |
+| 13.5–14.5% | 15% | 98% |  |
+| 14.5–15.5% | 33% | 83% |  |
+| 15.5–16.5% | 33% | 50% | Median |
+| 16.5–17.5% | 14% | 17% |  |
+| 17.5–18.5% | 3% | 3% |  |
+| 18.5–19.5% | 0.3% | 0.3% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -163,7 +166,8 @@ Last result: **2** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| [16 October–3 November 2023](2023-11-03-Kantar.html) | Kantar <br> CT24 | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [5 September–2 October 2023](2023-10-02-Median.html) | Median | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [11–29 September 2023](2023-09-29-Kantar.html) | Kantar <br> CT24 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–17 September 2023](2023-09-17-STEM.html) | STEM <br> CNN Prima News | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -297,10 +301,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.2% | 100% | Last Result |
-| 3 | 63% | 99.8% | Median |
-| 4 | 37% | 37% |  |
-| 5 | 0.6% | 0.6% |  |
+| 2 | 0% | 100% | Last Result |
+| 3 | 2% | 100% |  |
+| 4 | 91% | 98% | Median |
+| 5 | 6% | 6% |  |
 | 6 | 0% | 0% |  |
 
 
