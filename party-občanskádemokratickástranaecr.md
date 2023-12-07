@@ -13,7 +13,7 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 | N/A | [Poll Average](average.html) | 13.6% | 10.8–16.4% | 10.4–16.9% | 10.1–17.3% | 9.5–18.1% |
 | [1–30 November 2023](2023-11-30-STEM.html) | STEM <br> CNN Prima News | 11.6% | 10.4–12.9% | 10.1–13.3% | 9.8–13.6% | 9.3–14.3% |
 | [16 October–3 November 2023](2023-11-03-Kantar.html) | Kantar <br> CT24 | 15.5% | 14.2–16.9% | 13.9–17.3% | 13.6–17.7% | 13.0–18.4% |
-| [3–31 October 2023](2023-10-31-Median.html) | Median | 13.5% | N/A | N/A | N/A | N/A |
+| [3–31 October 2023](2023-10-31-Median.html) | Median | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.7% | 10.9–16.5% |
 | [5 September–2 October 2023](2023-10-02-Median.html) | Median | 13.0% | 11.7–14.4% | 11.4–14.8% | 11.1–15.2% | 10.5–15.9% |
 | [11–29 September 2023](2023-09-29-Kantar.html) | Kantar <br> CT24 | 12.0% | 10.8–13.4% | 10.4–13.9% | 10.1–14.2% | 9.6–14.9% |
 | [7–17 September 2023](2023-09-17-STEM.html) | STEM <br> CNN Prima News | 13.1% | 11.9–14.5% | 11.5–14.9% | 11.2–15.2% | 10.7–15.9% |
@@ -171,7 +171,7 @@ Last result: **2** seats (General Election of 24–25 May 2019)
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [1–30 November 2023](2023-11-30-STEM.html) | STEM <br> CNN Prima News | 3 | 3 | 3 | 3 | 3–4 |
 | [16 October–3 November 2023](2023-11-03-Kantar.html) | Kantar <br> CT24 | 4 | 4 | 4–5 | 4–5 | 3–5 |
-| [3–31 October 2023](2023-10-31-Median.html) | Median |  |  |  |  |  |
+| [3–31 October 2023](2023-10-31-Median.html) | Median | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [5 September–2 October 2023](2023-10-02-Median.html) | Median | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [11–29 September 2023](2023-09-29-Kantar.html) | Kantar <br> CT24 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–17 September 2023](2023-09-17-STEM.html) | STEM <br> CNN Prima News | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
