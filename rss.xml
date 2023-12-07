@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 05 Dec 2023 22:05:56 +0100</pubDate>
+    <pubDate>Thu, 07 Dec 2023 18:45:24 +0100</pubDate>
     <item>
       <title>Opinion Poll by STEM for CNN Prima News, 1–30 November 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2023-11-30-STEM.html#seats</link>
@@ -68,6 +68,36 @@
         type="image/png"/>
       <pubDate>Fri, 17 Nov 2023 20:28:58 +0100</pubDate>
       <dc:date>2023-11-17T20:28:58.437698+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median, 3–31 October 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2023-10-31-Median.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;TOP 09 (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;ANO 2011 (RE): 9–11 seats&lt;/li&gt;&lt;li&gt;Přísaha (*): 0 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Právo Respekt Odbornost (*): 0 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2023-10-31-Median-seats.png"
+        length="330669"
+        type="image/png"/>
+      <pubDate>Thu, 07 Dec 2023 18:45:24 +0100</pubDate>
+      <dc:date>2023-12-07T18:45:24.855465+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median, 3–31 October 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2023-10-31-Median.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2023-10-31-Median-coalitions-seats.png"
+        length="197630"
+        type="image/png"/>
+      <pubDate>Thu, 07 Dec 2023 18:45:24 +0100</pubDate>
+      <dc:date>2023-12-07T18:45:24.855465+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median, 3–31 October 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2023-10-31-Median.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;TOP 09 (EPP): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 2.6–4.9%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 7.3–10.9%&lt;/li&gt;&lt;li&gt;ANO 2011 (RE): 32.2–38.0%&lt;/li&gt;&lt;li&gt;Přísaha (*): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 11.5–15.7%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0.9–2.4%&lt;/li&gt;&lt;li&gt;Právo Respekt Odbornost (*): 1.7–3.6%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 2.6–4.9%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 8.8–12.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2023-10-31-Median.png"
+        length="409355"
+        type="image/png"/>
+      <pubDate>Thu, 07 Dec 2023 18:45:24 +0100</pubDate>
+      <dc:date>2023-12-07T18:45:24.855465+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Median, 5 September–2 October 2023 – Seat Projections for the Parties</title>
@@ -3279,6 +3309,6 @@
       <pubDate>Mon, 30 Dec 2019 14:19:35 +0100</pubDate>
       <dc:date>2019-12-30T14:19:35+01:00</dc:date>
     </item>
-    <dc:date>2023-12-05T22:05:56.663245+01:00</dc:date>
+    <dc:date>2023-12-07T18:45:24.855465+01:00</dc:date>
   </channel>
 </rss>
