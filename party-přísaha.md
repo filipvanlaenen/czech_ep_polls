@@ -30,7 +30,7 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 | [2 March–3 April 2023](2023-04-03-Median.html) | Median | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [1 February–31 March 2023](2023-03-31-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
 | [12 February–7 March 2023](2023-03-07-Median.html) | Median | 2.5% | 1.9–3.4% | 1.7–3.6% | 1.6–3.9% | 1.4–4.3% |
-| [13 February–3 March 2023](2023-03-03-Kantar.html) | Kantar <br> CT24 | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
+| [13 February–3 March 2023](2023-03-03-Kantar.html) | Kantar <br> CT24 | 2.0% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [29 November–5 December 2022](2022-12-05-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
 | [17 October–4 November 2022](2022-11-04-Kantar.html) | Kantar <br> CT24 | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.8–3.6% | 1.5–3.9% |
 | [1–31 October 2022](2022-10-31-Median.html) | Median | 2.0% | 1.4–3.0% | 1.3–3.3% | 1.2–3.5% | 0.9–4.0% |
@@ -43,47 +43,47 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 | [8 July–2 August 2022](2022-08-02-Median.html) | Median | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.7% |
 | [20 May–4 July 2022](2022-07-04-Median.html) | Median | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 3.0% | 2.5–3.9% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
-| [16 May–2 June 2022](2022-06-02-Kantar.html) | Kantar <br> CT24 | 2.5% | 1.9–3.6% | 1.7–3.9% | 1.5–4.2% | 1.2–4.8% |
-| [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 3.0% | 2.3–4.1% | 2.1–4.4% | 1.9–4.7% | 1.6–5.3% |
-| [14 March–1 April 2022](2022-04-01-Kantar.html) | Kantar <br> CT24 | 3.9% | N/A | N/A | N/A | N/A |
-| [14 February–4 March 2022](2022-03-04-Kantar.html) | Kantar <br> CT24 | 3.5% | N/A | N/A | N/A | N/A |
+| [16 May–2 June 2022](2022-06-02-Kantar.html) | Kantar <br> CT24 | 2.1% | 1.9–3.6% | 1.7–3.9% | 1.5–4.2% | 1.2–4.8% |
+| [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 2.3% | 2.3–4.1% | 2.1–4.4% | 1.9–4.7% | 1.6–5.3% |
+| [14 March–1 April 2022](2022-04-01-Kantar.html) | Kantar <br> CT24 | 3.1% | N/A | N/A | N/A | N/A |
+| [14 February–4 March 2022](2022-03-04-Kantar.html) | Kantar <br> CT24 | 2.7% | N/A | N/A | N/A | N/A |
 | [1–28 February 2022](2022-02-28-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
-| [1 November–1 December 2021](2021-12-01-Median.html) | Median | 4.0% | 3.2–5.1% | 3.0–5.4% | 2.8–5.7% | 2.4–6.2% |
+| [1 November–1 December 2021](2021-12-01-Median.html) | Median | 3.2% | 3.2–5.1% | 3.0–5.4% | 2.8–5.7% | 2.4–6.2% |
 | [1–19 November 2021](2021-11-19-Kantar.html) | Kantar <br> CT24 | 2.5% | 2.7–4.7% | 2.4–5.1% | 2.2–5.4% | 1.9–6.0% |
-| [24–30 September 2021](2021-09-30-STEM.html) | STEM <br> CNN Prima News | 5.7% | 4.9–6.6% | 4.7–6.9% | 4.5–7.1% | 4.2–7.6% |
-| [1–30 September 2021](2021-09-30-Median.html) | Median | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
-| [23–29 September 2021](2021-09-29-Median.html) | Median <br> iDNES | 3.9% | N/A | N/A | N/A | N/A |
-| [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
-| [8–12 September 2021](2021-09-12-Ipsos.html) | Ipsos | 5.5% | 4.7–6.5% | 4.4–6.8% | 4.3–7.1% | 3.9–7.6% |
-| [1–10 September 2021](2021-09-10-PhoenixResearch.html) | Phoenix Research | 6.0% | 5.2–7.0% | 4.9–7.3% | 4.7–7.6% | 4.4–8.1% |
-| [31 August–8 September 2021](2021-09-08-STEM.html) | STEM | 2.2% | N/A | N/A | N/A | N/A |
-| [30 August–8 September 2021](2021-09-08-DataCollect.html) | Data Collect | 4.5% | 3.8–5.4% | 3.6–5.6% | 3.5–5.8% | 3.2–6.3% |
-| [1 August–2 September 2021](2021-09-02-Median.html) | Median | 4.0% | N/A | N/A | N/A | N/A |
-| [1–31 August 2021](2021-08-31-MédeaResearch.html) | Médea Research | 4.9% | N/A | N/A | N/A | N/A |
-| [2–13 August 2021](2021-08-13-Kantar.html) | Kantar <br> CT24 | 5.6% | N/A | N/A | N/A | N/A |
-| [9–12 August 2021](2021-08-12-STEM.html) | STEM | 3.3% | N/A | N/A | N/A | N/A |
-| [1–10 August 2021](2021-08-10-PhoenixResearch.html) | Phoenix Research | 6.1% | N/A | N/A | N/A | N/A |
-| [1–31 July 2021](2021-07-31-Median.html) | Median | 6.5% | N/A | N/A | N/A | N/A |
-| [26 June–11 July 2021](2021-07-11-CVVM.html) | CVVM | 3.1% | 2.2–4.5% | 2.0–4.9% | 1.8–5.3% | 1.4–6.1% |
-| [1–10 July 2021](2021-07-10-PhoenixResearch.html) | Phoenix Research | 5.3% | N/A | N/A | N/A | N/A |
-| [1–30 June 2021](2021-06-30-Median.html) | Median | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
-| [21–29 June 2021](2021-06-29-STEM.html) | STEM | 5.1% | 4.1–6.5% | 3.9–6.8% | 3.6–7.2% | 3.2–7.9% |
-| [7–18 June 2021](2021-06-18-Kantar.html) | Kantar <br> CT24 | 6.0% | 5.1–7.1% | 4.8–7.4% | 4.6–7.7% | 4.2–8.2% |
-| [29 May–13 June 2021](2021-06-13-CVVM.html) | CVVM | 2.5% | 1.9–3.5% | 1.7–3.7% | 1.5–4.0% | 1.3–4.5% |
-| [31 May–11 June 2021](2021-06-11-DataCollect.html) | Data Collect <br> CT24 | 5.0% | 4.1–6.2% | 3.8–6.6% | 3.6–6.9% | 3.2–7.6% |
-| [1–10 June 2021](2021-06-10-PhoenixResearch.html) | Phoenix Research | 4.4% | 3.7–5.4% | 3.6–5.6% | 3.4–5.9% | 3.1–6.3% |
-| [2–6 June 2021](2021-06-06-Ipsos.html) | Ipsos | 5.6% | 4.6–6.9% | 4.3–7.2% | 4.1–7.6% | 3.6–8.2% |
-| [1–31 May 2021](2021-05-31-Median.html) | Median | 3.9% | 3.2–4.8% | 3.1–5.0% | 2.9–5.3% | 2.6–5.7% |
-| [10–28 May 2021](2021-05-28-Kantar.html) | Kantar <br> CT24 | 5.0% | 4.2–6.1% | 3.9–6.4% | 3.7–6.6% | 3.4–7.2% |
-| [19–24 May 2021](2021-05-24-Ipsos.html) | Ipsos | 4.4% | 3.5–5.6% | 3.2–5.9% | 3.0–6.2% | 2.7–6.9% |
-| [3–21 May 2021](2021-05-21-DataCollect.html) | Data Collect <br> CT24 | 3.9% | 3.0–5.0% | 2.8–5.3% | 2.6–5.6% | 2.3–6.2% |
-| [1–15 May 2021](2021-05-15-PhoenixResearch.html) | Phoenix Research | 3.2% | 2.5–4.0% | 2.4–4.2% | 2.2–4.4% | 2.0–4.8% |
-| [1 April–4 May 2021](2021-05-04-Median.html) | Median | 2.5% | 1.9–3.5% | 1.7–3.7% | 1.6–4.0% | 1.3–4.5% |
-| [12–30 April 2021](2021-04-30-Kantar.html) | Kantar <br> CT24 | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.8–3.6% | 1.5–3.9% |
-| [7–13 April 2021](2021-04-13-STEM.html) | STEM | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
-| [8–12 April 2021](2021-04-12-Ipsos.html) | Ipsos <br> SPOLU | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
+| [24–30 September 2021](2021-09-30-STEM.html) | STEM <br> CNN Prima News | 4.8% | 4.9–6.6% | 4.7–6.9% | 4.5–7.1% | 4.2–7.6% |
+| [1–30 September 2021](2021-09-30-Median.html) | Median | 3.3% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
+| [23–29 September 2021](2021-09-29-Median.html) | Median <br> iDNES | 3.4% | N/A | N/A | N/A | N/A |
+| [13–22 September 2021](2021-09-22-Kantar.html) | Kantar <br> CT24 | 3.4% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
+| [8–12 September 2021](2021-09-12-Ipsos.html) | Ipsos | 4.5% | 4.7–6.5% | 4.4–6.8% | 4.3–7.1% | 3.9–7.6% |
+| [1–10 September 2021](2021-09-10-PhoenixResearch.html) | Phoenix Research | 5.6% | 5.2–7.0% | 4.9–7.3% | 4.7–7.6% | 4.4–8.1% |
+| [31 August–8 September 2021](2021-09-08-STEM.html) | STEM | 1.8% | N/A | N/A | N/A | N/A |
+| [30 August–8 September 2021](2021-09-08-DataCollect.html) | Data Collect | 3.9% | 3.8–5.4% | 3.6–5.6% | 3.5–5.8% | 3.2–6.3% |
+| [1 August–2 September 2021](2021-09-02-Median.html) | Median | 3.4% | N/A | N/A | N/A | N/A |
+| [1–31 August 2021](2021-08-31-MédeaResearch.html) | Médea Research | 4.1% | N/A | N/A | N/A | N/A |
+| [2–13 August 2021](2021-08-13-Kantar.html) | Kantar <br> CT24 | 4.8% | N/A | N/A | N/A | N/A |
+| [9–12 August 2021](2021-08-12-STEM.html) | STEM | 2.7% | N/A | N/A | N/A | N/A |
+| [1–10 August 2021](2021-08-10-PhoenixResearch.html) | Phoenix Research | 5.5% | N/A | N/A | N/A | N/A |
+| [1–31 July 2021](2021-07-31-Median.html) | Median | 5.5% | N/A | N/A | N/A | N/A |
+| [26 June–11 July 2021](2021-07-11-CVVM.html) | CVVM | 2.6% | 2.2–4.5% | 2.0–4.9% | 1.8–5.3% | 1.4–6.1% |
+| [1–10 July 2021](2021-07-10-PhoenixResearch.html) | Phoenix Research | 5.0% | N/A | N/A | N/A | N/A |
+| [1–30 June 2021](2021-06-30-Median.html) | Median | 5.1% | 5.2–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
+| [21–29 June 2021](2021-06-29-STEM.html) | STEM | 4.4% | 4.1–6.5% | 3.9–6.8% | 3.6–7.2% | 3.2–7.9% |
+| [7–18 June 2021](2021-06-18-Kantar.html) | Kantar <br> CT24 | 5.0% | 5.1–7.1% | 4.8–7.4% | 4.6–7.7% | 4.2–8.2% |
+| [29 May–13 June 2021](2021-06-13-CVVM.html) | CVVM | 2.1% | 1.9–3.5% | 1.7–3.7% | 1.5–4.0% | 1.3–4.5% |
+| [31 May–11 June 2021](2021-06-11-DataCollect.html) | Data Collect <br> CT24 | 4.4% | 4.1–6.2% | 3.8–6.6% | 3.6–6.9% | 3.2–7.6% |
+| [1–10 June 2021](2021-06-10-PhoenixResearch.html) | Phoenix Research | 3.9% | 3.7–5.4% | 3.6–5.6% | 3.4–5.9% | 3.1–6.3% |
+| [2–6 June 2021](2021-06-06-Ipsos.html) | Ipsos | 4.6% | 4.6–6.9% | 4.3–7.2% | 4.1–7.6% | 3.6–8.2% |
+| [1–31 May 2021](2021-05-31-Median.html) | Median | 3.3% | 3.2–4.8% | 3.1–5.0% | 2.9–5.3% | 2.6–5.7% |
+| [10–28 May 2021](2021-05-28-Kantar.html) | Kantar <br> CT24 | 4.2% | 4.2–6.1% | 3.9–6.4% | 3.7–6.6% | 3.4–7.2% |
+| [19–24 May 2021](2021-05-24-Ipsos.html) | Ipsos | 3.6% | 3.5–5.6% | 3.2–5.9% | 3.0–6.2% | 2.7–6.9% |
+| [3–21 May 2021](2021-05-21-DataCollect.html) | Data Collect <br> CT24 | 3.3% | 3.0–5.0% | 2.8–5.3% | 2.6–5.6% | 2.3–6.2% |
+| [1–15 May 2021](2021-05-15-PhoenixResearch.html) | Phoenix Research | 2.9% | 2.5–4.0% | 2.4–4.2% | 2.2–4.4% | 2.0–4.8% |
+| [1 April–4 May 2021](2021-05-04-Median.html) | Median | 2.2% | 1.9–3.5% | 1.7–3.7% | 1.6–4.0% | 1.3–4.5% |
+| [12–30 April 2021](2021-04-30-Kantar.html) | Kantar <br> CT24 | 2.1% | 2.0–3.2% | 1.9–3.4% | 1.8–3.6% | 1.5–3.9% |
+| [7–13 April 2021](2021-04-13-STEM.html) | STEM | 2.1% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
+| [8–12 April 2021](2021-04-12-Ipsos.html) | Ipsos <br> SPOLU | 2.0% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
 | [1–10 April 2021](2021-04-10-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
-| [25 March–1 April 2021](2021-04-01-Kantar.html) | Kantar <br> CT24 | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
+| [25 March–1 April 2021](2021-04-01-Kantar.html) | Kantar <br> CT24 | 1.8% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
 | [25 March–1 April 2021](2021-04-01-DataCollect.html) | Data Collect <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–29 March 2021](2021-03-29-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [12–16 March 2021](2021-03-16-Ipsos.html) | Ipsos <br> SPOLU | 0.0% | N/A | N/A | N/A | N/A |
