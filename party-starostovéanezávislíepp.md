@@ -172,8 +172,8 @@ Last result: **1** seats (General Election of 24–25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [29 November–30 December 2023](2023-12-30-Median.html) | Median | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [1–30 November 2023](2023-11-30-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 1 | 1–2 | 0–2 |
-| [16 October–3 November 2023](2023-11-03-Kantar.html) | Kantar <br> CT24 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–30 November 2023](2023-11-30-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [16 October–3 November 2023](2023-11-03-Kantar.html) | Kantar <br> CT24 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–31 October 2023](2023-10-31-Median.html) | Median | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [5 September–2 October 2023](2023-10-02-Median.html) | Median | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [11–29 September 2023](2023-09-29-Kantar.html) | Kantar <br> CT24 | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -308,9 +308,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.9% | 100% |  |
-| 1 | 81% | 99.1% | Last Result, Median |
-| 2 | 18% | 18% |  |
+| 0 | 1.0% | 100% |  |
+| 1 | 87% | 99.0% | Last Result, Median |
+| 2 | 12% | 12% |  |
 | 3 | 0% | 0% |  |
 
 
