@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 26 Jan 2024 21:57:20 +0100</pubDate>
+    <pubDate>Mon, 05 Feb 2024 21:35:28 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by STEM for CNN Prima News, 18–27 January 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2024-01-27-STEM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Přísaha (*): 0 seats&lt;/li&gt;&lt;li&gt;ANO 2011 (RE): 8–9 seats&lt;/li&gt;&lt;li&gt;Strana svobodných občanů (NI): 0 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 2–3 seats&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (ID): 0 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2024-01-27-STEM-seats.png"
+        length="345696"
+        type="image/png"/>
+      <pubDate>Mon, 05 Feb 2024 21:35:28 +0100</pubDate>
+      <dc:date>2024-02-05T21:35:28.589199+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by STEM for CNN Prima News, 18–27 January 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2024-01-27-STEM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2024-01-27-STEM-coalitions-seats.png"
+        length="198068"
+        type="image/png"/>
+      <pubDate>Mon, 05 Feb 2024 21:35:28 +0100</pubDate>
+      <dc:date>2024-02-05T21:35:28.589199+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by STEM for CNN Prima News, 18–27 January 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2024-01-27-STEM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 2.2–4.3%&lt;/li&gt;&lt;li&gt;Komunistická strana Čech a Moravy (GUE/NGL): 3.6–6.2%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 7.4–10.8%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 4.8–7.6%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 4.6–7.4%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 1.7–3.6%&lt;/li&gt;&lt;li&gt;Přísaha (*): 1.8–3.7%&lt;/li&gt;&lt;li&gt;ANO 2011 (RE): 30.7–36.3%&lt;/li&gt;&lt;li&gt;Strana svobodných občanů (NI): 1.1–2.7%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 8.3–11.9%&lt;/li&gt;&lt;li&gt;Trikolóra hnutí občanů (ID): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 5.6–8.6%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 9.5–13.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2024-01-27-STEM.png"
+        length="435350"
+        type="image/png"/>
+      <pubDate>Mon, 05 Feb 2024 21:35:28 +0100</pubDate>
+      <dc:date>2024-02-05T21:35:28.589199+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Median, 29 November–30 December 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2023-12-30-Median.html#seats</link>
@@ -3339,6 +3369,6 @@
       <pubDate>Mon, 30 Dec 2019 14:19:35 +0100</pubDate>
       <dc:date>2019-12-30T14:19:35+01:00</dc:date>
     </item>
-    <dc:date>2024-01-26T21:57:20.335487+01:00</dc:date>
+    <dc:date>2024-02-05T21:35:28.589199+01:00</dc:date>
   </channel>
 </rss>
