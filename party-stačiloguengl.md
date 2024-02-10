@@ -1,31 +1,31 @@
-# Strana svobodných občanů (NI)
+# Stačilo! (GUE/NGL)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
 ## Voting Intentions
 
-Last result: **5.2%** (General Election of 24–25 May 2019)
+Last result: **0.0%** (General Election of 24–25 May 2019)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 1.0–3.0% |
-| [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.0% |
-| [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos | 0.0% | N/A | N/A | N/A | N/A |
-| [29 November–30 December 2023](2023-12-30-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
-| [1–30 November 2023](2023-11-30-STEM.html) | STEM <br> CNN Prima News | 2.3% | 1.8–3.0% | 1.7–3.2% | 1.5–3.4% | 1.3–3.7% |
-| [23–28 November 2023](2023-11-28-STEMMARK.html) | STEM/MARK | 2.9% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 4.8% | 4.0–5.7% | 3.8–6.0% | 3.7–6.2% | 3.3–6.7% |
+| [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 4.8% | 4.0–5.7% | 3.8–6.0% | 3.6–6.2% | 3.3–6.7% |
+| [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos | 6.1% | N/A | N/A | N/A | N/A |
+| [29 November–30 December 2023](2023-12-30-Median.html) | Median | 4.5% | N/A | N/A | N/A | N/A |
+| [1–30 November 2023](2023-11-30-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
+| [23–28 November 2023](2023-11-28-STEMMARK.html) | STEM/MARK | 5.3% | N/A | N/A | N/A | N/A |
 | [16 October–3 November 2023](2023-11-03-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [3–31 October 2023](2023-10-31-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [5 September–2 October 2023](2023-10-02-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
-| [11–29 September 2023](2023-09-29-Kantar.html) | Kantar <br> CT24 | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
-| [7–17 September 2023](2023-09-17-STEM.html) | STEM <br> CNN Prima News | 2.8% | 2.2–3.5% | 2.1–3.7% | 2.0–3.9% | 1.7–4.3% |
+| [11–29 September 2023](2023-09-29-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
+| [7–17 September 2023](2023-09-17-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
 | [1 July–8 August 2023](2023-08-08-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [12–30 June 2023](2023-06-30-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [1 May–2 June 2023](2023-06-02-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [15 May–2 June 2023](2023-06-02-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
-| [18–29 May 2023](2023-05-29-STEM.html) | STEM <br> CNN Prima News | 2.2% | 1.7–2.9% | 1.6–3.0% | 1.5–3.2% | 1.3–3.6% |
+| [18–29 May 2023](2023-05-29-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
 | [17 April–5 May 2023](2023-05-05-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [1 April–2 May 2023](2023-05-02-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [1–30 April 2023](2023-04-30-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
@@ -95,7 +95,7 @@ Last result: **5.2%** (General Election of 24–25 May 2019)
 | [15–19 February 2021](2021-02-19-Ipsos.html) | Ipsos <br> SPOLU | 0.0% | N/A | N/A | N/A | N/A |
 | [18 January–5 February 2021](2021-02-05-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–29 January 2021](2021-01-29-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
-| [15–19 January 2021](2021-01-19-Ipsos.html) | Ipsos | 1.8% | 1.3–2.7% | 1.2–3.0% | 1.1–3.2% | 0.9–3.7% |
+| [15–19 January 2021](2021-01-19-Ipsos.html) | Ipsos | 0.0% | N/A | N/A | N/A | N/A |
 | [1–10 January 2021](2021-01-10-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
 | [13 November–4 December 2020](2020-12-04-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–30 November 2020](2020-11-30-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
@@ -103,15 +103,15 @@ Last result: **5.2%** (General Election of 24–25 May 2019)
 | [1–29 October 2020](2020-10-29-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [21 September–9 October 2020](2020-10-09-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
 | [5–20 September 2020](2020-09-20-CVVM.html) | CVVM | 0.0% | N/A | N/A | N/A | N/A |
-| [31 August–13 September 2020](2020-09-13-STEM.html) | STEM | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.1% |
+| [31 August–13 September 2020](2020-09-13-STEM.html) | STEM | 0.0% | N/A | N/A | N/A | N/A |
 | [24 August–11 September 2020](2020-09-11-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–27 August 2020](2020-08-27-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
-| [18–27 July 2020](2020-07-27-CVVM.html) | CVVM | 1.0% | 0.7–1.8% | 0.5–2.0% | 0.5–2.2% | 0.3–2.6% |
+| [18–27 July 2020](2020-07-27-CVVM.html) | CVVM | 0.0% | N/A | N/A | N/A | N/A |
 | [15 June–3 July 2020](2020-07-03-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
 | [20 June–2 July 2020](2020-07-02-CVVM.html) | CVVM | 0.0% | N/A | N/A | N/A | N/A |
 | [18 May–5 June 2020](2020-06-05-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
-| [22 May–1 June 2020](2020-06-01-STEM.html) | STEM | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.4–1.4% | 0.3–1.7% |
-| [15–30 April 2020](2020-04-30-g82.html) | g82 | 1.0% | N/A | N/A | N/A | N/A |
+| [22 May–1 June 2020](2020-06-01-STEM.html) | STEM | 0.0% | N/A | N/A | N/A | N/A |
+| [15–30 April 2020](2020-04-30-g82.html) | g82 | 0.0% | N/A | N/A | N/A | N/A |
 | [13–30 April 2020](2020-04-30-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
 | [9–27 March 2020](2020-03-27-TNSKantar.html) | TNS Kantar <br> O24 | 0.0% | N/A | N/A | N/A | N/A |
 | [29 February–26 March 2020](2020-03-26-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
@@ -127,7 +127,7 @@ Last result: **5.2%** (General Election of 24–25 May 2019)
 | [9–29 November 2019](2019-11-29-TNSKantar.html) | TNS Kantar | 0.0% | N/A | N/A | N/A | N/A |
 | [14–26 November 2019](2019-11-26-STEM.html) | STEM | 0.0% | N/A | N/A | N/A | N/A |
 | [1–18 November 2019](2019-11-18-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
-| [2–15 November 2019](2019-11-15-CVVM.html) | CVVM | 1.0% | 0.6–1.9% | 0.5–2.2% | 0.4–2.4% | 0.2–3.0% |
+| [2–15 November 2019](2019-11-15-CVVM.html) | CVVM | 0.0% | N/A | N/A | N/A | N/A |
 | [12 October–1 November 2019](2019-11-01-TNSKantar.html) | TNS Kantar | 0.0% | N/A | N/A | N/A | N/A |
 | [30 September–28 October 2019](2019-10-28-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [11–25 October 2019](2019-10-25-STEM.html) | STEM | 0.0% | N/A | N/A | N/A | N/A |
@@ -138,49 +138,52 @@ Last result: **5.2%** (General Election of 24–25 May 2019)
 | [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar | 0.0% | N/A | N/A | N/A | N/A |
 | [27 July–26 August 2019](2019-08-26-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [1–26 July 2019](2019-07-26-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
-| [1–30 June 2019](2019-06-30-Median.html) | Median | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.0% |
+| [1–30 June 2019](2019-06-30-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [17–26 June 2019](2019-06-26-TNSKantar.html) | TNS Kantar <br> Česká televize | 0.0% | N/A | N/A | N/A | N/A |
 | [8–17 June 2019](2019-06-17-CVVM.html) | CVVM | 0.0% | N/A | N/A | N/A | N/A |
 | [11–31 May 2019](2019-05-31-TNSKantar.html) | TNS Kantar <br> Česká televize | 0.0% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Strana svobodných občanů (NI).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Stačilo! (GUE/NGL).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 26% | 100% |  |
-| 1.5–2.5% | 69% | 74% | Median |
-| 2.5–3.5% | 5% | 5% |  |
-| 3.5–4.5% | 0% | 0% |  |
-| 4.5–5.5% | 0% | 0% | Last Result |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 2% | 100% |  |
+| 3.5–4.5% | 33% | 98% |  |
+| 4.5–5.5% | 52% | 66% | Median |
+| 5.5–6.5% | 13% | 14% |  |
+| 6.5–7.5% | 0.7% | 0.8% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
 
-Last result: **1** seats (General Election of 24–25 May 2019)
+Last result: **0** seats (General Election of 24–25 May 2019)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [29 November–30 December 2023](2023-12-30-Median.html) | Median |  |  |  |  |  |
-| [1–30 November 2023](2023-11-30-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
+| [1–30 November 2023](2023-11-30-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [23–28 November 2023](2023-11-28-STEMMARK.html) | STEM/MARK |  |  |  |  |  |
 | [16 October–3 November 2023](2023-11-03-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
 | [3–31 October 2023](2023-10-31-Median.html) | Median |  |  |  |  |  |
 | [5 September–2 October 2023](2023-10-02-Median.html) | Median |  |  |  |  |  |
-| [11–29 September 2023](2023-09-29-Kantar.html) | Kantar <br> CT24 | 0 | 0 | 0 | 0 | 0 |
-| [7–17 September 2023](2023-09-17-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
+| [11–29 September 2023](2023-09-29-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
+| [7–17 September 2023](2023-09-17-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [1 July–8 August 2023](2023-08-08-Median.html) | Median |  |  |  |  |  |
 | [12–30 June 2023](2023-06-30-Median.html) | Median |  |  |  |  |  |
 | [1 May–2 June 2023](2023-06-02-Median.html) | Median |  |  |  |  |  |
 | [15 May–2 June 2023](2023-06-02-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
-| [18–29 May 2023](2023-05-29-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
+| [18–29 May 2023](2023-05-29-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [17 April–5 May 2023](2023-05-05-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
 | [1 April–2 May 2023](2023-05-02-Median.html) | Median |  |  |  |  |  |
 | [1–30 April 2023](2023-04-30-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
@@ -250,7 +253,7 @@ Last result: **1** seats (General Election of 24–25 May 2019)
 | [15–19 February 2021](2021-02-19-Ipsos.html) | Ipsos <br> SPOLU |  |  |  |  |  |
 | [18 January–5 February 2021](2021-02-05-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
 | [1–29 January 2021](2021-01-29-Median.html) | Median |  |  |  |  |  |
-| [15–19 January 2021](2021-01-19-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0 | 0 |
+| [15–19 January 2021](2021-01-19-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [1–10 January 2021](2021-01-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
 | [13 November–4 December 2020](2020-12-04-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
 | [1–30 November 2020](2020-11-30-Median.html) | Median |  |  |  |  |  |
@@ -258,14 +261,14 @@ Last result: **1** seats (General Election of 24–25 May 2019)
 | [1–29 October 2020](2020-10-29-Median.html) | Median |  |  |  |  |  |
 | [21 September–9 October 2020](2020-10-09-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
 | [5–20 September 2020](2020-09-20-CVVM.html) | CVVM |  |  |  |  |  |
-| [31 August–13 September 2020](2020-09-13-STEM.html) | STEM | 0 | 0 | 0 | 0 | 0 |
+| [31 August–13 September 2020](2020-09-13-STEM.html) | STEM |  |  |  |  |  |
 | [24 August–11 September 2020](2020-09-11-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
 | [1–27 August 2020](2020-08-27-Median.html) | Median |  |  |  |  |  |
-| [18–27 July 2020](2020-07-27-CVVM.html) | CVVM | 0 | 0 | 0 | 0 | 0 |
+| [18–27 July 2020](2020-07-27-CVVM.html) | CVVM |  |  |  |  |  |
 | [15 June–3 July 2020](2020-07-03-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
 | [20 June–2 July 2020](2020-07-02-CVVM.html) | CVVM |  |  |  |  |  |
 | [18 May–5 June 2020](2020-06-05-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
-| [22 May–1 June 2020](2020-06-01-STEM.html) | STEM | 0 | 0 | 0 | 0 | 0 |
+| [22 May–1 June 2020](2020-06-01-STEM.html) | STEM |  |  |  |  |  |
 | [15–30 April 2020](2020-04-30-g82.html) | g82 |  |  |  |  |  |
 | [13–30 April 2020](2020-04-30-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
 | [9–27 March 2020](2020-03-27-TNSKantar.html) | TNS Kantar <br> O24 |  |  |  |  |  |
@@ -282,7 +285,7 @@ Last result: **1** seats (General Election of 24–25 May 2019)
 | [9–29 November 2019](2019-11-29-TNSKantar.html) | TNS Kantar |  |  |  |  |  |
 | [14–26 November 2019](2019-11-26-STEM.html) | STEM |  |  |  |  |  |
 | [1–18 November 2019](2019-11-18-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
-| [2–15 November 2019](2019-11-15-CVVM.html) | CVVM | 0 | 0 | 0 | 0 | 0 |
+| [2–15 November 2019](2019-11-15-CVVM.html) | CVVM |  |  |  |  |  |
 | [12 October–1 November 2019](2019-11-01-TNSKantar.html) | TNS Kantar |  |  |  |  |  |
 | [30 September–28 October 2019](2019-10-28-Median.html) | Median |  |  |  |  |  |
 | [11–25 October 2019](2019-10-25-STEM.html) | STEM |  |  |  |  |  |
@@ -293,20 +296,21 @@ Last result: **1** seats (General Election of 24–25 May 2019)
 | [10–30 August 2019](2019-08-30-TNSKantar.html) | TNS Kantar |  |  |  |  |  |
 | [27 July–26 August 2019](2019-08-26-Median.html) | Median |  |  |  |  |  |
 | [1–26 July 2019](2019-07-26-Median.html) | Median |  |  |  |  |  |
-| [1–30 June 2019](2019-06-30-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
+| [1–30 June 2019](2019-06-30-Median.html) | Median |  |  |  |  |  |
 | [17–26 June 2019](2019-06-26-TNSKantar.html) | TNS Kantar <br> Česká televize |  |  |  |  |  |
 | [8–17 June 2019](2019-06-17-CVVM.html) | CVVM |  |  |  |  |  |
 | [11–31 May 2019](2019-05-31-TNSKantar.html) | TNS Kantar <br> Česká televize |  |  |  |  |  |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-stranasvobodnýchobčanůni.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-stačiloguengl.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Strana svobodných občanů (NI).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Stačilo! (GUE/NGL).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% | Last Result |
+| 0 | 76% | 100% | Last Result, Median |
+| 1 | 24% | 24% |  |
+| 2 | 0% | 0% |  |
 
 

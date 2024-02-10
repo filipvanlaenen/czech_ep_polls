@@ -10,10 +10,12 @@ Last result: **4.8%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.0% | 9.7–12.3% | 9.3–12.7% | 9.0–13.0% | 8.4–13.7% |
+| N/A | [Poll Average](average.html) | 11.3% | 10.1–12.6% | 9.8–12.9% | 9.5–13.3% | 9.0–13.9% |
 | [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 11.3% | 10.1–12.6% | 9.8–13.0% | 9.5–13.3% | 9.0–13.9% |
+| [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos | 10.0% | N/A | N/A | N/A | N/A |
 | [29 November–30 December 2023](2023-12-30-Median.html) | Median | 10.5% | 9.4–11.9% | 9.0–12.3% | 8.8–12.6% | 8.2–13.3% |
 | [1–30 November 2023](2023-11-30-STEM.html) | STEM <br> CNN Prima News | 10.2% | 9.1–11.5% | 8.8–11.8% | 8.6–12.1% | 8.0–12.8% |
+| [23–28 November 2023](2023-11-28-STEMMARK.html) | STEM/MARK | 11.4% | N/A | N/A | N/A | N/A |
 | [16 October–3 November 2023](2023-11-03-Kantar.html) | Kantar <br> CT24 | 10.5% | 9.4–11.7% | 9.1–12.1% | 8.9–12.4% | 8.4–13.0% |
 | [3–31 October 2023](2023-10-31-Median.html) | Median | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.3–10.9% | 6.9–11.5% |
 | [5 September–2 October 2023](2023-10-02-Median.html) | Median | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.1–14.3% |
@@ -45,7 +47,7 @@ Last result: **4.8%** (General Election of 24–25 May 2019)
 | [20 May–4 July 2022](2022-07-04-Median.html) | Median | 11.8% | 10.6–13.2% | 10.3–13.6% | 10.0–14.0% | 9.4–14.7% |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 9.0% | 8.0–10.3% | 7.7–10.7% | 7.4–11.0% | 7.0–11.6% |
 | [16 May–2 June 2022](2022-06-02-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
-| [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 5.1% | N/A | N/A | N/A | N/A |
+| [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [14 March–1 April 2022](2022-04-01-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [14 February–4 March 2022](2022-03-04-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–28 February 2022](2022-02-28-PhoenixResearch.html) | Phoenix Research | 7.1% | N/A | N/A | N/A | N/A |
@@ -150,14 +152,14 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% | Last Result |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.7% | 100% |  |
-| 8.5–9.5% | 8% | 99.3% |  |
-| 9.5–10.5% | 26% | 92% |  |
-| 10.5–11.5% | 37% | 65% | Median |
-| 11.5–12.5% | 22% | 28% |  |
-| 12.5–13.5% | 6% | 7% |  |
-| 13.5–14.5% | 0.7% | 0.8% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.1% | 100% |  |
+| 8.5–9.5% | 3% | 99.9% |  |
+| 9.5–10.5% | 18% | 97% |  |
+| 10.5–11.5% | 39% | 79% | Median |
+| 11.5–12.5% | 30% | 40% |  |
+| 12.5–13.5% | 9% | 11% |  |
+| 13.5–14.5% | 1.2% | 1.3% |  |
+| 14.5–15.5% | 0.1% | 0.1% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -171,8 +173,10 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [29 November–30 December 2023](2023-12-30-Median.html) | Median | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–30 November 2023](2023-11-30-STEM.html) | STEM <br> CNN Prima News | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [23–28 November 2023](2023-11-28-STEMMARK.html) | STEM/MARK |  |  |  |  |  |
 | [16 October–3 November 2023](2023-11-03-Kantar.html) | Kantar <br> CT24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [3–31 October 2023](2023-10-31-Median.html) | Median | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [5 September–2 October 2023](2023-10-02-Median.html) | Median | 3 | 3 | 3 | 3–4 | 2–4 |
@@ -310,8 +314,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 63% | 100% | Median |
-| 3 | 37% | 37% |  |
+| 2 | 68% | 100% | Median |
+| 3 | 32% | 32% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
