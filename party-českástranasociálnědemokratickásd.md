@@ -15,7 +15,7 @@ Last result: **14.2%** (General Election of 24–25 May 2019)
 | [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos | 0.0% | N/A | N/A | N/A | N/A |
 | [29 November–30 December 2023](2023-12-30-Median.html) | Median | 4.5% | 3.7–5.4% | 3.5–5.7% | 3.3–5.9% | 3.0–6.4% |
 | [1–30 November 2023](2023-11-30-STEM.html) | STEM <br> CNN Prima News | 4.5% | 3.7–5.4% | 3.6–5.6% | 3.4–5.9% | 3.1–6.3% |
-| [23–28 November 2023](2023-11-28-STEMMARK.html) | STEM/MARK | 3.6% | N/A | N/A | N/A | N/A |
+| [23–28 November 2023](2023-11-28-STEMMARK.html) | STEM/MARK | 3.6% | 2.9–4.4% | 2.7–4.7% | 2.6–4.9% | 2.3–5.3% |
 | [16 October–3 November 2023](2023-11-03-Kantar.html) | Kantar <br> CT24 | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
 | [3–31 October 2023](2023-10-31-Median.html) | Median | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.6–4.9% | 2.3–5.3% |
 | [5 September–2 October 2023](2023-10-02-Median.html) | Median | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
@@ -178,7 +178,7 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 | [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [29 November–30 December 2023](2023-12-30-Median.html) | Median | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–30 November 2023](2023-11-30-STEM.html) | STEM <br> CNN Prima News | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [23–28 November 2023](2023-11-28-STEMMARK.html) | STEM/MARK |  |  |  |  |  |
+| [23–28 November 2023](2023-11-28-STEMMARK.html) | STEM/MARK | 0 | 0 | 0 | 0 | 0–1 |
 | [16 October–3 November 2023](2023-11-03-Kantar.html) | Kantar <br> CT24 | 0 | 0 | 0 | 0 | 0 |
 | [3–31 October 2023](2023-10-31-Median.html) | Median | 0 | 0 | 0 | 0 | 0–1 |
 | [5 September–2 October 2023](2023-10-02-Median.html) | Median | 0 | 0 | 0 | 0–1 | 0–1 |

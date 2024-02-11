@@ -12,10 +12,10 @@ Last result: **16.1%** (General Election of 24–25 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 33.4% | 31.6–35.3% | 31.1–35.8% | 30.7–36.3% | 29.9–37.2% |
 | [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 33.4% | 31.6–35.3% | 31.1–35.8% | 30.7–36.3% | 29.8–37.2% |
-| [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos | 26.3% | N/A | N/A | N/A | N/A |
+| [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos | 26.3% | 24.2–28.6% | 23.6–29.3% | 23.1–29.9% | 22.1–31.0% |
 | [29 November–30 December 2023](2023-12-30-Median.html) | Median | 35.0% | 33.1–37.0% | 32.6–37.6% | 32.1–38.1% | 31.2–39.0% |
 | [1–30 November 2023](2023-11-30-STEM.html) | STEM <br> CNN Prima News | 33.2% | 31.4–35.0% | 30.9–35.6% | 30.5–36.0% | 29.6–36.9% |
-| [23–28 November 2023](2023-11-28-STEMMARK.html) | STEM/MARK | 33.8% | N/A | N/A | N/A | N/A |
+| [23–28 November 2023](2023-11-28-STEMMARK.html) | STEM/MARK | 33.8% | 31.9–35.7% | 31.4–36.3% | 30.9–36.7% | 30.0–37.7% |
 | [16 October–3 November 2023](2023-11-03-Kantar.html) | Kantar <br> CT24 | 32.5% | 30.8–34.3% | 30.3–34.8% | 29.9–35.2% | 29.1–36.1% |
 | [3–31 October 2023](2023-10-31-Median.html) | Median | 35.0% | 33.2–37.0% | 32.6–37.6% | 32.2–38.0% | 31.3–39.0% |
 | [5 September–2 October 2023](2023-10-02-Median.html) | Median | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.2–37.0% | 30.3–37.9% |
@@ -185,10 +185,10 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
-| [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [29 November–30 December 2023](2023-12-30-Median.html) | Median | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [1–30 November 2023](2023-11-30-STEM.html) | STEM <br> CNN Prima News | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
-| [23–28 November 2023](2023-11-28-STEMMARK.html) | STEM/MARK |  |  |  |  |  |
+| [23–28 November 2023](2023-11-28-STEMMARK.html) | STEM/MARK | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [16 October–3 November 2023](2023-11-03-Kantar.html) | Kantar <br> CT24 | 8 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [3–31 October 2023](2023-10-31-Median.html) | Median | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | [5 September–2 October 2023](2023-10-02-Median.html) | Median | 10 | 9–10 | 9–10 | 9–10 | 8–11 |
