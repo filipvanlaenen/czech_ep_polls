@@ -10,7 +10,8 @@ Last result: **10.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.9% | 5.1–6.9% | 4.8–7.2% | 4.6–7.4% | 4.3–7.9% |
+| N/A | [Poll Average](average.html) | 6.3% | 5.3–7.5% | 5.0–7.9% | 4.8–8.2% | 4.4–8.8% |
+| [15 January–2 February 2024](2024-02-02-Kantar.html) | Kantar <br> CT24 | 6.7% | 5.8–7.8% | 5.5–8.2% | 5.3–8.4% | 4.9–9.0% |
 | [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 5.9% | 5.0–6.9% | 4.8–7.2% | 4.6–7.4% | 4.3–7.9% |
 | [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos | 7.0% | 5.9–8.5% | 5.5–8.9% | 5.3–9.3% | 4.8–10.0% |
 | [29 November–30 December 2023](2023-12-30-Median.html) | Median | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.6–7.6% | 4.3–8.2% |
@@ -47,7 +48,7 @@ Last result: **10.0%** (General Election of 24–25 May 2019)
 | [20 May–4 July 2022](2022-07-04-Median.html) | Median | 7.3% | 3.8–5.5% | 3.6–5.8% | 3.4–6.1% | 3.1–6.5% |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 7.2% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.1–6.5% |
 | [16 May–2 June 2022](2022-06-02-Kantar.html) | Kantar <br> CT24 | 7.9% | N/A | N/A | N/A | N/A |
-| [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 9.4% | N/A | N/A | N/A | N/A |
+| [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 9.3% | N/A | N/A | N/A | N/A |
 | [14 March–1 April 2022](2022-04-01-Kantar.html) | Kantar <br> CT24 | 8.7% | N/A | N/A | N/A | N/A |
 | [14 February–4 March 2022](2022-03-04-Kantar.html) | Kantar <br> CT24 | 9.1% | N/A | N/A | N/A | N/A |
 | [1–28 February 2022](2022-02-28-PhoenixResearch.html) | Phoenix Research | 7.6% | N/A | N/A | N/A | N/A |
@@ -150,12 +151,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 2% | 100% |  |
-| 4.5–5.5% | 28% | 98% |  |
-| 5.5–6.5% | 51% | 70% | Median |
-| 6.5–7.5% | 18% | 19% |  |
-| 7.5–8.5% | 2% | 2% |  |
-| 8.5–9.5% | 0% | 0.1% |  |
+| 3.5–4.5% | 1.0% | 100% |  |
+| 4.5–5.5% | 16% | 99.0% |  |
+| 5.5–6.5% | 42% | 83% | Median |
+| 6.5–7.5% | 31% | 40% |  |
+| 7.5–8.5% | 8% | 9% |  |
+| 8.5–9.5% | 0.9% | 0.9% |  |
 | 9.5–10.5% | 0% | 0% | Last Result |
 
 
@@ -168,6 +169,7 @@ Last result: **3** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [15 January–2 February 2024](2024-02-02-Kantar.html) | Kantar <br> CT24 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [29 November–30 December 2023](2023-12-30-Median.html) | Median | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -308,8 +310,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 33% | 100% |  |
-| 2 | 67% | 67% | Median |
-| 3 | 0% | 0% | Last Result |
+| 1 | 46% | 100% |  |
+| 2 | 54% | 54% | Median |
+| 3 | 0.1% | 0.1% | Last Result |
+| 4 | 0% | 0% |  |
 
 

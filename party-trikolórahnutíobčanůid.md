@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.4% | 1.0–1.9% | 0.9–2.1% | 0.8–2.2% | 0.7–2.6% |
+| [15 January–2 February 2024](2024-02-02-Kantar.html) | Kantar <br> CT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 1.4% | 1.0–2.0% | 0.9–2.1% | 0.8–2.3% | 0.7–2.6% |
 | [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos | 0.0% | N/A | N/A | N/A | N/A |
 | [29 November–30 December 2023](2023-12-30-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
@@ -165,6 +166,7 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15 January–2 February 2024](2024-02-02-Kantar.html) | Kantar <br> CT24 |  |  |  |  |  |
 | [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
 | [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [29 November–30 December 2023](2023-12-30-Median.html) | Median |  |  |  |  |  |

@@ -10,7 +10,8 @@ Last result: **16.1%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.4% | 31.6–35.3% | 31.1–35.8% | 30.7–36.3% | 29.9–37.2% |
+| N/A | [Poll Average](average.html) | 34.2% | 32.1–36.4% | 31.6–37.1% | 31.1–37.6% | 30.2–38.6% |
+| [15 January–2 February 2024](2024-02-02-Kantar.html) | Kantar <br> CT24 | 35.0% | 33.2–37.0% | 32.6–37.6% | 32.2–38.0% | 31.3–39.0% |
 | [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 33.4% | 31.6–35.3% | 31.1–35.8% | 30.7–36.3% | 29.8–37.2% |
 | [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos | 26.3% | 24.2–28.6% | 23.6–29.3% | 23.1–29.9% | 22.1–31.0% |
 | [29 November–30 December 2023](2023-12-30-Median.html) | Median | 35.0% | 33.1–37.0% | 32.6–37.6% | 32.1–38.1% | 31.2–39.0% |
@@ -47,7 +48,7 @@ Last result: **16.1%** (General Election of 24–25 May 2019)
 | [20 May–4 July 2022](2022-07-04-Median.html) | Median | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.5–32.8% |
 | [1 May–2 June 2022](2022-06-02-Median.html) | Median | 28.5% | 26.7–30.4% | 26.2–30.9% | 25.8–31.4% | 25.0–32.3% |
 | [16 May–2 June 2022](2022-06-02-Kantar.html) | Kantar <br> CT24 | 29.4% | 27.0–32.0% | 26.4–32.7% | 25.8–33.4% | 24.7–34.6% |
-| [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 28.4% | 26.2–30.9% | 25.5–31.6% | 25.0–32.2% | 23.9–33.4% |
+| [8–29 April 2022](2022-04-29-Kantar.html) | Kantar <br> CT24 | 27.5% | 26.2–30.9% | 25.5–31.6% | 25.0–32.2% | 23.9–33.4% |
 | [14 March–1 April 2022](2022-04-01-Kantar.html) | Kantar <br> CT24 | 28.5% | N/A | N/A | N/A | N/A |
 | [14 February–4 March 2022](2022-03-04-Kantar.html) | Kantar <br> CT24 | 27.4% | N/A | N/A | N/A | N/A |
 | [1–28 February 2022](2022-02-28-PhoenixResearch.html) | Phoenix Research | 26.4% | N/A | N/A | N/A | N/A |
@@ -162,17 +163,19 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0% | 100% |  |
-| 28.5–29.5% | 0.2% | 100% |  |
-| 29.5–30.5% | 2% | 99.7% |  |
-| 30.5–31.5% | 7% | 98% |  |
-| 31.5–32.5% | 18% | 91% |  |
-| 32.5–33.5% | 26% | 73% | Median |
-| 33.5–34.5% | 25% | 47% |  |
-| 34.5–35.5% | 15% | 22% |  |
-| 35.5–36.5% | 6% | 7% |  |
-| 36.5–37.5% | 1.4% | 2% |  |
-| 37.5–38.5% | 0.2% | 0.2% |  |
-| 38.5–39.5% | 0% | 0% |  |
+| 28.5–29.5% | 0.1% | 100% |  |
+| 29.5–30.5% | 0.9% | 99.9% |  |
+| 30.5–31.5% | 4% | 99.0% |  |
+| 31.5–32.5% | 11% | 95% |  |
+| 32.5–33.5% | 19% | 84% |  |
+| 33.5–34.5% | 23% | 66% | Median |
+| 34.5–35.5% | 20% | 43% |  |
+| 35.5–36.5% | 13% | 22% |  |
+| 36.5–37.5% | 6% | 9% |  |
+| 37.5–38.5% | 2% | 3% |  |
+| 38.5–39.5% | 0.5% | 0.6% |  |
+| 39.5–40.5% | 0.1% | 0.1% |  |
+| 40.5–41.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -183,7 +186,8 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
+| [15 January–2 February 2024](2024-02-02-Kantar.html) | Kantar <br> CT24 | 9 | 9–10 | 8–10 | 8–10 | 8–11 |
 | [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [29 November–30 December 2023](2023-12-30-Median.html) | Median | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
@@ -328,9 +332,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 20% | 100% |  |
-| 9 | 78% | 80% | Median |
-| 10 | 1.3% | 1.3% |  |
-| 11 | 0% | 0% | Majority |
+| 8 | 13% | 100% |  |
+| 9 | 73% | 87% | Median |
+| 10 | 14% | 14% |  |
+| 11 | 0.6% | 0.6% | Majority |
+| 12 | 0% | 0% |  |
 
 
