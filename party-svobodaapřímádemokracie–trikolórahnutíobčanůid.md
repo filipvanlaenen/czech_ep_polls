@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.9% | 7.1–8.9% | 6.9–9.1% | 6.7–9.4% | 6.3–9.9% |
+| N/A | [Poll Average](average.html) | 9.1% | 7.4–12.1% | 7.1–12.7% | 6.9–13.2% | 6.4–14.1% |
+| [25 March 2024](2024-03-25-DataCollect.html) | Data Collect | 11.0% | 9.5–12.7% | 9.1–13.2% | 8.8–13.6% | 8.1–14.5% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 7.9% | 7.1–8.9% | 6.8–9.1% | 6.6–9.4% | 6.3–9.9% |
 | [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos | 7.6% | 6.4–9.1% | 6.1–9.6% | 5.8–10.0% | 5.3–10.7% |
@@ -156,12 +157,17 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 2% | 100% |  |
-| 6.5–7.5% | 26% | 98% |  |
-| 7.5–8.5% | 52% | 72% | Median |
-| 8.5–9.5% | 18% | 20% |  |
-| 9.5–10.5% | 1.4% | 1.4% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 5.5–6.5% | 0.8% | 100% |  |
+| 6.5–7.5% | 13% | 99.2% |  |
+| 7.5–8.5% | 27% | 86% |  |
+| 8.5–9.5% | 14% | 59% | Median |
+| 9.5–10.5% | 13% | 45% |  |
+| 10.5–11.5% | 16% | 33% |  |
+| 11.5–12.5% | 11% | 17% |  |
+| 12.5–13.5% | 5% | 6% |  |
+| 13.5–14.5% | 1.1% | 1.4% |  |
+| 14.5–15.5% | 0.2% | 0.2% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -172,7 +178,8 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [25 March 2024](2024-03-25-DataCollect.html) | Data Collect | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -315,8 +322,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 23% | 100% |  |
-| 2 | 77% | 77% | Median |
-| 3 | 0% | 0% |  |
+| 1 | 11% | 100% |  |
+| 2 | 84% | 89% | Median |
+| 3 | 5% | 5% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 

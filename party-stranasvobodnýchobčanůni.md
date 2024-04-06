@@ -10,7 +10,8 @@ Last result: **5.2%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 2.3–3.4% | 2.2–3.6% | 2.1–3.7% | 1.9–4.0% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.3–3.2% | 1.1–3.4% | 1.0–3.6% | 0.7–3.9% |
+| [25 March 2024](2024-03-25-DataCollect.html) | Data Collect | 1.5% | 1.1–2.4% | 0.9–2.6% | 0.8–2.8% | 0.7–3.3% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2.8% | 2.3–3.4% | 2.2–3.6% | 2.1–3.7% | 1.8–4.1% |
 | [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.0% |
 | [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos | 0.0% | N/A | N/A | N/A | N/A |
@@ -150,10 +151,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 26% | 100% |  |
-| 2.5–3.5% | 69% | 74% | Median |
-| 3.5–4.5% | 5% | 5% |  |
+| 0.0–0.5% | 0.1% | 100% |  |
+| 0.5–1.5% | 21% | 99.9% |  |
+| 1.5–2.5% | 39% | 79% | Median |
+| 2.5–3.5% | 37% | 40% |  |
+| 3.5–4.5% | 3% | 3% |  |
 | 4.5–5.5% | 0% | 0% | Last Result |
 
 
@@ -166,6 +168,7 @@ Last result: **1** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [25 March 2024](2024-03-25-DataCollect.html) | Data Collect | 0 | 0 | 0 | 0 | 0 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0 | 0 | 0 | 0 | 0 |
 | [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
 | [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos |  |  |  |  |  |
