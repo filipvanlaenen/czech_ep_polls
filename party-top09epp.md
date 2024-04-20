@@ -180,7 +180,7 @@ Last result: **3** seats (General Election of 24–25 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [29 November–30 December 2023](2023-12-30-Median.html) | Median | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [29 November–30 December 2023](2023-12-30-Median.html) | Median | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [1–30 November 2023](2023-11-30-STEM.html) | STEM <br> CNN Prima News | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–28 November 2023](2023-11-28-STEMMARK.html) | STEM/MARK | 1 | 1 | 1 | 1 | 0–2 |
 | [16 October–3 November 2023](2023-11-03-Kantar.html) | Kantar <br> CT24 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
