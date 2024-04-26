@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 21 Apr 2024 22:50:14 +0200</pubDate>
+    <pubDate>Fri, 26 Apr 2024 17:42:05 +0200</pubDate>
     <item>
       <title>Opinion Poll by STEM, 28 March–8 April 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2024-04-08-STEM.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2024-04-08-STEM-seats.png"
         length="308724"
         type="image/png"/>
-      <pubDate>Sun, 21 Apr 2024 22:50:14 +0200</pubDate>
-      <dc:date>2024-04-21T22:50:14.773671+02:00</dc:date>
+      <pubDate>Fri, 26 Apr 2024 17:42:05 +0200</pubDate>
+      <dc:date>2024-04-26T17:42:05.919752+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by STEM, 28 March–8 April 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2024-04-08-STEM-coalitions-seats.png"
         length="235313"
         type="image/png"/>
-      <pubDate>Sun, 21 Apr 2024 22:50:14 +0200</pubDate>
-      <dc:date>2024-04-21T22:50:14.773671+02:00</dc:date>
+      <pubDate>Fri, 26 Apr 2024 17:42:05 +0200</pubDate>
+      <dc:date>2024-04-26T17:42:05.919752+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by STEM, 28 March–8 April 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2024-04-08-STEM.png"
         length="416032"
         type="image/png"/>
-      <pubDate>Sun, 21 Apr 2024 22:50:14 +0200</pubDate>
-      <dc:date>2024-04-21T22:50:14.773671+02:00</dc:date>
+      <pubDate>Fri, 26 Apr 2024 17:42:05 +0200</pubDate>
+      <dc:date>2024-04-26T17:42:05.919752+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Data Collect, 25 March 2024 – Seat Projections for the Parties</title>
@@ -3519,6 +3519,6 @@
       <pubDate>Mon, 30 Dec 2019 14:19:35 +0100</pubDate>
       <dc:date>2019-12-30T14:19:35+01:00</dc:date>
     </item>
-    <dc:date>2024-04-21T22:50:14.773671+02:00</dc:date>
+    <dc:date>2024-04-26T17:42:05.919752+02:00</dc:date>
   </channel>
 </rss>
