@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24–25 May 2019 | General Election | 16.1% <br> 4 | 16.0% <br> 3 | 16.0% <br> 1 | 14.2% <br> 4 | 11.0% <br> 3 | 10.0% <br> 3 | 7.7% <br> 2 | 5.2% <br> 1 | 4.8% <br> 0 | 3.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [28 March–8 April 2024](2024-04-08-STEM.html) | STEM | 25–30% <br> 6–8 | 5–7% <br> 1–2 | 9–12% <br> 2–3 | 2–5% <br> 0 | N/A <br> N/A | 4–7% <br> 1–2 | 7–11% <br> 2–3 | 2–4% <br> 0 | 8–12% <br> 2–3 | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–2 | N/A <br> N/A | 9–12% <br> 2–3 | 5–8% <br> 1–2 |
-| [25 March 2024](2024-03-25-DataCollect.html) | Data Collect | 24–31% <br> 6–8 | 4–8% <br> 1–2 | 7–12% <br> 2–3 | 2–5% <br> 0 | N/A <br> N/A | 4–8% <br> 1–2 | 7–11% <br> 2–3 | 1–3% <br> 0 | 9–13% <br> 2–3 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 1–3% <br> 0 | 9–14% <br> 2–3 | 5–9% <br> 1–2 |
+| [25 March 2024](2024-03-25-DataCollect.html) | Data Collect | 24–31% <br> 6–8 | 4–8% <br> 1–2 | 7–12% <br> 2 | 2–5% <br> 0 | N/A <br> N/A | 4–8% <br> 1–2 | 7–11% <br> 2–3 | 1–3% <br> 0 | 9–13% <br> 2–3 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 1–3% <br> 0 | 9–14% <br> 2–3 | 5–9% <br> 1–2 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 24–29% <br> 6–7 | 5–8% <br> 1–2 | 12–15% <br> 3–4 | 2–4% <br> 0 | N/A <br> N/A | 5–7% <br> 1–2 | 8–11% <br> 2–3 | 2–4% <br> 0 | 10–13% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–1 | N/A <br> N/A | 7–9% <br> 1–2 | 5–7% <br> 0–2 |
 | [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 31–36% <br> 8–9 | 5–8% <br> 1–2 | 6–9% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | 5–7% <br> 1–2 | 7–11% <br> 2–3 | 1–3% <br> 0 | 10–13% <br> 2–3 | 2–4% <br> 0 | 8–12% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–1 |
 | [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos | 23–30% <br> 6–8 | 6–10% <br> 1–2 | 10–15% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 1–2 | 9–14% <br> 2–4 | N/A <br> N/A | 8–13% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–10% <br> 1–2 | 4–8% <br> 0–2 |
@@ -161,7 +161,7 @@ Only polls for which at least the sample size has been published are included in
 + **SPOLU:** SPOLU (ECR)
 + **Pir–STAN:** Česká pirátská strana–Starostové a nezávislí (Greens/EFA)
 + **T–S–SsČR:** Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID)
-+ **P:** Přísaha (*)
++ **P:** Přísaha (EPP)
 + **PRO:** Právo Respekt Odbornost (*)
 + **SPD–THO:** Svoboda a přímá demokracie–Trikolóra hnutí občanů (ID)
 + **Stačilo!:** Stačilo! (GUE/NGL)
