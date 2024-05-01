@@ -183,7 +183,7 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [28 March–8 April 2024](2024-04-08-STEM.html) | STEM | 7 | 7 | 6–8 | 6–8 | 6–8 |
-| [25 March 2024](2024-03-25-DataCollect.html) | Data Collect | 8 | 7–8 | 6–8 | 6–8 | 6–9 |
+| [25 March 2024](2024-03-25-DataCollect.html) | Data Collect | 8 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [1–31 December 2023](2023-12-31-Ipsos.html) | Ipsos | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
@@ -327,10 +327,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
-| 6 | 7% | 100% |  |
-| 7 | 51% | 93% | Median |
-| 8 | 41% | 41% |  |
-| 9 | 0.3% | 0.3% |  |
-| 10 | 0% | 0% |  |
+| 6 | 6% | 100% |  |
+| 7 | 49% | 94% | Median |
+| 8 | 45% | 45% |  |
+| 9 | 0% | 0% |  |
 
 
