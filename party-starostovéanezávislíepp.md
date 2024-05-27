@@ -10,11 +10,9 @@ Last result: **16.0%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.6% | 6.6–8.7% | 6.3–9.0% | 6.1–9.3% | 5.6–9.9% |
-| [22 April–10 May 2024](2024-05-10-Kantar.html) | Kantar <br> ČT24 | 7.5% | 6.6–8.7% | 6.3–9.1% | 6.1–9.3% | 5.6–9.9% |
-| [28 March–8 April 2024](2024-04-08-STEM.html) | STEM | 10.4% | 9.3–11.7% | 8.9–12.1% | 8.7–12.5% | 8.1–13.1% |
-| [18 March–5 April 2024](2024-04-05-Kantar.html) | Kantar <br> ČT24 | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.7% |
-| [5 March–3 April 2024](2024-04-03-Median.html) | Median | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
+| N/A | [Poll Average](average.html) | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.1–14.3% |
+| [1–13 May 2024](2024-05-13-PhoenixResearch.html) | Phoenix Research | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.1–14.3% |
+| [28 March–8 April 2024](2024-04-08-STEM.html) | STEM | 10.4% | N/A | N/A | N/A | N/A |
 | [15–25 March 2024](2024-03-25-STEM.html) | STEM <br> CNN Prima News | 6.6% | N/A | N/A | N/A | N/A |
 | [25 March 2024](2024-03-25-DataCollect.html) | Data Collect | 9.3% | 7.9–10.9% | 7.6–11.3% | 7.3–11.8% | 6.7–12.6% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 13.4% | 12.3–14.6% | 12.0–14.9% | 11.8–15.2% | 11.3–15.8% |
@@ -160,18 +158,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.3% | 100% |  |
-| 5.5–6.5% | 9% | 99.7% |  |
-| 6.5–7.5% | 38% | 90% |  |
-| 7.5–8.5% | 39% | 52% | Median |
-| 8.5–9.5% | 12% | 13% |  |
-| 9.5–10.5% | 1.4% | 1.4% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
-| 11.5–12.5% | 0% | 0% |  |
-| 12.5–13.5% | 0% | 0% |  |
-| 13.5–14.5% | 0% | 0% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.1% | 100% |  |
+| 8.5–9.5% | 2% | 99.9% |  |
+| 9.5–10.5% | 14% | 98% |  |
+| 10.5–11.5% | 35% | 85% |  |
+| 11.5–12.5% | 33% | 50% | Median |
+| 12.5–13.5% | 14% | 16% |  |
+| 13.5–14.5% | 3% | 3% |  |
+| 14.5–15.5% | 0.2% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% | Last Result |
 
 
@@ -183,11 +177,9 @@ Last result: **1** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [22 April–10 May 2024](2024-05-10-Kantar.html) | Kantar <br> ČT24 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [28 March–8 April 2024](2024-04-08-STEM.html) | STEM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [18 March–5 April 2024](2024-04-05-Kantar.html) | Kantar <br> ČT24 | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [5 March–3 April 2024](2024-04-03-Median.html) | Median | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 2–3 | 2–4 | 2–4 |
+| [1–13 May 2024](2024-05-13-PhoenixResearch.html) | Phoenix Research | 3 | 3 | 2–3 | 2–4 | 2–4 |
+| [28 March–8 April 2024](2024-04-08-STEM.html) | STEM |  |  |  |  |  |
 | [15–25 March 2024](2024-03-25-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [25 March 2024](2024-03-25-DataCollect.html) | Data Collect | 2 | 2 | 2 | 2–3 | 1–3 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 3 | 3 | 3–4 | 3–4 | 3–4 |
@@ -335,8 +327,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 35% | 100% | Last Result |
-| 2 | 65% | 65% | Median |
-| 3 | 0% | 0% |  |
+| 1 | 0% | 100% | Last Result |
+| 2 | 9% | 100% |  |
+| 3 | 88% | 91% | Median |
+| 4 | 3% | 3% |  |
+| 5 | 0% | 0% |  |
 
 
