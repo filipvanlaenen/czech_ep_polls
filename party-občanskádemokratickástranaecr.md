@@ -12,7 +12,7 @@ Last result: **7.7%** (General Election of 24–25 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.6% | 6.6–8.7% | 6.3–9.1% | 6.1–9.4% | 5.7–9.9% |
 | [1–13 May 2024](2024-05-13-PhoenixResearch.html) | Phoenix Research | 7.6% | 6.6–8.7% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
-| [28 March–8 April 2024](2024-04-08-STEM.html) | STEM | 8.6% | N/A | N/A | N/A | N/A |
+| [28 March–8 April 2024](2024-04-08-STEM.html) | STEM | 8.6% | 7.5–9.9% | 7.3–10.2% | 7.0–10.5% | 6.5–11.2% |
 | [15–25 March 2024](2024-03-25-STEM.html) | STEM <br> CNN Prima News | 9.8% | N/A | N/A | N/A | N/A |
 | [25 March 2024](2024-03-25-DataCollect.html) | Data Collect | 9.0% | 7.7–10.5% | 7.3–11.0% | 7.0–11.4% | 6.4–12.2% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 9.3% | 8.4–10.3% | 8.1–10.6% | 7.9–10.9% | 7.5–11.4% |
@@ -177,8 +177,8 @@ Last result: **2** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [1–13 May 2024](2024-05-13-PhoenixResearch.html) | Phoenix Research | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [1–13 May 2024](2024-05-13-PhoenixResearch.html) | Phoenix Research | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [28 March–8 April 2024](2024-04-08-STEM.html) | STEM |  |  |  |  |  |
 | [15–25 March 2024](2024-03-25-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [25 March 2024](2024-03-25-DataCollect.html) | Data Collect | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -327,9 +327,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.3% | 100% |  |
-| 2 | 82% | 99.7% | Last Result, Median |
-| 3 | 18% | 18% |  |
+| 1 | 0.5% | 100% |  |
+| 2 | 81% | 99.5% | Last Result, Median |
+| 3 | 19% | 19% |  |
 | 4 | 0% | 0% |  |
 
 

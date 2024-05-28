@@ -12,7 +12,7 @@ Last result: **10.0%** (General Election of 24–25 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.0% | 4.2–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [1–13 May 2024](2024-05-13-PhoenixResearch.html) | Phoenix Research | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
-| [28 March–8 April 2024](2024-04-08-STEM.html) | STEM | 5.6% | N/A | N/A | N/A | N/A |
+| [28 March–8 April 2024](2024-04-08-STEM.html) | STEM | 5.6% | 4.8–6.7% | 4.6–7.0% | 4.4–7.3% | 4.0–7.8% |
 | [15–25 March 2024](2024-03-25-STEM.html) | STEM <br> CNN Prima News | 6.4% | N/A | N/A | N/A | N/A |
 | [25 March 2024](2024-03-25-DataCollect.html) | Data Collect | 5.9% | 4.8–7.2% | 4.5–7.6% | 4.3–8.0% | 3.9–8.7% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 6.1% | 5.3–6.9% | 5.1–7.2% | 5.0–7.4% | 4.6–7.8% |
@@ -327,8 +327,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 66% | 100% | Median |
-| 2 | 34% | 34% |  |
+| 1 | 70% | 100% | Median |
+| 2 | 30% | 30% |  |
 | 3 | 0% | 0% | Last Result |
 
 
