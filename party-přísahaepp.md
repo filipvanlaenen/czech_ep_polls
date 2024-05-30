@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 24–25 May 2019)
 | [15–25 March 2024](2024-03-25-STEM.html) | STEM <br> CNN Prima News | 2.8% | N/A | N/A | N/A | N/A |
 | [25 March 2024](2024-03-25-DataCollect.html) | Data Collect | 2.5% | 1.8–3.4% | 1.7–3.7% | 1.5–4.0% | 1.3–4.5% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 4.9% | 4.2–5.7% | 4.1–5.9% | 3.9–6.1% | 3.6–6.5% |
-| [1 February–4 March 2024](2024-03-04-Median.html) | Median | 3.0% | N/A | N/A | N/A | N/A |
+| [1 February–4 March 2024](2024-03-04-Median.html) | Median | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [12 February–1 March 2024](2024-03-01-Kantar.html) | Kantar <br> ČT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [15 January–2 February 2024](2024-02-02-Kantar.html) | Kantar <br> ČT24 | 3.5% | N/A | N/A | N/A | N/A |
 | [15 January–1 February 2024](2024-02-01-Median.html) | Median | 3.0% | N/A | N/A | N/A | N/A |
@@ -180,7 +180,7 @@ Last result: **0** seats (General Election of 24–25 May 2019)
 | [15–25 March 2024](2024-03-25-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [25 March 2024](2024-03-25-DataCollect.html) | Data Collect | 0 | 0 | 0 | 0 | 0 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1 February–4 March 2024](2024-03-04-Median.html) | Median |  |  |  |  |  |
+| [1 February–4 March 2024](2024-03-04-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [12 February–1 March 2024](2024-03-01-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
 | [15 January–2 February 2024](2024-02-02-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
 | [15 January–1 February 2024](2024-02-01-Median.html) | Median |  |  |  |  |  |

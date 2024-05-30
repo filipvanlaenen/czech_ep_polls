@@ -16,8 +16,8 @@ Last result: **14.2%** (General Election of 24–25 May 2019)
 | [15–25 March 2024](2024-03-25-STEM.html) | STEM <br> CNN Prima News | 3.6% | N/A | N/A | N/A | N/A |
 | [25 March 2024](2024-03-25-DataCollect.html) | Data Collect | 2.9% | 2.2–4.0% | 2.0–4.3% | 1.9–4.5% | 1.6–5.1% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2.7% | 2.2–3.3% | 2.1–3.5% | 2.0–3.7% | 1.8–4.0% |
-| [1 February–4 March 2024](2024-03-04-Median.html) | Median | 4.5% | N/A | N/A | N/A | N/A |
-| [12 February–1 March 2024](2024-03-01-Kantar.html) | Kantar <br> ČT24 | 2.5% | N/A | N/A | N/A | N/A |
+| [1 February–4 March 2024](2024-03-04-Median.html) | Median | 4.5% | 3.7–5.4% | 3.5–5.7% | 3.4–5.9% | 3.0–6.4% |
+| [12 February–1 March 2024](2024-03-01-Kantar.html) | Kantar <br> ČT24 | 2.5% | 1.9–3.2% | 1.8–3.4% | 1.7–3.6% | 1.4–4.0% |
 | [15 January–2 February 2024](2024-02-02-Kantar.html) | Kantar <br> ČT24 | 4.0% | N/A | N/A | N/A | N/A |
 | [15 January–1 February 2024](2024-02-01-Median.html) | Median | 4.0% | N/A | N/A | N/A | N/A |
 | [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 3.1% | 2.5–3.9% | 2.4–4.1% | 2.2–4.3% | 2.0–4.7% |
@@ -187,8 +187,8 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 | [15–25 March 2024](2024-03-25-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [25 March 2024](2024-03-25-DataCollect.html) | Data Collect | 0 | 0 | 0 | 0 | 0 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0 | 0 | 0 | 0 | 0 |
-| [1 February–4 March 2024](2024-03-04-Median.html) | Median |  |  |  |  |  |
-| [12 February–1 March 2024](2024-03-01-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
+| [1 February–4 March 2024](2024-03-04-Median.html) | Median | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [12 February–1 March 2024](2024-03-01-Kantar.html) | Kantar <br> ČT24 | 0 | 0 | 0 | 0 | 0 |
 | [15 January–2 February 2024](2024-02-02-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
 | [15 January–1 February 2024](2024-02-01-Median.html) | Median |  |  |  |  |  |
 | [18–27 January 2024](2024-01-27-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
