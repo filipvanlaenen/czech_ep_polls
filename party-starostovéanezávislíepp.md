@@ -12,7 +12,7 @@ Last result: **16.0%** (General Election of 24–25 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.1–14.3% |
 | [1–13 May 2024](2024-05-13-PhoenixResearch.html) | Phoenix Research | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.1–14.3% |
-| [28 March–8 April 2024](2024-04-08-STEM.html) | STEM | 10.4% | 9.2–11.8% | 8.9–12.1% | 8.6–12.5% | 8.1–13.1% |
+| [28 March–8 April 2024](2024-04-08-STEM.html) | STEM | 10.4% | 9.3–11.7% | 8.9–12.1% | 8.7–12.5% | 8.1–13.1% |
 | [15–25 March 2024](2024-03-25-STEM.html) | STEM <br> CNN Prima News | 6.6% | N/A | N/A | N/A | N/A |
 | [25 March 2024](2024-03-25-DataCollect.html) | Data Collect | 9.3% | 7.9–10.9% | 7.6–11.3% | 7.3–11.8% | 6.7–12.6% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 13.4% | 12.3–14.6% | 12.0–14.9% | 11.8–15.2% | 11.3–15.8% |
@@ -179,7 +179,7 @@ Last result: **1** seats (General Election of 24–25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [1–13 May 2024](2024-05-13-PhoenixResearch.html) | Phoenix Research | 3 | 3 | 2–3 | 2–4 | 2–4 |
-| [28 March–8 April 2024](2024-04-08-STEM.html) | STEM |  |  |  |  |  |
+| [28 March–8 April 2024](2024-04-08-STEM.html) | STEM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–25 March 2024](2024-03-25-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [25 March 2024](2024-03-25-DataCollect.html) | Data Collect | 2 | 2 | 2 | 2–3 | 1–3 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 3 | 3 | 3–4 | 3–4 | 3–4 |
