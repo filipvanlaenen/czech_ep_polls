@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 30 May 2024 17:37:06 +0200</pubDate>
+    <pubDate>Thu, 30 May 2024 19:43:39 +0200</pubDate>
     <item>
       <title>Opinion Poll by Phoenix Research, 1–13 May 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2024-05-13-PhoenixResearch.html#seats</link>
@@ -128,6 +128,66 @@
         type="image/png"/>
       <pubDate>Wed, 01 May 2024 20:49:26 +0200</pubDate>
       <dc:date>2024-05-01T20:49:26.680706+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median, 1 February–4 March 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2024-03-04-Median.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Stačilo! (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Přísaha (EPP): 0 seats&lt;/li&gt;&lt;li&gt;ANO 2011 (RE): 7–9 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Právo Respekt Odbornost (*): 0 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 2–3 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2024-03-04-Median-seats.png"
+        length="320306"
+        type="image/png"/>
+      <pubDate>Thu, 30 May 2024 19:27:21 +0200</pubDate>
+      <dc:date>2024-05-30T19:27:21.580143+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median, 1 February–4 March 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2024-03-04-Median.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2024-03-04-Median-coalitions-seats.png"
+        length="228277"
+        type="image/png"/>
+      <pubDate>Thu, 30 May 2024 19:27:21 +0200</pubDate>
+      <dc:date>2024-05-30T19:27:21.580143+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median, 1 February–4 March 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2024-03-04-Median.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Stačilo! (GUE/NGL): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 7.4–11.0%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 4.6–7.5%&lt;/li&gt;&lt;li&gt;Přísaha (EPP): 2.1–4.2%&lt;/li&gt;&lt;li&gt;ANO 2011 (RE): 28.2–33.9%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 7.4–11.0%&lt;/li&gt;&lt;li&gt;Právo Respekt Odbornost (*): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 7.9–11.5%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 3.4–5.9%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 9.2–13.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2024-03-04-Median.png"
+        length="407662"
+        type="image/png"/>
+      <pubDate>Thu, 30 May 2024 19:27:21 +0200</pubDate>
+      <dc:date>2024-05-30T19:27:21.580143+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for ČT24, 12 February–1 March 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2024-03-01-Kantar.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Stačilo! (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;ANO 2011 (RE): 9–11 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 2 seats&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2024-03-01-Kantar-seats.png"
+        length="259480"
+        type="image/png"/>
+      <pubDate>Thu, 30 May 2024 19:43:39 +0200</pubDate>
+      <dc:date>2024-05-30T19:43:39.591665+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for ČT24, 12 February–1 March 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2024-03-01-Kantar.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2024-03-01-Kantar-coalitions-seats.png"
+        length="199640"
+        type="image/png"/>
+      <pubDate>Thu, 30 May 2024 19:43:39 +0200</pubDate>
+      <dc:date>2024-05-30T19:43:39.591665+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for ČT24, 12 February–1 March 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2024-03-01-Kantar.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Stačilo! (GUE/NGL): 1.7–3.6%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 7.6–11.2%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 4.9–7.9%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 4.7–7.7%&lt;/li&gt;&lt;li&gt;ANO 2011 (RE): 35.6–41.6%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ID): 7.4–10.9%&lt;/li&gt;&lt;li&gt;Česká strana sociálně demokratická (S&amp;amp;D): 1.7–3.6%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 7.8–11.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2024-03-01-Kantar.png"
+        length="329133"
+        type="image/png"/>
+      <pubDate>Thu, 30 May 2024 19:43:39 +0200</pubDate>
+      <dc:date>2024-05-30T19:43:39.591665+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by STEM for CNN Prima News, 18–27 January 2024 – Seat Projections for the Parties</title>
@@ -3549,6 +3609,6 @@
       <pubDate>Mon, 30 Dec 2019 14:19:35 +0100</pubDate>
       <dc:date>2019-12-30T14:19:35+01:00</dc:date>
     </item>
-    <dc:date>2024-05-30T17:37:06.421469+02:00</dc:date>
+    <dc:date>2024-05-30T19:43:39.591665+02:00</dc:date>
   </channel>
 </rss>
