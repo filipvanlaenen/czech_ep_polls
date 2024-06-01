@@ -10,7 +10,8 @@ Last result: **5.2%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.9% | 0.8–2.0% | 0.8–2.2% | 0.6–2.5% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.9–2.9% | 1.7–3.1% | 1.6–3.2% | 1.4–3.5% |
+| [20–27 May 2024](2024-05-27-STEM.html) | STEM <br> Institut H21 | 2.3% | 1.8–2.9% | 1.7–3.1% | 1.6–3.2% | 1.4–3.5% |
 | [1–13 May 2024](2024-05-13-PhoenixResearch.html) | Phoenix Research | 1.3% | 0.9–1.9% | 0.8–2.0% | 0.7–2.2% | 0.6–2.5% |
 | [28 March–8 April 2024](2024-04-08-STEM.html) | STEM | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.5–4.0% |
 | [15–25 March 2024](2024-03-25-STEM.html) | STEM <br> CNN Prima News | 1.9% | N/A | N/A | N/A | N/A |
@@ -158,11 +159,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.2% | 100% |  |
-| 0.5–1.5% | 71% | 99.8% | Median |
-| 1.5–2.5% | 28% | 29% |  |
-| 2.5–3.5% | 0.4% | 0.4% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 1.4% | 100% |  |
+| 1.5–2.5% | 68% | 98.6% | Median |
+| 2.5–3.5% | 30% | 31% |  |
+| 3.5–4.5% | 0.4% | 0.4% |  |
 | 4.5–5.5% | 0% | 0% | Last Result |
 
 
@@ -175,6 +176,7 @@ Last result: **1** seats (General Election of 24–25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [20–27 May 2024](2024-05-27-STEM.html) | STEM <br> Institut H21 | 0 | 0 | 0 | 0 | 0 |
 | [1–13 May 2024](2024-05-13-PhoenixResearch.html) | Phoenix Research | 0 | 0 | 0 | 0 | 0 |
 | [28 March–8 April 2024](2024-04-08-STEM.html) | STEM | 0 | 0 | 0 | 0 | 0 |
 | [15–25 March 2024](2024-03-25-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |

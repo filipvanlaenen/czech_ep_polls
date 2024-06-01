@@ -10,7 +10,8 @@ Last result: **16.1%** (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.4% | 25.7–29.3% | 25.2–29.8% | 24.8–30.2% | 23.9–31.1% |
+| N/A | [Poll Average](average.html) | 26.1% | 24.7–27.7% | 24.2–28.1% | 23.9–28.5% | 23.2–29.2% |
+| [20–27 May 2024](2024-05-27-STEM.html) | STEM <br> Institut H21 | 26.1% | 24.6–27.7% | 24.2–28.1% | 23.9–28.5% | 23.2–29.2% |
 | [1–13 May 2024](2024-05-13-PhoenixResearch.html) | Phoenix Research | 27.4% | 25.7–29.3% | 25.2–29.8% | 24.8–30.2% | 23.9–31.1% |
 | [28 March–8 April 2024](2024-04-08-STEM.html) | STEM | 27.5% | 25.7–29.3% | 25.2–29.8% | 24.8–30.3% | 24.0–31.2% |
 | [15–25 March 2024](2024-03-25-STEM.html) | STEM <br> CNN Prima News | 32.8% | N/A | N/A | N/A | N/A |
@@ -164,18 +165,16 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.2% | 100% |  |
-| 23.5–24.5% | 2% | 99.8% |  |
-| 24.5–25.5% | 7% | 98% |  |
-| 25.5–26.5% | 18% | 92% |  |
-| 26.5–27.5% | 27% | 74% | Median |
-| 27.5–28.5% | 25% | 47% |  |
-| 28.5–29.5% | 15% | 21% |  |
-| 29.5–30.5% | 5% | 7% |  |
-| 30.5–31.5% | 1.3% | 1.5% |  |
-| 31.5–32.5% | 0.2% | 0.2% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 21.5–22.5% | 0.1% | 100% |  |
+| 22.5–23.5% | 1.1% | 99.9% |  |
+| 23.5–24.5% | 7% | 98.8% |  |
+| 24.5–25.5% | 22% | 91% |  |
+| 25.5–26.5% | 33% | 69% | Median |
+| 26.5–27.5% | 25% | 36% |  |
+| 27.5–28.5% | 9% | 11% |  |
+| 28.5–29.5% | 2% | 2% |  |
+| 29.5–30.5% | 0.2% | 0.2% |  |
+| 30.5–31.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -186,7 +185,8 @@ Last result: **4** seats (General Election of 24–25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
+| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [20–27 May 2024](2024-05-27-STEM.html) | STEM <br> Institut H21 | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [1–13 May 2024](2024-05-13-PhoenixResearch.html) | Phoenix Research | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [28 March–8 April 2024](2024-04-08-STEM.html) | STEM | 7 | 7 | 6–8 | 6–8 | 6–8 |
 | [15–25 March 2024](2024-03-25-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
@@ -337,11 +337,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 0% | 100% |  |
-| 6 | 5% | 100% |  |
-| 7 | 45% | 95% | Median |
-| 8 | 42% | 50% |  |
-| 9 | 7% | 7% |  |
-| 10 | 0% | 0% |  |
+| 5 | 0.2% | 100% |  |
+| 6 | 51% | 99.8% | Median |
+| 7 | 49% | 49% |  |
+| 8 | 0% | 0% |  |
 
 
