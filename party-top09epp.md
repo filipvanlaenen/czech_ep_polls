@@ -48,7 +48,7 @@ Last result: **3** seats (General Election of 8 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [10–21 June 2024](2024-06-21-Kantar.html) | Kantar <br> ČT24 | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [10–21 June 2024](2024-06-21-Kantar.html) | Kantar <br> ČT24 | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -58,8 +58,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 63% | 100% | Median |
-| 1 | 37% | 37% |  |
+| 0 | 66% | 100% | Median |
+| 1 | 34% | 34% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 

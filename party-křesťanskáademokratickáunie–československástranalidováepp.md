@@ -10,7 +10,7 @@ Last result: **10.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 2.2–3.5% | 2.1–3.8% | 1.9–4.0% | 1.7–4.5% |
+| N/A | [Poll Average](average.html) | 2.8% | 2.2–3.5% | 2.0–3.8% | 1.9–4.0% | 1.7–4.5% |
 | [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | 2.5% | 2.1–3.1% | 2.0–3.3% | 1.8–3.4% | 1.6–3.7% |
 | [10–21 June 2024](2024-06-21-Kantar.html) | Kantar <br> ČT24 | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 
