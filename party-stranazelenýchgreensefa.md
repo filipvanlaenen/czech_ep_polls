@@ -4,7 +4,7 @@
 
 ## Voting Intentions
 
-Last result: **3.8%** (General Election of 8 June 2024)
+Last result: **0.0%** (General Election of 8 June 2024)
 
 ### Confidence Intervals
 
@@ -20,10 +20,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 8% | 100% |  |
 | 2.5–3.5% | 33% | 92% |  |
-| 3.5–4.5% | 15% | 59% | Last Result, Median |
+| 3.5–4.5% | 15% | 59% | Median |
 | 4.5–5.5% | 31% | 44% |  |
 | 5.5–6.5% | 12% | 13% |  |
 | 6.5–7.5% | 0.5% | 0.5% |  |

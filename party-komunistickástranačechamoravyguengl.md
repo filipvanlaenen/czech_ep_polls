@@ -4,7 +4,7 @@
 
 ## Voting Intentions
 
-Last result: **11.0%** (General Election of 8 June 2024)
+Last result: **0.0%** (General Election of 8 June 2024)
 
 ### Confidence Intervals
 
