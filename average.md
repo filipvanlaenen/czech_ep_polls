@@ -6,12 +6,12 @@
 
 The table below lists the polls on which the average is based. They are the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | KSČM | Stačilo! | Piráti | Pir–STAN | ZELENÍ | ČSSD | ANO | TOP 09 | STAN | KDU–ČSL | P | ODS | SPOLU | SPD | THO | T–S–SsČR | SPD–THO | SVOBODNÍ | PRO |
+| Period     | Polling firm/Commissioner(s) | KSČM | Stačilo! | Piráti | Pir–STAN | ZELENÍ | ČSSD | TOP 09 | STAN | KDU–ČSL | ODS | SPOLU | ANO | P | SPD | THO | T–S–SsČR | SPD–THO | SVOBODNÍ | PRO |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | N/A <br> N/A | 3–6% <br> 0–1 | 7–11% <br> 2–3 | N/A <br> N/A | 2–6% <br> 0–1 | 2–4% <br> 0 | 31–36% <br> 9–11 | 3–6% <br> 0–1 | 6–10% <br> 1–3 | 2–4% <br> 0 | 1–2% <br> 0 | 14–18% <br> 4–5 | N/A <br> N/A | 5–8% <br> 0–2 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 2–4% <br> 0 |
-| [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | N/A <br> N/A | 3–5% <br> 0 | 7–10% <br> 2–3 | N/A <br> N/A | 4–6% <br> 0–1 | 1–3% <br> 0 | 31–36% <br> 9–11 | 4–6% <br> 0–1 | 6–8% <br> 1–2 | 2–3% <br> 0 | 1–2% <br> 0 | 13–17% <br> 4–5 | N/A <br> N/A | 6–9% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 0 | 1–3% <br> 0 |
-| [10–21 June 2024](2024-06-21-Kantar.html) | Kantar <br> ČT24 | N/A <br> N/A | 3–6% <br> 0–1 | 7–11% <br> 2–3 | N/A <br> N/A | 2–4% <br> 0 | 2–4% <br> 0 | 31–37% <br> 9–12 | 3–5% <br> 0–1 | 7–10% <br> 2–3 | 2–4% <br> 0 | N/A <br> N/A | 14–18% <br> 4–5 | N/A <br> N/A | 5–8% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 2–4% <br> 0 |
+| N/A | Poll Average | N/A <br> N/A | 3–6% <br> 0–1 | 7–11% <br> 2–3 | N/A <br> N/A | 2–6% <br> 0–1 | 2–4% <br> 0 | 3–6% <br> 0–1 | 6–10% <br> 1–3 | 2–4% <br> 0 | 14–18% <br> 4–5 | N/A <br> N/A | 31–36% <br> 9–11 | 1–2% <br> 0 | 5–8% <br> 0–2 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 2–4% <br> 0 |
+| [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | N/A <br> N/A | 3–5% <br> 0 | 7–10% <br> 2–3 | N/A <br> N/A | 4–6% <br> 0–1 | 1–3% <br> 0 | 4–6% <br> 0–1 | 6–8% <br> 1–2 | 2–3% <br> 0 | 13–17% <br> 4–5 | N/A <br> N/A | 31–36% <br> 9–11 | 1–2% <br> 0 | 6–9% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 0 | 1–3% <br> 0 |
+| [10–21 June 2024](2024-06-21-Kantar.html) | Kantar <br> ČT24 | N/A <br> N/A | 3–6% <br> 0–1 | 7–11% <br> 2–3 | N/A <br> N/A | 2–4% <br> 0 | 2–4% <br> 0 | 3–5% <br> 0–1 | 7–10% <br> 2–3 | 2–4% <br> 0 | 14–18% <br> 4–5 | N/A <br> N/A | 31–37% <br> 9–12 | N/A <br> N/A | 5–8% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 2–4% <br> 0 |
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -25,17 +25,17 @@ Only polls for which at least the sample size has been published are included in
 + **Pir–STAN:** Česká pirátská strana–Starostové a nezávislí (Greens/EFA)
 + **ZELENÍ:** Strana zelených (Greens/EFA)
 + **ČSSD:** Česká strana sociálně demokratická (S&D)
-+ **ANO:** ANO 2011 (RE)
 + **TOP 09:** TOP 09 (EPP)
 + **STAN:** Starostové a nezávislí (EPP)
 + **KDU–ČSL:** Křesťanská a demokratická unie–Československá strana lidová (EPP)
-+ **P:** Přísaha (EPP)
 + **ODS:** Občanská demokratická strana (ECR)
 + **SPOLU:** SPOLU (ECR)
-+ **SPD:** Svoboda a přímá demokracie (ID)
-+ **THO:** Trikolóra hnutí občanů (ID)
-+ **T–S–SsČR:** Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID)
-+ **SPD–THO:** Svoboda a přímá demokracie–Trikolóra hnutí občanů (ID)
++ **ANO:** ANO 2011 (PfE)
++ **P:** Přísaha (PfE)
++ **SPD:** Svoboda a přímá demokracie (ESN)
++ **THO:** Trikolóra hnutí občanů (ESN)
++ **T–S–SsČR:** Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ESN)
++ **SPD–THO:** Svoboda a přímá demokracie–Trikolóra hnutí občanů (ESN)
 + **SVOBODNÍ:** Strana svobodných občanů (NI)
 + **PRO:** Právo Respekt Odbornost (*)
 + **N/A (single party):** Party not included the published results
@@ -55,17 +55,17 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#česká-pirátská-strana–starostové-a-nezávislí-(greens/efa)">Česká pirátská strana–Starostové a nezávislí (Greens/EFA)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#strana-zelených-(greens/efa)">Strana zelených (Greens/EFA)</a> | 0.0% | 4.2% | 2.6–5.7% |2.4–5.9% | 2.3–6.1% | 2.0–6.6% |
 | <a href="#česká-strana-sociálně-demokratická-(s&d)">Česká strana sociálně demokratická (S&D)</a> | 0.0% | 2.3% | 1.7–3.0% |1.6–3.3% | 1.5–3.5% | 1.3–3.9% |
-| <a href="#ano-2011-(re)">ANO 2011 (RE)</a> | 0.0% | 33.6% | 31.9–35.4% |31.4–36.0% | 31.0–36.5% | 30.2–37.5% |
 | <a href="#top-09-(epp)">TOP 09 (EPP)</a> | 0.0% | 4.3% | 3.5–5.1% |3.3–5.3% | 3.1–5.5% | 2.8–5.9% |
 | <a href="#starostové-a-nezávislí-(epp)">Starostové a nezávislí (EPP)</a> | 0.0% | 7.6% | 6.3–9.3% |6.1–9.7% | 5.9–10.1% | 5.5–10.7% |
 | <a href="#křesťanská-a-demokratická-unie–československá-strana-lidová-(epp)">Křesťanská a demokratická unie–Československá strana lidová (EPP)</a> | 0.0% | 2.8% | 2.2–3.5% |2.0–3.8% | 1.9–4.0% | 1.7–4.5% |
-| <a href="#přísaha-(epp)">Přísaha (EPP)</a> | 0.0% | 1.7% | 1.3–2.2% |1.3–2.3% | 1.2–2.4% | 1.0–2.7% |
 | <a href="#občanská-demokratická-strana-(ecr)">Občanská demokratická strana (ECR)</a> | 0.0% | 15.4% | 14.1–17.1% |13.7–17.6% | 13.5–18.0% | 12.9–18.8% |
 | <a href="#spolu-(ecr)">SPOLU (ECR)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#svoboda-a-přímá-demokracie-(id)">Svoboda a přímá demokracie (ID)</a> | 0.0% | 6.8% | 5.4–8.0% |5.1–8.3% | 4.9–8.5% | 4.5–9.0% |
-| <a href="#trikolóra-hnutí-občanů-(id)">Trikolóra hnutí občanů (ID)</a> | 0.0% | 2.7% | 2.2–3.3% |2.1–3.5% | 2.0–3.6% | 1.8–3.9% |
-| <a href="#trikolóra-hnutí-občanů–strana-svobodných-občanů–strana-soukromníků-české-republiky-(id)">Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#svoboda-a-přímá-demokracie–trikolóra-hnutí-občanů-(id)">Svoboda a přímá demokracie–Trikolóra hnutí občanů (ID)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#ano-2011-(pfe)">ANO 2011 (PfE)</a> | 0.0% | 33.6% | 31.9–35.4% |31.4–36.0% | 31.0–36.5% | 30.2–37.5% |
+| <a href="#přísaha-(pfe)">Přísaha (PfE)</a> | 0.0% | 1.7% | 1.3–2.2% |1.3–2.3% | 1.2–2.4% | 1.0–2.7% |
+| <a href="#svoboda-a-přímá-demokracie-(esn)">Svoboda a přímá demokracie (ESN)</a> | 0.0% | 6.8% | 5.4–8.0% |5.1–8.3% | 4.9–8.5% | 4.5–9.0% |
+| <a href="#trikolóra-hnutí-občanů-(esn)">Trikolóra hnutí občanů (ESN)</a> | 0.0% | 2.7% | 2.2–3.3% |2.1–3.5% | 2.0–3.6% | 1.8–3.9% |
+| <a href="#trikolóra-hnutí-občanů–strana-svobodných-občanů–strana-soukromníků-české-republiky-(esn)">Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ESN)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#svoboda-a-přímá-demokracie–trikolóra-hnutí-občanů-(esn)">Svoboda a přímá demokracie–Trikolóra hnutí občanů (ESN)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#strana-svobodných-občanů-(ni)">Strana svobodných občanů (NI)</a> | 0.0% | 2.6% | 2.0–3.2% |1.9–3.4% | 1.8–3.5% | 1.6–3.9% |
 | <a href="#právo-respekt-odbornost-(*)">Právo Respekt Odbornost (*)</a> | 0.0% | 2.3% | 1.7–3.0% |1.6–3.3% | 1.5–3.5% | 1.3–3.9% |
 
@@ -140,9 +140,9 @@ Only polls for which at least the sample size has been published are included in
 | 19.5–20.5% | 0.1% | 0.1% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
-### Přísaha (EPP)
+### Přísaha (PfE)
 
-*For a full overview of the results for this party, see the [Přísaha (EPP)](party-přísahaepp.html) page.*
+*For a full overview of the results for this party, see the [Přísaha (PfE)](party-přísahapfe.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -165,9 +165,9 @@ Only polls for which at least the sample size has been published are included in
 | 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
-### ANO 2011 (RE)
+### ANO 2011 (PfE)
 
-*For a full overview of the results for this party, see the [ANO 2011 (RE)](party-ano2011re.html) page.*
+*For a full overview of the results for this party, see the [ANO 2011 (PfE)](party-ano2011pfe.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -228,9 +228,9 @@ Only polls for which at least the sample size has been published are included in
 | 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
-### Trikolóra hnutí občanů (ID)
+### Trikolóra hnutí občanů (ESN)
 
-*For a full overview of the results for this party, see the [Trikolóra hnutí občanů (ID)](party-trikolórahnutíobčanůid.html) page.*
+*For a full overview of the results for this party, see the [Trikolóra hnutí občanů (ESN)](party-trikolórahnutíobčanůesn.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -241,9 +241,9 @@ Only polls for which at least the sample size has been published are included in
 | 3.5–4.5% | 3% | 3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
-### Svoboda a přímá demokracie (ID)
+### Svoboda a přímá demokracie (ESN)
 
-*For a full overview of the results for this party, see the [Svoboda a přímá demokracie (ID)](party-svobodaapřímádemokracieid.html) page.*
+*For a full overview of the results for this party, see the [Svoboda a přímá demokracie (ESN)](party-svobodaapřímádemokracieesn.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -348,17 +348,17 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#česká-pirátská-strana–starostové-a-nezávislí-(greens/efa)">Česká pirátská strana–Starostové a nezávislí (Greens/EFA)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#strana-zelených-(greens/efa)">Strana zelených (Greens/EFA)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–2 |
 | <a href="#česká-strana-sociálně-demokratická-(s&d)">Česká strana sociálně demokratická (S&D)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#ano-2011-(re)">ANO 2011 (RE)</a> | 0 | 10 | 9–11 |9–11 | 9–11 | 9–12 |
 | <a href="#top-09-(epp)">TOP 09 (EPP)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#starostové-a-nezávislí-(epp)">Starostové a nezávislí (EPP)</a> | 0 | 2 | 2–3 |1–3 | 1–3 | 1–3 |
 | <a href="#křesťanská-a-demokratická-unie–československá-strana-lidová-(epp)">Křesťanská a demokratická unie–Československá strana lidová (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#přísaha-(epp)">Přísaha (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#občanská-demokratická-strana-(ecr)">Občanská demokratická strana (ECR)</a> | 0 | 4 | 4–5 |4–5 | 4–5 | 4–6 |
 | <a href="#spolu-(ecr)">SPOLU (ECR)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#svoboda-a-přímá-demokracie-(id)">Svoboda a přímá demokracie (ID)</a> | 0 | 2 | 1–2 |1–2 | 0–2 | 0–2 |
-| <a href="#trikolóra-hnutí-občanů-(id)">Trikolóra hnutí občanů (ID)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#trikolóra-hnutí-občanů–strana-svobodných-občanů–strana-soukromníků-české-republiky-(id)">Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#svoboda-a-přímá-demokracie–trikolóra-hnutí-občanů-(id)">Svoboda a přímá demokracie–Trikolóra hnutí občanů (ID)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
+| <a href="#ano-2011-(pfe)">ANO 2011 (PfE)</a> | 0 | 10 | 9–11 |9–11 | 9–11 | 9–12 |
+| <a href="#přísaha-(pfe)">Přísaha (PfE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#svoboda-a-přímá-demokracie-(esn)">Svoboda a přímá demokracie (ESN)</a> | 0 | 2 | 1–2 |1–2 | 0–2 | 0–2 |
+| <a href="#trikolóra-hnutí-občanů-(esn)">Trikolóra hnutí občanů (ESN)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#trikolóra-hnutí-občanů–strana-svobodných-občanů–strana-soukromníků-české-republiky-(esn)">Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ESN)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
+| <a href="#svoboda-a-přímá-demokracie–trikolóra-hnutí-občanů-(esn)">Svoboda a přímá demokracie–Trikolóra hnutí občanů (ESN)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#strana-svobodných-občanů-(ni)">Strana svobodných občanů (NI)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#právo-respekt-odbornost-(*)">Právo Respekt Odbornost (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 
@@ -424,29 +424,6 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### ANO 2011 (RE)
-
-*For a full overview of the results for this party, see the [ANO 2011 (RE)](party-ano2011re.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-ano2011re.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 33% | 100% |  |
-| 10 | 37% | 67% | Median |
-| 11 | 28% | 30% | Majority |
-| 12 | 2% | 2% |  |
-| 13 | 0% | 0% |  |
-
 ### TOP 09 (EPP)
 
 *For a full overview of the results for this party, see the [TOP 09 (EPP)](party-top09epp.html) page.*
@@ -483,16 +460,6 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Přísaha (EPP)
-
-*For a full overview of the results for this party, see the [Přísaha (EPP)](party-přísahaepp.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-přísahaepp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
 ### Občanská demokratická strana (ECR)
 
 *For a full overview of the results for this party, see the [Občanská demokratická strana (ECR)](party-občanskádemokratickástranaecr.html) page.*
@@ -516,11 +483,44 @@ Only polls for which at least the sample size has been published are included in
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-spoluecr.png "Seats Probability Mass Function")
 
-### Svoboda a přímá demokracie (ID)
+### ANO 2011 (PfE)
 
-*For a full overview of the results for this party, see the [Svoboda a přímá demokracie (ID)](party-svobodaapřímádemokracieid.html) page.*
+*For a full overview of the results for this party, see the [ANO 2011 (PfE)](party-ano2011pfe.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-svobodaapřímádemokracieid.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-ano2011pfe.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 33% | 100% |  |
+| 10 | 37% | 67% | Median |
+| 11 | 28% | 30% | Majority |
+| 12 | 2% | 2% |  |
+| 13 | 0% | 0% |  |
+
+### Přísaha (PfE)
+
+*For a full overview of the results for this party, see the [Přísaha (PfE)](party-přísahapfe.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-přísahapfe.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Svoboda a přímá demokracie (ESN)
+
+*For a full overview of the results for this party, see the [Svoboda a přímá demokracie (ESN)](party-svobodaapřímádemokracieesn.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-svobodaapřímádemokracieesn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -530,27 +530,27 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
-### Trikolóra hnutí občanů (ID)
+### Trikolóra hnutí občanů (ESN)
 
-*For a full overview of the results for this party, see the [Trikolóra hnutí občanů (ID)](party-trikolórahnutíobčanůid.html) page.*
+*For a full overview of the results for this party, see the [Trikolóra hnutí občanů (ESN)](party-trikolórahnutíobčanůesn.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-trikolórahnutíobčanůid.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-trikolórahnutíobčanůesn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID)
+### Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ESN)
 
-*For a full overview of the results for this party, see the [Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID)](party-trikolórahnutíobčanů–stranasvobodnýchobčanů–stranasoukromníkůčeskérepublikyid.html) page.*
+*For a full overview of the results for this party, see the [Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ESN)](party-trikolórahnutíobčanů–stranasvobodnýchobčanů–stranasoukromníkůčeskérepublikyesn.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-trikolórahnutíobčanů–stranasvobodnýchobčanů–stranasoukromníkůčeskérepublikyid.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-trikolórahnutíobčanů–stranasvobodnýchobčanů–stranasoukromníkůčeskérepublikyesn.png "Seats Probability Mass Function")
 
-### Svoboda a přímá demokracie–Trikolóra hnutí občanů (ID)
+### Svoboda a přímá demokracie–Trikolóra hnutí občanů (ESN)
 
-*For a full overview of the results for this party, see the [Svoboda a přímá demokracie–Trikolóra hnutí občanů (ID)](party-svobodaapřímádemokracie–trikolórahnutíobčanůid.html) page.*
+*For a full overview of the results for this party, see the [Svoboda a přímá demokracie–Trikolóra hnutí občanů (ESN)](party-svobodaapřímádemokracie–trikolórahnutíobčanůesn.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-svobodaapřímádemokracie–trikolórahnutíobčanůid.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-svobodaapřímádemokracie–trikolórahnutíobčanůesn.png "Seats Probability Mass Function")
 
 ### Strana svobodných občanů (NI)
 
@@ -581,19 +581,19 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| ANO 2011 (RE) | 0 | 10 | 30% | 9–11 | 9–11 | 9–11 | 9–12 |
+| ANO 2011 (PfE) – Přísaha (PfE) | 0 | 10 | 30% | 9–11 | 9–11 | 9–11 | 9–12 |
 | Občanská demokratická strana (ECR) – SPOLU (ECR) | 0 | 4 | 0% | 4–5 | 4–5 | 4–5 | 4–6 |
 | Strana zelených (Greens/EFA) – Česká pirátská strana (Greens/EFA) – Česká pirátská strana–Starostové a nezávislí (Greens/EFA) | 0 | 2 | 0% | 2–3 | 2–3 | 2–4 | 2–4 |
-| Křesťanská a demokratická unie–Československá strana lidová (EPP) – Přísaha (EPP) – Starostové a nezávislí (EPP) – TOP 09 (EPP) | 0 | 2 | 0% | 2–3 | 2–3 | 2–3 | 1–4 |
-| Svoboda a přímá demokracie (ID) – Svoboda a přímá demokracie–Trikolóra hnutí občanů (ID) – Trikolóra hnutí občanů (ID) – Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID) | 0 | 2 | 0% | 1–2 | 1–2 | 0–2 | 0–2 |
+| Křesťanská a demokratická unie–Československá strana lidová (EPP) – Starostové a nezávislí (EPP) – TOP 09 (EPP) | 0 | 2 | 0% | 2–3 | 2–3 | 2–3 | 1–4 |
+| Svoboda a přímá demokracie (ESN) – Svoboda a přímá demokracie–Trikolóra hnutí občanů (ESN) – Trikolóra hnutí občanů (ESN) – Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ESN) | 0 | 2 | 0% | 1–2 | 1–2 | 0–2 | 0–2 |
 | Komunistická strana Čech a Moravy (GUE/NGL) – Stačilo! (GUE/NGL) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Právo Respekt Odbornost (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Česká strana sociálně demokratická (S&D) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
-### ANO 2011 (RE)
+### ANO 2011 (PfE) – Přísaha (PfE)
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ano.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ano–p.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -640,9 +640,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
-### Křesťanská a demokratická unie–Československá strana lidová (EPP) – Přísaha (EPP) – Starostové a nezávislí (EPP) – TOP 09 (EPP)
+### Křesťanská a demokratická unie–Československá strana lidová (EPP) – Starostové a nezávislí (EPP) – TOP 09 (EPP)
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-kdu–čsl–p–stan–top09.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-kdu–čsl–stan–top09.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -653,7 +653,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0.5% | 0.5% |  |
 | 5 | 0% | 0% |  |
 
-### Svoboda a přímá demokracie (ID) – Svoboda a přímá demokracie–Trikolóra hnutí občanů (ID) – Trikolóra hnutí občanů (ID) – Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID)
+### Svoboda a přímá demokracie (ESN) – Svoboda a přímá demokracie–Trikolóra hnutí občanů (ESN) – Trikolóra hnutí občanů (ESN) – Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ESN)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-spd–spd–tho–tho–t–s–ssčr.png "Seats Probability Mass Function")
 
