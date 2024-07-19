@@ -2,11 +2,11 @@
 
 The table below lists all polls registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | KSČM | Stačilo! | Piráti | Pir–STAN | ZELENÍ | ČSSD | ANO | TOP 09 | STAN | KDU–ČSL | P | ODS | SPOLU | SPD | THO | T–S–SsČR | SPD–THO | SVOBODNÍ | PRO |
+| Period     | Polling firm/Commissioner(s) | KSČM | Stačilo! | Piráti | Pir–STAN | ZELENÍ | ČSSD | TOP 09 | STAN | KDU–ČSL | ODS | SPOLU | ANO | P | SPD | THO | T–S–SsČR | SPD–THO | SVOBODNÍ | PRO |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | N/A <br> N/A | 3–5% <br> 0 | 7–10% <br> 2–3 | N/A <br> N/A | 4–6% <br> 0–1 | 1–3% <br> 0 | 31–36% <br> 9–11 | 4–6% <br> 0–1 | 6–8% <br> 1–2 | 2–3% <br> 0 | 1–2% <br> 0 | 13–17% <br> 4–5 | N/A <br> N/A | 6–9% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 0 | 1–3% <br> 0 |
-| [10–21 June 2024](2024-06-21-Kantar.html) | Kantar <br> ČT24 | N/A <br> N/A | 3–6% <br> 0–1 | 7–11% <br> 2–3 | N/A <br> N/A | 2–4% <br> 0 | 2–4% <br> 0 | 31–37% <br> 9–12 | 3–5% <br> 0–1 | 7–10% <br> 2–3 | 2–4% <br> 0 | N/A <br> N/A | 14–18% <br> 4–5 | N/A <br> N/A | 5–8% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 2–4% <br> 0 |
+| [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | N/A <br> N/A | 3–5% <br> 0 | 7–10% <br> 2–3 | N/A <br> N/A | 4–6% <br> 0–1 | 1–3% <br> 0 | 4–6% <br> 0–1 | 6–8% <br> 1–2 | 2–3% <br> 0 | 13–17% <br> 4–5 | N/A <br> N/A | 31–36% <br> 9–11 | 1–2% <br> 0 | 6–9% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 0 | 1–3% <br> 0 |
+| [10–21 June 2024](2024-06-21-Kantar.html) | Kantar <br> ČT24 | N/A <br> N/A | 3–6% <br> 0–1 | 7–11% <br> 2–3 | N/A <br> N/A | 2–4% <br> 0 | 2–4% <br> 0 | 3–5% <br> 0–1 | 7–10% <br> 2–3 | 2–4% <br> 0 | 14–18% <br> 4–5 | N/A <br> N/A | 31–37% <br> 9–12 | N/A <br> N/A | 5–8% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 2–4% <br> 0 |
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -20,17 +20,17 @@ Only polls for which at least the sample size has been published are included in
 + **Pir–STAN:** Česká pirátská strana–Starostové a nezávislí (Greens/EFA)
 + **ZELENÍ:** Strana zelených (Greens/EFA)
 + **ČSSD:** Česká strana sociálně demokratická (S&D)
-+ **ANO:** ANO 2011 (RE)
 + **TOP 09:** TOP 09 (EPP)
 + **STAN:** Starostové a nezávislí (EPP)
 + **KDU–ČSL:** Křesťanská a demokratická unie–Československá strana lidová (EPP)
-+ **P:** Přísaha (EPP)
 + **ODS:** Občanská demokratická strana (ECR)
 + **SPOLU:** SPOLU (ECR)
-+ **SPD:** Svoboda a přímá demokracie (ID)
-+ **THO:** Trikolóra hnutí občanů (ID)
-+ **T–S–SsČR:** Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ID)
-+ **SPD–THO:** Svoboda a přímá demokracie–Trikolóra hnutí občanů (ID)
++ **ANO:** ANO 2011 (PfE)
++ **P:** Přísaha (PfE)
++ **SPD:** Svoboda a přímá demokracie (ESN)
++ **THO:** Trikolóra hnutí občanů (ESN)
++ **T–S–SsČR:** Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ESN)
++ **SPD–THO:** Svoboda a přímá demokracie–Trikolóra hnutí občanů (ESN)
 + **SVOBODNÍ:** Strana svobodných občanů (NI)
 + **PRO:** Právo Respekt Odbornost (*)
 + **N/A (single party):** Party not included the published results
