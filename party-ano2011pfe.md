@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.6% | 31.9–35.4% | 31.4–36.0% | 31.0–36.5% | 30.2–37.5% |
-| [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | 33.2% | 31.7–34.7% | 31.3–35.1% | 30.9–35.5% | 30.2–36.3% |
+| N/A | [Poll Average](average.html) | 33.9% | 32.2–35.6% | 31.7–36.2% | 31.3–36.6% | 30.5–37.6% |
+| [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | 33.8% | 32.3–35.3% | 31.8–35.8% | 31.5–36.2% | 30.8–36.9% |
 | [10–21 June 2024](2024-06-21-Kantar.html) | Kantar <br> ČT24 | 34.0% | 32.2–35.9% | 31.6–36.5% | 31.2–37.0% | 30.3–37.9% |
 
 ### Probability Mass Function
@@ -49,15 +49,15 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0% | 100% |  |
-| 28.5–29.5% | 0.1% | 100% |  |
-| 29.5–30.5% | 0.9% | 99.9% |  |
-| 30.5–31.5% | 5% | 99.0% |  |
-| 31.5–32.5% | 16% | 94% |  |
-| 32.5–33.5% | 27% | 77% |  |
-| 33.5–34.5% | 26% | 50% | Median |
-| 34.5–35.5% | 15% | 24% |  |
-| 35.5–36.5% | 6% | 9% |  |
-| 36.5–37.5% | 2% | 2% |  |
+| 28.5–29.5% | 0% | 100% |  |
+| 29.5–30.5% | 0.5% | 99.9% |  |
+| 30.5–31.5% | 3% | 99.5% |  |
+| 31.5–32.5% | 12% | 96% |  |
+| 32.5–33.5% | 24% | 85% |  |
+| 33.5–34.5% | 29% | 61% | Median |
+| 34.5–35.5% | 20% | 31% |  |
+| 35.5–36.5% | 9% | 11% |  |
+| 36.5–37.5% | 2% | 3% |  |
 | 37.5–38.5% | 0.4% | 0.5% |  |
 | 38.5–39.5% | 0.1% | 0.1% |  |
 | 39.5–40.5% | 0% | 0% |  |
@@ -71,8 +71,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
-| [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | 9 | 9–11 | 9–11 | 9–11 | 9–11 |
+| N/A | [Poll Average](average.html) | 10 | 10–11 | 10–11 | 9–11 | 9–12 |
+| [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | 10 | 10 | 10 | 10 | 9–11 |
 | [10–21 June 2024](2024-06-21-Kantar.html) | Kantar <br> ČT24 | 10 | 10–11 | 9–11 | 9–12 | 9–12 |
 
 ### Probability Mass Function
@@ -92,9 +92,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 33% | 100% |  |
-| 10 | 37% | 67% | Median |
-| 11 | 28% | 30% | Majority |
+| 9 | 5% | 100% |  |
+| 10 | 70% | 95% | Median |
+| 11 | 23% | 25% | Majority |
 | 12 | 2% | 2% |  |
 | 13 | 0% | 0% |  |
 
