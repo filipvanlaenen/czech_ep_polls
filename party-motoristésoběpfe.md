@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.4% | 2.4–4.6% | 2.2–4.9% | 2.1–5.1% | 1.9–5.6% |
+| [1–8 September 2024](2024-09-08-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
+| [1–31 August 2024](2024-08-31-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [1–8 August 2024](2024-08-08-NMS.html) | NMS | 4.1% | 3.5–4.9% | 3.3–5.1% | 3.2–5.3% | 2.9–5.7% |
 | [1–31 July 2024](2024-07-31-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 July 2024](2024-07-31-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
@@ -44,6 +46,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [1–8 September 2024](2024-09-08-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
+| [1–31 August 2024](2024-08-31-Median.html) | Median |  |  |  |  |  |
 | [1–8 August 2024](2024-08-08-NMS.html) | NMS | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–31 July 2024](2024-07-31-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
 | [1–31 July 2024](2024-07-31-Median.html) | Median |  |  |  |  |  |
