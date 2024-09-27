@@ -58,9 +58,9 @@ Last result: **0** seats (General Election of 8 June 2024)
 | [1–31 July 2024](2024-07-31-PhoenixResearch.html) | Phoenix Research | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [1–31 July 2024](2024-07-31-Median.html) | Median | 0 | 0 | 0 | 0 | 0–1 |
 | [4–12 July 2024](2024-07-12-NMS.html) | NMS | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0–1 | 0–1 |
+| [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–30 June 2024](2024-06-30-Median.html) | Median | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| [10–21 June 2024](2024-06-21-Kantar.html) | Kantar <br> ČT24 | 0 | 0 | 0 | 0–1 | 0–1 |
+| [10–21 June 2024](2024-06-21-Kantar.html) | Kantar <br> ČT24 | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -71,7 +71,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 74% | 100% | Last Result, Median |
-| 1 | 23% | 26% |  |
+| 1 | 22% | 26% |  |
 | 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 

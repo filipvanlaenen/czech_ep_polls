@@ -79,7 +79,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
+| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 8–11 | 7–11 |
 | [3–10 September 2024](2024-09-10-NMS.html) | NMS | 9 | 9 | 9 | 9–10 | 9–11 |
 | [29 August–8 September 2024](2024-09-08-STEM.html) | STEM | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | [1–8 September 2024](2024-09-08-PhoenixResearch.html) | Phoenix Research | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
@@ -88,9 +88,9 @@ Last result: **0** seats (General Election of 8 June 2024)
 | [1–31 July 2024](2024-07-31-PhoenixResearch.html) | Phoenix Research | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [1–31 July 2024](2024-07-31-Median.html) | Median | 10 | 10 | 9–10 | 9–10 | 9–11 |
 | [4–12 July 2024](2024-07-12-NMS.html) | NMS | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | 10 | 10 | 9–10 | 9–10 | 9–11 |
+| [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | 10 | 10 | 9–10 | 9–11 | 9–11 |
 | [1–30 June 2024](2024-06-30-Median.html) | Median | 8 | 8–9 | 8–9 | 8–10 | 8–10 |
-| [10–21 June 2024](2024-06-21-Kantar.html) | Kantar <br> ČT24 | 10 | 10–11 | 9–11 | 9–12 | 9–12 |
+| [10–21 June 2024](2024-06-21-Kantar.html) | Kantar <br> ČT24 | 11 | 10–11 | 10–11 | 9–11 | 9–12 |
 
 ### Probability Mass Function
 
@@ -109,10 +109,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 2% | 100% |  |
 | 8 | 9% | 98% |  |
-| 9 | 47% | 89% | Median |
-| 10 | 30% | 43% |  |
-| 11 | 12% | 13% | Majority |
-| 12 | 0.9% | 0.9% |  |
+| 9 | 46% | 89% | Median |
+| 10 | 27% | 43% |  |
+| 11 | 16% | 16% | Majority |
+| 12 | 0.5% | 0.5% |  |
 | 13 | 0% | 0% |  |
 
 

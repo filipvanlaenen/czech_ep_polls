@@ -60,7 +60,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [3–10 September 2024](2024-09-10-NMS.html) | NMS | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [29 August–8 September 2024](2024-09-08-STEM.html) | STEM | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [1–8 September 2024](2024-09-08-PhoenixResearch.html) | Phoenix Research | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
@@ -69,7 +69,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | [1–31 July 2024](2024-07-31-PhoenixResearch.html) | Phoenix Research | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [1–31 July 2024](2024-07-31-Median.html) | Median | 4 | 4 | 4 | 3–4 | 3–5 |
 | [4–12 July 2024](2024-07-12-NMS.html) | NMS | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | 4 | 4 | 4 | 4–5 | 4–5 |
+| [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [1–30 June 2024](2024-06-30-Median.html) | Median | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [10–21 June 2024](2024-06-21-Kantar.html) | Kantar <br> ČT24 | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 
@@ -86,8 +86,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 29% | 100% |  |
 | 4 | 47% | 71% | Median |
-| 5 | 23% | 24% |  |
-| 6 | 0.5% | 0.5% |  |
+| 5 | 24% | 24% |  |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
 
