@@ -57,8 +57,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 0–3 | 0–3 | 0–3 |
-| [2–11 October 2024](2024-10-11-STEM.html) | STEM <br> CNN Prima News | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [30 September–11 October 2024](2024-10-11-Kantar.html) | Kantar <br> ČT24 | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [2–11 October 2024](2024-10-11-STEM.html) | STEM <br> CNN Prima News | 2 | 1–2 | 0–2 | 0–2 | 0–2 |
+| [30 September–11 October 2024](2024-10-11-Kantar.html) | Kantar <br> ČT24 | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [4–9 October 2024](2024-10-09-NMS.html) | NMS | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [1–30 September 2024](2024-09-30-Median.html) | Median | 2 | 2 | 2 | 2–3 | 2–3 |
 | [3–10 September 2024](2024-09-10-NMS.html) | NMS | 2 | 2 | 2 | 2 | 1–2 |
@@ -81,9 +81,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% | Last Result |
-| 1 | 21% | 91% |  |
-| 2 | 61% | 70% | Median |
+| 0 | 8% | 100% | Last Result |
+| 1 | 25% | 92% |  |
+| 2 | 58% | 67% | Median |
 | 3 | 9% | 9% |  |
 | 4 | 0% | 0% |  |
 
