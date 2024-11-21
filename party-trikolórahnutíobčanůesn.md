@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
+| [31 October–8 November 2024](2024-11-08-STEM.html) | STEM <br> CNN Prima News | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
+| [21 October–8 November 2024](2024-11-08-Kantar.html) | Kantar <br> ČT24 | 0.0% | N/A | N/A | N/A | N/A |
+| [1–31 October 2024](2024-10-31-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [2–11 October 2024](2024-10-11-STEM.html) | STEM <br> CNN Prima News | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
 | [30 September–11 October 2024](2024-10-11-Kantar.html) | Kantar <br> ČT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [4–9 October 2024](2024-10-09-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
@@ -33,11 +36,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.9% | 100% | Last Result |
-| 0.5–1.5% | 86% | 99.1% | Median |
-| 1.5–2.5% | 13% | 13% |  |
-| 2.5–3.5% | 0.1% | 0.1% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 38% | 100% | Last Result |
+| 0.5–1.5% | 61% | 62% | Median |
+| 1.5–2.5% | 0.2% | 0.2% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -49,6 +51,9 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [31 October–8 November 2024](2024-11-08-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
+| [21 October–8 November 2024](2024-11-08-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
+| [1–31 October 2024](2024-10-31-Median.html) | Median |  |  |  |  |  |
 | [2–11 October 2024](2024-10-11-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
 | [30 September–11 October 2024](2024-10-11-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
 | [4–9 October 2024](2024-10-09-NMS.html) | NMS |  |  |  |  |  |
