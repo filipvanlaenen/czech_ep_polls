@@ -10,11 +10,15 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.0% | 8.3–12.5% | 7.8–12.9% | 7.4–13.3% | 6.8–14.0% |
+| N/A | [Poll Average](average.html) | 10.1% | 8.4–12.1% | 8.0–12.6% | 7.7–12.9% | 7.2–13.7% |
+| [1–13 December 2024](2024-12-13-PhoenixResearch.html) | Phoenix Research | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
+| [3–9 December 2024](2024-12-09-NMS.html) | NMS | 11.2% | 10.0–12.6% | 9.7–13.0% | 9.4–13.3% | 8.8–14.0% |
+| [1–30 November 2024](2024-11-30-Median.html) | Median | 10.0% | N/A | N/A | N/A | N/A |
 | [5–12 November 2024](2024-11-12-NMS.html) | NMS | 11.1% | 10.1–12.3% | 9.8–12.6% | 9.5–12.9% | 9.0–13.5% |
+| [1–10 November 2024](2024-11-10-PhoenixResearch.html) | Phoenix Research | 9.9% | N/A | N/A | N/A | N/A |
 | [31 October–8 November 2024](2024-11-08-STEM.html) | STEM <br> CNN Prima News | 8.4% | 7.4–9.6% | 7.1–9.9% | 6.9–10.2% | 6.4–10.8% |
 | [21 October–8 November 2024](2024-11-08-Kantar.html) | Kantar <br> ČT24 | 11.5% | 10.4–12.8% | 10.1–13.1% | 9.8–13.4% | 9.3–14.1% |
-| [1–31 October 2024](2024-10-31-Median.html) | Median | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.7% | 9.1–14.4% |
+| [1–31 October 2024](2024-10-31-Median.html) | Median | 11.0% | 10.3–12.9% | 10.0–13.3% | 9.7–13.7% | 9.1–14.4% |
 | [2–11 October 2024](2024-10-11-STEM.html) | STEM <br> CNN Prima News | 10.6% | 9.5–11.9% | 9.2–12.3% | 8.9–12.6% | 8.4–13.2% |
 | [30 September–11 October 2024](2024-10-11-Kantar.html) | Kantar <br> ČT24 | 13.0% | 11.7–14.4% | 11.3–14.8% | 11.0–15.2% | 10.4–15.9% |
 | [4–9 October 2024](2024-10-09-NMS.html) | NMS | 12.0% | 10.9–13.2% | 10.6–13.6% | 10.3–13.9% | 9.8–14.5% |
@@ -43,16 +47,16 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.2% | 100% |  |
-| 6.5–7.5% | 3% | 99.8% |  |
-| 7.5–8.5% | 10% | 97% |  |
-| 8.5–9.5% | 10% | 87% |  |
-| 9.5–10.5% | 14% | 76% |  |
-| 10.5–11.5% | 29% | 62% | Median |
-| 11.5–12.5% | 24% | 33% |  |
-| 12.5–13.5% | 8% | 10% |  |
-| 13.5–14.5% | 1.3% | 1.4% |  |
-| 14.5–15.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 2% | 100% |  |
+| 7.5–8.5% | 12% | 98% |  |
+| 8.5–9.5% | 23% | 86% |  |
+| 9.5–10.5% | 22% | 63% | Median |
+| 10.5–11.5% | 22% | 41% |  |
+| 11.5–12.5% | 14% | 19% |  |
+| 12.5–13.5% | 4% | 5% |  |
+| 13.5–14.5% | 0.7% | 0.7% |  |
+| 14.5–15.5% | 0% | 0.1% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -64,8 +68,12 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [1–13 December 2024](2024-12-13-PhoenixResearch.html) | Phoenix Research | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| [3–9 December 2024](2024-12-09-NMS.html) | NMS | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [1–30 November 2024](2024-11-30-Median.html) | Median |  |  |  |  |  |
 | [5–12 November 2024](2024-11-12-NMS.html) | NMS | 3 | 3 | 3 | 3 | 3–4 |
+| [1–10 November 2024](2024-11-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
 | [31 October–8 November 2024](2024-11-08-STEM.html) | STEM <br> CNN Prima News | 2 | 2 | 2 | 2–3 | 1–3 |
 | [21 October–8 November 2024](2024-11-08-Kantar.html) | Kantar <br> ČT24 | 3 | 3 | 3 | 2–4 | 2–4 |
 | [1–31 October 2024](2024-10-31-Median.html) | Median | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -94,10 +102,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.3% | 100% |  |
-| 2 | 25% | 99.7% |  |
-| 3 | 69% | 75% | Median |
-| 4 | 6% | 6% |  |
+| 1 | 0% | 100% |  |
+| 2 | 19% | 100% |  |
+| 3 | 71% | 81% | Median |
+| 4 | 10% | 10% |  |
 | 5 | 0% | 0% |  |
 
 
