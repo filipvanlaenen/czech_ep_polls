@@ -96,7 +96,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | [3–9 December 2024](2024-12-09-NMS.html) | NMS | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [1–30 November 2024](2024-11-30-Median.html) | Median | 10 | 9–10 | 9–10 | 9–11 | 8–11 |
 | [5–12 November 2024](2024-11-12-NMS.html) | NMS | 10 | 10 | 10 | 10 | 10–11 |
-| [1–10 November 2024](2024-11-10-PhoenixResearch.html) | Phoenix Research | 9 | 9–10 | 8–10 | 8–10 | 8–11 |
+| [1–10 November 2024](2024-11-10-PhoenixResearch.html) | Phoenix Research | 9 | 9–10 | 9–10 | 8–10 | 8–11 |
 | [31 October–8 November 2024](2024-11-08-STEM.html) | STEM <br> CNN Prima News | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
 | [21 October–8 November 2024](2024-11-08-Kantar.html) | Kantar <br> ČT24 | 10 | 10–11 | 10–11 | 9–11 | 9–12 |
 | [1–31 October 2024](2024-10-31-Median.html) | Median | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
