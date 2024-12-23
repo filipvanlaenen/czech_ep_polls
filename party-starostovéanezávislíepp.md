@@ -15,7 +15,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | [3–9 December 2024](2024-12-09-NMS.html) | NMS | 11.2% | 10.0–12.6% | 9.7–13.0% | 9.4–13.3% | 8.8–14.0% |
 | [1–30 November 2024](2024-11-30-Median.html) | Median | 10.0% | 8.9–11.3% | 8.6–11.6% | 8.3–12.0% | 7.8–12.6% |
 | [5–12 November 2024](2024-11-12-NMS.html) | NMS | 11.1% | 10.1–12.3% | 9.8–12.6% | 9.5–12.9% | 9.0–13.5% |
-| [1–10 November 2024](2024-11-10-PhoenixResearch.html) | Phoenix Research | 9.9% | N/A | N/A | N/A | N/A |
+| [1–10 November 2024](2024-11-10-PhoenixResearch.html) | Phoenix Research | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.3–11.9% | 7.8–12.5% |
 | [31 October–8 November 2024](2024-11-08-STEM.html) | STEM <br> CNN Prima News | 8.4% | 7.4–9.6% | 7.1–9.9% | 6.9–10.2% | 6.4–10.8% |
 | [21 October–8 November 2024](2024-11-08-Kantar.html) | Kantar <br> ČT24 | 11.5% | 10.4–12.8% | 10.1–13.1% | 9.8–13.4% | 9.3–14.1% |
 | [1–31 October 2024](2024-10-31-Median.html) | Median | 11.0% | 10.3–12.9% | 10.0–13.3% | 9.7–13.7% | 9.1–14.4% |
@@ -72,7 +72,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | [3–9 December 2024](2024-12-09-NMS.html) | NMS | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [1–30 November 2024](2024-11-30-Median.html) | Median | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–12 November 2024](2024-11-12-NMS.html) | NMS | 3 | 3 | 3 | 3 | 3–4 |
-| [1–10 November 2024](2024-11-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
+| [1–10 November 2024](2024-11-10-PhoenixResearch.html) | Phoenix Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [31 October–8 November 2024](2024-11-08-STEM.html) | STEM <br> CNN Prima News | 2 | 2 | 2 | 2–3 | 1–3 |
 | [21 October–8 November 2024](2024-11-08-Kantar.html) | Kantar <br> ČT24 | 3 | 3 | 3 | 2–4 | 2–4 |
 | [1–31 October 2024](2024-10-31-Median.html) | Median | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
