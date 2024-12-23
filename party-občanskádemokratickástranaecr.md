@@ -72,7 +72,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
 | [1–13 December 2024](2024-12-13-PhoenixResearch.html) | Phoenix Research | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [3–9 December 2024](2024-12-09-NMS.html) | NMS | 2 | 2 | 2 | 2 | 1–3 |
-| [1–30 November 2024](2024-11-30-Median.html) | Median | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| [1–30 November 2024](2024-11-30-Median.html) | Median | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [5–12 November 2024](2024-11-12-NMS.html) | NMS | 3 | 3 | 3 | 3 | 2–3 |
 | [1–10 November 2024](2024-11-10-PhoenixResearch.html) | Phoenix Research | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [31 October–8 November 2024](2024-11-08-STEM.html) | STEM <br> CNN Prima News | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -104,9 +104,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.8% | 100% |  |
-| 2 | 33% | 99.2% |  |
-| 3 | 31% | 66% | Median |
-| 4 | 31% | 35% |  |
+| 2 | 34% | 99.2% |  |
+| 3 | 31% | 65% | Median |
+| 4 | 30% | 34% |  |
 | 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
