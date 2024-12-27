@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.3–5.5% | 2.1–5.9% | 1.9–6.2% | 1.7–6.8% |
+| N/A | [Poll Average](average.html) | 4.1% | 2.5–6.1% | 2.3–6.5% | 2.1–6.9% | 1.7–7.5% |
 | [1–13 December 2024](2024-12-13-PhoenixResearch.html) | Phoenix Research | 3.3% | 2.7–4.2% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [3–9 December 2024](2024-12-09-NMS.html) | NMS | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.2% |
 | [1–30 November 2024](2024-11-30-Median.html) | Median | 2.5% | 2.0–3.3% | 1.9–3.5% | 1.7–3.7% | 1.5–4.1% |
@@ -42,14 +42,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.2% | 100% |  |
-| 1.5–2.5% | 17% | 99.8% |  |
-| 2.5–3.5% | 36% | 83% | Median |
-| 3.5–4.5% | 19% | 47% |  |
-| 4.5–5.5% | 18% | 28% |  |
-| 5.5–6.5% | 9% | 10% |  |
-| 6.5–7.5% | 1.0% | 1.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 10% | 99.9% |  |
+| 2.5–3.5% | 25% | 90% |  |
+| 3.5–4.5% | 24% | 65% | Median |
+| 4.5–5.5% | 20% | 40% |  |
+| 5.5–6.5% | 16% | 21% |  |
+| 6.5–7.5% | 5% | 5% |  |
+| 7.5–8.5% | 0.4% | 0.5% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -60,7 +61,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [1–13 December 2024](2024-12-13-PhoenixResearch.html) | Phoenix Research | 0 | 0 | 0 | 0 | 0–1 |
 | [3–9 December 2024](2024-12-09-NMS.html) | NMS | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [1–30 November 2024](2024-11-30-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
@@ -93,9 +94,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 75% | 100% | Last Result, Median |
-| 1 | 23% | 25% |  |
-| 2 | 2% | 2% |  |
+| 0 | 65% | 100% | Last Result, Median |
+| 1 | 28% | 35% |  |
+| 2 | 7% | 7% |  |
 | 3 | 0% | 0% |  |
 
 

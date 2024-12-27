@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.6–5.8% | 3.3–6.2% | 3.1–6.5% | 2.8–7.0% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.0–6.3% | 2.7–6.8% | 2.5–7.1% | 2.2–7.7% |
 | [1–13 December 2024](2024-12-13-PhoenixResearch.html) | Phoenix Research | 3.9% | 3.2–4.8% | 3.0–5.0% | 2.9–5.3% | 2.6–5.7% |
 | [3–9 December 2024](2024-12-09-NMS.html) | NMS | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
 | [1–30 November 2024](2024-11-30-Median.html) | Median | 4.5% | 3.8–5.4% | 3.6–5.7% | 3.4–6.0% | 3.1–6.4% |
@@ -43,13 +43,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 10% | 99.9% |  |
-| 3.5–4.5% | 39% | 90% |  |
-| 4.5–5.5% | 36% | 52% | Median |
-| 5.5–6.5% | 14% | 16% |  |
-| 6.5–7.5% | 2% | 2% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 20% | 97% |  |
+| 3.5–4.5% | 27% | 78% |  |
+| 4.5–5.5% | 25% | 51% | Median |
+| 5.5–6.5% | 19% | 26% |  |
+| 6.5–7.5% | 6% | 7% |  |
+| 7.5–8.5% | 0.8% | 0.8% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -94,9 +94,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Last Result, Median |
-| 1 | 28% | 29% |  |
-| 2 | 0.9% | 0.9% |  |
+| 0 | 64% | 100% | Last Result, Median |
+| 1 | 34% | 36% |  |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 
