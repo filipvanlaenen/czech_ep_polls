@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 2.5–6.1% | 2.3–6.5% | 2.1–6.9% | 1.7–7.5% |
+| N/A | [Poll Average](average.html) | 4.2% | 2.4–5.7% | 2.1–6.0% | 1.9–6.3% | 1.6–6.8% |
+| [3–7 January 2025](2025-01-07-STEM.html) | STEM <br> CNN Prima News | 5.2% | 4.5–6.0% | 4.3–6.2% | 4.1–6.4% | 3.9–6.8% |
+| [21 November–31 December 2024](2024-12-31-Median.html) | Median | 2.5% | 1.9–3.2% | 1.8–3.4% | 1.7–3.6% | 1.4–4.0% |
 | [1–13 December 2024](2024-12-13-PhoenixResearch.html) | Phoenix Research | 3.3% | 2.7–4.2% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [3–9 December 2024](2024-12-09-NMS.html) | NMS | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.2% |
 | [1–30 November 2024](2024-11-30-Median.html) | Median | 2.5% | 2.0–3.3% | 1.9–3.5% | 1.7–3.7% | 1.5–4.1% |
@@ -42,15 +44,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 10% | 99.9% |  |
-| 2.5–3.5% | 25% | 90% |  |
-| 3.5–4.5% | 24% | 65% | Median |
-| 4.5–5.5% | 20% | 40% |  |
-| 5.5–6.5% | 16% | 21% |  |
-| 6.5–7.5% | 5% | 5% |  |
-| 7.5–8.5% | 0.4% | 0.5% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.3% | 100% |  |
+| 1.5–2.5% | 14% | 99.7% |  |
+| 2.5–3.5% | 26% | 86% |  |
+| 3.5–4.5% | 17% | 60% | Median |
+| 4.5–5.5% | 29% | 43% |  |
+| 5.5–6.5% | 13% | 14% |  |
+| 6.5–7.5% | 1.1% | 1.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -61,7 +62,9 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [3–7 January 2025](2025-01-07-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21 November–31 December 2024](2024-12-31-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [1–13 December 2024](2024-12-13-PhoenixResearch.html) | Phoenix Research | 0 | 0 | 0 | 0 | 0–1 |
 | [3–9 December 2024](2024-12-09-NMS.html) | NMS | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [1–30 November 2024](2024-11-30-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
@@ -94,9 +97,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 65% | 100% | Last Result, Median |
-| 1 | 28% | 35% |  |
-| 2 | 7% | 7% |  |
+| 0 | 69% | 100% | Last Result, Median |
+| 1 | 30% | 31% |  |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 
