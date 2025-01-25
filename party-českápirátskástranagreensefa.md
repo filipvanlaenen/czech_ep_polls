@@ -68,7 +68,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [3–14 January 2025](2025-01-14-STEM.html) | STEM <br> CNN Prima News | 2 | 2 | 2 | 1–2 | 1–2 |
-| [9–13 January 2025](2025-01-13-NMS.html) | NMS | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [9–13 January 2025](2025-01-13-NMS.html) | NMS | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [3–7 January 2025](2025-01-07-STEM.html) | STEM <br> CNN Prima News | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21 November–31 December 2024](2024-12-31-Median.html) | Median | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [1–13 December 2024](2024-12-13-PhoenixResearch.html) | Phoenix Research | 0 | 0 | 0 | 0–1 | 0–2 |
@@ -104,9 +104,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 25% | 100% | Last Result |
-| 1 | 34% | 75% | Median |
-| 2 | 41% | 41% |  |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
+| 1 | 31% | 75% | Median |
+| 2 | 43% | 44% |  |
+| 3 | 0% | 0% |  |
 
 
