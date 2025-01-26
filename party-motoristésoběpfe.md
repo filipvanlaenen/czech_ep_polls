@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 1.6–7.3% | 1.4–7.8% | 1.2–8.1% | 1.0–8.8% |
+| N/A | [Poll Average](average.html) | 3.9% | 1.7–7.2% | 1.4–7.7% | 1.3–8.0% | 1.0–8.7% |
 | [3–21 January 2025](2025-01-21-STEM.html) | STEM <br> CNN Prima News | 3.9% | 3.4–4.4% | 3.3–4.6% | 3.2–4.7% | 3.0–5.0% |
 | [3–14 January 2025](2025-01-14-STEM.html) | STEM <br> CNN Prima News | 4.9% | 4.3–5.6% | 4.2–5.8% | 4.1–5.9% | 3.8–6.3% |
 | [9–13 January 2025](2025-01-13-NMS.html) | NMS | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.1% |
@@ -47,16 +47,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 9% | 100% |  |
-| 1.5–2.5% | 15% | 91% |  |
-| 2.5–3.5% | 5% | 76% |  |
-| 3.5–4.5% | 20% | 71% |  |
-| 4.5–5.5% | 9% | 51% | Median |
-| 5.5–6.5% | 18% | 42% |  |
-| 6.5–7.5% | 16% | 24% |  |
-| 7.5–8.5% | 6% | 7% |  |
-| 8.5–9.5% | 0.9% | 1.0% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 8% | 100% |  |
+| 1.5–2.5% | 22% | 92% |  |
+| 2.5–3.5% | 14% | 71% |  |
+| 3.5–4.5% | 17% | 57% | Median |
+| 4.5–5.5% | 7% | 41% |  |
+| 5.5–6.5% | 15% | 34% |  |
+| 6.5–7.5% | 13% | 19% |  |
+| 7.5–8.5% | 5% | 6% |  |
+| 8.5–9.5% | 0.8% | 0.8% |  |
+| 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -106,9 +106,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 54% | 100% | Last Result, Median |
-| 1 | 20% | 46% |  |
-| 2 | 26% | 26% |  |
+| 0 | 63% | 100% | Last Result, Median |
+| 1 | 16% | 37% |  |
+| 2 | 21% | 21% |  |
 | 3 | 0% | 0% |  |
 
 
