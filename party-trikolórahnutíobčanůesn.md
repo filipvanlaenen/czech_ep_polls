@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.2% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
+| [10–28 January 2025](2025-01-28-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
 | [3–21 January 2025](2025-01-21-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
 | [3–14 January 2025](2025-01-14-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
 | [9–13 January 2025](2025-01-13-NMS.html) | NMS | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
@@ -35,7 +36,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | [1–8 August 2024](2024-08-08-NMS.html) | NMS | 1.0% | 0.7–1.5% | 0.7–1.6% | 0.6–1.7% | 0.5–2.0% |
 | [1–31 July 2024](2024-07-31-PhoenixResearch.html) | Phoenix Research | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 July 2024](2024-07-31-Median.html) | Median | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
-| [4–12 July 2024](2024-07-12-NMS.html) | NMS | 3.3% | 2.7–4.1% | 2.6–4.3% | 2.5–4.5% | 2.2–4.8% |
+| [4–12 July 2024](2024-07-12-NMS.html) | NMS | 1.2% | 2.7–4.1% | 2.6–4.3% | 2.5–4.5% | 2.2–4.8% |
 | [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | 1.7% | 1.3–2.2% | 1.2–2.3% | 1.2–2.4% | 1.0–2.7% |
 | [1–30 June 2024](2024-06-30-Median.html) | Median | 2.5% | 2.0–3.2% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [10–21 June 2024](2024-06-21-Kantar.html) | Kantar <br> ČT24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -62,6 +63,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [10–28 January 2025](2025-01-28-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [3–21 January 2025](2025-01-21-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [3–14 January 2025](2025-01-14-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [9–13 January 2025](2025-01-13-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
