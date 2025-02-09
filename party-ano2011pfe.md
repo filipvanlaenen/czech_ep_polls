@@ -101,8 +101,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 9–11 | 9–13 |
-| [24–29 January 2025](2025-01-29-Ipsos.html) | Ipsos | 10 | 9–11 | 9–12 | 9–13 | 9–13 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
+| [24–29 January 2025](2025-01-29-Ipsos.html) | Ipsos | 11 | 9–12 | 9–12 | 9–12 | 9–13 |
 | [10–28 January 2025](2025-01-28-STEM.html) | STEM <br> CNN Prima News | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
 | [3–21 January 2025](2025-01-21-STEM.html) | STEM <br> CNN Prima News | 11 | 10–11 | 9–11 | 9–11 | 9–11 |
 | [3–14 January 2025](2025-01-14-STEM.html) | STEM <br> CNN Prima News | 10 | 10–11 | 9–11 | 9–12 | 9–12 |
@@ -151,10 +151,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0.5% | 100% |  |
 | 9 | 18% | 99.5% |  |
-| 10 | 65% | 81% | Median |
-| 11 | 15% | 16% | Majority |
-| 12 | 0.9% | 1.4% |  |
-| 13 | 0.5% | 0.5% |  |
+| 10 | 62% | 82% | Median |
+| 11 | 14% | 20% | Majority |
+| 12 | 5% | 5% |  |
+| 13 | 0.3% | 0.3% |  |
 | 14 | 0% | 0% |  |
 
 
