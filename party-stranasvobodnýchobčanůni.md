@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 0.8–2.1% | 0.7–2.3% | 0.6–2.5% | 0.4–2.8% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.8–2.1% | 0.7–2.3% | 0.6–2.4% | 0.4–2.8% |
+| [17 January–4 February 2025](2025-02-04-STEM.html) | STEM <br> CNN Prima News | 1.5% | 1.2–2.0% | 1.1–2.1% | 1.0–2.2% | 0.9–2.5% |
+| [13–31 January 2025](2025-01-31-Kantar.html) | Kantar <br> ČT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [24–29 January 2025](2025-01-29-Ipsos.html) | Ipsos | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [10–28 January 2025](2025-01-28-STEM.html) | STEM <br> CNN Prima News | 1.6% | 1.3–2.1% | 1.2–2.3% | 1.1–2.4% | 0.9–2.6% |
 | [3–21 January 2025](2025-01-21-STEM.html) | STEM <br> CNN Prima News | 1.8% | 1.5–2.2% | 1.4–2.3% | 1.3–2.4% | 1.2–2.6% |
@@ -49,8 +51,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 52% | 98% |  |
-| 1.5–2.5% | 44% | 46% | Median |
+| 0.5–1.5% | 57% | 98% | Median |
+| 1.5–2.5% | 39% | 41% |  |
 | 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -64,6 +66,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [17 January–4 February 2025](2025-02-04-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
+| [13–31 January 2025](2025-01-31-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
 | [24–29 January 2025](2025-01-29-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0 | 0 |
 | [10–28 January 2025](2025-01-28-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
 | [3–21 January 2025](2025-01-21-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
