@@ -75,7 +75,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [24 January–11 February 2025](2025-02-11-STEM.html) | STEM <br> CNN Prima News | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [4–9 February 2025](2025-02-09-NMS.html) | NMS | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [4–9 February 2025](2025-02-09-NMS.html) | NMS | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [17 January–4 February 2025](2025-02-04-STEM.html) | STEM <br> CNN Prima News | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–31 January 2025](2025-01-31-Kantar.html) | Kantar <br> ČT24 | 0 | 0 | 0 | 0 | 0 |
 | [24–29 January 2025](2025-01-29-Ipsos.html) | Ipsos | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -117,9 +117,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 48% | 100% | Last Result |
-| 1 | 37% | 52% | Median |
-| 2 | 16% | 16% |  |
+| 0 | 39% | 100% | Last Result |
+| 1 | 45% | 61% | Median |
+| 2 | 15% | 15% |  |
 | 3 | 0% | 0% |  |
 
 
