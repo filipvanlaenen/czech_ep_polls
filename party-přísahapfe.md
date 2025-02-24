@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.6% | 1.7–3.7% | 1.5–4.1% | 1.4–4.4% | 1.2–4.9% |
+| [31 January–18 February 2025](2025-02-18-STEM.html) | STEM <br> CNN Prima News | 2.9% | 2.4–3.5% | 2.3–3.7% | 2.1–3.8% | 2.0–4.2% |
 | [24 January–11 February 2025](2025-02-11-STEM.html) | STEM <br> CNN Prima News | 2.9% | 2.4–3.5% | 2.3–3.7% | 2.2–3.9% | 2.0–4.2% |
 | [4–9 February 2025](2025-02-09-NMS.html) | NMS | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–4.9% | 2.3–5.4% |
 | [17 January–4 February 2025](2025-02-04-STEM.html) | STEM <br> CNN Prima News | 2.1% | 1.7–2.6% | 1.6–2.8% | 1.5–2.9% | 1.3–3.2% |
@@ -71,6 +72,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [31 January–18 February 2025](2025-02-18-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
 | [24 January–11 February 2025](2025-02-11-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
 | [4–9 February 2025](2025-02-09-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [17 January–4 February 2025](2025-02-04-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
