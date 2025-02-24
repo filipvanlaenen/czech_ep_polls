@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 20 Feb 2025 17:49:17 +0100</pubDate>
+    <pubDate>Mon, 24 Feb 2025 20:09:31 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by STEM for CNN Prima News, 31 January–18 February 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2025-02-18-STEM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 0–2 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 2–4 seats&lt;/li&gt;&lt;li&gt;Přísaha (PfE): 0 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ESN): 2 seats&lt;/li&gt;&lt;li&gt;Strana svobodných občanů (NI): 0 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 2 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Stačilo! (GUE/NGL): 0–2 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;ANO 2011 (PfE): 9–11 seats&lt;/li&gt;&lt;li&gt;Sociální demokracie (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Motoristé sobě (PfE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2025-02-18-STEM-seats.png"
+        length="335890"
+        type="image/png"/>
+      <pubDate>Mon, 24 Feb 2025 20:09:31 +0100</pubDate>
+      <dc:date>2025-02-24T20:09:31.460292+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by STEM for CNN Prima News, 31 January–18 February 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2025-02-18-STEM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2025-02-18-STEM-coalitions-seats.png"
+        length="223078"
+        type="image/png"/>
+      <pubDate>Mon, 24 Feb 2025 20:09:31 +0100</pubDate>
+      <dc:date>2025-02-24T20:09:31.460292+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by STEM for CNN Prima News, 31 January–18 February 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2025-02-18-STEM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 4.8–7.2%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 9.9–13.1%&lt;/li&gt;&lt;li&gt;Přísaha (PfE): 2.1–3.8%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ESN): 6.9–9.6%&lt;/li&gt;&lt;li&gt;Strana svobodných občanů (NI): 1.5–3.0%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 4.4–6.6%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 6.7–9.4%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 1.4–2.8%&lt;/li&gt;&lt;li&gt;Stačilo! (GUE/NGL): 4.6–7.0%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 4.2–6.4%&lt;/li&gt;&lt;li&gt;ANO 2011 (PfE): 32.4–37.1%&lt;/li&gt;&lt;li&gt;Sociální demokracie (S&amp;amp;D): 1.7–3.2%&lt;/li&gt;&lt;li&gt;Motoristé sobě (PfE): 3.6–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2025-02-18-STEM.png"
+        length="399170"
+        type="image/png"/>
+      <pubDate>Mon, 24 Feb 2025 20:09:31 +0100</pubDate>
+      <dc:date>2025-02-24T20:09:31.460292+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by STEM for CNN Prima News, 24 January–11 February 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2025-02-11-STEM.html#seats</link>
@@ -1029,6 +1059,6 @@
       <pubDate>Thu, 26 Sep 2024 22:50:30 +0200</pubDate>
       <dc:date>2024-09-26T22:50:30.896883+02:00</dc:date>
     </item>
-    <dc:date>2025-02-20T17:49:17.946299+01:00</dc:date>
+    <dc:date>2025-02-24T20:09:31.460292+01:00</dc:date>
   </channel>
 </rss>
