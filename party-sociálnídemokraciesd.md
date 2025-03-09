@@ -10,11 +10,15 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.5–3.4% | 1.3–3.7% | 1.2–3.9% | 1.0–4.4% |
+| N/A | [Poll Average](average.html) | 2.8% | 2.2–3.8% | 2.0–4.1% | 1.9–4.3% | 1.7–4.8% |
+| [10–28 February 2025](2025-02-28-Kantar.html) | Kantar <br> ČT24 | 0.0% | N/A | N/A | N/A | N/A |
+| [24–28 February 2025](2025-02-28-Ipsos.html) | Ipsos | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
+| [7–25 February 2025](2025-02-25-STEM.html) | STEM <br> CNN Prima News | 2.5% | 2.0–3.1% | 1.9–3.2% | 1.8–3.4% | 1.6–3.7% |
 | [31 January–18 February 2025](2025-02-18-STEM.html) | STEM <br> CNN Prima News | 2.3% | 1.9–2.9% | 1.8–3.0% | 1.7–3.2% | 1.5–3.5% |
 | [24 January–11 February 2025](2025-02-11-STEM.html) | STEM <br> CNN Prima News | 3.0% | 2.5–3.6% | 2.3–3.8% | 2.2–3.9% | 2.0–4.3% |
 | [4–9 February 2025](2025-02-09-NMS.html) | NMS | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [17 January–4 February 2025](2025-02-04-STEM.html) | STEM <br> CNN Prima News | 2.5% | 2.0–3.1% | 1.9–3.2% | 1.8–3.4% | 1.6–3.7% |
+| [7–31 January 2025](2025-01-31-Median.html) | Median | 3.5% | 2.8–4.3% | 2.7–4.5% | 2.5–4.8% | 2.2–5.2% |
 | [13–31 January 2025](2025-01-31-Kantar.html) | Kantar <br> ČT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [24–29 January 2025](2025-01-29-Ipsos.html) | Ipsos | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [10–28 January 2025](2025-01-28-STEM.html) | STEM <br> CNN Prima News | 2.7% | 2.2–3.3% | 2.1–3.5% | 2.0–3.7% | 1.8–4.0% |
@@ -54,11 +58,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 10% | 100% |  |
-| 1.5–2.5% | 43% | 90% | Median |
-| 2.5–3.5% | 40% | 47% |  |
-| 3.5–4.5% | 7% | 7% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 30% | 99.8% |  |
+| 2.5–3.5% | 53% | 69% | Median |
+| 3.5–4.5% | 15% | 16% |  |
+| 4.5–5.5% | 1.2% | 1.3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -71,10 +75,14 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [10–28 February 2025](2025-02-28-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
+| [24–28 February 2025](2025-02-28-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0 | 0 |
+| [7–25 February 2025](2025-02-25-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
 | [31 January–18 February 2025](2025-02-18-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
 | [24 January–11 February 2025](2025-02-11-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
 | [4–9 February 2025](2025-02-09-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [17 January–4 February 2025](2025-02-04-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
+| [7–31 January 2025](2025-01-31-Median.html) | Median | 0 | 0 | 0 | 0 | 0–1 |
 | [13–31 January 2025](2025-01-31-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
 | [24–29 January 2025](2025-01-29-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0 | 0 |
 | [10–28 January 2025](2025-01-28-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
@@ -115,6 +123,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0.2% | 0.2% |  |
+| 2 | 0% | 0% |  |
 
 
