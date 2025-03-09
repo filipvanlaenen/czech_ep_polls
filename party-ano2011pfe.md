@@ -111,7 +111,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
 | [10–28 February 2025](2025-02-28-Kantar.html) | Kantar <br> ČT24 | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [24–28 February 2025](2025-02-28-Ipsos.html) | Ipsos | 11 | 11 | 10–11 | 10–11 | 10–12 |
 | [7–25 February 2025](2025-02-25-STEM.html) | STEM <br> CNN Prima News | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
@@ -119,7 +119,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | [24 January–11 February 2025](2025-02-11-STEM.html) | STEM <br> CNN Prima News | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [4–9 February 2025](2025-02-09-NMS.html) | NMS | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | [17 January–4 February 2025](2025-02-04-STEM.html) | STEM <br> CNN Prima News | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
-| [7–31 January 2025](2025-01-31-Median.html) | Median | 10 | 9–11 | 9–11 | 8–11 | 8–11 |
+| [7–31 January 2025](2025-01-31-Median.html) | Median | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [13–31 January 2025](2025-01-31-Kantar.html) | Kantar <br> ČT24 | 9 | 9–10 | 9–10 | 8–11 | 8–11 |
 | [24–29 January 2025](2025-01-29-Ipsos.html) | Ipsos | 11 | 9–12 | 9–12 | 9–12 | 9–13 |
 | [10–28 January 2025](2025-01-28-STEM.html) | STEM <br> CNN Prima News | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
@@ -168,9 +168,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.6% | 100% |  |
-| 9 | 10% | 99.4% |  |
-| 10 | 40% | 89% | Median |
+| 8 | 0.4% | 100% |  |
+| 9 | 11% | 99.6% |  |
+| 10 | 40% | 88% | Median |
 | 11 | 46% | 49% | Majority |
 | 12 | 3% | 3% |  |
 | 13 | 0.2% | 0.2% |  |
