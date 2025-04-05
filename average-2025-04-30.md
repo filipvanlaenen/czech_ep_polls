@@ -383,7 +383,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#občanská-demokratická-strana-(ecr)">Občanská demokratická strana (ECR)</a> | 0 | 2 | 2 |1–2 | 1–2 | 1–3 |
 | <a href="#spolu-(ecr)">SPOLU (ECR)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#ano-2011-(pfe)">ANO 2011 (PfE)</a> | 0 | 9 | 8–11 |8–11 | 8–12 | 8–12 |
-| <a href="#motoristé-sobě-(pfe)">Motoristé sobě (PfE)</a> | 0 | 1 | 1–2 |0–2 | 0–2 | 0–2 |
+| <a href="#motoristé-sobě-(pfe)">Motoristé sobě (PfE)</a> | 0 | 1 | 0–2 |0–2 | 0–2 | 0–2 |
 | <a href="#přísaha-(pfe)">Přísaha (PfE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#svoboda-a-přímá-demokracie-(esn)">Svoboda a přímá demokracie (ESN)</a> | 0 | 2 | 1–3 |1–3 | 1–3 | 1–3 |
 | <a href="#trikolóra-hnutí-občanů-(esn)">Trikolóra hnutí občanů (ESN)</a> | 0 | 0 | 0 |0 | 0 | 0 |
@@ -414,8 +414,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% | Last Result |
-| 1 | 73% | 87% | Median |
+| 0 | 14% | 100% | Last Result |
+| 1 | 72% | 86% | Median |
 | 2 | 14% | 14% |  |
 | 3 | 0% | 0% |  |
 
@@ -443,8 +443,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.6% | 100% | Last Result, Median |
-| 1 | 0.4% | 0.4% |  |
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0.5% | 0.5% |  |
 | 2 | 0% | 0% |  |
 
 ### TOP 09 (EPP)
@@ -455,8 +455,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 27% | 100% | Last Result |
-| 1 | 65% | 73% | Median |
+| 0 | 28% | 100% | Last Result |
+| 1 | 64% | 72% | Median |
 | 2 | 8% | 8% |  |
 | 3 | 0% | 0% |  |
 
@@ -470,8 +470,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 31% | 100% |  |
-| 3 | 47% | 69% | Median |
+| 2 | 30% | 100% |  |
+| 3 | 48% | 70% | Median |
 | 4 | 22% | 22% |  |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
@@ -484,9 +484,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 27% | 100% | Last Result |
-| 1 | 69% | 73% | Median |
-| 2 | 3% | 3% |  |
+| 0 | 24% | 100% | Last Result |
+| 1 | 72% | 76% | Median |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
 ### Občanská demokratická strana (ECR)
@@ -526,8 +526,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0.2% | 100% |  |
 | 8 | 21% | 99.8% |  |
-| 9 | 31% | 78% | Median |
-| 10 | 32% | 47% |  |
+| 9 | 30% | 78% | Median |
+| 10 | 33% | 48% |  |
 | 11 | 12% | 15% | Majority |
 | 12 | 3% | 3% |  |
 | 13 | 0.2% | 0.2% |  |
@@ -541,8 +541,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 47% | 92% | Median |
+| 0 | 12% | 100% | Last Result |
+| 1 | 43% | 88% | Median |
 | 2 | 45% | 45% |  |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
@@ -567,8 +567,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% | Last Result |
 | 1 | 21% | 99.6% |  |
-| 2 | 67% | 79% | Median |
-| 3 | 12% | 12% |  |
+| 2 | 68% | 79% | Median |
+| 3 | 11% | 11% |  |
 | 4 | 0% | 0% |  |
 
 ### Trikolóra hnutí občanů (ESN)
@@ -628,7 +628,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| ANO 2011 (PfE) – Motoristé sobě (PfE) – Přísaha (PfE) | 0 | 11 | 61% | 10–12 | 9–13 | 9–13 | 9–13 |
+| ANO 2011 (PfE) – Motoristé sobě (PfE) – Přísaha (PfE) | 0 | 11 | 59% | 10–12 | 9–13 | 9–13 | 9–13 |
 | Křesťanská a demokratická unie–Československá strana lidová (EPP) – Starostové a nezávislí (EPP) – TOP 09 (EPP) | 0 | 5 | 0% | 3–6 | 3–6 | 3–6 | 2–6 |
 | Svoboda a přímá demokracie (ESN) – Svoboda a přímá demokracie–Trikolóra hnutí občanů (ESN) – Trikolóra hnutí občanů (ESN) – Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ESN) | 0 | 2 | 0% | 1–3 | 1–3 | 1–3 | 1–3 |
 | Občanská demokratická strana (ECR) – SPOLU (ECR) | 0 | 2 | 0% | 2 | 1–2 | 1–2 | 1–3 |
@@ -653,9 +653,9 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 7% | 100% |  |
-| 10 | 31% | 93% | Median |
-| 11 | 40% | 61% | Majority |
+| 9 | 8% | 100% |  |
+| 10 | 33% | 92% | Median |
+| 11 | 38% | 59% | Majority |
 | 12 | 16% | 21% |  |
 | 13 | 5% | 5% |  |
 | 14 | 0.4% | 0.4% |  |
@@ -670,11 +670,11 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.6% | 100% |  |
-| 3 | 13% | 99.4% |  |
-| 4 | 34% | 87% |  |
-| 5 | 42% | 52% | Median |
-| 6 | 10% | 10% |  |
-| 7 | 0.2% | 0.2% |  |
+| 3 | 10% | 99.4% |  |
+| 4 | 36% | 89% |  |
+| 5 | 42% | 53% | Median |
+| 6 | 11% | 11% |  |
+| 7 | 0.2% | 0.3% |  |
 | 8 | 0% | 0% |  |
 
 ### Svoboda a přímá demokracie (ESN) – Svoboda a přímá demokracie–Trikolóra hnutí občanů (ESN) – Trikolóra hnutí občanů (ESN) – Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky (ESN)
@@ -685,8 +685,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% | Last Result |
 | 1 | 21% | 99.6% |  |
-| 2 | 67% | 79% | Median |
-| 3 | 12% | 12% |  |
+| 2 | 68% | 79% | Median |
+| 3 | 11% | 11% |  |
 | 4 | 0% | 0% |  |
 
 ### Občanská demokratická strana (ECR) – SPOLU (ECR)
@@ -718,8 +718,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% | Last Result |
-| 1 | 73% | 87% | Median |
+| 0 | 14% | 100% | Last Result |
+| 1 | 72% | 86% | Median |
 | 2 | 14% | 14% |  |
 | 3 | 0% | 0% |  |
 
@@ -745,8 +745,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Last Result, Median |
-| 1 | 0.3% | 0.3% |  |
+| 0 | 99.6% | 100% | Last Result, Median |
+| 1 | 0.4% | 0.4% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -754,5 +754,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 5
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 7,340,032
++ **Total number of simulations done in the polls included in this average:** 8,388,608
 + **Error estimate:** 2.61%

@@ -88,7 +88,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| [24–28 March 2025](2025-03-28-Ipsos.html) | Ipsos | 2 | 2 | 2 | 2–3 | 2–3 |
+| [24–28 March 2025](2025-03-28-Ipsos.html) | Ipsos | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [7–25 March 2025](2025-03-25-STEM.html) | STEM <br> CNN Prima News | 2 | 2 | 2 | 2 | 1–3 |
 | [21 February–11 March 2025](2025-03-11-STEM.html) | STEM <br> CNN Prima News | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [28 February–5 March 2025](2025-03-05-NMS.html) | NMS | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
