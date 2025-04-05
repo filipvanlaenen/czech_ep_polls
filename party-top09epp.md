@@ -85,7 +85,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [24–28 March 2025](2025-03-28-Ipsos.html) | Ipsos | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| [7–25 March 2025](2025-03-25-STEM.html) | STEM <br> CNN Prima News | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [7–25 March 2025](2025-03-25-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [21 February–11 March 2025](2025-03-11-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28 February–5 March 2025](2025-03-05-NMS.html) | NMS | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [14 February–4 March 2025](2025-03-04-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -140,7 +140,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 28% | 100% | Last Result |
 | 1 | 64% | 72% | Median |
-| 2 | 8% | 8% |  |
+| 2 | 7% | 7% |  |
 | 3 | 0% | 0% |  |
 
 
