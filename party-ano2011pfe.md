@@ -11,13 +11,14 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 33.7% | 28.1–36.7% | 27.2–37.4% | 26.5–38.0% | 25.4–39.0% |
-| [24 March–15 April 2025](2025-04-15-STEM.html) | STEM <br> CNN Prima News | 33.0% | 31.7–34.3% | 31.3–34.7% | 31.0–35.0% | 30.4–35.7% |
+| [24 March–15 April 2025](2025-04-15-STEM.html) | STEM <br> CNN Prima News | 32.9% | 31.7–34.3% | 31.3–34.7% | 31.0–35.0% | 30.4–35.7% |
 | [2–9 April 2025](2025-04-09-NMS.html) | NMS | 28.1% | 26.3–30.0% | 25.8–30.5% | 25.4–31.0% | 24.6–31.9% |
 | [21 March–8 April 2025](2025-04-08-STEM.html) | STEM <br> CNN Prima News | 31.6% | 30.3–32.9% | 29.9–33.3% | 29.6–33.6% | 29.0–34.2% |
 | [17 March–4 April 2025](2025-04-04-Kantar.html) | Kantar <br> ČT24 | 35.5% | 33.6–37.4% | 33.1–38.0% | 32.6–38.4% | 31.7–39.4% |
-| [14 March–2 April 2025](2025-04-02-STEM.html) | STEM <br> CNN Prima News | 31.4% | 29.9–32.9% | 29.5–33.4% | 29.1–33.7% | 28.4–34.5% |
+| [14 March–1 April 2025](2025-04-01-STEM.html) | STEM <br> CNN Prima News | 31.4% | N/A | N/A | N/A | N/A |
 | [24–28 March 2025](2025-03-28-Ipsos.html) | Ipsos | 35.8% | 33.9–37.7% | 33.4–38.3% | 33.0–38.7% | 32.1–39.7% |
 | [7–25 March 2025](2025-03-25-STEM.html) | STEM <br> CNN Prima News | 31.1% | 29.6–32.6% | 29.2–33.1% | 28.8–33.5% | 28.1–34.2% |
+| [28 February–18 March 2025](2025-03-18-STEM.html) | STEM <br> CNN Prima News | 32.7% | N/A | N/A | N/A | N/A |
 | [21 February–11 March 2025](2025-03-11-STEM.html) | STEM <br> CNN Prima News | 33.7% | 32.2–35.3% | 31.8–35.7% | 31.4–36.1% | 30.7–36.8% |
 | [28 February–5 March 2025](2025-03-05-NMS.html) | NMS | 31.3% | 29.5–33.2% | 28.9–33.7% | 28.5–34.2% | 27.6–35.1% |
 | [14 February–4 March 2025](2025-03-04-STEM.html) | STEM <br> CNN Prima News | 35.6% | 34.1–37.2% | 33.6–37.6% | 33.3–38.0% | 32.5–38.7% |
@@ -120,14 +121,15 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [24 March–15 April 2025](2025-04-15-STEM.html) | STEM <br> CNN Prima News | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
-| [2–9 April 2025](2025-04-09-NMS.html) | NMS | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
+| [2–9 April 2025](2025-04-09-NMS.html) | NMS | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [21 March–8 April 2025](2025-04-08-STEM.html) | STEM <br> CNN Prima News | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [17 March–4 April 2025](2025-04-04-Kantar.html) | Kantar <br> ČT24 | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
-| [14 March–2 April 2025](2025-04-02-STEM.html) | STEM <br> CNN Prima News | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
+| [14 March–1 April 2025](2025-04-01-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [24–28 March 2025](2025-03-28-Ipsos.html) | Ipsos | 10 | 9–10 | 9–11 | 9–11 | 9–12 |
 | [7–25 March 2025](2025-03-25-STEM.html) | STEM <br> CNN Prima News | 8 | 8–9 | 8–10 | 8–10 | 8–10 |
+| [28 February–18 March 2025](2025-03-18-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [21 February–11 March 2025](2025-03-11-STEM.html) | STEM <br> CNN Prima News | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [28 February–5 March 2025](2025-03-05-NMS.html) | NMS | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [14 February–4 March 2025](2025-03-04-STEM.html) | STEM <br> CNN Prima News | 11 | 10–11 | 9–11 | 9–11 | 9–12 |
@@ -187,10 +189,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.3% | 100% |  |
-| 8 | 11% | 99.7% |  |
-| 9 | 47% | 88% | Median |
-| 10 | 37% | 41% |  |
+| 7 | 4% | 100% |  |
+| 8 | 17% | 96% |  |
+| 9 | 41% | 78% | Median |
+| 10 | 33% | 38% |  |
 | 11 | 4% | 5% | Majority |
 | 12 | 0.5% | 0.5% |  |
 | 13 | 0% | 0% |  |

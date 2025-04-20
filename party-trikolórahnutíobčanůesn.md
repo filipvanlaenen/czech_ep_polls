@@ -15,9 +15,10 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | [2–9 April 2025](2025-04-09-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
 | [21 March–8 April 2025](2025-04-08-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
 | [17 March–4 April 2025](2025-04-04-Kantar.html) | Kantar <br> ČT24 | 0.0% | N/A | N/A | N/A | N/A |
-| [14 March–2 April 2025](2025-04-02-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
+| [14 March–1 April 2025](2025-04-01-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
 | [24–28 March 2025](2025-03-28-Ipsos.html) | Ipsos | 0.0% | N/A | N/A | N/A | N/A |
 | [7–25 March 2025](2025-03-25-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
+| [28 February–18 March 2025](2025-03-18-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
 | [21 February–11 March 2025](2025-03-11-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
 | [28 February–5 March 2025](2025-03-05-NMS.html) | NMS | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [14 February–4 March 2025](2025-03-04-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
@@ -89,9 +90,10 @@ Last result: **0** seats (General Election of 8 June 2024)
 | [2–9 April 2025](2025-04-09-NMS.html) | NMS |  |  |  |  |  |
 | [21 March–8 April 2025](2025-04-08-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [17 March–4 April 2025](2025-04-04-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
-| [14 March–2 April 2025](2025-04-02-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [14 March–1 April 2025](2025-04-01-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [24–28 March 2025](2025-03-28-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [7–25 March 2025](2025-03-25-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [28 February–18 March 2025](2025-03-18-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [21 February–11 March 2025](2025-03-11-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [28 February–5 March 2025](2025-03-05-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [14 February–4 March 2025](2025-03-04-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
