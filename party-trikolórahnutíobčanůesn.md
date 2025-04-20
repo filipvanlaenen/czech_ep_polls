@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
+| [24 March–15 April 2025](2025-04-15-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
 | [2–9 April 2025](2025-04-09-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
 | [21 March–8 April 2025](2025-04-08-STEM.html) | STEM <br> CNN Prima News | 0.0% | N/A | N/A | N/A | N/A |
 | [17 March–4 April 2025](2025-04-04-Kantar.html) | Kantar <br> ČT24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -84,6 +85,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [24 March–15 April 2025](2025-04-15-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [2–9 April 2025](2025-04-09-NMS.html) | NMS |  |  |  |  |  |
 | [21 March–8 April 2025](2025-04-08-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [17 March–4 April 2025](2025-04-04-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
