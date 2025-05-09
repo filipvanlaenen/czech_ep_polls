@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.6% | 7.4–9.8% | 7.1–10.2% | 6.9–10.5% | 6.3–11.2% |
+| N/A | [Poll Average](average.html) | 8.7% | 7.5–10.0% | 7.1–10.4% | 6.9–10.8% | 6.4–11.5% |
+| [28 April–4 May 2025](2025-05-04-Ipsos.html) | Ipsos | 9.4% | 8.3–10.6% | 8.0–11.0% | 7.8–11.3% | 7.3–11.9% |
+| [11–29 April 2025](2025-04-29-STEM.html) | STEM <br> CNN Prima News | 8.5% | 7.7–9.5% | 7.5–9.8% | 7.3–10.0% | 6.9–10.5% |
 | [4–22 April 2025](2025-04-22-STEM.html) | STEM <br> CNN Prima News | 8.4% | 7.6–9.4% | 7.3–9.6% | 7.1–9.9% | 6.8–10.3% |
 | [24 March–15 April 2025](2025-04-15-STEM.html) | STEM <br> CNN Prima News | 8.5% | 7.8–9.3% | 7.6–9.6% | 7.4–9.8% | 7.0–10.2% |
 | [2–9 April 2025](2025-04-09-NMS.html) | NMS | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
@@ -78,12 +80,12 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 1.0% | 100% |  |
-| 6.5–7.5% | 12% | 99.0% |  |
-| 7.5–8.5% | 37% | 87% |  |
-| 8.5–9.5% | 35% | 50% | Median |
-| 9.5–10.5% | 13% | 15% |  |
-| 10.5–11.5% | 2% | 2% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
+| 6.5–7.5% | 11% | 99.0% |  |
+| 7.5–8.5% | 34% | 88% |  |
+| 8.5–9.5% | 36% | 54% | Median |
+| 9.5–10.5% | 15% | 19% |  |
+| 10.5–11.5% | 3% | 4% |  |
+| 11.5–12.5% | 0.4% | 0.4% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -95,7 +97,9 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| [28 April–4 May 2025](2025-05-04-Ipsos.html) | Ipsos | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [11–29 April 2025](2025-04-29-STEM.html) | STEM <br> CNN Prima News | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [4–22 April 2025](2025-04-22-STEM.html) | STEM <br> CNN Prima News | 2 | 2 | 2 | 2–3 | 1–3 |
 | [24 March–15 April 2025](2025-04-15-STEM.html) | STEM <br> CNN Prima News | 2 | 2 | 2 | 2 | 2 |
 | [2–9 April 2025](2025-04-09-NMS.html) | NMS | 2 | 2 | 2–3 | 2–3 | 1–3 |
@@ -160,8 +164,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 4% | 100% |  |
-| 2 | 92% | 96% | Median |
-| 3 | 5% | 5% |  |
+| 2 | 88% | 96% | Median |
+| 3 | 9% | 9% |  |
 | 4 | 0% | 0% |  |
 
 
