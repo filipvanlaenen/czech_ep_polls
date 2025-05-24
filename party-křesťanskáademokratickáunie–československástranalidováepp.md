@@ -10,9 +10,12 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.7% | 4.7–6.7% | 4.5–7.0% | 4.3–7.3% | 3.9–7.9% |
+| N/A | [Poll Average](average.html) | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
+| [6–12 May 2025](2025-05-12-NMS.html) | NMS | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.7% | 4.4–8.3% |
 | [18 April–6 May 2025](2025-05-06-STEM.html) | STEM <br> CNN Prima News | 5.7% | 5.0–6.5% | 4.8–6.7% | 4.6–6.9% | 4.3–7.4% |
 | [28 April–4 May 2025](2025-05-04-Ipsos.html) | Ipsos | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.4–8.2% |
+| [14 April–2 May 2025](2025-05-02-Kantar.html) | Kantar <br> ČT24 | 5.5% | 4.6–6.5% | 4.4–6.8% | 4.2–7.0% | 3.9–7.6% |
+| [1–30 April 2025](2025-04-30-Median.html) | Median | 5.8% | 4.9–6.8% | 4.7–7.1% | 4.5–7.4% | 4.1–7.9% |
 | [11–29 April 2025](2025-04-29-STEM.html) | STEM <br> CNN Prima News | 5.6% | 4.9–6.4% | 4.7–6.6% | 4.5–6.8% | 4.2–7.2% |
 | [4–22 April 2025](2025-04-22-STEM.html) | STEM <br> CNN Prima News | 5.5% | 4.8–6.2% | 4.6–6.5% | 4.4–6.7% | 4.1–7.1% |
 | [24 March–15 April 2025](2025-04-15-STEM.html) | STEM <br> CNN Prima News | 5.5% | 5.0–6.3% | 4.8–6.5% | 4.7–6.6% | 4.4–7.0% |
@@ -77,13 +80,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 6% | 99.9% |  |
-| 4.5–5.5% | 37% | 94% |  |
-| 5.5–6.5% | 43% | 57% | Median |
-| 6.5–7.5% | 12% | 13% |  |
-| 7.5–8.5% | 1.2% | 1.3% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 3% | 100% |  |
+| 4.5–5.5% | 31% | 97% |  |
+| 5.5–6.5% | 48% | 66% | Median |
+| 6.5–7.5% | 16% | 18% |  |
+| 7.5–8.5% | 2% | 2% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -96,8 +99,11 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [6–12 May 2025](2025-05-12-NMS.html) | NMS | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [18 April–6 May 2025](2025-05-06-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 1 | 0–2 | 0–2 |
 | [28 April–4 May 2025](2025-05-04-Ipsos.html) | Ipsos | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [14 April–2 May 2025](2025-05-02-Kantar.html) | Kantar <br> ČT24 | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [1–30 April 2025](2025-04-30-Median.html) | Median | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [11–29 April 2025](2025-04-29-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [4–22 April 2025](2025-04-22-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [24 March–15 April 2025](2025-04-15-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -161,9 +167,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% | Last Result |
-| 1 | 80% | 86% | Median |
-| 2 | 6% | 6% |  |
+| 0 | 13% | 100% | Last Result |
+| 1 | 79% | 87% | Median |
+| 2 | 8% | 8% |  |
 | 3 | 0% | 0% |  |
 
 
