@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 4–7% <br> 0–1 | 5–8% <br> 0–2 | N/A <br> N/A | 1–3% <br> 0 | 1–5% <br> 0–1 | 5–8% <br> 0–2 | 8–14% <br> 2–3 | 4–8% <br> 0–2 | 7–11% <br> 2–3 | N/A <br> N/A | 29–37% <br> 8–10 | 3–8% <br> 0–2 | 2–4% <br> 0 | 9–15% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [9–27 May 2025](2025-05-27-STEM.html) | STEM <br> CNN Prima News | 4–7% <br> 0–1 | 5–7% <br> 0–2 | N/A <br> N/A | 1–2% <br> 0 | 2–4% <br> 0 | 5–8% <br> 1–2 | 10–13% <br> 2–3 | 5–7% <br> 1–2 | 8–11% <br> 2–3 | N/A <br> N/A | 29–34% <br> 8–9 | 3–5% <br> 0 | 2–3% <br> 0 | 11–15% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–27 May 2025](2025-05-27-STEM.html) | STEM <br> CNN Prima News | 4–7% <br> 0–1 | 5–7% <br> 0–2 | N/A <br> N/A | 1–2% <br> 0 | 2–4% <br> 0 | 5–8% <br> 1–2 | 10–13% <br> 2–3 | 5–7% <br> 0–2 | 8–11% <br> 2–3 | N/A <br> N/A | 29–34% <br> 8–9 | 3–5% <br> 0 | 2–3% <br> 0 | 11–15% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–12 May 2025](2025-05-12-NMS.html) | NMS | 3–6% <br> 0–1 | 5–8% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0 | 5–8% <br> 1–2 | 8–12% <br> 2–3 | 5–8% <br> 0–2 | 8–11% <br> 2–3 | N/A <br> N/A | 28–33% <br> 8–9 | 4–6% <br> 0–1 | 2–4% <br> 0 | 12–16% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [28 April–4 May 2025](2025-05-04-Ipsos.html) | Ipsos | 5–7% <br> 0–2 | 5–8% <br> 0–2 | N/A <br> N/A | 1–3% <br> 0 | 1–3% <br> 0 | 5–8% <br> 1–2 | 8–12% <br> 2–3 | 5–8% <br> 1–2 | 8–11% <br> 2–3 | N/A <br> N/A | 32–37% <br> 8–10 | 3–6% <br> 0–1 | 2–4% <br> 0 | 9–12% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [14 April–2 May 2025](2025-05-02-Kantar.html) | Kantar <br> ČT24 | 3–6% <br> 0–1 | 5–8% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 1–3% <br> 0 | 4–7% <br> 0–2 | 11–15% <br> 3–4 | 4–7% <br> 0–1 | 7–10% <br> 1–2 | N/A <br> N/A | 32–38% <br> 8–10 | 5–8% <br> 0–2 | N/A <br> N/A | 8–12% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -367,8 +367,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 47% | 100% | Last Result |
-| 1 | 52% | 53% | Median |
-| 2 | 1.1% | 1.1% |  |
+| 1 | 51% | 53% | Median |
+| 2 | 1.2% | 1.2% |  |
 | 3 | 0% | 0% |  |
 
 ### Česká pirátská strana (Greens/EFA)
@@ -379,9 +379,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 63% | 93% | Median |
-| 2 | 31% | 31% |  |
+| 0 | 6% | 100% | Last Result |
+| 1 | 65% | 94% | Median |
+| 2 | 29% | 29% |  |
 | 3 | 0% | 0% |  |
 
 ### Česká pirátská strana–Starostové a nezávislí (Greens/EFA)
@@ -421,8 +421,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 5% | 100% | Last Result |
-| 1 | 68% | 95% | Median |
-| 2 | 27% | 27% |  |
+| 1 | 69% | 95% | Median |
+| 2 | 26% | 26% |  |
 | 3 | 0% | 0% |  |
 
 ### Starostové a nezávislí (EPP)
@@ -435,8 +435,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 45% | 100% |  |
-| 3 | 53% | 55% | Median |
+| 2 | 43% | 100% |  |
+| 3 | 55% | 57% | Median |
 | 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
@@ -449,8 +449,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 13% | 100% | Last Result |
-| 1 | 77% | 87% | Median |
-| 2 | 10% | 10% |  |
+| 1 | 76% | 87% | Median |
+| 2 | 11% | 11% |  |
 | 3 | 0% | 0% |  |
 
 ### Občanská demokratická strana (ECR)
@@ -463,8 +463,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 1.3% | 100% |  |
-| 2 | 95% | 98.7% | Median |
-| 3 | 4% | 4% |  |
+| 2 | 94% | 98.7% | Median |
+| 3 | 5% | 5% |  |
 | 4 | 0% | 0% |  |
 
 ### SPOLU (ECR)
@@ -490,7 +490,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0.3% | 100% |  |
 | 8 | 17% | 99.7% |  |
-| 9 | 53% | 82% | Median |
+| 9 | 52% | 82% | Median |
 | 10 | 29% | 30% |  |
 | 11 | 0.6% | 0.6% | Majority |
 | 12 | 0% | 0% |  |
@@ -529,8 +529,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 39% | 100% |  |
-| 3 | 55% | 61% | Median |
-| 4 | 6% | 6% |  |
+| 3 | 54% | 61% | Median |
+| 4 | 7% | 7% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -605,7 +605,7 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0.2% | 100% |  |
 | 8 | 11% | 99.8% |  |
 | 9 | 31% | 89% | Median |
-| 10 | 39% | 59% |  |
+| 10 | 39% | 58% |  |
 | 11 | 17% | 20% | Majority |
 | 12 | 3% | 3% |  |
 | 13 | 0.1% | 0.1% |  |
@@ -621,9 +621,9 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 3% | 100% |  |
-| 4 | 35% | 97% |  |
-| 5 | 46% | 62% | Median |
-| 6 | 15% | 16% |  |
+| 4 | 36% | 97% |  |
+| 5 | 44% | 61% | Median |
+| 6 | 17% | 18% |  |
 | 7 | 1.0% | 1.0% |  |
 | 8 | 0% | 0% |  |
 
@@ -636,8 +636,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 39% | 100% |  |
-| 3 | 55% | 61% | Median |
-| 4 | 6% | 6% |  |
+| 3 | 54% | 61% | Median |
+| 4 | 7% | 7% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -649,8 +649,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 1.3% | 100% |  |
-| 2 | 95% | 98.7% | Median |
-| 3 | 4% | 4% |  |
+| 2 | 94% | 98.7% | Median |
+| 3 | 5% | 5% |  |
 | 4 | 0% | 0% |  |
 
 ### Strana zelených (Greens/EFA) – Česká pirátská strana (Greens/EFA) – Česká pirátská strana–Starostové a nezávislí (Greens/EFA)
@@ -659,9 +659,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 63% | 93% | Median |
-| 2 | 31% | 31% |  |
+| 0 | 6% | 100% | Last Result |
+| 1 | 65% | 94% | Median |
+| 2 | 29% | 29% |  |
 | 3 | 0% | 0% |  |
 
 ### Sociální demokracie (S&D)
@@ -681,8 +681,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 47% | 100% | Last Result |
-| 1 | 52% | 53% | Median |
-| 2 | 1.1% | 1.1% |  |
+| 1 | 51% | 53% | Median |
+| 2 | 1.2% | 1.2% |  |
 | 3 | 0% | 0% |  |
 
 ### Komunistická strana Čech a Moravy (NI) – Strana svobodných občanů (NI)
@@ -705,6 +705,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 9,437,184
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 10,485,760
 + **Error estimate:** 2.38%
