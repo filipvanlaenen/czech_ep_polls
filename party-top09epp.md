@@ -117,7 +117,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–2 | 0–2 | 0–2 |
-| [3–22 July 2025](2025-07-22-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 1 | 1 | 0–2 |
+| [3–22 July 2025](2025-07-22-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 1 | 1–2 | 0–2 |
 | [28 June–15 July 2025](2025-07-15-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19 June–8 July 2025](2025-07-08-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [2–7 July 2025](2025-07-07-NMS.html) | NMS | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
