@@ -10,90 +10,90 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.9% | 5.0–7.0% | 4.7–7.3% | 4.5–7.6% | 4.1–8.2% |
+| N/A | [Poll Average](average.html) | 5.7% | 4.8–6.6% | 4.6–6.8% | 4.4–7.1% | 4.0–7.5% |
 | [24 July–12 August 2025](2025-08-12-STEM.html) | STEM <br> CNN Prima News | 5.8% | 5.1–6.7% | 4.9–6.9% | 4.8–7.1% | 4.4–7.5% |
-| [17 July–5 August 2025](2025-08-05-STEM.html) | STEM <br> CNN Prima News | 6.2% | 5.5–7.1% | 5.3–7.3% | 5.1–7.5% | 4.8–7.9% |
+| [17 July–5 August 2025](2025-08-05-STEM.html) | STEM <br> CNN Prima News | 6.2% | N/A | N/A | N/A | N/A |
 | [1–5 August 2025](2025-08-05-NMS.html) | NMS | 5.4% | 4.6–6.4% | 4.4–6.7% | 4.2–7.0% | 3.8–7.5% |
-| [28 July–2 August 2025](2025-08-02-Ipsos.html) | Ipsos | 6.4% | 5.5–7.5% | 5.2–7.8% | 5.0–8.0% | 4.6–8.6% |
-| [1–31 July 2025](2025-07-31-Median.html) | Median | 5.6% | 4.8–6.7% | 4.6–7.0% | 4.4–7.2% | 4.0–7.7% |
-| [10–29 July 2025](2025-07-29-STEM.html) | STEM <br> CNN Prima News | 6.0% | 5.3–6.9% | 5.1–7.1% | 5.0–7.3% | 4.6–7.8% |
-| [3–22 July 2025](2025-07-22-STEM.html) | STEM <br> CNN Prima News | 6.2% | 5.4–7.0% | 5.2–7.3% | 5.1–7.5% | 4.7–7.9% |
-| [28 June–15 July 2025](2025-07-15-STEM.html) | STEM <br> CNN Prima News | 5.6% | 5.0–6.5% | 4.8–6.7% | 4.6–6.9% | 4.3–7.3% |
-| [19 June–8 July 2025](2025-07-08-STEM.html) | STEM <br> CNN Prima News | 5.8% | 5.1–6.6% | 4.9–6.9% | 4.7–7.1% | 4.4–7.5% |
-| [2–7 July 2025](2025-07-07-NMS.html) | NMS | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.8–7.9% | 4.5–8.4% |
-| [12 June–1 July 2025](2025-07-01-STEM.html) | STEM <br> CNN Prima News | 5.9% | 5.2–6.7% | 5.0–7.0% | 4.8–7.2% | 4.5–7.6% |
-| [1–30 June 2025](2025-06-30-Median.html) | Median | 5.5% | 4.7–6.5% | 4.4–6.8% | 4.2–7.1% | 3.9–7.6% |
-| [24–29 June 2025](2025-06-29-Ipsos.html) | Ipsos | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.8% | 4.5–8.4% |
-| [5–24 June 2025](2025-06-24-STEM.html) | STEM <br> CNN Prima News | 6.0% | 5.3–6.9% | 5.1–7.1% | 5.0–7.3% | 4.6–7.8% |
-| [9–20 June 2025](2025-06-20-Kantar.html) | Kantar <br> ČT24 | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
+| [28 July–2 August 2025](2025-08-02-Ipsos.html) | Ipsos | 6.4% | N/A | N/A | N/A | N/A |
+| [1–31 July 2025](2025-07-31-Median.html) | Median | 5.6% | N/A | N/A | N/A | N/A |
+| [10–29 July 2025](2025-07-29-STEM.html) | STEM <br> CNN Prima News | 6.0% | N/A | N/A | N/A | N/A |
+| [3–22 July 2025](2025-07-22-STEM.html) | STEM <br> CNN Prima News | 6.2% | N/A | N/A | N/A | N/A |
+| [28 June–15 July 2025](2025-07-15-STEM.html) | STEM <br> CNN Prima News | 5.6% | N/A | N/A | N/A | N/A |
+| [19 June–8 July 2025](2025-07-08-STEM.html) | STEM <br> CNN Prima News | 5.8% | N/A | N/A | N/A | N/A |
+| [2–7 July 2025](2025-07-07-NMS.html) | NMS | 6.2% | N/A | N/A | N/A | N/A |
+| [12 June–1 July 2025](2025-07-01-STEM.html) | STEM <br> CNN Prima News | 5.9% | N/A | N/A | N/A | N/A |
+| [1–30 June 2025](2025-06-30-Median.html) | Median | 5.5% | N/A | N/A | N/A | N/A |
+| [24–29 June 2025](2025-06-29-Ipsos.html) | Ipsos | 6.2% | N/A | N/A | N/A | N/A |
+| [5–24 June 2025](2025-06-24-STEM.html) | STEM <br> CNN Prima News | 6.0% | N/A | N/A | N/A | N/A |
+| [9–20 June 2025](2025-06-20-Kantar.html) | Kantar <br> ČT24 | 6.1% | N/A | N/A | N/A | N/A |
 | [30 May–17 June 2025](2025-06-17-STEM.html) | STEM <br> CNN Prima News | 5.9% | N/A | N/A | N/A | N/A |
-| [30 May–11 June 2025](2025-06-11-STEM.html) | STEM <br> CNN Prima News | 6.3% | 5.5–7.1% | 5.3–7.4% | 5.2–7.6% | 4.8–8.0% |
-| [23 May–4 June 2025](2025-06-04-STEM.html) | STEM <br> CNN Prima News | 6.4% | 5.7–7.3% | 5.5–7.6% | 5.3–7.8% | 5.0–8.2% |
-| [30 May–3 June 2025](2025-06-03-NMS.html) | NMS | 5.7% | 4.9–6.8% | 4.7–7.1% | 4.5–7.4% | 4.1–7.9% |
-| [26 May–1 June 2025](2025-06-01-Ipsos.html) | Ipsos | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.2% |
-| [1–31 May 2025](2025-05-31-Median.html) | Median | 6.1% | 5.3–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
-| [12–30 May 2025](2025-05-30-Kantar.html) | Kantar <br> ČT24 | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.7% | 4.4–8.3% |
-| [9–27 May 2025](2025-05-27-STEM.html) | STEM <br> CNN Prima News | 6.3% | 5.6–7.2% | 5.4–7.4% | 5.2–7.7% | 4.9–8.1% |
-| [30 April–20 May 2025](2025-05-20-STEM.html) | STEM <br> CNN Prima News | 6.0% | 5.3–6.8% | 5.1–7.1% | 4.9–7.3% | 4.6–7.7% |
-| [6–12 May 2025](2025-05-12-NMS.html) | NMS | 6.3% | 5.4–7.4% | 5.1–7.7% | 4.9–8.0% | 4.5–8.5% |
-| [18 April–6 May 2025](2025-05-06-STEM.html) | STEM <br> CNN Prima News | 5.9% | 5.2–6.7% | 5.0–6.9% | 4.8–7.1% | 4.5–7.6% |
-| [28 April–4 May 2025](2025-05-04-Ipsos.html) | Ipsos | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.5% |
-| [14 April–2 May 2025](2025-05-02-Kantar.html) | Kantar <br> ČT24 | 5.7% | 4.8–6.7% | 4.6–7.0% | 4.4–7.3% | 4.0–7.8% |
-| [1–30 April 2025](2025-04-30-Median.html) | Median | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.2% |
-| [11–29 April 2025](2025-04-29-STEM.html) | STEM <br> CNN Prima News | 5.8% | 5.1–6.6% | 4.9–6.8% | 4.7–7.0% | 4.4–7.4% |
-| [4–22 April 2025](2025-04-22-STEM.html) | STEM <br> CNN Prima News | 5.6% | 5.0–6.5% | 4.8–6.7% | 4.6–6.9% | 4.3–7.3% |
-| [24 March–15 April 2025](2025-04-15-STEM.html) | STEM <br> CNN Prima News | 5.7% | 5.2–6.5% | 5.0–6.7% | 4.8–6.8% | 4.6–7.2% |
-| [2–9 April 2025](2025-04-09-NMS.html) | NMS | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
-| [21 March–8 April 2025](2025-04-08-STEM.html) | STEM <br> CNN Prima News | 5.8% | 5.2–6.5% | 5.0–6.7% | 4.8–6.9% | 4.6–7.2% |
-| [17 March–4 April 2025](2025-04-04-Kantar.html) | Kantar <br> ČT24 | 5.5% | 4.7–6.5% | 4.5–6.8% | 4.3–7.1% | 3.9–7.6% |
+| [30 May–11 June 2025](2025-06-11-STEM.html) | STEM <br> CNN Prima News | 6.3% | N/A | N/A | N/A | N/A |
+| [23 May–4 June 2025](2025-06-04-STEM.html) | STEM <br> CNN Prima News | 6.4% | N/A | N/A | N/A | N/A |
+| [30 May–3 June 2025](2025-06-03-NMS.html) | NMS | 5.7% | N/A | N/A | N/A | N/A |
+| [26 May–1 June 2025](2025-06-01-Ipsos.html) | Ipsos | 6.0% | N/A | N/A | N/A | N/A |
+| [1–31 May 2025](2025-05-31-Median.html) | Median | 6.1% | N/A | N/A | N/A | N/A |
+| [12–30 May 2025](2025-05-30-Kantar.html) | Kantar <br> ČT24 | 6.1% | N/A | N/A | N/A | N/A |
+| [9–27 May 2025](2025-05-27-STEM.html) | STEM <br> CNN Prima News | 6.3% | N/A | N/A | N/A | N/A |
+| [30 April–20 May 2025](2025-05-20-STEM.html) | STEM <br> CNN Prima News | 6.0% | N/A | N/A | N/A | N/A |
+| [6–12 May 2025](2025-05-12-NMS.html) | NMS | 6.3% | N/A | N/A | N/A | N/A |
+| [18 April–6 May 2025](2025-05-06-STEM.html) | STEM <br> CNN Prima News | 5.9% | N/A | N/A | N/A | N/A |
+| [28 April–4 May 2025](2025-05-04-Ipsos.html) | Ipsos | 6.3% | N/A | N/A | N/A | N/A |
+| [14 April–2 May 2025](2025-05-02-Kantar.html) | Kantar <br> ČT24 | 5.7% | N/A | N/A | N/A | N/A |
+| [1–30 April 2025](2025-04-30-Median.html) | Median | 6.0% | N/A | N/A | N/A | N/A |
+| [11–29 April 2025](2025-04-29-STEM.html) | STEM <br> CNN Prima News | 5.8% | N/A | N/A | N/A | N/A |
+| [4–22 April 2025](2025-04-22-STEM.html) | STEM <br> CNN Prima News | 5.6% | N/A | N/A | N/A | N/A |
+| [24 March–15 April 2025](2025-04-15-STEM.html) | STEM <br> CNN Prima News | 5.7% | N/A | N/A | N/A | N/A |
+| [2–9 April 2025](2025-04-09-NMS.html) | NMS | 6.1% | N/A | N/A | N/A | N/A |
+| [21 March–8 April 2025](2025-04-08-STEM.html) | STEM <br> CNN Prima News | 5.8% | N/A | N/A | N/A | N/A |
+| [17 March–4 April 2025](2025-04-04-Kantar.html) | Kantar <br> ČT24 | 5.5% | N/A | N/A | N/A | N/A |
 | [14 March–1 April 2025](2025-04-01-STEM.html) | STEM <br> CNN Prima News | 5.7% | N/A | N/A | N/A | N/A |
-| [1–31 March 2025](2025-03-31-Median.html) | Median | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.1–6.9% | 3.8–7.4% |
-| [24–28 March 2025](2025-03-28-Ipsos.html) | Ipsos | 6.0% | 5.2–7.1% | 5.0–7.4% | 4.8–7.7% | 4.4–8.2% |
-| [7–25 March 2025](2025-03-25-STEM.html) | STEM <br> CNN Prima News | 5.8% | 5.1–6.6% | 4.9–6.9% | 4.7–7.1% | 4.4–7.5% |
+| [1–31 March 2025](2025-03-31-Median.html) | Median | 5.4% | N/A | N/A | N/A | N/A |
+| [24–28 March 2025](2025-03-28-Ipsos.html) | Ipsos | 6.0% | N/A | N/A | N/A | N/A |
+| [7–25 March 2025](2025-03-25-STEM.html) | STEM <br> CNN Prima News | 5.8% | N/A | N/A | N/A | N/A |
 | [28 February–18 March 2025](2025-03-18-STEM.html) | STEM <br> CNN Prima News | 5.4% | N/A | N/A | N/A | N/A |
-| [21 February–11 March 2025](2025-03-11-STEM.html) | STEM <br> CNN Prima News | 5.0% | 4.4–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
-| [28 February–5 March 2025](2025-03-05-NMS.html) | NMS | 5.5% | 4.7–6.6% | 4.5–6.9% | 4.3–7.1% | 3.9–7.7% |
-| [14 February–4 March 2025](2025-03-04-STEM.html) | STEM <br> CNN Prima News | 4.9% | 4.3–5.7% | 4.1–5.9% | 4.0–6.1% | 3.7–6.5% |
-| [1–28 February 2025](2025-02-28-Median.html) | Median | 5.4% | 4.6–6.4% | 4.4–6.7% | 4.2–7.0% | 3.8–7.5% |
-| [10–28 February 2025](2025-02-28-Kantar.html) | Kantar <br> ČT24 | 5.0% | 4.3–6.0% | 4.1–6.3% | 3.9–6.5% | 3.5–7.0% |
-| [24–28 February 2025](2025-02-28-Ipsos.html) | Ipsos | 6.0% | 5.1–7.1% | 4.9–7.3% | 4.7–7.6% | 4.3–8.2% |
-| [7–25 February 2025](2025-02-25-STEM.html) | STEM <br> CNN Prima News | 4.7% | 4.1–5.5% | 3.9–5.7% | 3.8–5.9% | 3.5–6.3% |
-| [31 January–18 February 2025](2025-02-18-STEM.html) | STEM <br> CNN Prima News | 5.4% | 4.7–6.2% | 4.5–6.4% | 4.4–6.6% | 4.1–7.0% |
-| [24 January–11 February 2025](2025-02-11-STEM.html) | STEM <br> CNN Prima News | 5.5% | 4.8–6.3% | 4.6–6.5% | 4.5–6.8% | 4.1–7.2% |
-| [4–9 February 2025](2025-02-09-NMS.html) | NMS | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.1–7.0% | 3.8–7.5% |
-| [17 January–4 February 2025](2025-02-04-STEM.html) | STEM <br> CNN Prima News | 5.7% | 5.0–6.6% | 4.8–6.8% | 4.7–7.0% | 4.3–7.4% |
-| [7–31 January 2025](2025-01-31-Median.html) | Median | 4.9% | 4.1–5.9% | 3.9–6.1% | 3.7–6.4% | 3.4–6.9% |
-| [13–31 January 2025](2025-01-31-Kantar.html) | Kantar <br> ČT24 | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
-| [24–29 January 2025](2025-01-29-Ipsos.html) | Ipsos | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.2% |
-| [10–28 January 2025](2025-01-28-STEM.html) | STEM <br> CNN Prima News | 5.4% | 4.7–6.2% | 4.6–6.5% | 4.4–6.7% | 4.1–7.1% |
-| [3–21 January 2025](2025-01-21-STEM.html) | STEM <br> CNN Prima News | 5.3% | 4.8–5.9% | 4.6–6.1% | 4.5–6.2% | 4.2–6.5% |
-| [3–14 January 2025](2025-01-14-STEM.html) | STEM <br> CNN Prima News | 5.3% | 4.7–5.9% | 4.5–6.1% | 4.4–6.3% | 4.1–6.7% |
-| [9–13 January 2025](2025-01-13-NMS.html) | NMS | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
-| [3–7 January 2025](2025-01-07-STEM.html) | STEM <br> CNN Prima News | 5.3% | 4.7–6.2% | 4.5–6.4% | 4.3–6.6% | 4.0–7.0% |
-| [21 November–31 December 2024](2024-12-31-Median.html) | Median | 4.0% | 3.3–5.0% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
-| [1–13 December 2024](2024-12-13-PhoenixResearch.html) | Phoenix Research | 3.9% | 3.2–4.8% | 3.0–5.0% | 2.9–5.3% | 2.6–5.7% |
-| [3–9 December 2024](2024-12-09-NMS.html) | NMS | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
-| [1–30 November 2024](2024-11-30-Median.html) | Median | 4.5% | 3.8–5.4% | 3.6–5.7% | 3.4–6.0% | 3.1–6.4% |
-| [5–12 November 2024](2024-11-12-NMS.html) | NMS | 3.8% | 3.2–4.6% | 3.0–4.8% | 2.9–5.0% | 2.7–5.4% |
-| [1–10 November 2024](2024-11-10-PhoenixResearch.html) | Phoenix Research | 4.3% | 3.6–5.2% | 3.4–5.4% | 3.2–5.7% | 2.9–6.1% |
-| [31 October–8 November 2024](2024-11-08-STEM.html) | STEM <br> CNN Prima News | 6.1% | 5.3–7.1% | 5.0–7.4% | 4.8–7.7% | 4.5–8.2% |
-| [21 October–8 November 2024](2024-11-08-Kantar.html) | Kantar <br> ČT24 | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
-| [1–31 October 2024](2024-10-31-Median.html) | Median | 4.0% | 3.5–5.2% | 3.3–5.4% | 3.1–5.7% | 2.8–6.2% |
-| [2–11 October 2024](2024-10-11-STEM.html) | STEM <br> CNN Prima News | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–5.0% | 2.4–5.4% |
-| [30 September–11 October 2024](2024-10-11-Kantar.html) | Kantar <br> ČT24 | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.1–6.5% |
-| [4–9 October 2024](2024-10-09-NMS.html) | NMS | 3.8% | 3.2–4.5% | 3.0–4.8% | 2.9–5.0% | 2.6–5.3% |
-| [1–30 September 2024](2024-09-30-Median.html) | Median | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.1–6.5% |
-| [3–10 September 2024](2024-09-10-NMS.html) | NMS | 4.5% | 3.8–5.3% | 3.6–5.5% | 3.5–5.7% | 3.2–6.2% |
-| [29 August–8 September 2024](2024-09-08-STEM.html) | STEM | 5.6% | 4.8–6.6% | 4.5–6.8% | 4.4–7.1% | 4.0–7.6% |
-| [1–8 September 2024](2024-09-08-PhoenixResearch.html) | Phoenix Research | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
-| [1–31 August 2024](2024-08-31-Median.html) | Median | 4.5% | 3.7–5.4% | 3.5–5.7% | 3.3–5.9% | 3.0–6.4% |
-| [1–8 August 2024](2024-08-08-NMS.html) | NMS | 4.7% | 4.0–5.6% | 3.9–5.8% | 3.7–6.0% | 3.4–6.5% |
-| [1–31 July 2024](2024-07-31-PhoenixResearch.html) | Phoenix Research | 5.5% | 4.4–6.9% | 4.1–7.3% | 3.9–7.6% | 3.5–8.4% |
-| [1–31 July 2024](2024-07-31-Median.html) | Median | 4.0% | 3.4–5.0% | 3.2–5.2% | 3.0–5.5% | 2.7–5.9% |
-| [4–12 July 2024](2024-07-12-NMS.html) | NMS | 5.2% | 4.6–6.3% | 4.4–6.5% | 4.3–6.8% | 3.9–7.2% |
-| [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | 4.5% | 3.9–5.2% | 3.7–5.4% | 3.6–5.6% | 3.3–6.0% |
-| [1–30 June 2024](2024-06-30-Median.html) | Median | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
-| [10–21 June 2024](2024-06-21-Kantar.html) | Kantar <br> ČT24 | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [21 February–11 March 2025](2025-03-11-STEM.html) | STEM <br> CNN Prima News | 5.0% | N/A | N/A | N/A | N/A |
+| [28 February–5 March 2025](2025-03-05-NMS.html) | NMS | 5.5% | N/A | N/A | N/A | N/A |
+| [14 February–4 March 2025](2025-03-04-STEM.html) | STEM <br> CNN Prima News | 4.9% | N/A | N/A | N/A | N/A |
+| [1–28 February 2025](2025-02-28-Median.html) | Median | 5.4% | N/A | N/A | N/A | N/A |
+| [10–28 February 2025](2025-02-28-Kantar.html) | Kantar <br> ČT24 | 5.0% | N/A | N/A | N/A | N/A |
+| [24–28 February 2025](2025-02-28-Ipsos.html) | Ipsos | 6.0% | N/A | N/A | N/A | N/A |
+| [7–25 February 2025](2025-02-25-STEM.html) | STEM <br> CNN Prima News | 4.7% | N/A | N/A | N/A | N/A |
+| [31 January–18 February 2025](2025-02-18-STEM.html) | STEM <br> CNN Prima News | 5.4% | N/A | N/A | N/A | N/A |
+| [24 January–11 February 2025](2025-02-11-STEM.html) | STEM <br> CNN Prima News | 5.5% | N/A | N/A | N/A | N/A |
+| [4–9 February 2025](2025-02-09-NMS.html) | NMS | 5.4% | N/A | N/A | N/A | N/A |
+| [17 January–4 February 2025](2025-02-04-STEM.html) | STEM <br> CNN Prima News | 5.7% | N/A | N/A | N/A | N/A |
+| [7–31 January 2025](2025-01-31-Median.html) | Median | 4.9% | N/A | N/A | N/A | N/A |
+| [13–31 January 2025](2025-01-31-Kantar.html) | Kantar <br> ČT24 | 4.0% | N/A | N/A | N/A | N/A |
+| [24–29 January 2025](2025-01-29-Ipsos.html) | Ipsos | 6.0% | N/A | N/A | N/A | N/A |
+| [10–28 January 2025](2025-01-28-STEM.html) | STEM <br> CNN Prima News | 5.4% | N/A | N/A | N/A | N/A |
+| [3–21 January 2025](2025-01-21-STEM.html) | STEM <br> CNN Prima News | 5.3% | N/A | N/A | N/A | N/A |
+| [3–14 January 2025](2025-01-14-STEM.html) | STEM <br> CNN Prima News | 5.3% | N/A | N/A | N/A | N/A |
+| [9–13 January 2025](2025-01-13-NMS.html) | NMS | 5.0% | N/A | N/A | N/A | N/A |
+| [3–7 January 2025](2025-01-07-STEM.html) | STEM <br> CNN Prima News | 5.3% | N/A | N/A | N/A | N/A |
+| [21 November–31 December 2024](2024-12-31-Median.html) | Median | 4.0% | N/A | N/A | N/A | N/A |
+| [1–13 December 2024](2024-12-13-PhoenixResearch.html) | Phoenix Research | 3.9% | N/A | N/A | N/A | N/A |
+| [3–9 December 2024](2024-12-09-NMS.html) | NMS | 5.3% | N/A | N/A | N/A | N/A |
+| [1–30 November 2024](2024-11-30-Median.html) | Median | 4.5% | N/A | N/A | N/A | N/A |
+| [5–12 November 2024](2024-11-12-NMS.html) | NMS | 3.8% | N/A | N/A | N/A | N/A |
+| [1–10 November 2024](2024-11-10-PhoenixResearch.html) | Phoenix Research | 4.3% | N/A | N/A | N/A | N/A |
+| [31 October–8 November 2024](2024-11-08-STEM.html) | STEM <br> CNN Prima News | 6.1% | N/A | N/A | N/A | N/A |
+| [21 October–8 November 2024](2024-11-08-Kantar.html) | Kantar <br> ČT24 | 3.0% | N/A | N/A | N/A | N/A |
+| [1–31 October 2024](2024-10-31-Median.html) | Median | 4.0% | N/A | N/A | N/A | N/A |
+| [2–11 October 2024](2024-10-11-STEM.html) | STEM <br> CNN Prima News | 3.7% | N/A | N/A | N/A | N/A |
+| [30 September–11 October 2024](2024-10-11-Kantar.html) | Kantar <br> ČT24 | 4.5% | N/A | N/A | N/A | N/A |
+| [4–9 October 2024](2024-10-09-NMS.html) | NMS | 3.8% | N/A | N/A | N/A | N/A |
+| [1–30 September 2024](2024-09-30-Median.html) | Median | 4.5% | N/A | N/A | N/A | N/A |
+| [3–10 September 2024](2024-09-10-NMS.html) | NMS | 4.5% | N/A | N/A | N/A | N/A |
+| [29 August–8 September 2024](2024-09-08-STEM.html) | STEM | 5.6% | N/A | N/A | N/A | N/A |
+| [1–8 September 2024](2024-09-08-PhoenixResearch.html) | Phoenix Research | 4.2% | N/A | N/A | N/A | N/A |
+| [1–31 August 2024](2024-08-31-Median.html) | Median | 4.5% | N/A | N/A | N/A | N/A |
+| [1–8 August 2024](2024-08-08-NMS.html) | NMS | 4.7% | N/A | N/A | N/A | N/A |
+| [1–31 July 2024](2024-07-31-PhoenixResearch.html) | Phoenix Research | 5.5% | N/A | N/A | N/A | N/A |
+| [1–31 July 2024](2024-07-31-Median.html) | Median | 4.0% | N/A | N/A | N/A | N/A |
+| [4–12 July 2024](2024-07-12-NMS.html) | NMS | 5.2% | N/A | N/A | N/A | N/A |
+| [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | 4.5% | N/A | N/A | N/A | N/A |
+| [1–30 June 2024](2024-06-30-Median.html) | Median | 5.0% | N/A | N/A | N/A | N/A |
+| [10–21 June 2024](2024-06-21-Kantar.html) | Kantar <br> ČT24 | 4.0% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -104,14 +104,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 3% | 100% |  |
-| 4.5–5.5% | 28% | 97% |  |
-| 5.5–6.5% | 47% | 68% | Median |
-| 6.5–7.5% | 19% | 21% |  |
-| 7.5–8.5% | 3% | 3% |  |
-| 8.5–9.5% | 0.2% | 0.2% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 5% | 99.9% |  |
+| 4.5–5.5% | 37% | 95% |  |
+| 5.5–6.5% | 48% | 58% | Median |
+| 6.5–7.5% | 10% | 10% |  |
+| 7.5–8.5% | 0.5% | 0.5% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -122,90 +121,90 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [24 July–12 August 2025](2025-08-12-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| [17 July–5 August 2025](2025-08-05-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 1 | 1–2 | 0–2 |
-| [1–5 August 2025](2025-08-05-NMS.html) | NMS | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [28 July–2 August 2025](2025-08-02-Ipsos.html) | Ipsos | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [1–31 July 2025](2025-07-31-Median.html) | Median | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| [10–29 July 2025](2025-07-29-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 1 | 0–1 | 0–2 |
-| [3–22 July 2025](2025-07-22-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 1 | 1–2 | 0–2 |
-| [28 June–15 July 2025](2025-07-15-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [19 June–8 July 2025](2025-07-08-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| [2–7 July 2025](2025-07-07-NMS.html) | NMS | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| [12 June–1 July 2025](2025-07-01-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 1 | 0–2 | 0–2 |
-| [1–30 June 2025](2025-06-30-Median.html) | Median | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [24–29 June 2025](2025-06-29-Ipsos.html) | Ipsos | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| [5–24 June 2025](2025-06-24-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 1–2 | 1–2 | 0–2 |
-| [9–20 June 2025](2025-06-20-Kantar.html) | Kantar <br> ČT24 | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [17 July–5 August 2025](2025-08-05-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [1–5 August 2025](2025-08-05-NMS.html) | NMS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28 July–2 August 2025](2025-08-02-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [1–31 July 2025](2025-07-31-Median.html) | Median |  |  |  |  |  |
+| [10–29 July 2025](2025-07-29-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [3–22 July 2025](2025-07-22-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [28 June–15 July 2025](2025-07-15-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [19 June–8 July 2025](2025-07-08-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [2–7 July 2025](2025-07-07-NMS.html) | NMS |  |  |  |  |  |
+| [12 June–1 July 2025](2025-07-01-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [1–30 June 2025](2025-06-30-Median.html) | Median |  |  |  |  |  |
+| [24–29 June 2025](2025-06-29-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [5–24 June 2025](2025-06-24-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [9–20 June 2025](2025-06-20-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
 | [30 May–17 June 2025](2025-06-17-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
-| [30 May–11 June 2025](2025-06-11-STEM.html) | STEM <br> CNN Prima News | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [23 May–4 June 2025](2025-06-04-STEM.html) | STEM <br> CNN Prima News | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [30 May–3 June 2025](2025-06-03-NMS.html) | NMS | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| [26 May–1 June 2025](2025-06-01-Ipsos.html) | Ipsos | 1 | 1 | 0–2 | 0–2 | 0–2 |
-| [1–31 May 2025](2025-05-31-Median.html) | Median | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| [12–30 May 2025](2025-05-30-Kantar.html) | Kantar <br> ČT24 | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| [9–27 May 2025](2025-05-27-STEM.html) | STEM <br> CNN Prima News | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [30 April–20 May 2025](2025-05-20-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 0–1 | 0–2 | 0–2 |
-| [6–12 May 2025](2025-05-12-NMS.html) | NMS | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [18 April–6 May 2025](2025-05-06-STEM.html) | STEM <br> CNN Prima News | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [28 April–4 May 2025](2025-05-04-Ipsos.html) | Ipsos | 1 | 1 | 1–2 | 1–2 | 0–2 |
-| [14 April–2 May 2025](2025-05-02-Kantar.html) | Kantar <br> ČT24 | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| [1–30 April 2025](2025-04-30-Median.html) | Median | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| [11–29 April 2025](2025-04-29-STEM.html) | STEM <br> CNN Prima News | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| [4–22 April 2025](2025-04-22-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| [24 March–15 April 2025](2025-04-15-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 1 | 0–1 | 0–2 |
-| [2–9 April 2025](2025-04-09-NMS.html) | NMS | 2 | 1–2 | 1–2 | 0–2 | 0–2 |
-| [21 March–8 April 2025](2025-04-08-STEM.html) | STEM <br> CNN Prima News | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| [17 March–4 April 2025](2025-04-04-Kantar.html) | Kantar <br> ČT24 | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [30 May–11 June 2025](2025-06-11-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [23 May–4 June 2025](2025-06-04-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [30 May–3 June 2025](2025-06-03-NMS.html) | NMS |  |  |  |  |  |
+| [26 May–1 June 2025](2025-06-01-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [1–31 May 2025](2025-05-31-Median.html) | Median |  |  |  |  |  |
+| [12–30 May 2025](2025-05-30-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
+| [9–27 May 2025](2025-05-27-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [30 April–20 May 2025](2025-05-20-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [6–12 May 2025](2025-05-12-NMS.html) | NMS |  |  |  |  |  |
+| [18 April–6 May 2025](2025-05-06-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [28 April–4 May 2025](2025-05-04-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [14 April–2 May 2025](2025-05-02-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
+| [1–30 April 2025](2025-04-30-Median.html) | Median |  |  |  |  |  |
+| [11–29 April 2025](2025-04-29-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [4–22 April 2025](2025-04-22-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [24 March–15 April 2025](2025-04-15-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [2–9 April 2025](2025-04-09-NMS.html) | NMS |  |  |  |  |  |
+| [21 March–8 April 2025](2025-04-08-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [17 March–4 April 2025](2025-04-04-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
 | [14 March–1 April 2025](2025-04-01-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
-| [1–31 March 2025](2025-03-31-Median.html) | Median | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [24–28 March 2025](2025-03-28-Ipsos.html) | Ipsos | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| [7–25 March 2025](2025-03-25-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [1–31 March 2025](2025-03-31-Median.html) | Median |  |  |  |  |  |
+| [24–28 March 2025](2025-03-28-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [7–25 March 2025](2025-03-25-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [28 February–18 March 2025](2025-03-18-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
-| [21 February–11 March 2025](2025-03-11-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [28 February–5 March 2025](2025-03-05-NMS.html) | NMS | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [14 February–4 March 2025](2025-03-04-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–28 February 2025](2025-02-28-Median.html) | Median | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [10–28 February 2025](2025-02-28-Kantar.html) | Kantar <br> ČT24 | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [24–28 February 2025](2025-02-28-Ipsos.html) | Ipsos | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [7–25 February 2025](2025-02-25-STEM.html) | STEM <br> CNN Prima News | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [31 January–18 February 2025](2025-02-18-STEM.html) | STEM <br> CNN Prima News | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [24 January–11 February 2025](2025-02-11-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [4–9 February 2025](2025-02-09-NMS.html) | NMS | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| [17 January–4 February 2025](2025-02-04-STEM.html) | STEM <br> CNN Prima News | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [7–31 January 2025](2025-01-31-Median.html) | Median | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
-| [13–31 January 2025](2025-01-31-Kantar.html) | Kantar <br> ČT24 | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [24–29 January 2025](2025-01-29-Ipsos.html) | Ipsos | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [10–28 January 2025](2025-01-28-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [3–21 January 2025](2025-01-21-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [3–14 January 2025](2025-01-14-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [9–13 January 2025](2025-01-13-NMS.html) | NMS | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| [3–7 January 2025](2025-01-07-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| [21 November–31 December 2024](2024-12-31-Median.html) | Median | 0 | 0 | 0 | 0 | 0–1 |
-| [1–13 December 2024](2024-12-13-PhoenixResearch.html) | Phoenix Research | 0 | 0 | 0 | 0 | 0–1 |
-| [3–9 December 2024](2024-12-09-NMS.html) | NMS | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [1–30 November 2024](2024-11-30-Median.html) | Median | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [5–12 November 2024](2024-11-12-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
-| [1–10 November 2024](2024-11-10-PhoenixResearch.html) | Phoenix Research | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [31 October–8 November 2024](2024-11-08-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 0–2 | 0–2 | 0–2 |
-| [21 October–8 November 2024](2024-11-08-Kantar.html) | Kantar <br> ČT24 | 0 | 0 | 0 | 0 | 0 |
-| [1–31 October 2024](2024-10-31-Median.html) | Median | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [2–11 October 2024](2024-10-11-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [30 September–11 October 2024](2024-10-11-Kantar.html) | Kantar <br> ČT24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [4–9 October 2024](2024-10-09-NMS.html) | NMS | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [1–30 September 2024](2024-09-30-Median.html) | Median | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3–10 September 2024](2024-09-10-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0–1 |
-| [29 August–8 September 2024](2024-09-08-STEM.html) | STEM | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| [1–8 September 2024](2024-09-08-PhoenixResearch.html) | Phoenix Research | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [1–31 August 2024](2024-08-31-Median.html) | Median | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–8 August 2024](2024-08-08-NMS.html) | NMS | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [1–31 July 2024](2024-07-31-PhoenixResearch.html) | Phoenix Research | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [1–31 July 2024](2024-07-31-Median.html) | Median | 0 | 0 | 0 | 0 | 0–1 |
-| [4–12 July 2024](2024-07-12-NMS.html) | NMS | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [1–30 June 2024](2024-06-30-Median.html) | Median | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| [10–21 June 2024](2024-06-21-Kantar.html) | Kantar <br> ČT24 | 0 | 0 | 0 | 0 | 0–1 |
+| [21 February–11 March 2025](2025-03-11-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [28 February–5 March 2025](2025-03-05-NMS.html) | NMS |  |  |  |  |  |
+| [14 February–4 March 2025](2025-03-04-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [1–28 February 2025](2025-02-28-Median.html) | Median |  |  |  |  |  |
+| [10–28 February 2025](2025-02-28-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
+| [24–28 February 2025](2025-02-28-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [7–25 February 2025](2025-02-25-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [31 January–18 February 2025](2025-02-18-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [24 January–11 February 2025](2025-02-11-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [4–9 February 2025](2025-02-09-NMS.html) | NMS |  |  |  |  |  |
+| [17 January–4 February 2025](2025-02-04-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [7–31 January 2025](2025-01-31-Median.html) | Median |  |  |  |  |  |
+| [13–31 January 2025](2025-01-31-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
+| [24–29 January 2025](2025-01-29-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [10–28 January 2025](2025-01-28-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [3–21 January 2025](2025-01-21-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [3–14 January 2025](2025-01-14-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [9–13 January 2025](2025-01-13-NMS.html) | NMS |  |  |  |  |  |
+| [3–7 January 2025](2025-01-07-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [21 November–31 December 2024](2024-12-31-Median.html) | Median |  |  |  |  |  |
+| [1–13 December 2024](2024-12-13-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
+| [3–9 December 2024](2024-12-09-NMS.html) | NMS |  |  |  |  |  |
+| [1–30 November 2024](2024-11-30-Median.html) | Median |  |  |  |  |  |
+| [5–12 November 2024](2024-11-12-NMS.html) | NMS |  |  |  |  |  |
+| [1–10 November 2024](2024-11-10-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
+| [31 October–8 November 2024](2024-11-08-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [21 October–8 November 2024](2024-11-08-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
+| [1–31 October 2024](2024-10-31-Median.html) | Median |  |  |  |  |  |
+| [2–11 October 2024](2024-10-11-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [30 September–11 October 2024](2024-10-11-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
+| [4–9 October 2024](2024-10-09-NMS.html) | NMS |  |  |  |  |  |
+| [1–30 September 2024](2024-09-30-Median.html) | Median |  |  |  |  |  |
+| [3–10 September 2024](2024-09-10-NMS.html) | NMS |  |  |  |  |  |
+| [29 August–8 September 2024](2024-09-08-STEM.html) | STEM |  |  |  |  |  |
+| [1–8 September 2024](2024-09-08-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
+| [1–31 August 2024](2024-08-31-Median.html) | Median |  |  |  |  |  |
+| [1–8 August 2024](2024-08-08-NMS.html) | NMS |  |  |  |  |  |
+| [1–31 July 2024](2024-07-31-PhoenixResearch.html) | Phoenix Research |  |  |  |  |  |
+| [1–31 July 2024](2024-07-31-Median.html) | Median |  |  |  |  |  |
+| [4–12 July 2024](2024-07-12-NMS.html) | NMS |  |  |  |  |  |
+| [1–30 June 2024](2024-06-30-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
+| [1–30 June 2024](2024-06-30-Median.html) | Median |  |  |  |  |  |
+| [10–21 June 2024](2024-06-21-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
 
 ### Probability Mass Function
 
@@ -215,9 +214,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 12% | 100% | Last Result |
-| 1 | 82% | 88% | Median |
-| 2 | 6% | 6% |  |
+| 0 | 9% | 100% | Last Result |
+| 1 | 91% | 91% | Median |
+| 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
 
