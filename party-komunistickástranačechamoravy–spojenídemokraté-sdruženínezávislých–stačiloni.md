@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.7% | 4.8–6.9% | 4.5–7.2% | 4.4–7.5% | 4.0–8.1% |
+| N/A | [Poll Average](average.html) | 5.5% | 4.5–6.7% | 4.2–7.1% | 3.9–7.4% | 3.5–8.0% |
 | [24 July–12 August 2025](2025-08-12-STEM.html) | STEM <br> CNN Prima News | 5.2% | 4.6–6.1% | 4.4–6.3% | 4.2–6.5% | 3.9–6.9% |
 | [17 July–5 August 2025](2025-08-05-STEM.html) | STEM <br> CNN Prima News | 5.9% | N/A | N/A | N/A | N/A |
 | [1–5 August 2025](2025-08-05-NMS.html) | NMS | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
-| [28 July–2 August 2025](2025-08-02-Ipsos.html) | Ipsos | 4.7% | N/A | N/A | N/A | N/A |
-| [1–31 July 2025](2025-07-31-Median.html) | Median | 5.9% | N/A | N/A | N/A | N/A |
+| [28 July–2 August 2025](2025-08-02-Ipsos.html) | Ipsos | 4.7% | 3.9–5.7% | 3.7–5.9% | 3.6–6.2% | 3.2–6.7% |
+| [1–31 July 2025](2025-07-31-Median.html) | Median | 5.9% | 5.1–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.1% |
 | [10–29 July 2025](2025-07-29-STEM.html) | STEM <br> CNN Prima News | 5.5% | N/A | N/A | N/A | N/A |
 | [3–22 July 2025](2025-07-22-STEM.html) | STEM <br> CNN Prima News | 5.3% | N/A | N/A | N/A | N/A |
 | [28 June–15 July 2025](2025-07-15-STEM.html) | STEM <br> CNN Prima News | 7.5% | N/A | N/A | N/A | N/A |
@@ -104,11 +104,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 5% | 100% |  |
-| 4.5–5.5% | 39% | 95% |  |
-| 5.5–6.5% | 40% | 56% | Median |
-| 6.5–7.5% | 14% | 16% |  |
+| 2.5–3.5% | 0.6% | 100% |  |
+| 3.5–4.5% | 12% | 99.4% |  |
+| 4.5–5.5% | 38% | 88% |  |
+| 5.5–6.5% | 35% | 49% | Median |
+| 6.5–7.5% | 12% | 14% |  |
 | 7.5–8.5% | 2% | 2% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -122,12 +122,12 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24 July–12 August 2025](2025-08-12-STEM.html) | STEM <br> CNN Prima News | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17 July–5 August 2025](2025-08-05-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
-| [1–5 August 2025](2025-08-05-NMS.html) | NMS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [28 July–2 August 2025](2025-08-02-Ipsos.html) | Ipsos |  |  |  |  |  |
-| [1–31 July 2025](2025-07-31-Median.html) | Median |  |  |  |  |  |
+| [1–5 August 2025](2025-08-05-NMS.html) | NMS | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [28 July–2 August 2025](2025-08-02-Ipsos.html) | Ipsos | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–31 July 2025](2025-07-31-Median.html) | Median | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–29 July 2025](2025-07-29-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [3–22 July 2025](2025-07-22-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [28 June–15 July 2025](2025-07-15-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
@@ -216,9 +216,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 48% | 100% |  |
-| 2 | 52% | 52% | Median |
-| 3 | 0.1% | 0.1% |  |
+| 1 | 58% | 100% | Median |
+| 2 | 42% | 42% |  |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
 
