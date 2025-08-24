@@ -132,12 +132,12 @@ Last result: **0** seats (General Election of 8 June 2024)
 | [3–22 July 2025](2025-07-22-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [28 June–15 July 2025](2025-07-15-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [19 June–8 July 2025](2025-07-08-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
-| [2–7 July 2025](2025-07-07-NMS.html) | NMS | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| [2–7 July 2025](2025-07-07-NMS.html) | NMS | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [12 June–1 July 2025](2025-07-01-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [1–30 June 2025](2025-06-30-Median.html) | Median |  |  |  |  |  |
-| [24–29 June 2025](2025-06-29-Ipsos.html) | Ipsos | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [24–29 June 2025](2025-06-29-Ipsos.html) | Ipsos | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [5–24 June 2025](2025-06-24-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
-| [9–20 June 2025](2025-06-20-Kantar.html) | Kantar <br> ČT24 | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| [9–20 June 2025](2025-06-20-Kantar.html) | Kantar <br> ČT24 | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [30 May–17 June 2025](2025-06-17-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [30 May–11 June 2025](2025-06-11-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [23 May–4 June 2025](2025-06-04-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
@@ -215,9 +215,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 17% | 100% | Last Result |
-| 1 | 82% | 83% | Median |
-| 2 | 1.1% | 1.1% |  |
+| 0 | 18% | 100% | Last Result |
+| 1 | 80% | 82% | Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 
