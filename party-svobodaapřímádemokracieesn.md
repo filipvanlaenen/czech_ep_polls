@@ -132,12 +132,12 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [24 July–12 August 2025](2025-08-12-STEM.html) | STEM <br> CNN Prima News | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [24 July–12 August 2025](2025-08-12-STEM.html) | STEM <br> CNN Prima News | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17 July–5 August 2025](2025-08-05-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [1–5 August 2025](2025-08-05-NMS.html) | NMS | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [28 July–2 August 2025](2025-08-02-Ipsos.html) | Ipsos | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [1–31 July 2025](2025-07-31-Median.html) | Median | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [10–29 July 2025](2025-07-29-STEM.html) | STEM <br> CNN Prima News | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| [1–31 July 2025](2025-07-31-Median.html) | Median | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [10–29 July 2025](2025-07-29-STEM.html) | STEM <br> CNN Prima News | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [3–22 July 2025](2025-07-22-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [28 June–15 July 2025](2025-07-15-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [19 June–8 July 2025](2025-07-08-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
@@ -226,8 +226,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 20% | 100% |  |
-| 3 | 63% | 80% | Median |
+| 2 | 21% | 100% |  |
+| 3 | 62% | 79% | Median |
 | 4 | 17% | 17% |  |
 | 5 | 0% | 0% |  |
 
