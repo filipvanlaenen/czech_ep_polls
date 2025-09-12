@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12.8% | 10.3–15.1% | 9.8–15.7% | 9.4–16.1% | 8.8–17.0% |
+| [14 August–2 September 2025](2025-09-02-STEM.html) | STEM <br> CNN Prima News | 12.9% | 11.9–14.1% | 11.6–14.4% | 11.3–14.7% | 10.8–15.2% |
 | [27–31 August 2025](2025-08-31-Ipsos.html) | Ipsos | 11.5% | 10.3–12.8% | 10.0–13.2% | 9.7–13.5% | 9.2–14.2% |
 | [7–26 August 2025](2025-08-26-STEM.html) | STEM <br> CNN Prima News | 12.8% | 11.8–13.9% | 11.5–14.3% | 11.2–14.6% | 10.7–15.1% |
 | [4–22 August 2025](2025-08-22-Kantar.html) | Kantar <br> ČT24 | 10.5% | 9.4–11.8% | 9.0–12.2% | 8.8–12.5% | 8.2–13.2% |
@@ -117,9 +118,9 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 10% | 97% |  |
 | 10.5–11.5% | 15% | 87% |  |
 | 11.5–12.5% | 17% | 72% |  |
-| 12.5–13.5% | 19% | 54% | Median |
-| 13.5–14.5% | 17% | 35% |  |
-| 14.5–15.5% | 11% | 18% |  |
+| 12.5–13.5% | 20% | 55% | Median |
+| 13.5–14.5% | 18% | 36% |  |
+| 14.5–15.5% | 12% | 18% |  |
 | 15.5–16.5% | 5% | 6% |  |
 | 16.5–17.5% | 1.1% | 1.2% |  |
 | 17.5–18.5% | 0.1% | 0.2% |  |
@@ -135,6 +136,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [14 August–2 September 2025](2025-09-02-STEM.html) | STEM <br> CNN Prima News | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [27–31 August 2025](2025-08-31-Ipsos.html) | Ipsos | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–26 August 2025](2025-08-26-STEM.html) | STEM <br> CNN Prima News | 3 | 3 | 3 | 2–4 | 2–4 |
 | [4–22 August 2025](2025-08-22-Kantar.html) | Kantar <br> ČT24 | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
