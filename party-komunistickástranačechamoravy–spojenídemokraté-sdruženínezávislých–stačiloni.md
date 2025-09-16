@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.1% | 3.9–6.3% | 3.6–6.7% | 3.4–7.0% | 3.0–7.6% |
+| [21 August–9 September 2025](2025-09-09-STEM.html) | STEM <br> CNN Prima News | 5.5% | 4.8–6.3% | 4.6–6.6% | 4.5–6.8% | 4.2–7.2% |
 | [1–7 September 2025](2025-09-07-NMS.html) | NMS | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [14 August–2 September 2025](2025-09-02-STEM.html) | STEM <br> CNN Prima News | 5.5% | 4.8–6.3% | 4.6–6.5% | 4.5–6.7% | 4.1–7.1% |
 | [27–31 August 2025](2025-08-31-Ipsos.html) | Ipsos | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.8% | 3.8–7.3% |
@@ -127,6 +128,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [21 August–9 September 2025](2025-09-09-STEM.html) | STEM <br> CNN Prima News | 1 | 1 | 1 | 1–2 | 1–2 |
 | [1–7 September 2025](2025-09-07-NMS.html) | NMS | 1 | 1 | 1 | 1 | 0–2 |
 | [14 August–2 September 2025](2025-09-02-STEM.html) | STEM <br> CNN Prima News | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27–31 August 2025](2025-08-31-Ipsos.html) | Ipsos | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -225,8 +227,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.7% | 100% | Last Result |
-| 1 | 58% | 99.3% | Median |
-| 2 | 41% | 41% |  |
+| 1 | 68% | 99.3% | Median |
+| 2 | 31% | 31% |  |
 | 3 | 0% | 0% |  |
 
 
