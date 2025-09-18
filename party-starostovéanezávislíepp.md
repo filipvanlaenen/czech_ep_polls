@@ -14,6 +14,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | [21 August–9 September 2025](2025-09-09-STEM.html) | STEM <br> CNN Prima News | 10.0% | 9.1–11.1% | 8.8–11.4% | 8.6–11.6% | 8.2–12.1% |
 | [1–7 September 2025](2025-09-07-NMS.html) | NMS | 12.6% | 11.3–14.0% | 11.0–14.4% | 10.7–14.8% | 10.1–15.5% |
 | [14 August–2 September 2025](2025-09-02-STEM.html) | STEM <br> CNN Prima News | 10.5% | 9.6–11.6% | 9.3–11.9% | 9.1–12.1% | 8.6–12.7% |
+| [1–31 August 2025](2025-08-31-Median.html) | Median | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.1% | 8.7–13.7% |
 | [27–31 August 2025](2025-08-31-Ipsos.html) | Ipsos | 10.9% | 9.7–12.2% | 9.4–12.5% | 9.2–12.9% | 8.6–13.5% |
 | [7–26 August 2025](2025-08-26-STEM.html) | STEM <br> CNN Prima News | 10.1% | 9.1–11.1% | 8.9–11.4% | 8.7–11.7% | 8.2–12.2% |
 | [4–22 August 2025](2025-08-22-Kantar.html) | Kantar <br> ČT24 | 12.0% | 10.7–13.4% | 10.4–13.7% | 10.1–14.1% | 9.6–14.8% |
@@ -118,9 +119,9 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0.5% | 100% |  |
 | 8.5–9.5% | 7% | 99.5% |  |
 | 9.5–10.5% | 22% | 92% |  |
-| 10.5–11.5% | 28% | 71% | Median |
-| 11.5–12.5% | 23% | 43% |  |
-| 12.5–13.5% | 14% | 19% |  |
+| 10.5–11.5% | 28% | 70% | Median |
+| 11.5–12.5% | 23% | 42% |  |
+| 12.5–13.5% | 13% | 19% |  |
 | 13.5–14.5% | 5% | 6% |  |
 | 14.5–15.5% | 0.9% | 1.0% |  |
 | 15.5–16.5% | 0.1% | 0.1% |  |
@@ -139,6 +140,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | [21 August–9 September 2025](2025-09-09-STEM.html) | STEM <br> CNN Prima News | 2 | 2 | 2 | 2 | 2 |
 | [1–7 September 2025](2025-09-07-NMS.html) | NMS | 3 | 3 | 3 | 3 | 2–4 |
 | [14 August–2 September 2025](2025-09-02-STEM.html) | STEM <br> CNN Prima News | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–31 August 2025](2025-08-31-Median.html) | Median | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [27–31 August 2025](2025-08-31-Ipsos.html) | Ipsos | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–26 August 2025](2025-08-26-STEM.html) | STEM <br> CNN Prima News | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [4–22 August 2025](2025-08-22-Kantar.html) | Kantar <br> ČT24 | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -236,8 +238,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 57% | 100% | Median |
-| 3 | 42% | 43% |  |
+| 2 | 53% | 100% | Median |
+| 3 | 46% | 47% |  |
 | 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 
