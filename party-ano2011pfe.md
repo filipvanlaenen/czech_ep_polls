@@ -18,6 +18,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | [27–31 August 2025](2025-08-31-Ipsos.html) | Ipsos | 32.2% | 30.5–34.1% | 30.0–34.6% | 29.5–35.1% | 28.7–36.0% |
 | [7–26 August 2025](2025-08-26-STEM.html) | STEM <br> CNN Prima News | 31.1% | 29.6–32.7% | 29.2–33.1% | 28.9–33.5% | 28.2–34.2% |
 | [4–22 August 2025](2025-08-22-Kantar.html) | Kantar <br> ČT24 | 33.0% | 31.2–35.0% | 30.7–35.5% | 30.2–36.0% | 29.4–36.9% |
+| [31 July–19 August 2025](2025-08-19-STEM.html) | STEM <br> CNN Prima News | 32.7% | N/A | N/A | N/A | N/A |
 | [24 July–12 August 2025](2025-08-12-STEM.html) | STEM <br> CNN Prima News | 32.5% | 31.0–34.0% | 30.5–34.5% | 30.2–34.9% | 29.5–35.6% |
 | [17 July–5 August 2025](2025-08-05-STEM.html) | STEM <br> CNN Prima News | 31.1% | N/A | N/A | N/A | N/A |
 | [1–5 August 2025](2025-08-05-NMS.html) | NMS | 29.8% | 28.0–31.7% | 27.5–32.2% | 27.0–32.7% | 26.2–33.6% |
@@ -165,6 +166,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | [27–31 August 2025](2025-08-31-Ipsos.html) | Ipsos | 8 | 8 | 8–9 | 7–9 | 7–9 |
 | [7–26 August 2025](2025-08-26-STEM.html) | STEM <br> CNN Prima News | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [4–22 August 2025](2025-08-22-Kantar.html) | Kantar <br> ČT24 | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
+| [31 July–19 August 2025](2025-08-19-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [24 July–12 August 2025](2025-08-12-STEM.html) | STEM <br> CNN Prima News | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [17 July–5 August 2025](2025-08-05-STEM.html) | STEM <br> CNN Prima News |  |  |  |  |  |
 | [1–5 August 2025](2025-08-05-NMS.html) | NMS | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
