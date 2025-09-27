@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.6–1.5% | 0.5–1.7% | 0.4–1.9% | 0.3–2.2% |
+| [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.4–1.4% | 0.3–1.6% |
 | [28 August–16 September 2025](2025-09-16-STEM.html) | STEM <br> CNN Prima News | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.7–1.8% | 0.6–2.0% |
 | [21 August–9 September 2025](2025-09-09-STEM.html) | STEM <br> CNN Prima News | 1.0% | 0.8–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
 | [1–7 September 2025](2025-09-07-NMS.html) | NMS | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
@@ -110,9 +111,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 4% | 100% | Last Result |
-| 0.5–1.5% | 86% | 96% | Median |
-| 1.5–2.5% | 10% | 10% |  |
+| 0.0–0.5% | 6% | 100% | Last Result |
+| 0.5–1.5% | 85% | 94% | Median |
+| 1.5–2.5% | 9% | 9% |  |
 | 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -126,6 +127,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
 | [28 August–16 September 2025](2025-09-16-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
 | [21 August–9 September 2025](2025-09-09-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
 | [1–7 September 2025](2025-09-07-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
