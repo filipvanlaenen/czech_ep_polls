@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.8% | 27.2–33.0% | 26.6–33.8% | 26.1–34.3% | 25.3–35.4% |
+| N/A | [Poll Average](average.html) | 30.7% | 27.7–33.7% | 27.0–34.4% | 26.5–35.0% | 25.5–36.1% |
 | [24–28 September 2025](2025-09-28-NMS.html) | NMS <br> Novinky | 29.5% | 27.7–31.4% | 27.2–32.0% | 26.8–32.4% | 25.9–33.4% |
-| [1–25 September 2025](2025-09-25-Median.html) | Median | 30.5% | N/A | N/A | N/A | N/A |
+| [1–25 September 2025](2025-09-25-Median.html) | Median | 30.5% | 28.7–32.4% | 28.2–33.0% | 27.8–33.4% | 26.9–34.3% |
 | [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 28.0% | 26.4–29.7% | 26.0–30.2% | 25.6–30.6% | 24.8–31.5% |
-| [1–19 September 2025](2025-09-19-Kantar.html) | Kantar <br> ČT24 | 33.0% | N/A | N/A | N/A | N/A |
+| [1–19 September 2025](2025-09-19-Kantar.html) | Kantar <br> ČT24 | 33.0% | 31.2–34.9% | 30.7–35.5% | 30.2–35.9% | 29.4–36.9% |
 | [28 August–16 September 2025](2025-09-16-STEM.html) | STEM <br> CNN Prima News | 30.9% | 29.4–32.4% | 29.0–32.9% | 28.6–33.2% | 27.9–34.0% |
 | [21 August–9 September 2025](2025-09-09-STEM.html) | STEM <br> CNN Prima News | 31.3% | 29.8–32.8% | 29.4–33.3% | 29.0–33.7% | 28.3–34.4% |
 | [1–7 September 2025](2025-09-07-NMS.html) | NMS | 31.0% | 29.2–33.0% | 28.7–33.5% | 28.2–34.0% | 27.4–34.9% |
@@ -139,19 +139,19 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0.1% | 100% |  |
-| 24.5–25.5% | 0.8% | 99.9% |  |
-| 25.5–26.5% | 4% | 99.1% |  |
-| 26.5–27.5% | 10% | 95% |  |
-| 27.5–28.5% | 15% | 86% |  |
-| 28.5–29.5% | 17% | 70% |  |
-| 29.5–30.5% | 14% | 53% | Median |
-| 30.5–31.5% | 13% | 39% |  |
-| 31.5–32.5% | 12% | 26% |  |
-| 32.5–33.5% | 8% | 15% |  |
-| 33.5–34.5% | 4% | 6% |  |
-| 34.5–35.5% | 1.4% | 2% |  |
-| 35.5–36.5% | 0.3% | 0.4% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 24.5–25.5% | 0.5% | 99.9% |  |
+| 25.5–26.5% | 2% | 99.5% |  |
+| 26.5–27.5% | 6% | 97% |  |
+| 27.5–28.5% | 11% | 91% |  |
+| 28.5–29.5% | 14% | 81% |  |
+| 29.5–30.5% | 14% | 67% |  |
+| 30.5–31.5% | 15% | 53% | Median |
+| 31.5–32.5% | 15% | 38% |  |
+| 32.5–33.5% | 12% | 23% |  |
+| 33.5–34.5% | 7% | 11% |  |
+| 34.5–35.5% | 3% | 4% |  |
+| 35.5–36.5% | 0.9% | 1.1% |  |
+| 36.5–37.5% | 0.2% | 0.2% |  |
 | 37.5–38.5% | 0% | 0% |  |
 
 
@@ -163,11 +163,11 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–8 | 7–8 | 6–9 | 6–9 |
+| N/A | [Poll Average](average.html) | 8 | 7–8 | 7–9 | 7–9 | 6–10 |
 | [24–28 September 2025](2025-09-28-NMS.html) | NMS <br> Novinky | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
-| [1–25 September 2025](2025-09-25-Median.html) | Median |  |  |  |  |  |
+| [1–25 September 2025](2025-09-25-Median.html) | Median | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
-| [1–19 September 2025](2025-09-19-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
+| [1–19 September 2025](2025-09-19-Kantar.html) | Kantar <br> ČT24 | 8 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [28 August–16 September 2025](2025-09-16-STEM.html) | STEM <br> CNN Prima News | 7 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [21 August–9 September 2025](2025-09-09-STEM.html) | STEM <br> CNN Prima News | 8 | 8 | 8 | 8 | 7–9 |
 | [1–7 September 2025](2025-09-07-NMS.html) | NMS | 7 | 7–8 | 7–9 | 7–9 | 7–9 |
@@ -275,10 +275,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 3% | 100% |  |
-| 7 | 37% | 97% |  |
-| 8 | 57% | 59% | Median |
-| 9 | 3% | 3% |  |
-| 10 | 0% | 0% |  |
+| 6 | 2% | 100% |  |
+| 7 | 27% | 98% |  |
+| 8 | 62% | 71% | Median |
+| 9 | 8% | 9% |  |
+| 10 | 0.9% | 0.9% |  |
+| 11 | 0% | 0% | Majority |
 
 
