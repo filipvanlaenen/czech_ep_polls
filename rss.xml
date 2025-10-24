@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 04 Oct 2025 20:33:55 +0200</pubDate>
+    <pubDate>Fri, 24 Oct 2025 18:54:16 +0200</pubDate>
     <item>
       <title>Opinion Poll by NMS for Novinky, 24–28 September 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2025-09-28-NMS.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Sat, 04 Oct 2025 17:16:28 +0200</pubDate>
       <dc:date>2025-10-04T17:16:28.402274+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos, 22–28 September 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2025-09-28-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Přísaha (PfE): 0 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ESN): 2–3 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 2 seats&lt;/li&gt;&lt;li&gt;Česká strana národně sociální (*): 0 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Moravané (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;ANO 2011 (PfE): 8–9 seats&lt;/li&gt;&lt;li&gt;Sociální demokracie (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Motoristé sobě (PfE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2025-09-28-Ipsos-seats.png"
+        length="359046"
+        type="image/png"/>
+      <pubDate>Fri, 24 Oct 2025 18:20:12 +0200</pubDate>
+      <dc:date>2025-10-24T18:20:12.04024+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos, 22–28 September 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2025-09-28-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2025-09-28-Ipsos-coalitions-seats.png"
+        length="207036"
+        type="image/png"/>
+      <pubDate>Fri, 24 Oct 2025 18:20:12 +0200</pubDate>
+      <dc:date>2025-10-24T18:20:12.04024+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos, 22–28 September 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2025-09-28-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! (NI): 4.6–7.0%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 7.4–10.3%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 9.7–12.9%&lt;/li&gt;&lt;li&gt;Přísaha (PfE): 1.5–3.0%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ESN): 8.6–11.8%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 5.0–7.5%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 7.7–10.7%&lt;/li&gt;&lt;li&gt;Česká strana národně sociální (*): 0.4–1.2%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 4.8–7.3%&lt;/li&gt;&lt;li&gt;Moravané (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;ANO 2011 (PfE): 30.2–35.0%&lt;/li&gt;&lt;li&gt;Sociální demokracie (S&amp;amp;D): 0.7–1.8%&lt;/li&gt;&lt;li&gt;Motoristé sobě (PfE): 4.3–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2025-09-28-Ipsos.png"
+        length="422581"
+        type="image/png"/>
+      <pubDate>Fri, 24 Oct 2025 18:20:12 +0200</pubDate>
+      <dc:date>2025-10-24T18:20:12.04024+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Median, 1–25 September 2025 – Seat Projections for the Parties</title>
@@ -98,6 +128,36 @@
         type="image/png"/>
       <pubDate>Sat, 27 Sep 2025 15:09:25 +0200</pubDate>
       <dc:date>2025-09-27T15:09:25.559446+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Lord Ashcroft Polls, 8–22 September 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2025-09-22-LordAshcroftPolls.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Přísaha (PfE): 0 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ESN): 2–3 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Česká strana národně sociální (*): 0 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Moravané (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;ANO 2011 (PfE): 8–10 seats&lt;/li&gt;&lt;li&gt;Sociální demokracie (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Motoristé sobě (PfE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2025-09-22-LordAshcroftPolls-seats.png"
+        length="392880"
+        type="image/png"/>
+      <pubDate>Fri, 24 Oct 2025 18:54:16 +0200</pubDate>
+      <dc:date>2025-10-24T18:54:16.718152+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Lord Ashcroft Polls, 8–22 September 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2025-09-22-LordAshcroftPolls.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2025-09-22-LordAshcroftPolls-coalitions-seats.png"
+        length="247733"
+        type="image/png"/>
+      <pubDate>Fri, 24 Oct 2025 18:54:16 +0200</pubDate>
+      <dc:date>2025-10-24T18:54:16.718152+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Lord Ashcroft Polls, 8–22 September 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2025-09-22-LordAshcroftPolls.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! (NI): 4.4–7.0%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 8.4–11.8%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 7.2–10.5%&lt;/li&gt;&lt;li&gt;Přísaha (PfE): 1.8–3.6%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ESN): 9.6–13.2%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 4.3–6.9%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 6.6–9.8%&lt;/li&gt;&lt;li&gt;Česká strana národně sociální (*): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 4.1–6.7%&lt;/li&gt;&lt;li&gt;Moravané (Greens/EFA): 0.1–0.8%&lt;/li&gt;&lt;li&gt;ANO 2011 (PfE): 32.3–37.8%&lt;/li&gt;&lt;li&gt;Sociální demokracie (S&amp;amp;D): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Motoristé sobě (PfE): 2.8–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2025-09-22-LordAshcroftPolls.png"
+        length="424162"
+        type="image/png"/>
+      <pubDate>Fri, 24 Oct 2025 18:54:16 +0200</pubDate>
+      <dc:date>2025-10-24T18:54:16.718152+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar for ČT24, 1–19 September 2025 – Seat Projections for the Parties</title>
@@ -609,6 +669,6 @@
       <pubDate>Sun, 24 Aug 2025 16:39:27 +0200</pubDate>
       <dc:date>2025-08-24T16:39:27.775388+02:00</dc:date>
     </item>
-    <dc:date>2025-10-04T20:33:55.155082+02:00</dc:date>
+    <dc:date>2025-10-24T18:54:16.718152+02:00</dc:date>
   </channel>
 </rss>
