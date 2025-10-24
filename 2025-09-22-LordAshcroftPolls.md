@@ -1,0 +1,292 @@
+# Opinion Poll by Lord Ashcroft Polls, 8–22 September 2025
+
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
+
+## Voting Intentions
+
+![Graph with voting intentions not yet produced](2025-09-22-LordAshcroftPolls.png "Voting Intentions")
+
+### Confidence Intervals
+
+| Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| ANO 2011 (PfE) | 0.0% | 35.0% | 33.2–36.8% |32.7–37.3% |32.3–37.8% |31.4–38.7% |
+| Svoboda a přímá demokracie (ESN) | 0.0% | 11.3% | 10.1–12.5% |9.8–12.9% |9.6–13.2% |9.0–13.9% |
+| Česká pirátská strana (Greens/EFA) | 0.0% | 10.0% | 8.9–11.2% |8.6–11.5% |8.4–11.8% |7.9–12.4% |
+| Starostové a nezávislí (EPP) | 0.0% | 8.7% | 7.8–9.9% |7.5–10.2% |7.2–10.5% |6.8–11.1% |
+| Občanská demokratická strana (ECR) | 0.0% | 8.1% | 7.1–9.2% |6.8–9.5% |6.6–9.8% |6.2–10.3% |
+| Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! (NI) | 0.0% | 5.5% | 4.8–6.5% |4.5–6.8% |4.4–7.0% |4.0–7.5% |
+| TOP 09 (EPP) | 0.0% | 5.5% | 4.7–6.4% |4.5–6.7% |4.3–6.9% |3.9–7.4% |
+| Křesťanská a demokratická unie–Československá strana lidová (EPP) | 0.0% | 5.3% | 4.5–6.2% |4.3–6.5% |4.1–6.7% |3.8–7.2% |
+| Motoristé sobě (PfE) | 0.0% | 3.7% | 3.1–4.5% |2.9–4.8% |2.8–5.0% |2.5–5.4% |
+| Přísaha (PfE) | 0.0% | 2.5% | 2.0–3.2% |1.9–3.4% |1.8–3.6% |1.5–4.0% |
+| Sociální demokracie (S&D) | 0.0% | 1.0% | 0.7–1.5% |0.7–1.7% |0.6–1.8% |0.5–2.1% |
+| Česká strana národně sociální (*) | 0.0% | 0.7% | 0.5–1.1% |0.4–1.2% |0.4–1.4% |0.3–1.6% |
+| Moravané (Greens/EFA) | 0.0% | 0.3% | 0.1–0.6% |0.1–0.7% |0.1–0.8% |0.0–1.0% |
+
+*Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
+
+## Seats
+
+![Graph with seats not yet produced](2025-09-22-LordAshcroftPolls-seats.png "Seats")
+
+![Graph with seating plan not yet produced](2025-09-22-LordAshcroftPolls-seating-plan.png "Seating Plan")
+
+### Confidence Intervals
+
+| Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| <a href="#ano-2011-(pfe)">ANO 2011 (PfE)</a> | 0 | 9 | 8–9 |8–10 |8–10 |8–10 |
+| <a href="#svoboda-a-přímá-demokracie-(esn)">Svoboda a přímá demokracie (ESN)</a> | 0 | 3 | 2–3 |2–3 |2–3 |2–3 |
+| <a href="#česká-pirátská-strana-(greens/efa)">Česká pirátská strana (Greens/EFA)</a> | 0 | 2 | 2 |2–3 |2–3 |2–3 |
+| <a href="#starostové-a-nezávislí-(epp)">Starostové a nezávislí (EPP)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–3 |
+| <a href="#občanská-demokratická-strana-(ecr)">Občanská demokratická strana (ECR)</a> | 0 | 2 | 2 |2 |1–2 |1–2 |
+| <a href="#komunistická-strana-čech-a-moravy–spojení-demokraté---sdružení-nezávislých–stačilo!-(ni)">Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! (NI)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#top-09-(epp)">TOP 09 (EPP)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–2 |
+| <a href="#křesťanská-a-demokratická-unie–československá-strana-lidová-(epp)">Křesťanská a demokratická unie–Československá strana lidová (EPP)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#motoristé-sobě-(pfe)">Motoristé sobě (PfE)</a> | 0 | 0 | 0 |0 |0 |0–1 |
+| <a href="#přísaha-(pfe)">Přísaha (PfE)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#sociální-demokracie-(s&d)">Sociální demokracie (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#česká-strana-národně-sociální-(*)">Česká strana národně sociální (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#moravané-(greens/efa)">Moravané (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
+
+### ANO 2011 (PfE)
+
+*For a full overview of the results for this party, see the [ANO 2011 (PfE)](party-ano2011pfe.html) page.*
+
+![Graph with seats probability mass function not yet produced](2025-09-22-LordAshcroftPolls-seats-pmf-ano2011pfe.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 10% | 100% |  |
+| 9 | 85% | 90% | Median |
+| 10 | 5% | 5% |  |
+| 11 | 0.1% | 0.1% | Majority |
+| 12 | 0% | 0% |  |
+
+### Svoboda a přímá demokracie (ESN)
+
+*For a full overview of the results for this party, see the [Svoboda a přímá demokracie (ESN)](party-svobodaapřímádemokracieesn.html) page.*
+
+![Graph with seats probability mass function not yet produced](2025-09-22-LordAshcroftPolls-seats-pmf-svobodaapřímádemokracieesn.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 46% | 100% |  |
+| 3 | 54% | 54% | Median |
+| 4 | 0% | 0% |  |
+
+### Česká pirátská strana (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Česká pirátská strana (Greens/EFA)](party-českápirátskástranagreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2025-09-22-LordAshcroftPolls-seats-pmf-českápirátskástranagreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 93% | 100% | Median |
+| 3 | 7% | 7% |  |
+| 4 | 0% | 0% |  |
+
+### Starostové a nezávislí (EPP)
+
+*For a full overview of the results for this party, see the [Starostové a nezávislí (EPP)](party-starostovéanezávislíepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](2025-09-22-LordAshcroftPolls-seats-pmf-starostovéanezávislíepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 17% | 100% |  |
+| 2 | 83% | 83% | Median |
+| 3 | 0.7% | 0.7% |  |
+| 4 | 0% | 0% |  |
+
+### Občanská demokratická strana (ECR)
+
+*For a full overview of the results for this party, see the [Občanská demokratická strana (ECR)](party-občanskádemokratickástranaecr.html) page.*
+
+![Graph with seats probability mass function not yet produced](2025-09-22-LordAshcroftPolls-seats-pmf-občanskádemokratickástranaecr.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 3% | 100% |  |
+| 2 | 97% | 97% | Median |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
+
+### Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! (NI)
+
+*For a full overview of the results for this party, see the [Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! (NI)](party-komunistickástranačechamoravy–spojenídemokraté-sdruženínezávislých–stačiloni.html) page.*
+
+![Graph with seats probability mass function not yet produced](2025-09-22-LordAshcroftPolls-seats-pmf-komunistickástranačechamoravy–spojenídemokraté-sdruženínezávislých–stačiloni.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 15% | 100% |  |
+| 2 | 85% | 85% | Median |
+| 3 | 0.2% | 0.2% |  |
+| 4 | 0% | 0% |  |
+
+### TOP 09 (EPP)
+
+*For a full overview of the results for this party, see the [TOP 09 (EPP)](party-top09epp.html) page.*
+
+![Graph with seats probability mass function not yet produced](2025-09-22-LordAshcroftPolls-seats-pmf-top09epp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 11% | 100% | Last Result |
+| 1 | 89% | 89% | Median |
+| 2 | 0.6% | 0.6% |  |
+| 3 | 0% | 0% |  |
+
+### Křesťanská a demokratická unie–Československá strana lidová (EPP)
+
+*For a full overview of the results for this party, see the [Křesťanská a demokratická unie–Československá strana lidová (EPP)](party-křesťanskáademokratickáunie–československástranalidováepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](2025-09-22-LordAshcroftPolls-seats-pmf-křesťanskáademokratickáunie–československástranalidováepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 12% | 100% | Last Result |
+| 1 | 88% | 88% | Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
+
+### Motoristé sobě (PfE)
+
+*For a full overview of the results for this party, see the [Motoristé sobě (PfE)](party-motoristésoběpfe.html) page.*
+
+![Graph with seats probability mass function not yet produced](2025-09-22-LordAshcroftPolls-seats-pmf-motoristésoběpfe.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0.5% | 0.5% |  |
+| 2 | 0% | 0% |  |
+
+### Přísaha (PfE)
+
+*For a full overview of the results for this party, see the [Přísaha (PfE)](party-přísahapfe.html) page.*
+
+![Graph with seats probability mass function not yet produced](2025-09-22-LordAshcroftPolls-seats-pmf-přísahapfe.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Sociální demokracie (S&D)
+
+*For a full overview of the results for this party, see the [Sociální demokracie (S&D)](party-sociálnídemokraciesd.html) page.*
+
+![Graph with seats probability mass function not yet produced](2025-09-22-LordAshcroftPolls-seats-pmf-sociálnídemokraciesd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Česká strana národně sociální (*)
+
+*For a full overview of the results for this party, see the [Česká strana národně sociální (*)](party-českástrananárodněsociální.html) page.*
+
+![Graph with seats probability mass function not yet produced](2025-09-22-LordAshcroftPolls-seats-pmf-českástrananárodněsociální.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Moravané (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Moravané (Greens/EFA)](party-moravanégreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2025-09-22-LordAshcroftPolls-seats-pmf-moravanégreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](2025-09-22-LordAshcroftPolls-coalitions-seats.png "Coalitions Seats")
+
+### Confidence Intervals
+
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| ANO 2011 (PfE) – Motoristé sobě (PfE) – Přísaha (PfE) | 0 | 9 | 0.1% | 9 | 8–10 | 8–10 | 8–10 |
+| Starostové a nezávislí (EPP) – TOP 09 (EPP) – Křesťanská a demokratická unie–Československá strana lidová (EPP) | 0 | 4 | 0% | 3–4 | 3–4 | 2–4 | 2–4 |
+| Sociální demokracie (S&D) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+
+### ANO 2011 (PfE) – Motoristé sobě (PfE) – Přísaha (PfE)
+
+![Graph with seats probability mass function not yet produced](2025-09-22-LordAshcroftPolls-coalitions-seats-pmf-ano–auto–p.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 10% | 100% |  |
+| 9 | 85% | 90% | Median |
+| 10 | 5% | 5% |  |
+| 11 | 0.1% | 0.1% | Majority |
+| 12 | 0% | 0% |  |
+
+### Starostové a nezávislí (EPP) – TOP 09 (EPP) – Křesťanská a demokratická unie–Československá strana lidová (EPP)
+
+![Graph with seats probability mass function not yet produced](2025-09-22-LordAshcroftPolls-coalitions-seats-pmf-stan–top09–kdu–čsl.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 5% | 100% |  |
+| 3 | 29% | 95% |  |
+| 4 | 66% | 66% | Median |
+| 5 | 0.3% | 0.3% |  |
+| 6 | 0% | 0% |  |
+
+### Sociální demokracie (S&D)
+
+![Graph with seats probability mass function not yet produced](2025-09-22-LordAshcroftPolls-coalitions-seats-pmf-socdem.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+
+## Technical Information
+
+### Opinion Poll
+
++ **Polling firm:** Lord Ashcroft Polls
++ **Commissioner(s):** —
++ **Fieldwork period:** 8–22 September 2025
+
+### Calculations
+
++ **Sample size:** 1155
++ **Simulations done:** 1,048,576
++ **Error estimate:** 2.47%
+

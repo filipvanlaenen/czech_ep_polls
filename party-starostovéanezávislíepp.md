@@ -10,10 +10,12 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.7% | 9.8–13.5% | 9.3–14.0% | 9.0–14.4% | 8.3–15.2% |
+| N/A | [Poll Average](average.html) | 11.3% | 8.8–13.3% | 8.3–13.8% | 7.9–14.3% | 7.3–15.1% |
 | [24–28 September 2025](2025-09-28-NMS.html) | NMS <br> Novinky | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–13.9% | 9.4–14.6% |
+| [22–28 September 2025](2025-09-28-Ipsos.html) | Ipsos | 11.2% | 10.2–12.3% | 9.9–12.6% | 9.7–12.9% | 9.2–13.5% |
 | [1–25 September 2025](2025-09-25-Median.html) | Median | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 12.2% | 11.1–13.5% | 10.7–13.9% | 10.5–14.2% | 10.0–14.8% |
+| [8–22 September 2025](2025-09-22-LordAshcroftPolls.html) | Lord Ashcroft Polls | 8.7% | 7.8–9.9% | 7.5–10.2% | 7.2–10.5% | 6.8–11.1% |
 | [1–19 September 2025](2025-09-19-Kantar.html) | Kantar <br> ČT24 | 13.0% | 11.7–14.4% | 11.4–14.8% | 11.1–15.1% | 10.5–15.9% |
 | [28 August–16 September 2025](2025-09-16-STEM.html) | STEM <br> CNN Prima News | 12.2% | 11.2–13.3% | 10.9–13.6% | 10.6–13.9% | 10.2–14.5% |
 | [21 August–9 September 2025](2025-09-09-STEM.html) | STEM <br> CNN Prima News | 10.0% | 9.1–11.1% | 8.8–11.4% | 8.6–11.6% | 8.2–12.1% |
@@ -121,15 +123,15 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 1.0% | 100% |  |
-| 8.5–9.5% | 6% | 99.0% |  |
-| 9.5–10.5% | 16% | 93% |  |
-| 10.5–11.5% | 24% | 77% |  |
-| 11.5–12.5% | 25% | 52% | Median |
-| 12.5–13.5% | 18% | 27% |  |
-| 13.5–14.5% | 7% | 9% |  |
-| 14.5–15.5% | 2% | 2% |  |
+| 6.5–7.5% | 1.0% | 100% |  |
+| 7.5–8.5% | 6% | 99.0% |  |
+| 8.5–9.5% | 12% | 93% |  |
+| 9.5–10.5% | 15% | 81% |  |
+| 10.5–11.5% | 21% | 67% | Median |
+| 11.5–12.5% | 23% | 45% |  |
+| 12.5–13.5% | 15% | 23% |  |
+| 13.5–14.5% | 6% | 7% |  |
+| 14.5–15.5% | 1.3% | 1.5% |  |
 | 15.5–16.5% | 0.2% | 0.2% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
@@ -142,10 +144,12 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 1–3 | 1–4 |
 | [24–28 September 2025](2025-09-28-NMS.html) | NMS <br> Novinky | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [22–28 September 2025](2025-09-28-Ipsos.html) | Ipsos | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–25 September 2025](2025-09-25-Median.html) | Median | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| [8–22 September 2025](2025-09-22-LordAshcroftPolls.html) | Lord Ashcroft Polls | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [1–19 September 2025](2025-09-19-Kantar.html) | Kantar <br> ČT24 | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [28 August–16 September 2025](2025-09-16-STEM.html) | STEM <br> CNN Prima News | 3 | 3 | 3 | 2–3 | 2–3 |
 | [21 August–9 September 2025](2025-09-09-STEM.html) | STEM <br> CNN Prima News | 2 | 2 | 2 | 2 | 2 |
@@ -249,10 +253,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 29% | 100% |  |
-| 3 | 70% | 71% | Median |
-| 4 | 1.4% | 1.4% |  |
+| 1 | 3% | 100% |  |
+| 2 | 43% | 97% |  |
+| 3 | 53% | 54% | Median |
+| 4 | 1.1% | 1.1% |  |
 | 5 | 0% | 0% |  |
 
 
