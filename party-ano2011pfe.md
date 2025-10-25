@@ -169,10 +169,10 @@ Last result: **0** seats (General Election of 8 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [24–28 September 2025](2025-09-28-NMS.html) | NMS <br> Novinky | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
-| [22–28 September 2025](2025-09-28-Ipsos.html) | Ipsos | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| [22–28 September 2025](2025-09-28-Ipsos.html) | Ipsos | 8 | 8 | 8–9 | 7–9 | 7–10 |
 | [1–25 September 2025](2025-09-25-Median.html) | Median | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
-| [8–22 September 2025](2025-09-22-LordAshcroftPolls.html) | Lord Ashcroft Polls | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
+| [8–22 September 2025](2025-09-22-LordAshcroftPolls.html) | Lord Ashcroft Polls | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [1–19 September 2025](2025-09-19-Kantar.html) | Kantar <br> ČT24 | 8 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [28 August–16 September 2025](2025-09-16-STEM.html) | STEM <br> CNN Prima News | 7 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [21 August–9 September 2025](2025-09-09-STEM.html) | STEM <br> CNN Prima News | 8 | 8 | 8 | 8 | 7–9 |
@@ -283,8 +283,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 2% | 100% |  |
 | 7 | 22% | 98% |  |
-| 8 | 53% | 76% | Median |
-| 9 | 21% | 23% |  |
+| 8 | 55% | 76% | Median |
+| 9 | 19% | 21% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0% | 0% | Majority |
 

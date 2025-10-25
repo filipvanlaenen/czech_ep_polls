@@ -140,7 +140,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [24–28 September 2025](2025-09-28-NMS.html) | NMS <br> Novinky | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [22–28 September 2025](2025-09-28-Ipsos.html) | Ipsos | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [22–28 September 2025](2025-09-28-Ipsos.html) | Ipsos | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–25 September 2025](2025-09-25-Median.html) | Median | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–22 September 2025](2025-09-22-LordAshcroftPolls.html) | Lord Ashcroft Polls | 0 | 0 | 0 | 0 | 0–1 |
@@ -246,8 +246,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% | Last Result |
-| 1 | 50% | 60% | Median |
+| 0 | 42% | 100% | Last Result |
+| 1 | 48% | 58% | Median |
 | 2 | 10% | 10% |  |
 | 3 | 0% | 0% |  |
 
