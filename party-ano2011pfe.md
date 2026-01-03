@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | [24–28 September 2025](2025-09-28-NMS.html) | NMS <br> Novinky | 29.5% | 27.7–31.4% | 27.2–32.0% | 26.8–32.4% | 25.9–33.4% |
 | [22–28 September 2025](2025-09-28-Ipsos.html) | Ipsos | 32.6% | 31.0–34.2% | 30.6–34.6% | 30.2–35.0% | 29.5–35.8% |
 | [1–25 September 2025](2025-09-25-Median.html) | Median | 30.5% | 28.7–32.4% | 28.2–33.0% | 27.8–33.4% | 26.9–34.3% |
-| [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 28.0% | 26.4–29.7% | 26.0–30.2% | 25.6–30.6% | 24.8–31.5% |
+| [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 29.3% | 26.4–29.7% | 26.0–30.2% | 25.6–30.6% | 24.8–31.5% |
 | [8–22 September 2025](2025-09-22-LordAshcroftPolls.html) | Lord Ashcroft Polls | 35.0% | 33.2–36.8% | 32.7–37.3% | 32.3–37.8% | 31.4–38.7% |
 | [1–19 September 2025](2025-09-19-Kantar.html) | Kantar <br> ČT24 | 33.0% | 31.2–34.9% | 30.7–35.5% | 30.2–35.9% | 29.4–36.9% |
 | [28 August–16 September 2025](2025-09-16-STEM.html) | STEM <br> CNN Prima News | 30.9% | 29.4–32.4% | 29.0–32.9% | 28.6–33.2% | 27.9–34.0% |
