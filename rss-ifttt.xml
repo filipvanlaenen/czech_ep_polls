@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Tue, 25 Feb 2025 21:03:01 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Kantar, 12–30 January 2026 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-01-30-Kantar.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Kantar, 12–30 January 2026<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2026-01-30-Kantar.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2026-01-30-Kantar-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-01-30-Kantar-seating-plan.png" length="312563" type="image/png"/>
+      <pubDate>Wed, 18 Feb 2026 21:24:36 +0100</pubDate>
+      <dc:date>2026-02-18T21:24:36.99447967+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar, 12–30 January 2026 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-01-30-Kantar.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Kantar, 12–30 January 2026<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2026-01-30-Kantar.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2026-01-30-Kantar-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-01-30-Kantar-seats.png" length="256375" type="image/png"/>
+      <pubDate>Wed, 18 Feb 2026 21:24:36 +0100</pubDate>
+      <dc:date>2026-02-18T21:24:36.99447967+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar, 12–30 January 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-01-30-Kantar.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar, 12–30 January 2026<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2026-01-30-Kantar.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2026-01-30-Kantar.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-01-30-Kantar.png" length="310784" type="image/png"/>
+      <pubDate>Wed, 18 Feb 2026 21:24:36 +0100</pubDate>
+      <dc:date>2026-02-18T21:24:36.99447967+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by STEM for CNN Prima News, 2–7 January 2026 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-01-07-STEM.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by STEM for CNN Prima News, 2–7 January 2026<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2026-01-07-STEM.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2026-01-07-STEM-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2025-09-09-STEM.png" length="428637" type="image/png"/>
       <pubDate>Tue, 16 Sep 2025 20:16:04 +0200</pubDate>
       <dc:date>2025-09-16T20:16:04.437631489+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by NMS, 1–7 September 2025 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2025-09-07-NMS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by NMS, 1–7 September 2025<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2025-09-07-NMS.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2025-09-07-NMS-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2025-09-07-NMS-seating-plan.png" length="347497" type="image/png"/>
-      <pubDate>Sat, 13 Sep 2025 16:55:32 +0200</pubDate>
-      <dc:date>2025-09-13T16:55:32.953921765+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by NMS, 1–7 September 2025 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2025-09-07-NMS.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by NMS, 1–7 September 2025<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2025-09-07-NMS.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2025-09-07-NMS-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2025-09-07-NMS-seats.png" length="365155" type="image/png"/>
-      <pubDate>Sat, 13 Sep 2025 16:55:32 +0200</pubDate>
-      <dc:date>2025-09-13T16:55:32.953921765+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by NMS, 1–7 September 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2025-09-07-NMS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by NMS, 1–7 September 2025<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2025-09-07-NMS.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2025-09-07-NMS.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2025-09-07-NMS.png" length="431244" type="image/png"/>
-      <pubDate>Sat, 13 Sep 2025 16:55:32 +0200</pubDate>
-      <dc:date>2025-09-13T16:55:32.953921765+02:00</dc:date>
     </item>
   </channel>
 </rss>
