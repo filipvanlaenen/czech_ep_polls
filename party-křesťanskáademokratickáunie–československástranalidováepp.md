@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.8–4.2% | 2.6–4.4% | 2.5–4.6% | 2.2–5.1% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.5–4.2% | 2.3–4.4% | 2.1–4.7% | 1.8–5.1% |
+| [12–30 January 2026](2026-01-30-Kantar.html) | Kantar | 3.1% | 2.3–4.1% | 2.1–4.4% | 2.0–4.7% | 1.7–5.2% |
 | [2–7 January 2026](2026-01-07-STEM.html) | STEM <br> CNN Prima News | 3.4% | 2.8–4.2% | 2.6–4.5% | 2.5–4.6% | 2.2–5.1% |
 | [24–28 September 2025](2025-09-28-NMS.html) | NMS <br> Novinky | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
 | [22–28 September 2025](2025-09-28-Ipsos.html) | Ipsos | 5.9% | 5.2–6.8% | 5.0–7.0% | 4.8–7.3% | 4.5–7.7% |
@@ -118,10 +119,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 53% | 96% | Median |
-| 3.5–4.5% | 40% | 43% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 10% | 99.9% |  |
+| 2.5–3.5% | 54% | 90% | Median |
+| 3.5–4.5% | 32% | 36% |  |
 | 4.5–5.5% | 3% | 3% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -135,7 +136,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [12–30 January 2026](2026-01-30-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0–1 |
 | [2–7 January 2026](2026-01-07-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [24–28 September 2025](2025-09-28-NMS.html) | NMS <br> Novinky | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–28 September 2025](2025-09-28-Ipsos.html) | Ipsos | 1 | 1 | 1 | 0–1 | 0–2 |
@@ -244,8 +246,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Last Result, Median |
-| 1 | 6% | 6% |  |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 4% | 4% |  |
 | 2 | 0% | 0% |  |
 
 
