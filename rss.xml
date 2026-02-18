@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 21 Jan 2026 19:14:49 +0100</pubDate>
+    <pubDate>Wed, 18 Feb 2026 21:24:36 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar, 12–30 January 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-01-30-Kantar.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ESN): 0–2 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 3–5 seats&lt;/li&gt;&lt;li&gt;Motoristé sobě (PfE): 0–1 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0 seats&lt;/li&gt;&lt;li&gt;ANO 2011 (PfE): 8–10 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-01-30-Kantar-seats.png"
+        length="256375"
+        type="image/png"/>
+      <pubDate>Wed, 18 Feb 2026 21:24:36 +0100</pubDate>
+      <dc:date>2026-02-18T21:24:36.994479+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar, 12–30 January 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-01-30-Kantar.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-01-30-Kantar-coalitions-seats.png"
+        length="233672"
+        type="image/png"/>
+      <pubDate>Wed, 18 Feb 2026 21:24:36 +0100</pubDate>
+      <dc:date>2026-02-18T21:24:36.994479+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar, 12–30 January 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-01-30-Kantar.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 7.5–12.0%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 11.6–16.9%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ESN): 4.9–8.7%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 3.1–6.3%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 13.4–19.1%&lt;/li&gt;&lt;li&gt;Motoristé sobě (PfE): 3.6–7.0%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 2.0–4.7%&lt;/li&gt;&lt;li&gt;ANO 2011 (PfE): 31.0–38.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-01-30-Kantar.png"
+        length="310784"
+        type="image/png"/>
+      <pubDate>Wed, 18 Feb 2026 21:24:36 +0100</pubDate>
+      <dc:date>2026-02-18T21:24:36.994479+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by STEM for CNN Prima News, 2–7 January 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-01-07-STEM.html#seats</link>
@@ -699,6 +729,6 @@
       <pubDate>Sun, 24 Aug 2025 16:39:27 +0200</pubDate>
       <dc:date>2025-08-24T16:39:27.775388+02:00</dc:date>
     </item>
-    <dc:date>2026-01-21T19:14:49.084222+01:00</dc:date>
+    <dc:date>2026-02-18T21:24:36.994479+01:00</dc:date>
   </channel>
 </rss>
