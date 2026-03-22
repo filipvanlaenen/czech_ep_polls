@@ -152,7 +152,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [5–10 March 2026](2026-03-10-NMS.html) | NMS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [9–27 February 2026](2026-02-27-Kantar.html) | Kantar | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [13–17 February 2026](2026-02-17-NMS.html) | NMS | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -269,8 +269,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0.3% | 100% |  |
 | 3 | 56% | 99.7% | Median |
-| 4 | 41% | 44% |  |
-| 5 | 3% | 3% |  |
+| 4 | 42% | 44% |  |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 
