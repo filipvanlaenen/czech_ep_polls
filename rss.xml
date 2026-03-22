@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 21 Mar 2026 20:07:40 +0100</pubDate>
+    <pubDate>Sat, 21 Mar 2026 23:31:22 +0100</pubDate>
     <item>
       <title>Opinion Poll by NMS, 5–10 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-03-10-NMS.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-03-10-NMS-seats.png"
         length="287391"
         type="image/png"/>
-      <pubDate>Sat, 21 Mar 2026 19:08:51 +0100</pubDate>
-      <dc:date>2026-03-21T19:08:51.351844+01:00</dc:date>
+      <pubDate>Sat, 21 Mar 2026 23:15:54 +0100</pubDate>
+      <dc:date>2026-03-21T23:15:54.464307+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NMS, 5–10 March 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-03-10-NMS-coalitions-seats.png"
         length="207140"
         type="image/png"/>
-      <pubDate>Sat, 21 Mar 2026 19:08:51 +0100</pubDate>
-      <dc:date>2026-03-21T19:08:51.351844+01:00</dc:date>
+      <pubDate>Sat, 21 Mar 2026 23:15:54 +0100</pubDate>
+      <dc:date>2026-03-21T23:15:54.464307+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NMS, 5–10 March 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-03-10-NMS.png"
         length="359692"
         type="image/png"/>
-      <pubDate>Sat, 21 Mar 2026 19:08:51 +0100</pubDate>
-      <dc:date>2026-03-21T19:08:51.351844+01:00</dc:date>
+      <pubDate>Sat, 21 Mar 2026 23:15:54 +0100</pubDate>
+      <dc:date>2026-03-21T23:15:54.464307+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar, 9–27 February 2026 – Seat Projections for the Parties</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-02-27-Kantar-seats.png"
         length="264164"
         type="image/png"/>
-      <pubDate>Sat, 21 Mar 2026 19:17:48 +0100</pubDate>
-      <dc:date>2026-03-21T19:17:48.077362+01:00</dc:date>
+      <pubDate>Sat, 21 Mar 2026 23:31:22 +0100</pubDate>
+      <dc:date>2026-03-21T23:31:22.535472+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar, 9–27 February 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-02-27-Kantar-coalitions-seats.png"
         length="219068"
         type="image/png"/>
-      <pubDate>Sat, 21 Mar 2026 19:17:48 +0100</pubDate>
-      <dc:date>2026-03-21T19:17:48.077362+01:00</dc:date>
+      <pubDate>Sat, 21 Mar 2026 23:31:22 +0100</pubDate>
+      <dc:date>2026-03-21T23:31:22.535472+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar, 9–27 February 2026 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-02-27-Kantar.png"
         length="309781"
         type="image/png"/>
-      <pubDate>Sat, 21 Mar 2026 19:17:48 +0100</pubDate>
-      <dc:date>2026-03-21T19:17:48.077362+01:00</dc:date>
+      <pubDate>Sat, 21 Mar 2026 23:31:22 +0100</pubDate>
+      <dc:date>2026-03-21T23:31:22.535472+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NMS, 13–17 February 2026 – Seat Projections for the Parties</title>
@@ -129,6 +129,6 @@
       <pubDate>Sat, 21 Mar 2026 20:07:40 +0100</pubDate>
       <dc:date>2026-03-21T20:07:40.662513+01:00</dc:date>
     </item>
-    <dc:date>2026-03-21T20:07:40.662513+01:00</dc:date>
+    <dc:date>2026-03-21T23:31:22.535472+01:00</dc:date>
   </channel>
 </rss>
