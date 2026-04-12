@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.2% | 12.9–15.7% | 12.5–16.1% | 12.2–16.5% | 11.6–17.2% |
+| N/A | [Poll Average](average.html) | 11.2% | 8.2–14.8% | 7.9–15.3% | 7.6–15.8% | 7.1–16.5% |
+| [1–7 April 2026](2026-04-07-NMS.html) | NMS <br> Novinky | 13.9% | 12.6–15.3% | 12.2–15.8% | 11.9–16.1% | 11.3–16.9% |
+| [23 March–2 April 2026](2026-04-02-Kantar.html) | Kantar <br> ČT24 | 8.8% | 7.9–10.0% | 7.6–10.3% | 7.3–10.6% | 6.9–11.2% |
 | [5–10 March 2026](2026-03-10-NMS.html) | NMS | 14.0% | 12.7–15.5% | 12.4–15.9% | 12.1–16.3% | 11.5–17.0% |
 | [9–27 February 2026](2026-02-27-Kantar.html) | Kantar | 14.5% | 13.1–15.9% | 12.8–16.4% | 12.4–16.7% | 11.8–17.5% |
 | [13–17 February 2026](2026-02-17-NMS.html) | NMS | 14.7% | 13.1–16.7% | 12.6–17.2% | 12.2–17.7% | 11.5–18.6% |
@@ -19,7 +21,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | [24–28 September 2025](2025-09-28-NMS.html) | NMS <br> Novinky | 7.7% | N/A | N/A | N/A | N/A |
 | [22–28 September 2025](2025-09-28-Ipsos.html) | Ipsos | 9.1% | N/A | N/A | N/A | N/A |
 | [1–25 September 2025](2025-09-25-Median.html) | Median | 9.0% | N/A | N/A | N/A | N/A |
-| [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 8.8% | N/A | N/A | N/A | N/A |
+| [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 9.1% | N/A | N/A | N/A | N/A |
 | [8–22 September 2025](2025-09-22-LordAshcroftPolls.html) | Lord Ashcroft Polls | 8.1% | N/A | N/A | N/A | N/A |
 | [1–19 September 2025](2025-09-19-Kantar.html) | Kantar <br> ČT24 | 8.3% | N/A | N/A | N/A | N/A |
 | [28 August–16 September 2025](2025-09-16-STEM.html) | STEM <br> CNN Prima News | 8.4% | N/A | N/A | N/A | N/A |
@@ -128,19 +130,18 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.5% | 100% |  |
-| 11.5–12.5% | 5% | 99.5% |  |
-| 12.5–13.5% | 21% | 94% |  |
-| 13.5–14.5% | 35% | 73% | Median |
-| 14.5–15.5% | 26% | 38% |  |
-| 15.5–16.5% | 10% | 12% |  |
-| 16.5–17.5% | 2% | 2% |  |
-| 17.5–18.5% | 0.2% | 0.2% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 6.5–7.5% | 2% | 100% |  |
+| 7.5–8.5% | 15% | 98% |  |
+| 8.5–9.5% | 22% | 83% |  |
+| 9.5–10.5% | 9% | 60% |  |
+| 10.5–11.5% | 2% | 51% | Median |
+| 11.5–12.5% | 4% | 50% |  |
+| 12.5–13.5% | 14% | 45% |  |
+| 13.5–14.5% | 18% | 32% |  |
+| 14.5–15.5% | 10% | 14% |  |
+| 15.5–16.5% | 3% | 4% |  |
+| 16.5–17.5% | 0.5% | 0.5% |  |
+| 17.5–18.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -151,7 +152,9 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
+| [1–7 April 2026](2026-04-07-NMS.html) | NMS <br> Novinky | 4 | 4 | 4 | 3–4 | 3–5 |
+| [23 March–2 April 2026](2026-04-02-Kantar.html) | Kantar <br> ČT24 | 2 | 2 | 2 | 2–3 | 1–3 |
 | [5–10 March 2026](2026-03-10-NMS.html) | NMS | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [9–27 February 2026](2026-02-27-Kantar.html) | Kantar | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [13–17 February 2026](2026-02-17-NMS.html) | NMS | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -265,11 +268,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 28% | 100% |  |
-| 4 | 71% | 72% | Median |
-| 5 | 2% | 2% |  |
+| 1 | 0.5% | 100% |  |
+| 2 | 48% | 99.5% |  |
+| 3 | 4% | 52% | Median |
+| 4 | 47% | 48% |  |
+| 5 | 0.7% | 0.7% |  |
 | 6 | 0% | 0% |  |
 
 

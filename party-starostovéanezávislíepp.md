@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.8% | 11.9–16.2% | 11.5–16.8% | 11.2–17.2% | 10.5–18.1% |
+| N/A | [Poll Average](average.html) | 14.7% | 12.8–16.5% | 12.4–16.9% | 12.0–17.3% | 11.4–18.1% |
+| [1–7 April 2026](2026-04-07-NMS.html) | NMS <br> Novinky | 13.7% | 12.4–15.1% | 12.0–15.6% | 11.7–15.9% | 11.1–16.6% |
+| [23 March–2 April 2026](2026-04-02-Kantar.html) | Kantar <br> ČT24 | 15.5% | 14.2–16.9% | 13.9–17.3% | 13.5–17.7% | 13.0–18.4% |
 | [5–10 March 2026](2026-03-10-NMS.html) | NMS | 13.5% | 12.3–15.0% | 11.9–15.4% | 11.6–15.8% | 11.0–16.5% |
 | [9–27 February 2026](2026-02-27-Kantar.html) | Kantar | 15.5% | 14.1–17.1% | 13.8–17.5% | 13.4–17.9% | 12.8–18.6% |
 | [13–17 February 2026](2026-02-17-NMS.html) | NMS | 14.6% | 12.9–16.5% | 12.5–17.0% | 12.1–17.5% | 11.3–18.5% |
@@ -19,7 +21,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | [24–28 September 2025](2025-09-28-NMS.html) | NMS <br> Novinky | 11.8% | N/A | N/A | N/A | N/A |
 | [22–28 September 2025](2025-09-28-Ipsos.html) | Ipsos | 11.2% | N/A | N/A | N/A | N/A |
 | [1–25 September 2025](2025-09-25-Median.html) | Median | 10.0% | N/A | N/A | N/A | N/A |
-| [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 11.7% | N/A | N/A | N/A | N/A |
+| [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 12.2% | N/A | N/A | N/A | N/A |
 | [8–22 September 2025](2025-09-22-LordAshcroftPolls.html) | Lord Ashcroft Polls | 8.7% | N/A | N/A | N/A | N/A |
 | [1–19 September 2025](2025-09-19-Kantar.html) | Kantar <br> ČT24 | 13.0% | N/A | N/A | N/A | N/A |
 | [28 August–16 September 2025](2025-09-16-STEM.html) | STEM <br> CNN Prima News | 12.2% | N/A | N/A | N/A | N/A |
@@ -131,16 +133,16 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.5% | 100% |  |
-| 10.5–11.5% | 5% | 99.5% |  |
-| 11.5–12.5% | 16% | 95% |  |
-| 12.5–13.5% | 24% | 79% |  |
-| 13.5–14.5% | 21% | 56% | Median |
-| 14.5–15.5% | 16% | 35% |  |
-| 15.5–16.5% | 12% | 18% |  |
-| 16.5–17.5% | 5% | 7% |  |
-| 17.5–18.5% | 1.3% | 1.5% |  |
-| 18.5–19.5% | 0.2% | 0.2% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0.8% | 100% |  |
+| 11.5–12.5% | 6% | 99.2% |  |
+| 12.5–13.5% | 16% | 93% |  |
+| 13.5–14.5% | 24% | 77% |  |
+| 14.5–15.5% | 25% | 53% | Median |
+| 15.5–16.5% | 19% | 27% |  |
+| 16.5–17.5% | 7% | 9% |  |
+| 17.5–18.5% | 1.5% | 2% |  |
+| 18.5–19.5% | 0.1% | 0.2% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 
@@ -152,7 +154,9 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 3–4 | 3–5 | 3–5 |
+| [1–7 April 2026](2026-04-07-NMS.html) | NMS <br> Novinky | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [23 March–2 April 2026](2026-04-02-Kantar.html) | Kantar <br> ČT24 | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [5–10 March 2026](2026-03-10-NMS.html) | NMS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [9–27 February 2026](2026-02-27-Kantar.html) | Kantar | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [13–17 February 2026](2026-02-17-NMS.html) | NMS | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -267,10 +271,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.2% | 100% |  |
-| 3 | 55% | 99.8% | Median |
-| 4 | 43% | 45% |  |
-| 5 | 2% | 2% |  |
+| 2 | 0% | 100% |  |
+| 3 | 10% | 100% |  |
+| 4 | 87% | 90% | Median |
+| 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
 
