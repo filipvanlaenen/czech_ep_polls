@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 12 Apr 2026 12:12:24 +0200</pubDate>
+    <pubDate>Mon, 20 Apr 2026 21:18:20 +0200</pubDate>
     <item>
       <title>Opinion Poll by NMS for Novinky, 1–7 April 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-04-07-NMS.html#seats</link>
@@ -68,6 +68,36 @@
         type="image/png"/>
       <pubDate>Sun, 12 Apr 2026 12:12:24 +0200</pubDate>
       <dc:date>2026-04-12T12:12:24.532136+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by STEM, 11–16 March 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-03-16-STEM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! (NI): 0 seats&lt;/li&gt;&lt;li&gt;Právo Respekt Odbornost (*): 0 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Přísaha (PfE): 0 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ESN): 1–2 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 3 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Česká strana národně sociální (*): 0 seats&lt;/li&gt;&lt;li&gt;ANO 2011 (PfE): 9–11 seats&lt;/li&gt;&lt;li&gt;Moravané (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Sociální demokracie (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Naše Česko (*): 0 seats&lt;/li&gt;&lt;li&gt;Motoristé sobě (PfE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-03-16-STEM-seats.png"
+        length="376619"
+        type="image/png"/>
+      <pubDate>Mon, 20 Apr 2026 21:18:20 +0200</pubDate>
+      <dc:date>2026-04-20T21:18:20.505883+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by STEM, 11–16 March 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-03-16-STEM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-03-16-STEM-coalitions-seats.png"
+        length="195002"
+        type="image/png"/>
+      <pubDate>Mon, 20 Apr 2026 21:18:20 +0200</pubDate>
+      <dc:date>2026-04-20T21:18:20.505883+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by STEM, 11–16 March 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-03-16-STEM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! (NI): 0.5–1.6%&lt;/li&gt;&lt;li&gt;Právo Respekt Odbornost (*): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 6.7–9.8%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 11.5–15.4%&lt;/li&gt;&lt;li&gt;Přísaha (PfE): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ESN): 5.8–8.7%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 2.3–4.2%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 10.5–14.1%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 1.8–3.6%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 1.6–3.4%&lt;/li&gt;&lt;li&gt;Česká strana národně sociální (*): 0.0–0.5%&lt;/li&gt;&lt;li&gt;ANO 2011 (PfE): 31.6–36.9%&lt;/li&gt;&lt;li&gt;Moravané (Greens/EFA): 0.0–0.3%&lt;/li&gt;&lt;li&gt;Sociální demokracie (S&amp;amp;D): 0.0–0.6%&lt;/li&gt;&lt;li&gt;Naše Česko (*): 2.8–4.9%&lt;/li&gt;&lt;li&gt;Motoristé sobě (PfE): 3.7–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-03-16-STEM.png"
+        length="475735"
+        type="image/png"/>
+      <pubDate>Mon, 20 Apr 2026 21:18:20 +0200</pubDate>
+      <dc:date>2026-04-20T21:18:20.505883+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NMS, 5–10 March 2026 – Seat Projections for the Parties</title>
@@ -189,6 +219,6 @@
       <pubDate>Sun, 22 Mar 2026 14:28:46 +0100</pubDate>
       <dc:date>2026-03-22T14:28:46.225906+01:00</dc:date>
     </item>
-    <dc:date>2026-04-12T12:12:24.532136+02:00</dc:date>
+    <dc:date>2026-04-20T21:18:20.505883+02:00</dc:date>
   </channel>
 </rss>
