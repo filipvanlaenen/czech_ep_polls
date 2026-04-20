@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.3% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.6–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
 | [1–7 April 2026](2026-04-07-NMS.html) | NMS <br> Novinky | 0.8% | 0.5–1.3% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [23 March–2 April 2026](2026-04-02-Kantar.html) | Kantar <br> ČT24 | 0.0% | N/A | N/A | N/A | N/A |
+| [11–16 March 2026](2026-03-16-STEM.html) | STEM | 0.9% | 0.6–1.4% | 0.6–1.5% | 0.5–1.6% | 0.4–1.9% |
 | [5–10 March 2026](2026-03-10-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
 | [9–27 February 2026](2026-02-27-Kantar.html) | Kantar | 0.0% | N/A | N/A | N/A | N/A |
 | [13–17 February 2026](2026-02-17-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
@@ -123,9 +124,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 12% | 100% | Last Result |
-| 0.5–1.5% | 86% | 88% | Median |
-| 1.5–2.5% | 2% | 2% |  |
+| 0.0–0.5% | 8% | 100% | Last Result |
+| 0.5–1.5% | 89% | 92% | Median |
+| 1.5–2.5% | 3% | 3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -140,6 +141,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [1–7 April 2026](2026-04-07-NMS.html) | NMS <br> Novinky | 0 | 0 | 0 | 0 | 0 |
 | [23 March–2 April 2026](2026-04-02-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
+| [11–16 March 2026](2026-03-16-STEM.html) | STEM | 0 | 0 | 0 | 0 | 0 |
 | [5–10 March 2026](2026-03-10-NMS.html) | NMS |  |  |  |  |  |
 | [9–27 February 2026](2026-02-27-Kantar.html) | Kantar |  |  |  |  |  |
 | [13–17 February 2026](2026-02-17-NMS.html) | NMS |  |  |  |  |  |
