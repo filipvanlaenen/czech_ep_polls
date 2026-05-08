@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 33.7% | 31.6–35.6% | 31.1–36.1% | 30.6–36.6% | 29.6–37.5% |
+| [30 April–5 May 2026](2026-05-05-NMS.html) | NMS <br> Novinky | 32.5% | 30.7–34.4% | 30.1–34.9% | 29.7–35.4% | 28.8–36.4% |
 | [1–7 April 2026](2026-04-07-NMS.html) | NMS <br> Novinky | 32.7% | 30.8–34.6% | 30.3–35.1% | 29.9–35.6% | 29.0–36.5% |
 | [23 March–2 April 2026](2026-04-02-Kantar.html) | Kantar <br> ČT24 | 34.0% | 32.3–35.8% | 31.8–36.3% | 31.4–36.7% | 30.6–37.6% |
 | [11–16 March 2026](2026-03-16-STEM.html) | STEM | 34.2% | 32.5–36.0% | 32.0–36.5% | 31.6–36.9% | 30.8–37.8% |
@@ -22,7 +23,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | [24–28 September 2025](2025-09-28-NMS.html) | NMS <br> Novinky | 29.5% | N/A | N/A | N/A | N/A |
 | [22–28 September 2025](2025-09-28-Ipsos.html) | Ipsos | 32.6% | N/A | N/A | N/A | N/A |
 | [1–25 September 2025](2025-09-25-Median.html) | Median | 30.5% | N/A | N/A | N/A | N/A |
-| [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 28.0% | N/A | N/A | N/A | N/A |
+| [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 29.3% | N/A | N/A | N/A | N/A |
 | [8–22 September 2025](2025-09-22-LordAshcroftPolls.html) | Lord Ashcroft Polls | 35.0% | N/A | N/A | N/A | N/A |
 | [1–19 September 2025](2025-09-19-Kantar.html) | Kantar <br> ČT24 | 33.0% | N/A | N/A | N/A | N/A |
 | [28 August–16 September 2025](2025-09-16-STEM.html) | STEM <br> CNN Prima News | 30.9% | N/A | N/A | N/A | N/A |
@@ -176,6 +177,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 9–10 | 9–10 | 8–11 | 8–11 |
+| [30 April–5 May 2026](2026-05-05-NMS.html) | NMS <br> Novinky | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [1–7 April 2026](2026-04-07-NMS.html) | NMS <br> Novinky | 9 | 9–10 | 9–10 | 9–10 | 8–11 |
 | [23 March–2 April 2026](2026-04-02-Kantar.html) | Kantar <br> ČT24 | 9 | 9–10 | 8–10 | 8–10 | 8–11 |
 | [11–16 March 2026](2026-03-16-STEM.html) | STEM | 9 | 9–11 | 9–11 | 9–11 | 9–11 |
