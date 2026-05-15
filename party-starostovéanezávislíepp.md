@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.1% | 12.5–16.1% | 12.1–16.7% | 11.8–17.1% | 11.2–17.9% |
+| N/A | [Poll Average](average.html) | 14.2% | 12.5–16.7% | 12.1–17.3% | 11.8–17.7% | 11.2–18.6% |
 | [30 April–5 May 2026](2026-05-05-NMS.html) | NMS <br> Novinky | 14.5% | 13.2–16.0% | 12.8–16.4% | 12.5–16.8% | 11.8–17.5% |
+| [13–30 April 2026](2026-04-30-Kantar.html) | Kantar <br> ČT24 | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.8–18.4% | 13.2–19.2% |
 | [1–7 April 2026](2026-04-07-NMS.html) | NMS <br> Novinky | 13.7% | 12.4–15.1% | 12.0–15.6% | 11.7–15.9% | 11.1–16.6% |
 | [23 March–2 April 2026](2026-04-02-Kantar.html) | Kantar <br> ČT24 | 15.5% | 14.2–16.9% | 13.9–17.3% | 13.5–17.7% | 13.0–18.4% |
 | [11–16 March 2026](2026-03-16-STEM.html) | STEM | 13.3% | 12.1–14.6% | 11.8–15.0% | 11.5–15.4% | 11.0–16.0% |
@@ -138,14 +139,15 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0.1% | 100% |  |
 | 10.5–11.5% | 1.4% | 99.9% |  |
 | 11.5–12.5% | 9% | 98.6% |  |
-| 12.5–13.5% | 24% | 89% |  |
-| 13.5–14.5% | 27% | 66% | Median |
-| 14.5–15.5% | 20% | 39% |  |
-| 15.5–16.5% | 13% | 19% |  |
-| 16.5–17.5% | 5% | 6% |  |
-| 17.5–18.5% | 1.0% | 1.1% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
-| 19.5–20.5% | 0% | 0% |  |
+| 12.5–13.5% | 23% | 89% |  |
+| 13.5–14.5% | 25% | 66% | Median |
+| 14.5–15.5% | 17% | 41% |  |
+| 15.5–16.5% | 13% | 24% |  |
+| 16.5–17.5% | 8% | 11% |  |
+| 17.5–18.5% | 3% | 3% |  |
+| 18.5–19.5% | 0.5% | 0.6% |  |
+| 19.5–20.5% | 0.1% | 0.1% |  |
+| 20.5–21.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -156,8 +158,9 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [30 April–5 May 2026](2026-05-05-NMS.html) | NMS <br> Novinky | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| [13–30 April 2026](2026-04-30-Kantar.html) | Kantar <br> ČT24 | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [1–7 April 2026](2026-04-07-NMS.html) | NMS <br> Novinky | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [23 March–2 April 2026](2026-04-02-Kantar.html) | Kantar <br> ČT24 | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [11–16 March 2026](2026-03-16-STEM.html) | STEM | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -276,9 +279,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 11% | 100% |  |
-| 4 | 87% | 89% | Median |
-| 5 | 2% | 2% |  |
+| 3 | 9% | 100% |  |
+| 4 | 85% | 91% | Median |
+| 5 | 6% | 6% |  |
 | 6 | 0% | 0% |  |
 
 
