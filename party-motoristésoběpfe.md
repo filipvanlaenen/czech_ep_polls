@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.9–5.7% | 3.7–6.0% | 3.5–6.3% | 3.1–6.8% |
+| N/A | [Poll Average](average.html) | 4.9% | 4.1–5.8% | 3.9–6.1% | 3.7–6.4% | 3.4–6.9% |
 | [30 April–5 May 2026](2026-05-05-NMS.html) | NMS <br> Novinky | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
 | [13–30 April 2026](2026-04-30-Kantar.html) | Kantar <br> ČT24 | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.6% | 3.5–7.1% |
 | [1–7 April 2026](2026-04-07-NMS.html) | NMS <br> Novinky | 4.4% | 3.6–5.3% | 3.4–5.6% | 3.3–5.8% | 3.0–6.3% |
@@ -129,12 +129,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 34% | 97% |  |
-| 4.5–5.5% | 48% | 63% | Median |
-| 5.5–6.5% | 14% | 15% |  |
-| 6.5–7.5% | 1.1% | 1.1% |  |
+| 2.5–3.5% | 1.1% | 100% |  |
+| 3.5–4.5% | 27% | 98.9% |  |
+| 4.5–5.5% | 53% | 72% | Median |
+| 5.5–6.5% | 17% | 19% |  |
+| 6.5–7.5% | 1.4% | 1.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -263,8 +264,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 42% | 100% | Last Result |
-| 1 | 57% | 58% | Median |
+| 0 | 46% | 100% | Last Result |
+| 1 | 53% | 54% | Median |
 | 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
