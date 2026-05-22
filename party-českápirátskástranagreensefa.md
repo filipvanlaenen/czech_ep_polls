@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.1% | 6.3–10.1% | 5.9–10.6% | 5.6–11.0% | 5.1–11.8% |
+| N/A | [Poll Average](average.html) | 8.2% | 6.5–9.9% | 6.1–10.4% | 5.8–10.8% | 5.2–11.6% |
+| [11–14 May 2026](2026-05-14-IPSOS.html) | IPSOS <br> Václav Moravec | 8.3% | 7.5–9.3% | 7.2–9.5% | 7.0–9.8% | 6.6–10.3% |
 | [30 April–5 May 2026](2026-05-05-NMS.html) | NMS <br> Novinky | 6.7% | 5.7–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–8.9% |
 | [13–30 April 2026](2026-04-30-Kantar.html) | Kantar <br> ČT24 | 9.5% | 8.4–10.9% | 8.1–11.2% | 7.9–11.5% | 7.4–12.2% |
 | [1–7 April 2026](2026-04-07-NMS.html) | NMS <br> Novinky | 8.0% | 7.0–9.1% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
@@ -24,7 +25,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | [24–28 September 2025](2025-09-28-NMS.html) | NMS <br> Novinky | 9.6% | N/A | N/A | N/A | N/A |
 | [22–28 September 2025](2025-09-28-Ipsos.html) | Ipsos | 8.7% | N/A | N/A | N/A | N/A |
 | [1–25 September 2025](2025-09-25-Median.html) | Median | 10.0% | N/A | N/A | N/A | N/A |
-| [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 10.1% | N/A | N/A | N/A | N/A |
+| [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 9.8% | N/A | N/A | N/A | N/A |
 | [8–22 September 2025](2025-09-22-LordAshcroftPolls.html) | Lord Ashcroft Polls | 10.0% | N/A | N/A | N/A | N/A |
 | [1–19 September 2025](2025-09-19-Kantar.html) | Kantar <br> ČT24 | 9.5% | N/A | N/A | N/A | N/A |
 | [28 August–16 September 2025](2025-09-16-STEM.html) | STEM <br> CNN Prima News | 9.3% | N/A | N/A | N/A | N/A |
@@ -131,15 +132,15 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 2% | 100% |  |
-| 5.5–6.5% | 13% | 98% |  |
-| 6.5–7.5% | 21% | 85% |  |
-| 7.5–8.5% | 24% | 64% | Median |
-| 8.5–9.5% | 21% | 40% |  |
-| 9.5–10.5% | 13% | 19% |  |
-| 10.5–11.5% | 5% | 5% |  |
-| 11.5–12.5% | 0.7% | 0.8% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 1.4% | 100% |  |
+| 5.5–6.5% | 10% | 98.6% |  |
+| 6.5–7.5% | 19% | 89% |  |
+| 7.5–8.5% | 31% | 70% | Median |
+| 8.5–9.5% | 24% | 39% |  |
+| 9.5–10.5% | 11% | 15% |  |
+| 10.5–11.5% | 4% | 4% |  |
+| 11.5–12.5% | 0.6% | 0.6% |  |
+| 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -151,7 +152,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| [11–14 May 2026](2026-05-14-IPSOS.html) | IPSOS <br> Václav Moravec | 2 | 2 | 2 | 2 | 2 |
 | [30 April–5 May 2026](2026-05-05-NMS.html) | NMS <br> Novinky | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [13–30 April 2026](2026-04-30-Kantar.html) | Kantar <br> ČT24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–7 April 2026](2026-04-07-NMS.html) | NMS <br> Novinky | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -269,10 +271,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% | Last Result |
-| 1 | 5% | 99.7% |  |
-| 2 | 86% | 95% | Median |
-| 3 | 9% | 9% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 4% | 99.8% |  |
+| 2 | 90% | 96% | Median |
+| 3 | 6% | 6% |  |
 | 4 | 0% | 0% |  |
 
 

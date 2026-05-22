@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.1% | 0.1–0.3% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
+| [11–14 May 2026](2026-05-14-IPSOS.html) | IPSOS <br> Václav Moravec | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
 | [30 April–5 May 2026](2026-05-05-NMS.html) | NMS <br> Novinky | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
 | [13–30 April 2026](2026-04-30-Kantar.html) | Kantar <br> ČT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–7 April 2026](2026-04-07-NMS.html) | NMS <br> Novinky | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
@@ -140,6 +141,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [11–14 May 2026](2026-05-14-IPSOS.html) | IPSOS <br> Václav Moravec | 0 | 0 | 0 | 0 | 0 |
 | [30 April–5 May 2026](2026-05-05-NMS.html) | NMS <br> Novinky | 0 | 0 | 0 | 0 | 0 |
 | [13–30 April 2026](2026-04-30-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
 | [1–7 April 2026](2026-04-07-NMS.html) | NMS <br> Novinky | 0 | 0 | 0 | 0 | 0 |
