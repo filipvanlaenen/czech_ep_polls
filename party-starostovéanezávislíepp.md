@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14.5% | 12.9–16.5% | 12.4–17.1% | 12.1–17.6% | 11.4–18.5% |
-| [11–14 May 2026](2026-05-14-IPSOS.html) | IPSOS <br> Václav Moravec | 14.5% | 13.4–15.7% | 13.1–16.0% | 12.8–16.3% | 12.3–16.9% |
+| [11–14 May 2026](2026-05-14-Ipsos.html) | Ipsos <br> Václav Moravec | 14.5% | 13.4–15.7% | 13.1–16.0% | 12.8–16.3% | 12.3–16.9% |
 | [30 April–5 May 2026](2026-05-05-NMS.html) | NMS <br> Novinky | 14.5% | 13.2–16.0% | 12.8–16.4% | 12.5–16.8% | 11.8–17.5% |
 | [13–30 April 2026](2026-04-30-Kantar.html) | Kantar <br> ČT24 | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.8–18.4% | 13.2–19.2% |
 | [1–7 April 2026](2026-04-07-NMS.html) | NMS <br> Novinky | 13.7% | 12.4–15.1% | 12.0–15.6% | 11.7–15.9% | 11.1–16.6% |
@@ -160,7 +160,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4 | 3–5 | 3–5 | 3–5 |
-| [11–14 May 2026](2026-05-14-IPSOS.html) | IPSOS <br> Václav Moravec | 4 | 4 | 4 | 4 | 4 |
+| [11–14 May 2026](2026-05-14-Ipsos.html) | Ipsos <br> Václav Moravec | 4 | 4 | 4 | 4 | 4 |
 | [30 April–5 May 2026](2026-05-05-NMS.html) | NMS <br> Novinky | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [13–30 April 2026](2026-04-30-Kantar.html) | Kantar <br> ČT24 | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [1–7 April 2026](2026-04-07-NMS.html) | NMS <br> Novinky | 4 | 4 | 3–4 | 3–4 | 3–4 |
@@ -282,7 +282,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 5% | 100% |  |
-| 4 | 88% | 95% | Median |
+| 4 | 87% | 95% | Median |
 | 5 | 7% | 7% |  |
 | 6 | 0% | 0% |  |
 
