@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 8 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 6–11% <br> 1–3 | N/A <br> N/A | 0% <br> 0 | 1–3% <br> 0 | 0–1% <br> 0 | 2–4% <br> 0 | 12–18% <br> 3–5 | 2–4% <br> 0 | 11–17% <br> 3–5 | N/A <br> N/A | 30–36% <br> 8–11 | 4–6% <br> 0–1 | 1–2% <br> 0 | 5–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 0% <br> 0 | 2–4% <br> 0 | 1–2% <br> 0 |
-| [11–14 May 2026](2026-05-14-IPSOS.html) | IPSOS <br> Václav Moravec | 7–10% <br> 2 | N/A <br> N/A | 0% <br> 0 | 1–2% <br> 0 | 0–1% <br> 0 | 3–5% <br> 0 | 13–16% <br> 4 | 3–4% <br> 0 | 13–17% <br> 4 | N/A <br> N/A | 29–34% <br> 9 | 3–6% <br> 0 | 1–2% <br> 0 | 5–8% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 0–1% <br> 0 | 2–4% <br> 0 | 1–2% <br> 0 |
+| [11–14 May 2026](2026-05-14-Ipsos.html) | Ipsos <br> Václav Moravec | 7–10% <br> 2 | N/A <br> N/A | 0% <br> 0 | 1–2% <br> 0 | 0–1% <br> 0 | 3–5% <br> 0 | 13–16% <br> 4 | 3–4% <br> 0 | 13–17% <br> 4 | N/A <br> N/A | 29–34% <br> 9 | 3–6% <br> 0 | 1–2% <br> 0 | 5–8% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 0–1% <br> 0 | 2–4% <br> 0 | 1–2% <br> 0 |
 | [30 April–5 May 2026](2026-05-05-NMS.html) | NMS <br> Novinky | 5–8% <br> 1–2 | N/A <br> N/A | 0% <br> 0 | 1–3% <br> 0 | 0–1% <br> 0 | 2–4% <br> 0 | 12–17% <br> 3–5 | 2–4% <br> 0 | 13–17% <br> 4–5 | N/A <br> N/A | 30–35% <br> 8–10 | 4–6% <br> 0–1 | 1–2% <br> 0 | 7–11% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 2–4% <br> 0 | N/A <br> N/A |
 | [13–30 April 2026](2026-04-30-Kantar.html) | Kantar <br> ČT24 | 8–12% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 14–18% <br> 3–5 | 3–5% <br> 0 | 13–18% <br> 3–5 | N/A <br> N/A | 29–35% <br> 8–10 | 4–7% <br> 0–1 | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A |
 | [11–16 March 2026](2026-03-16-STEM.html) | STEM | 7–10% <br> 2 | N/A <br> N/A | 0% <br> 0 | 2–4% <br> 0 | 0–1% <br> 0 | 2–4% <br> 0 | 12–15% <br> 3–4 | 2–3% <br> 0 | 10–14% <br> 3 | N/A <br> N/A | 32–37% <br> 9–11 | 4–6% <br> 0–1 | 1–2% <br> 0 | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0% <br> 0 | 3–5% <br> 0 | 1–2% <br> 0 |
@@ -486,7 +486,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 5% | 100% |  |
-| 4 | 88% | 95% | Median |
+| 4 | 87% | 95% | Median |
 | 5 | 7% | 7% |  |
 | 6 | 0% | 0% |  |
 
@@ -542,7 +542,7 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0.1% | 100% |  |
 | 8 | 15% | 99.9% |  |
 | 9 | 73% | 85% | Median |
-| 10 | 8% | 12% |  |
+| 10 | 9% | 12% |  |
 | 11 | 3% | 3% | Majority |
 | 12 | 0% | 0% |  |
 
@@ -578,7 +578,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% | Last Result |
-| 1 | 20% | 99.6% |  |
+| 1 | 21% | 99.6% |  |
 | 2 | 79% | 79% | Median |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
@@ -751,7 +751,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% | Last Result |
-| 1 | 20% | 99.6% |  |
+| 1 | 21% | 99.6% |  |
 | 2 | 79% | 79% | Median |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
@@ -786,6 +786,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 7,340,032
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 8,388,608
 + **Error estimate:** 5.08%
