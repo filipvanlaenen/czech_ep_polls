@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 22 May 2026 21:41:46 +0200</pubDate>
+    <pubDate>Wed, 10 Jun 2026 22:01:28 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by NMS for Novinky, 3–8 June 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-06-08-NMS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ESN): 1–2 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Naše Česko (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Motoristé sobě (PfE): 0–2 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0 seats&lt;/li&gt;&lt;li&gt;ANO 2011 (PfE): 8–10 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-06-08-NMS-seats.png"
+        length="290230"
+        type="image/png"/>
+      <pubDate>Wed, 10 Jun 2026 22:01:28 +0200</pubDate>
+      <dc:date>2026-06-10T22:01:28.535697+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NMS for Novinky, 3–8 June 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-06-08-NMS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-06-08-NMS-coalitions-seats.png"
+        length="234323"
+        type="image/png"/>
+      <pubDate>Wed, 10 Jun 2026 22:01:28 +0200</pubDate>
+      <dc:date>2026-06-10T22:01:28.535697+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NMS for Novinky, 3–8 June 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-06-08-NMS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 6.0–9.2%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 12.7–17.1%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ESN): 6.1–9.3%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 11.9–16.2%&lt;/li&gt;&lt;li&gt;Naše Česko (*): 2.9–5.2%&lt;/li&gt;&lt;li&gt;Motoristé sobě (PfE): 4.5–7.4%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 1.6–3.6%&lt;/li&gt;&lt;li&gt;ANO 2011 (PfE): 28.8–34.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-06-08-NMS.png"
+        length="322909"
+        type="image/png"/>
+      <pubDate>Wed, 10 Jun 2026 22:01:28 +0200</pubDate>
+      <dc:date>2026-06-10T22:01:28.535697+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Václav Moravec, 11–14 May 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-05-14-Ipsos.html#seats</link>
@@ -309,6 +339,6 @@
       <pubDate>Sun, 22 Mar 2026 14:28:46 +0100</pubDate>
       <dc:date>2026-03-22T14:28:46.225906+01:00</dc:date>
     </item>
-    <dc:date>2026-05-22T21:41:46.076265+02:00</dc:date>
+    <dc:date>2026-06-10T22:01:28.535697+02:00</dc:date>
   </channel>
 </rss>
