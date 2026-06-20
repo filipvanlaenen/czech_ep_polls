@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 2.6–4.4% | 2.5–4.6% | 2.3–4.9% | 2.0–5.4% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.4–4.3% | 2.1–4.6% | 2.0–4.9% | 1.7–5.4% |
 | [3–8 June 2026](2026-06-08-NMS.html) | NMS <br> Novinky | 3.9% | 3.2–4.8% | 3.0–5.0% | 2.9–5.2% | 2.6–5.7% |
+| [18 May–5 June 2026](2026-06-05-Kantar.html) | Kantar <br> ČT24 | 2.5% | 2.0–3.2% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [11–14 May 2026](2026-05-14-Ipsos.html) | Ipsos <br> Václav Moravec | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–4.0% | 2.0–4.3% |
 | [30 April–5 May 2026](2026-05-05-NMS.html) | NMS <br> Novinky | 2.8% | 2.3–3.6% | 2.1–3.9% | 2.0–4.1% | 1.7–4.5% |
 | [13–30 April 2026](2026-04-30-Kantar.html) | Kantar <br> ČT24 | 3.0% | 2.4–3.8% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -129,10 +130,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 7% | 100% |  |
-| 2.5–3.5% | 50% | 93% | Median |
-| 3.5–4.5% | 37% | 43% |  |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 15% | 99.8% |  |
+| 2.5–3.5% | 46% | 85% | Median |
+| 3.5–4.5% | 33% | 38% |  |
 | 4.5–5.5% | 6% | 6% |  |
 | 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -148,6 +149,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [3–8 June 2026](2026-06-08-NMS.html) | NMS <br> Novinky | 0 | 0 | 0 | 0–1 | 0–1 |
+| [18 May–5 June 2026](2026-06-05-Kantar.html) | Kantar <br> ČT24 | 0 | 0 | 0 | 0 | 0 |
 | [11–14 May 2026](2026-05-14-Ipsos.html) | Ipsos <br> Václav Moravec | 0 | 0 | 0 | 0 | 0 |
 | [30 April–5 May 2026](2026-05-05-NMS.html) | NMS <br> Novinky | 0 | 0 | 0 | 0 | 0 |
 | [13–30 April 2026](2026-04-30-Kantar.html) | Kantar <br> ČT24 | 0 | 0 | 0 | 0 | 0 |
@@ -266,8 +268,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.9% | 100% | Last Result, Median |
-| 1 | 1.1% | 1.1% |  |
+| 0 | 99.0% | 100% | Last Result, Median |
+| 1 | 1.0% | 1.0% |  |
 | 2 | 0% | 0% |  |
 
 
