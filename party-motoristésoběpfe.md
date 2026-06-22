@@ -151,7 +151,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [3–8 June 2026](2026-06-08-NMS.html) | NMS <br> Novinky | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [18 May–5 June 2026](2026-06-05-Kantar.html) | Kantar <br> ČT24 | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [18 May–5 June 2026](2026-06-05-Kantar.html) | Kantar <br> ČT24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–14 May 2026](2026-05-14-Ipsos.html) | Ipsos <br> Václav Moravec | 0 | 0 | 0 | 0 | 0 |
 | [30 April–5 May 2026](2026-05-05-NMS.html) | NMS <br> Novinky | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–30 April 2026](2026-04-30-Kantar.html) | Kantar <br> ČT24 | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -270,8 +270,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 46% | 100% | Last Result |
-| 1 | 51% | 54% | Median |
+| 0 | 44% | 100% | Last Result |
+| 1 | 53% | 56% | Median |
 | 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
