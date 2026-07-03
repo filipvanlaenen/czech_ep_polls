@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 21 Jun 2026 16:09:37 +0200</pubDate>
+    <pubDate>Fri, 03 Jul 2026 21:36:40 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by STEM for PrimaCNN, 16–21 June 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-06-21-STEM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! (NI): 0 seats&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Přísaha (PfE): 0 seats&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ESN): 2 seats&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Česká strana národně sociální (*): 0 seats&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 0 seats&lt;/li&gt;&lt;li&gt;ANO 2011 (PfE): 9–10 seats&lt;/li&gt;&lt;li&gt;Moravané (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Sociální demokracie (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Naše Česko (*): 0 seats&lt;/li&gt;&lt;li&gt;Motoristé sobě (PfE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-06-21-STEM-seats.png"
+        length="367559"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 21:36:40 +0200</pubDate>
+      <dc:date>2026-07-03T21:36:40.655255+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by STEM for PrimaCNN, 16–21 June 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-06-21-STEM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-06-21-STEM-coalitions-seats.png"
+        length="208993"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 21:36:40 +0200</pubDate>
+      <dc:date>2026-07-03T21:36:40.655255+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by STEM for PrimaCNN, 16–21 June 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-06-21-STEM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! (NI): 0.5–1.5%&lt;/li&gt;&lt;li&gt;Česká pirátská strana (Greens/EFA): 6.3–9.2%&lt;/li&gt;&lt;li&gt;Starostové a nezávislí (EPP): 11.8–15.5%&lt;/li&gt;&lt;li&gt;Přísaha (PfE): 0.7–1.9%&lt;/li&gt;&lt;li&gt;Svoboda a přímá demokracie (ESN): 6.6–9.5%&lt;/li&gt;&lt;li&gt;TOP 09 (EPP): 2.6–4.5%&lt;/li&gt;&lt;li&gt;Občanská demokratická strana (ECR): 11.3–14.9%&lt;/li&gt;&lt;li&gt;Strana zelených (Greens/EFA): 1.2–2.6%&lt;/li&gt;&lt;li&gt;Česká strana národně sociální (*): 0.0–0.4%&lt;/li&gt;&lt;li&gt;Křesťanská a demokratická unie–Československá strana lidová (EPP): 1.7–3.3%&lt;/li&gt;&lt;li&gt;ANO 2011 (PfE): 29.7–34.7%&lt;/li&gt;&lt;li&gt;Moravané (Greens/EFA): 0.0–0.3%&lt;/li&gt;&lt;li&gt;Sociální demokracie (S&amp;amp;D): 0.0–0.5%&lt;/li&gt;&lt;li&gt;Naše Česko (*): 2.4–4.3%&lt;/li&gt;&lt;li&gt;Motoristé sobě (PfE): 4.3–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-06-21-STEM.png"
+        length="456738"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 21:36:40 +0200</pubDate>
+      <dc:date>2026-07-03T21:36:40.655255+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by NMS for Novinky, 3–8 June 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-06-08-NMS.html#seats</link>
@@ -369,6 +399,6 @@
       <pubDate>Sun, 22 Mar 2026 14:28:46 +0100</pubDate>
       <dc:date>2026-03-22T14:28:46.225906+01:00</dc:date>
     </item>
-    <dc:date>2026-06-21T16:09:37.035811+02:00</dc:date>
+    <dc:date>2026-07-03T21:36:40.655255+02:00</dc:date>
   </channel>
 </rss>
