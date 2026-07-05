@@ -154,7 +154,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | [16–21 June 2026](2026-06-21-STEM.html) | STEM <br> PrimaCNN | 0 | 0 | 0 | 0 | 0 |
 | [3–8 June 2026](2026-06-08-NMS.html) | NMS <br> Novinky | 0 | 0 | 0 | 0–1 | 0–1 |
 | [18 May–5 June 2026](2026-06-05-Kantar.html) | Kantar <br> ČT24 | 0 | 0 | 0 | 0 | 0 |
-| [1–31 May 2026](2026-05-31-Median.html) | Median | 1 | 1 | 1 | 0–1 | 0–1 |
+| [1–31 May 2026](2026-05-31-Median.html) | Median | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [11–14 May 2026](2026-05-14-Ipsos.html) | Ipsos <br> Václav Moravec | 0 | 0 | 0 | 0 | 0 |
 | [30 April–5 May 2026](2026-05-05-NMS.html) | NMS <br> Novinky | 0 | 0 | 0 | 0 | 0 |
 | [13–30 April 2026](2026-04-30-Kantar.html) | Kantar <br> ČT24 | 0 | 0 | 0 | 0 | 0 |
