@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.8–1.4% | 0.7–1.5% | 0.6–1.7% | 0.5–1.9% |
+| [1–30 June 2026](2026-06-30-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [16–21 June 2026](2026-06-21-STEM.html) | STEM <br> PrimaCNN | 0.0% | N/A | N/A | N/A | N/A |
 | [3–8 June 2026](2026-06-08-NMS.html) | NMS <br> Novinky | 1.1% | N/A | N/A | N/A | N/A |
 | [18 May–5 June 2026](2026-06-05-Kantar.html) | Kantar <br> ČT24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -146,6 +147,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–30 June 2026](2026-06-30-Median.html) | Median |  |  |  |  |  |
 | [16–21 June 2026](2026-06-21-STEM.html) | STEM <br> PrimaCNN |  |  |  |  |  |
 | [3–8 June 2026](2026-06-08-NMS.html) | NMS <br> Novinky |  |  |  |  |  |
 | [18 May–5 June 2026](2026-06-05-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
