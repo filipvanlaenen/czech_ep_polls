@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/czech_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 18 Jul 2026 14:20:38 +0200</pubDate>
+    <pubDate>Sat, 18 Jul 2026 17:28:08 +0200</pubDate>
     <item>
       <title>Opinion Poll by Median, 1–30 June 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-06-30-Median.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-06-30-Median-seats.png"
         length="267540"
         type="image/png"/>
-      <pubDate>Sat, 18 Jul 2026 14:20:38 +0200</pubDate>
-      <dc:date>2026-07-18T14:20:38.930304+02:00</dc:date>
+      <pubDate>Sat, 18 Jul 2026 17:28:08 +0200</pubDate>
+      <dc:date>2026-07-18T17:28:08.871017+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Median, 1–30 June 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-06-30-Median-coalitions-seats.png"
         length="225397"
         type="image/png"/>
-      <pubDate>Sat, 18 Jul 2026 14:20:38 +0200</pubDate>
-      <dc:date>2026-07-18T14:20:38.930304+02:00</dc:date>
+      <pubDate>Sat, 18 Jul 2026 17:28:08 +0200</pubDate>
+      <dc:date>2026-07-18T17:28:08.871017+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Median, 1–30 June 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-06-30-Median.png"
         length="330092"
         type="image/png"/>
-      <pubDate>Sat, 18 Jul 2026 14:20:38 +0200</pubDate>
-      <dc:date>2026-07-18T14:20:38.930304+02:00</dc:date>
+      <pubDate>Sat, 18 Jul 2026 17:28:08 +0200</pubDate>
+      <dc:date>2026-07-18T17:28:08.871017+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by STEM for PrimaCNN, 16–21 June 2026 – Seat Projections for the Parties</title>
@@ -459,6 +459,6 @@
       <pubDate>Sun, 22 Mar 2026 14:28:46 +0100</pubDate>
       <dc:date>2026-03-22T14:28:46.225906+01:00</dc:date>
     </item>
-    <dc:date>2026-07-18T14:20:38.930304+02:00</dc:date>
+    <dc:date>2026-07-18T17:28:08.871017+02:00</dc:date>
   </channel>
 </rss>
