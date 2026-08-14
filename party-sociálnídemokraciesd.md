@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.3% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.8% |
+| [1–31 July 2026](2026-07-31-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [1–30 June 2026](2026-06-30-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [16–21 June 2026](2026-06-21-STEM.html) | STEM <br> CNN Prima News | 0.1% | 0.1–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
 | [3–8 June 2026](2026-06-08-NMS.html) | NMS <br> Novinky | 0.1% | N/A | N/A | N/A | N/A |
@@ -146,6 +147,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–31 July 2026](2026-07-31-Median.html) | Median |  |  |  |  |  |
 | [1–30 June 2026](2026-06-30-Median.html) | Median |  |  |  |  |  |
 | [16–21 June 2026](2026-06-21-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
 | [3–8 June 2026](2026-06-08-NMS.html) | NMS <br> Novinky |  |  |  |  |  |
