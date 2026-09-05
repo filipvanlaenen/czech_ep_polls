@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.8–1.6% | 0.8–1.7% | 0.7–1.8% | 0.6–2.1% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–1.9% | 0.6–2.2% |
+| [3–21 August 2026](2026-08-21-Kantar.html) | Kantar <br> ČT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 July 2026](2026-07-31-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [1–30 June 2026](2026-06-30-Median.html) | Median | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
 | [16–21 June 2026](2026-06-21-STEM.html) | STEM <br> CNN Prima News | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–1.9% | 0.6–2.2% |
@@ -134,8 +135,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.2% | 100% | Last Result |
-| 0.5–1.5% | 88% | 99.8% | Median |
-| 1.5–2.5% | 12% | 12% |  |
+| 0.5–1.5% | 84% | 99.8% | Median |
+| 1.5–2.5% | 16% | 16% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -148,6 +149,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3–21 August 2026](2026-08-21-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
 | [1–31 July 2026](2026-07-31-Median.html) | Median |  |  |  |  |  |
 | [1–30 June 2026](2026-06-30-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [16–21 June 2026](2026-06-21-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
