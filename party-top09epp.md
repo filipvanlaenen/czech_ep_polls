@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.9–3.8% | 1.7–4.1% | 1.6–4.3% | 1.3–4.7% |
+| N/A | [Poll Average](average.html) | 3.0% | 1.9–3.9% | 1.7–4.1% | 1.6–4.3% | 1.3–4.7% |
+| [28 August–2 September 2026](2026-09-02-NMS.html) | NMS <br> Novinky.cz | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.4% | 2.0–4.8% |
 | [3–21 August 2026](2026-08-21-Kantar.html) | Kantar <br> ČT24 | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
 | [1–31 July 2026](2026-07-31-Median.html) | Median | 2.9% | 2.4–3.7% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [1–30 June 2026](2026-06-30-Median.html) | Median | 3.0% | 2.4–3.8% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -32,7 +33,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | [24–28 September 2025](2025-09-28-NMS.html) | NMS <br> Novinky | 5.2% | N/A | N/A | N/A | N/A |
 | [22–28 September 2025](2025-09-28-Ipsos.html) | Ipsos | 6.1% | N/A | N/A | N/A | N/A |
 | [1–25 September 2025](2025-09-25-Median.html) | Median | 6.1% | N/A | N/A | N/A | N/A |
-| [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 6.1% | N/A | N/A | N/A | N/A |
+| [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 5.9% | N/A | N/A | N/A | N/A |
 | [8–22 September 2025](2025-09-22-LordAshcroftPolls.html) | Lord Ashcroft Polls | 5.5% | N/A | N/A | N/A | N/A |
 | [1–19 September 2025](2025-09-19-Kantar.html) | Kantar <br> ČT24 | 5.7% | N/A | N/A | N/A | N/A |
 | [28 August–16 September 2025](2025-09-16-STEM.html) | STEM <br> CNN Prima News | 5.7% | N/A | N/A | N/A | N/A |
@@ -136,10 +137,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 29% | 98% |  |
-| 2.5–3.5% | 50% | 69% | Median |
-| 3.5–4.5% | 18% | 19% |  |
-| 4.5–5.5% | 0.8% | 0.8% |  |
+| 1.5–2.5% | 27% | 98% |  |
+| 2.5–3.5% | 49% | 71% | Median |
+| 3.5–4.5% | 21% | 22% |  |
+| 4.5–5.5% | 1.0% | 1.0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -152,6 +153,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [28 August–2 September 2026](2026-09-02-NMS.html) | NMS <br> Novinky.cz | 0 | 0 | 0 | 0 | 0 |
 | [3–21 August 2026](2026-08-21-Kantar.html) | Kantar <br> ČT24 | 0 | 0 | 0 | 0 | 0 |
 | [1–31 July 2026](2026-07-31-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [1–30 June 2026](2026-06-30-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
