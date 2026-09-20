@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Tue, 25 Feb 2025 21:03:01 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Ipsos, 8–12 September 2026 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-09-12-Ipsos.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos, 8–12 September 2026<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2026-09-12-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2026-09-12-Ipsos-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-09-12-Ipsos-seating-plan.png" length="294289" type="image/png"/>
+      <pubDate>Sun, 20 Sep 2026 13:19:39 +0200</pubDate>
+      <dc:date>2026-09-20T13:19:39.225400244+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos, 8–12 September 2026 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-09-12-Ipsos.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos, 8–12 September 2026<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2026-09-12-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2026-09-12-Ipsos-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-09-12-Ipsos-seats.png" length="393566" type="image/png"/>
+      <pubDate>Sun, 20 Sep 2026 13:19:39 +0200</pubDate>
+      <dc:date>2026-09-20T13:19:39.225400244+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos, 8–12 September 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-09-12-Ipsos.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos, 8–12 September 2026<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2026-09-12-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2026-09-12-Ipsos.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-09-12-Ipsos.png" length="496193" type="image/png"/>
+      <pubDate>Sun, 20 Sep 2026 13:19:39 +0200</pubDate>
+      <dc:date>2026-09-20T13:19:39.225400244+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by STEM for CNN Prima News, 2–7 September 2026 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-09-07-STEM.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by STEM for CNN Prima News, 2–7 September 2026<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2026-09-07-STEM.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2026-09-07-STEM-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-05-31-Median.png" length="420681" type="image/png"/>
       <pubDate>Sun, 5 Jul 2026 11:33:12 +0200</pubDate>
       <dc:date>2026-07-05T11:33:12.385859992+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Václav Moravec, 11–14 May 2026 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-05-14-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Václav Moravec, 11–14 May 2026<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2026-05-14-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2026-05-14-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-05-14-Ipsos-seating-plan.png" length="234026" type="image/png"/>
-      <pubDate>Fri, 22 May 2026 21:41:46 +0200</pubDate>
-      <dc:date>2026-05-22T21:41:46.076265573+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Václav Moravec, 11–14 May 2026 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-05-14-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Václav Moravec, 11–14 May 2026<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2026-05-14-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2026-05-14-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-05-14-Ipsos-seats.png" length="358924" type="image/png"/>
-      <pubDate>Fri, 22 May 2026 21:41:46 +0200</pubDate>
-      <dc:date>2026-05-22T21:41:46.076265573+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Václav Moravec, 11–14 May 2026 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/czech_ep_polls/2026-05-14-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for Václav Moravec, 11–14 May 2026<br/>Details on https://filipvanlaenen.github.io/czech_ep_polls/2026-05-14-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/czech_ep_polls/2026-05-14-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/czech_ep_polls/2026-05-14-Ipsos.png" length="505709" type="image/png"/>
-      <pubDate>Fri, 22 May 2026 21:41:46 +0200</pubDate>
-      <dc:date>2026-05-22T21:41:46.076265573+02:00</dc:date>
     </item>
   </channel>
 </rss>
