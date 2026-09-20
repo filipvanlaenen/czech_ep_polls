@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.1% | 14.0–18.7% | 13.6–19.3% | 13.3–19.8% | 12.6–20.7% |
+| N/A | [Poll Average](average.html) | 16.3% | 14.2–18.6% | 13.7–19.2% | 13.4–19.6% | 12.7–20.6% |
+| [8–12 September 2026](2026-09-12-Ipsos.html) | Ipsos | 16.6% | 15.2–18.1% | 14.8–18.6% | 14.5–18.9% | 13.9–19.7% |
 | [2–7 September 2026](2026-09-07-STEM.html) | STEM <br> CNN Prima News | 14.8% | 13.7–16.0% | 13.4–16.4% | 13.1–16.7% | 12.6–17.3% |
 | [28 August–2 September 2026](2026-09-02-NMS.html) | NMS <br> Novinky.cz | 18.1% | 16.6–19.7% | 16.2–20.2% | 15.9–20.6% | 15.2–21.4% |
 | [3–21 August 2026](2026-08-21-Kantar.html) | Kantar <br> ČT24 | 17.0% | 15.7–18.5% | 15.3–18.9% | 15.0–19.2% | 14.4–20.0% |
@@ -34,7 +35,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | [24–28 September 2025](2025-09-28-NMS.html) | NMS <br> Novinky | 11.8% | N/A | N/A | N/A | N/A |
 | [22–28 September 2025](2025-09-28-Ipsos.html) | Ipsos | 11.2% | N/A | N/A | N/A | N/A |
 | [1–25 September 2025](2025-09-25-Median.html) | Median | 10.0% | N/A | N/A | N/A | N/A |
-| [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 12.2% | N/A | N/A | N/A | N/A |
+| [18–24 September 2025](2025-09-24-STEM.html) | STEM <br> CNN Prima News | 11.7% | N/A | N/A | N/A | N/A |
 | [8–22 September 2025](2025-09-22-LordAshcroftPolls.html) | Lord Ashcroft Polls | 8.7% | N/A | N/A | N/A | N/A |
 | [1–19 September 2025](2025-09-19-Kantar.html) | Kantar <br> ČT24 | 13.0% | N/A | N/A | N/A | N/A |
 | [28 August–16 September 2025](2025-09-16-STEM.html) | STEM <br> CNN Prima News | 12.2% | N/A | N/A | N/A | N/A |
@@ -148,16 +149,16 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.4% | 100% |  |
-| 12.5–13.5% | 4% | 99.6% |  |
-| 13.5–14.5% | 14% | 96% |  |
-| 14.5–15.5% | 21% | 81% |  |
-| 15.5–16.5% | 18% | 60% | Median |
-| 16.5–17.5% | 17% | 42% |  |
-| 17.5–18.5% | 14% | 26% |  |
-| 18.5–19.5% | 8% | 11% |  |
-| 19.5–20.5% | 3% | 3% |  |
-| 20.5–21.5% | 0.6% | 0.7% |  |
+| 11.5–12.5% | 0.3% | 100% |  |
+| 12.5–13.5% | 3% | 99.7% |  |
+| 13.5–14.5% | 12% | 96% |  |
+| 14.5–15.5% | 19% | 84% |  |
+| 15.5–16.5% | 21% | 65% | Median |
+| 16.5–17.5% | 20% | 45% |  |
+| 17.5–18.5% | 15% | 25% |  |
+| 18.5–19.5% | 7% | 10% |  |
+| 19.5–20.5% | 2% | 3% |  |
+| 20.5–21.5% | 0.5% | 0.5% |  |
 | 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
@@ -171,6 +172,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [8–12 September 2026](2026-09-12-Ipsos.html) | Ipsos | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [2–7 September 2026](2026-09-07-STEM.html) | STEM <br> CNN Prima News | 4 | 4 | 4 | 4 | 4–5 |
 | [28 August–2 September 2026](2026-09-02-NMS.html) | NMS <br> Novinky.cz | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [3–21 August 2026](2026-08-21-Kantar.html) | Kantar <br> ČT24 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -301,10 +303,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 1.2% | 100% |  |
-| 4 | 62% | 98.8% | Median |
-| 5 | 36% | 37% |  |
-| 6 | 0.2% | 0.2% |  |
+| 3 | 0.9% | 100% |  |
+| 4 | 53% | 99.1% | Median |
+| 5 | 46% | 46% |  |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
 
