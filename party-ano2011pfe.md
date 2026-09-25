@@ -10,10 +10,11 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.4% | 29.5–34.0% | 28.9–34.8% | 28.5–35.4% | 27.6–36.6% |
-| [8–12 September 2026](2026-09-12-Ipsos.html) | Ipsos | 31.4% | 29.6–33.2% | 29.1–33.7% | 28.7–34.2% | 27.8–35.1% |
+| N/A | [Poll Average](average.html) | 31.4% | 29.5–34.0% | 28.9–34.9% | 28.5–35.6% | 27.6–36.8% |
+| [8–12 September 2026](2026-09-12-Ipsos.html) | Ipsos <br> Václav Moravec | 31.4% | 29.6–33.2% | 29.1–33.7% | 28.7–34.2% | 27.8–35.1% |
 | [2–7 September 2026](2026-09-07-STEM.html) | STEM <br> CNN Prima News | 31.1% | 29.6–32.7% | 29.2–33.1% | 28.9–33.5% | 28.2–34.2% |
 | [28 August–2 September 2026](2026-09-02-NMS.html) | NMS <br> Novinky.cz | 31.0% | 29.2–32.9% | 28.7–33.5% | 28.3–33.9% | 27.5–34.8% |
+| [1–31 August 2026](2026-08-31-Median.html) | Median | 33.8% | 31.9–35.7% | 31.4–36.3% | 30.9–36.8% | 30.1–37.7% |
 | [3–21 August 2026](2026-08-21-Kantar.html) | Kantar <br> ČT24 | 30.5% | 28.8–32.3% | 28.4–32.7% | 28.0–33.2% | 27.2–34.0% |
 | [1–31 July 2026](2026-07-31-Median.html) | Median | 33.7% | 31.8–35.6% | 31.3–36.1% | 30.8–36.6% | 29.9–37.6% |
 | [1–30 June 2026](2026-06-30-Median.html) | Median | 34.0% | 32.1–35.9% | 31.6–36.4% | 31.1–36.9% | 30.2–37.9% |
@@ -170,11 +171,11 @@ The following table shows the probability mass function per percentage block of 
 | 29.5–30.5% | 18% | 89% |  |
 | 30.5–31.5% | 24% | 71% | Median |
 | 31.5–32.5% | 20% | 47% |  |
-| 32.5–33.5% | 13% | 26% |  |
-| 33.5–34.5% | 7% | 14% |  |
-| 34.5–35.5% | 4% | 6% |  |
-| 35.5–36.5% | 2% | 2% |  |
-| 36.5–37.5% | 0.5% | 0.6% |  |
+| 32.5–33.5% | 13% | 27% |  |
+| 33.5–34.5% | 8% | 14% |  |
+| 34.5–35.5% | 4% | 7% |  |
+| 35.5–36.5% | 2% | 3% |  |
+| 36.5–37.5% | 0.6% | 0.7% |  |
 | 37.5–38.5% | 0.1% | 0.1% |  |
 | 38.5–39.5% | 0% | 0% |  |
 
@@ -187,10 +188,11 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
-| [8–12 September 2026](2026-09-12-Ipsos.html) | Ipsos | 8 | 8–9 | 8–9 | 8–10 | 8–10 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
+| [8–12 September 2026](2026-09-12-Ipsos.html) | Ipsos <br> Václav Moravec | 8 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [2–7 September 2026](2026-09-07-STEM.html) | STEM <br> CNN Prima News | 9 | 9 | 9 | 9 | 8–10 |
 | [28 August–2 September 2026](2026-09-02-NMS.html) | NMS <br> Novinky.cz | 9 | 9 | 9 | 9 | 8–9 |
+| [1–31 August 2026](2026-08-31-Median.html) | Median | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
 | [3–21 August 2026](2026-08-21-Kantar.html) | Kantar <br> ČT24 | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [1–31 July 2026](2026-07-31-Median.html) | Median | 10 | 9–10 | 9–10 | 9–11 | 9–11 |
 | [1–30 June 2026](2026-06-30-Median.html) | Median | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
@@ -325,9 +327,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.3% | 100% |  |
 | 8 | 21% | 99.7% |  |
-| 9 | 63% | 79% | Median |
-| 10 | 15% | 16% |  |
-| 11 | 0.9% | 0.9% | Majority |
-| 12 | 0% | 0% |  |
+| 9 | 59% | 79% | Median |
+| 10 | 15% | 20% |  |
+| 11 | 5% | 5% | Majority |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 
