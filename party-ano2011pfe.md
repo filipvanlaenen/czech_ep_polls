@@ -192,7 +192,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | [8–12 September 2026](2026-09-12-Ipsos.html) | Ipsos <br> Václav Moravec | 8 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [2–7 September 2026](2026-09-07-STEM.html) | STEM <br> CNN Prima News | 9 | 9 | 9 | 9 | 8–10 |
 | [28 August–2 September 2026](2026-09-02-NMS.html) | NMS <br> Novinky.cz | 9 | 9 | 9 | 9 | 8–9 |
-| [1–31 August 2026](2026-08-31-Median.html) | Median | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
+| [1–31 August 2026](2026-08-31-Median.html) | Median | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
 | [3–21 August 2026](2026-08-21-Kantar.html) | Kantar <br> ČT24 | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [1–31 July 2026](2026-07-31-Median.html) | Median | 10 | 9–10 | 9–10 | 9–11 | 9–11 |
 | [1–30 June 2026](2026-06-30-Median.html) | Median | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
@@ -328,8 +328,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.3% | 100% |  |
 | 8 | 21% | 99.7% |  |
 | 9 | 59% | 79% | Median |
-| 10 | 15% | 20% |  |
-| 11 | 5% | 5% | Majority |
+| 10 | 14% | 20% |  |
+| 11 | 6% | 6% | Majority |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
