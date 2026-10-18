@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.7–3.1% | 1.5–3.3% | 1.4–3.5% | 1.2–3.8% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.7–3.0% | 1.5–3.2% | 1.4–3.4% | 1.2–3.8% |
 | [1–31 October 2026](2026-10-31-STEM.html) | STEM <br> CNN Prima News | 1.9% | 1.5–2.5% | 1.4–2.6% | 1.3–2.8% | 1.1–3.1% |
-| [1–5 October 2026](2026-10-05-NMS.html) | NMS <br> Novinky.cz | 2.3% | N/A | N/A | N/A | N/A |
-| [1–30 September 2026](2026-09-30-Median.html) | Median | 2.0% | N/A | N/A | N/A | N/A |
+| [1–5 October 2026](2026-10-05-NMS.html) | NMS <br> Novinky.cz | 2.3% | 1.8–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.8% |
+| [1–30 September 2026](2026-09-30-Median.html) | Median | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [8–12 September 2026](2026-09-12-Ipsos.html) | Ipsos <br> Václav Moravec | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.5–4.0% |
 | [2–7 September 2026](2026-09-07-STEM.html) | STEM <br> CNN Prima News | 2.4% | 2.0–3.0% | 1.8–3.2% | 1.7–3.3% | 1.6–3.6% |
 | [28 August–2 September 2026](2026-09-02-NMS.html) | NMS <br> Novinky.cz | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
@@ -142,10 +142,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 59% | 95% | Median |
-| 2.5–3.5% | 34% | 36% |  |
-| 3.5–4.5% | 2% | 2% |  |
+| 0.5–1.5% | 6% | 100% |  |
+| 1.5–2.5% | 62% | 94% | Median |
+| 2.5–3.5% | 30% | 32% |  |
+| 3.5–4.5% | 1.4% | 1.4% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -159,8 +159,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [1–31 October 2026](2026-10-31-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
-| [1–5 October 2026](2026-10-05-NMS.html) | NMS <br> Novinky.cz |  |  |  |  |  |
-| [1–30 September 2026](2026-09-30-Median.html) | Median |  |  |  |  |  |
+| [1–5 October 2026](2026-10-05-NMS.html) | NMS <br> Novinky.cz | 0 | 0 | 0 | 0 | 0 |
+| [1–30 September 2026](2026-09-30-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [8–12 September 2026](2026-09-12-Ipsos.html) | Ipsos <br> Václav Moravec | 0 | 0 | 0 | 0 | 0 |
 | [2–7 September 2026](2026-09-07-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
 | [28 August–2 September 2026](2026-09-02-NMS.html) | NMS <br> Novinky.cz | 0 | 0 | 0 | 0 | 0 |

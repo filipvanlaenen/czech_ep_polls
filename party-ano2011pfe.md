@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.1% | 29.3–32.9% | 28.8–33.4% | 28.4–33.8% | 27.5–34.7% |
+| N/A | [Poll Average](average.html) | 30.4% | 28.1–32.5% | 27.5–33.0% | 27.0–33.5% | 26.0–34.5% |
 | [1–31 October 2026](2026-10-31-STEM.html) | STEM <br> CNN Prima News | 31.2% | 29.6–32.9% | 29.2–33.4% | 28.8–33.8% | 28.0–34.6% |
-| [1–5 October 2026](2026-10-05-NMS.html) | NMS <br> Novinky.cz | 28.8% | N/A | N/A | N/A | N/A |
-| [1–30 September 2026](2026-09-30-Median.html) | Median | 29.5% | N/A | N/A | N/A | N/A |
+| [1–5 October 2026](2026-10-05-NMS.html) | NMS <br> Novinky.cz | 28.8% | 27.1–30.7% | 26.6–31.2% | 26.1–31.7% | 25.3–32.6% |
+| [1–30 September 2026](2026-09-30-Median.html) | Median | 29.5% | 27.7–31.4% | 27.2–31.9% | 26.7–32.4% | 25.9–33.3% |
 | [8–12 September 2026](2026-09-12-Ipsos.html) | Ipsos <br> Václav Moravec | 31.4% | 29.6–33.2% | 29.1–33.7% | 28.7–34.2% | 27.8–35.1% |
 | [2–7 September 2026](2026-09-07-STEM.html) | STEM <br> CNN Prima News | 31.1% | 29.6–32.7% | 29.2–33.1% | 28.9–33.5% | 28.2–34.2% |
 | [28 August–2 September 2026](2026-09-02-NMS.html) | NMS <br> Novinky.cz | 31.0% | 29.2–32.9% | 28.7–33.5% | 28.3–33.9% | 27.5–34.8% |
@@ -166,18 +166,18 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0% | 100% |  |
-| 25.5–26.5% | 0% | 100% |  |
-| 26.5–27.5% | 0.5% | 100% |  |
-| 27.5–28.5% | 3% | 99.5% |  |
-| 28.5–29.5% | 10% | 97% |  |
-| 29.5–30.5% | 22% | 86% |  |
-| 30.5–31.5% | 28% | 64% | Median |
-| 31.5–32.5% | 22% | 36% |  |
-| 32.5–33.5% | 10% | 14% |  |
-| 33.5–34.5% | 3% | 4% |  |
-| 34.5–35.5% | 0.6% | 0.7% |  |
-| 35.5–36.5% | 0.1% | 0.1% |  |
+| 24.5–25.5% | 0.2% | 100% |  |
+| 25.5–26.5% | 1.1% | 99.8% |  |
+| 26.5–27.5% | 4% | 98.7% |  |
+| 27.5–28.5% | 10% | 94% |  |
+| 28.5–29.5% | 17% | 85% |  |
+| 29.5–30.5% | 22% | 68% | Median |
+| 30.5–31.5% | 22% | 46% |  |
+| 31.5–32.5% | 15% | 24% |  |
+| 32.5–33.5% | 7% | 9% |  |
+| 33.5–34.5% | 2% | 2% |  |
+| 34.5–35.5% | 0.4% | 0.4% |  |
+| 35.5–36.5% | 0% | 0.1% |  |
 | 36.5–37.5% | 0% | 0% |  |
 
 
@@ -189,10 +189,10 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [1–31 October 2026](2026-10-31-STEM.html) | STEM <br> CNN Prima News | 10 | 10 | 9–10 | 9–10 | 9–10 |
-| [1–5 October 2026](2026-10-05-NMS.html) | NMS <br> Novinky.cz |  |  |  |  |  |
-| [1–30 September 2026](2026-09-30-Median.html) | Median |  |  |  |  |  |
+| [1–5 October 2026](2026-10-05-NMS.html) | NMS <br> Novinky.cz | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
+| [1–30 September 2026](2026-09-30-Median.html) | Median | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [8–12 September 2026](2026-09-12-Ipsos.html) | Ipsos <br> Václav Moravec | 8 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [2–7 September 2026](2026-09-07-STEM.html) | STEM <br> CNN Prima News | 9 | 9 | 9 | 9 | 8–10 |
 | [28 August–2 September 2026](2026-09-02-NMS.html) | NMS <br> Novinky.cz | 9 | 9 | 9 | 9 | 8–9 |
@@ -329,10 +329,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.5% | 100% |  |
-| 8 | 34% | 99.5% |  |
-| 9 | 32% | 65% | Median |
-| 10 | 33% | 33% |  |
+| 7 | 2% | 100% |  |
+| 8 | 45% | 98% |  |
+| 9 | 32% | 53% | Median |
+| 10 | 21% | 21% |  |
 | 11 | 0.1% | 0.1% | Majority |
 | 12 | 0% | 0% |  |
 
