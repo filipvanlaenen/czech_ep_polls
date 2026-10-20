@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 30.4% | 28.1–32.5% | 27.5–33.0% | 27.0–33.5% | 26.0–34.5% |
-| [1–31 October 2026](2026-10-31-STEM.html) | STEM <br> CNN Prima News | 31.2% | 29.6–32.9% | 29.2–33.4% | 28.8–33.8% | 28.0–34.6% |
+| [1–6 October 2026](2026-10-06-STEM.html) | STEM <br> CNN Prima News | 31.2% | 29.6–32.9% | 29.2–33.4% | 28.8–33.8% | 28.0–34.6% |
 | [1–5 October 2026](2026-10-05-NMS.html) | NMS <br> Novinky.cz | 28.8% | 27.1–30.7% | 26.6–31.2% | 26.1–31.7% | 25.3–32.6% |
 | [1–30 September 2026](2026-09-30-Median.html) | Median | 29.5% | 27.7–31.4% | 27.2–31.9% | 26.7–32.4% | 25.9–33.3% |
 | [8–12 September 2026](2026-09-12-Ipsos.html) | Ipsos <br> Václav Moravec | 31.4% | 29.6–33.2% | 29.1–33.7% | 28.7–34.2% | 27.8–35.1% |
@@ -190,7 +190,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
-| [1–31 October 2026](2026-10-31-STEM.html) | STEM <br> CNN Prima News | 10 | 10 | 9–10 | 9–10 | 9–10 |
+| [1–6 October 2026](2026-10-06-STEM.html) | STEM <br> CNN Prima News | 10 | 10 | 9–10 | 9–10 | 9–10 |
 | [1–5 October 2026](2026-10-05-NMS.html) | NMS <br> Novinky.cz | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
 | [1–30 September 2026](2026-09-30-Median.html) | Median | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [8–12 September 2026](2026-09-12-Ipsos.html) | Ipsos <br> Václav Moravec | 8 | 8–9 | 8–9 | 8–10 | 8–10 |

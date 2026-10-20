@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.0% | 11.0–15.7% | 10.6–16.3% | 10.2–16.8% | 9.6–17.7% |
-| [1–31 October 2026](2026-10-31-STEM.html) | STEM <br> CNN Prima News | 11.3% | 10.2–12.5% | 9.9–12.8% | 9.7–13.1% | 9.2–13.7% |
+| [1–6 October 2026](2026-10-06-STEM.html) | STEM <br> CNN Prima News | 11.3% | 10.2–12.5% | 9.9–12.8% | 9.7–13.1% | 9.2–13.7% |
 | [1–5 October 2026](2026-10-05-NMS.html) | NMS <br> Novinky.cz | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.6% | 10.0–15.3% |
 | [1–30 September 2026](2026-09-30-Median.html) | Median | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.7% | 10.0–15.4% |
 | [8–12 September 2026](2026-09-12-Ipsos.html) | Ipsos <br> Václav Moravec | 14.0% | 12.7–15.5% | 12.4–15.9% | 12.1–16.2% | 11.5–16.9% |
@@ -173,7 +173,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [1–31 October 2026](2026-10-31-STEM.html) | STEM <br> CNN Prima News | 3 | 3 | 3 | 3 | 3 |
+| [1–6 October 2026](2026-10-06-STEM.html) | STEM <br> CNN Prima News | 3 | 3 | 3 | 3 | 3 |
 | [1–5 October 2026](2026-10-05-NMS.html) | NMS <br> Novinky.cz | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–30 September 2026](2026-09-30-Median.html) | Median | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [8–12 September 2026](2026-09-12-Ipsos.html) | Ipsos <br> Václav Moravec | 4 | 3–4 | 3–4 | 3–4 | 3–5 |

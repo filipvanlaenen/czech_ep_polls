@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.1% | 15.6–19.1% | 15.2–19.7% | 14.8–20.3% | 14.2–21.3% |
-| [1–31 October 2026](2026-10-31-STEM.html) | STEM <br> CNN Prima News | 16.6% | 15.3–18.0% | 15.0–18.4% | 14.7–18.7% | 14.1–19.4% |
+| [1–6 October 2026](2026-10-06-STEM.html) | STEM <br> CNN Prima News | 16.6% | 15.3–18.0% | 15.0–18.4% | 14.7–18.7% | 14.1–19.4% |
 | [1–5 October 2026](2026-10-05-NMS.html) | NMS <br> Novinky.cz | 18.8% | 17.3–20.4% | 16.9–20.9% | 16.5–21.3% | 15.8–22.1% |
 | [1–30 September 2026](2026-09-30-Median.html) | Median | 17.0% | 15.6–18.6% | 15.2–19.0% | 14.8–19.4% | 14.1–20.2% |
 | [8–12 September 2026](2026-09-12-Ipsos.html) | Ipsos <br> Václav Moravec | 16.6% | 15.2–18.1% | 14.8–18.6% | 14.5–18.9% | 13.9–19.7% |
@@ -176,7 +176,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| [1–31 October 2026](2026-10-31-STEM.html) | STEM <br> CNN Prima News | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [1–6 October 2026](2026-10-06-STEM.html) | STEM <br> CNN Prima News | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–5 October 2026](2026-10-05-NMS.html) | NMS <br> Novinky.cz | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [1–30 September 2026](2026-09-30-Median.html) | Median | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [8–12 September 2026](2026-09-12-Ipsos.html) | Ipsos <br> Václav Moravec | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
