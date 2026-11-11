@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.7–2.4% | 0.6–2.6% | 0.6–2.8% | 0.4–3.1% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.0–2.4% | 0.9–2.6% | 0.8–2.8% | 0.6–3.2% |
+| [30 October–3 November 2026](2026-11-03-NMS.html) | NMS <br> Novinky | 1.7% | 1.2–2.3% | 1.1–2.5% | 1.0–2.7% | 0.9–3.0% |
+| [1–31 October 2026](2026-10-31-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
+| [12–30 October 2026](2026-10-30-Kantar.html) | Kantar <br> ČT24 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–6 October 2026](2026-10-06-STEM.html) | STEM <br> CNN Prima News | 2.1% | 1.7–2.7% | 1.6–2.9% | 1.4–3.0% | 1.3–3.3% |
 | [1–5 October 2026](2026-10-05-NMS.html) | NMS <br> Novinky.cz | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.6% | 0.4–1.9% |
 | [1–30 September 2026](2026-09-30-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
@@ -141,11 +144,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 60% | 98% | Median |
-| 1.5–2.5% | 32% | 38% |  |
-| 2.5–3.5% | 6% | 6% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.3% | 100% | Last Result |
+| 0.5–1.5% | 41% | 99.7% |  |
+| 1.5–2.5% | 52% | 59% | Median |
+| 2.5–3.5% | 7% | 7% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -158,6 +161,9 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [30 October–3 November 2026](2026-11-03-NMS.html) | NMS <br> Novinky | 0 | 0 | 0 | 0 | 0 |
+| [1–31 October 2026](2026-10-31-Median.html) | Median |  |  |  |  |  |
+| [12–30 October 2026](2026-10-30-Kantar.html) | Kantar <br> ČT24 |  |  |  |  |  |
 | [1–6 October 2026](2026-10-06-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
 | [1–5 October 2026](2026-10-05-NMS.html) | NMS <br> Novinky.cz | 0 | 0 | 0 | 0 | 0 |
 | [1–30 September 2026](2026-09-30-Median.html) | Median |  |  |  |  |  |
