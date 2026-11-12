@@ -164,8 +164,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
 | [30 October–3 November 2026](2026-11-03-NMS.html) | NMS <br> Novinky | 0 | 0 | 0 | 0 | 0 |
-| [1–31 October 2026](2026-10-31-Median.html) | Median | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [12–30 October 2026](2026-10-30-Kantar.html) | Kantar <br> ČT24 | 0 | 0 | 0 | 0–1 | 0–1 |
+| [1–31 October 2026](2026-10-31-Median.html) | Median | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [12–30 October 2026](2026-10-30-Kantar.html) | Kantar <br> ČT24 | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–6 October 2026](2026-10-06-STEM.html) | STEM <br> CNN Prima News | 0 | 0 | 0 | 0 | 0 |
 | [1–5 October 2026](2026-10-05-NMS.html) | NMS <br> Novinky.cz | 0 | 0 | 0 | 0 | 0–1 |
 | [1–30 September 2026](2026-09-30-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |

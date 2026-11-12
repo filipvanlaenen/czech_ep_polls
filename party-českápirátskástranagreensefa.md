@@ -169,7 +169,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 October–3 November 2026](2026-11-03-NMS.html) | NMS <br> Novinky | 1 | 1 | 1 | 1 | 1 |
-| [1–31 October 2026](2026-10-31-Median.html) | Median | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [1–31 October 2026](2026-10-31-Median.html) | Median | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [12–30 October 2026](2026-10-30-Kantar.html) | Kantar <br> ČT24 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–6 October 2026](2026-10-06-STEM.html) | STEM <br> CNN Prima News | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–5 October 2026](2026-10-05-NMS.html) | NMS <br> Novinky.cz | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -304,8 +304,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 33% | 100% |  |
-| 2 | 66% | 67% | Median |
+| 1 | 35% | 100% |  |
+| 2 | 65% | 65% | Median |
 | 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 

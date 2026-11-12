@@ -439,8 +439,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 33% | 100% |  |
-| 2 | 66% | 67% | Median |
+| 1 | 35% | 100% |  |
+| 2 | 65% | 65% | Median |
 | 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
@@ -506,9 +506,9 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 16% | 100% |  |
 | 5 | 62% | 84% | Median |
-| 6 | 12% | 22% |  |
-| 7 | 11% | 11% |  |
-| 8 | 0.1% | 0.1% |  |
+| 6 | 12% | 23% |  |
+| 7 | 10% | 11% |  |
+| 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 
 ### Křesťanská a demokratická unie–Československá strana lidová (EPP)
@@ -535,7 +535,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 26% | 100% |  |
 | 3 | 52% | 74% | Median |
-| 4 | 23% | 23% |  |
+| 4 | 21% | 22% |  |
 | 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
@@ -560,10 +560,10 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 1.5% | 100% |  |
-| 8 | 26% | 98.5% |  |
-| 9 | 49% | 72% | Median |
-| 10 | 23% | 23% |  |
+| 7 | 1.0% | 100% |  |
+| 8 | 26% | 99.0% |  |
+| 9 | 48% | 73% | Median |
+| 10 | 25% | 25% |  |
 | 11 | 0.1% | 0.1% | Majority |
 | 12 | 0% | 0% |  |
 
@@ -598,9 +598,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% | Last Result |
-| 1 | 26% | 95% |  |
-| 2 | 67% | 70% | Median |
+| 0 | 4% | 100% | Last Result |
+| 1 | 27% | 96% |  |
+| 2 | 67% | 69% | Median |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
@@ -721,10 +721,10 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.7% | 100% |  |
-| 8 | 15% | 99.3% |  |
-| 9 | 40% | 84% | Median |
-| 10 | 24% | 44% |  |
+| 7 | 0.5% | 100% |  |
+| 8 | 15% | 99.5% |  |
+| 9 | 39% | 85% | Median |
+| 10 | 26% | 46% |  |
 | 11 | 20% | 20% | Majority |
 | 12 | 0% | 0% |  |
 
@@ -738,11 +738,11 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 16% | 100% |  |
-| 5 | 60% | 84% | Median |
+| 4 | 15% | 100% |  |
+| 5 | 60% | 85% | Median |
 | 6 | 13% | 24% |  |
 | 7 | 11% | 11% |  |
-| 8 | 0.4% | 0.4% |  |
+| 8 | 0.4% | 0.5% |  |
 | 9 | 0% | 0% |  |
 
 ### Občanská demokratická strana (ECR) – SPOLU (ECR)
@@ -755,7 +755,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 26% | 100% |  |
 | 3 | 52% | 74% | Median |
-| 4 | 23% | 23% |  |
+| 4 | 21% | 22% |  |
 | 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
@@ -766,8 +766,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 33% | 100% |  |
-| 2 | 66% | 67% | Median |
+| 1 | 35% | 100% |  |
+| 2 | 65% | 65% | Median |
 | 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
@@ -777,9 +777,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% | Last Result |
-| 1 | 26% | 95% |  |
-| 2 | 67% | 70% | Median |
+| 0 | 4% | 100% | Last Result |
+| 1 | 27% | 96% |  |
+| 2 | 67% | 69% | Median |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
@@ -813,6 +813,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 7,340,032
-+ **Error estimate:** 2.93%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 10,485,760
++ **Error estimate:** 4.33%
